@@ -1,0 +1,19 @@
+# Web Scraping Dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# HTML to Markdown Conversion
+html2text>=2020.1.16
+markdownify>=0.11.6
+
+# AI/ML for Link Ranking
+openai>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+colorama>=0.4.6
+
+# Async Support
+aiohttp>=3.9.0
+asyncio>=3.4.3

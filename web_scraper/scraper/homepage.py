@@ -1,0 +1,123 @@
+"""
+Homepage scraper - Extracts content and links from website homepage
+"""
+
+from urllib.parse import urljoin, urlparse
+from bs4 import BeautifulSoup
+from utils.fetch import fetch_page
+from utils.logger import setup_logger
+from scraper.link_rewriter import clean_and_filter_links
+from scraper.markdown_converter import html_to_markdown
+
+logger = setup_logger(__name__)
+
+def scrape_homepage(url, config):
+    """
+    Scrape the homepage and extract content and links
+    
+    Args:
+        url (str): Homepage URL
+        config (Config): Configuration object
+        
+    Returns:
+        dict: Contains title, content, and links
+    """
+    try:
+        # Fetch the page
+        html_content = fetch_page(url, config)
+        if not html_content:
+            logger.error(f"Failed to fetch homepage: {url}")
+            return None
+        
+        # Parse HTML
+        soup = BeautifulSoup(html_content, 'lxml')
+        
+        # Extract title
+        title = soup.title.string if soup.title else urlparse(url).netloc
+        logger.info(f"Page title: {title}")
+        
+        # Extract main content
+        content = extract_main_content(soup)
+        
+        # Convert to markdown
+        markdown_content = html_to_markdown(str(content), url)
+        
+        # Extract and clean links
+        all_links = extract_links(soup, url)
+        filtered_links = clean_and_filter_links(all_links, url, config)
+        
+        logger.info(f"Found {len(all_links)} total links, {len(filtered_links)} after filtering")
+        
+        # Save homepage content
+        save_homepage(url, title, markdown_content, config)
+        
+        return {
+            'url': url,
+            'title': title,
+            'content': markdown_content,
+            'links': filtered_links
+        }
+        
+    except Exception as e:
+        logger.error(f"Error scraping homepage {url}: {str(e)}", exc_info=True)
+        return None
+
+def extract_main_content(soup):
+    """Extract main content from the page, removing unnecessary elements"""
+    
+    # Remove unwanted elements
+    for element in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'noscript']):
+        element.decompose()
+    
+    # Try to find main content area
+    main_content = (
+        soup.find('main') or
+        soup.find('article') or
+        soup.find('div', {'id': 'content'}) or
+        soup.find('div', {'class': ['content', 'main-content', 'post-content']}) or
+        soup.find('body')
+    )
+    
+    return main_content if main_content else soup
+
+def extract_links(soup, base_url):
+    """Extract all links from the page"""
+    links = []
+    
+    for a_tag in soup.find_all('a', href=True):
+        href = a_tag['href'].strip()
+        
+        # Skip empty, anchor-only, javascript, and mailto links
+        if not href or href.startswith(('#', 'javascript:', 'mailto:', 'tel:')):
+            continue
+        
+        # Convert to absolute URL
+        absolute_url = urljoin(base_url, href)
+        
+        # Get link text
+        link_text = a_tag.get_text(strip=True) or "No text"
+        
+        links.append({
+            'url': absolute_url,
+            'text': link_text
+        })
+    
+    return links
+
+def save_homepage(url, title, content, config):
+    """Save homepage content to file"""
+    try:
+        # Create a safe filename
+        domain = urlparse(url).netloc.replace('.', '_')
+        filename = config.output_dir / f"{domain}_homepage.md"
+        
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(f"# {title}\n\n")
+            f.write(f"Source: {url}\n\n")
+            f.write("---\n\n")
+            f.write(content)
+        
+        logger.info(f"Saved homepage to: {filename}")
+        
+    except Exception as e:
+        logger.error(f"Error saving homepage: {str(e)}", exc_info=True)
