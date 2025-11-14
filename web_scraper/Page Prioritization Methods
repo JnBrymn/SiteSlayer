@@ -1,0 +1,28 @@
+## Page Prioritization Methods
+
+### 1. AI-Powered Ranking (Default)
+
+When `USE_AI_RANKING=true` and OpenAI API key is provided:
+
+__Priority Order:__
+
+1. Documentation, guides, and informational pages
+2. Product/service pages
+3. About and company information pages
+4. Blog posts and articles
+5. __Avoids__: Login pages, external links, social media, contact forms
+
+__How it works__ (`ai_link_ranker.py`):
+
+- Sends discovered links to OpenAI API
+- AI analyzes URL structure and link text
+- Returns ranked list based on content importance
+- Crawler scrapes pages in AI-determined order
+
+### 2. Natural Order (Fallback)
+
+When AI ranking is disabled or no API key:
+
+- Pages scraped in order they appear on homepage
+- Links at top of page are scraped first
+- Follows natural HTML/DOM order
