@@ -17,3 +17,6 @@ colorama>=0.4.6
 # Async Support
 aiohttp>=3.9.0
 asyncio>=3.4.3
+
+# HTML Generation
+markdown>=3.5.0

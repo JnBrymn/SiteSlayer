@@ -96,6 +96,28 @@ This will:
 3. Crawl up to 50 pages (configurable)
 4. Save all content as Markdown files in `web_scraper/output/`
 
+### Replicate Site Locally
+
+After scraping, you can convert the markdown files to HTML and create a local replica:
+
+```bash
+python web_scraper/replicate_site.py
+```
+
+Or specify a custom output directory:
+
+```bash
+python web_scraper/replicate_site.py path/to/output
+```
+
+This will:
+
+1. Convert all markdown files to styled HTML pages
+2. Generate an index page linking to all scraped pages
+3. Create a browsable local copy of the website
+
+Open `web_scraper/output/index.html` in your browser to view the replicated site.
+
 ## Configuration
 
 All settings can be configured via environment variables in the `.env` file:
