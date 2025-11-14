@@ -46,15 +46,6 @@ class HomepageDuplicator:
             elif not url.startswith('http'):
                 url = urljoin(self.url, url)
             
-            # Skip audio and video files
-            audio_video_extensions = (
-                '.mp3', '.wav', '.ogg', '.m4a', '.aac', '.flac', '.wma',  # Audio
-                '.mp4', '.webm', '.ogv', '.mov', '.avi', '.wmv', '.flv', '.mkv', '.m4v'  # Video
-            )
-            if url.lower().endswith(audio_video_extensions):
-                logger.info(f"  Skipping media file: {os.path.basename(url)}")
-                return '#'  # Return placeholder
-            
             # Generate safe filename
             parsed = urlparse(url)
             filename = os.path.basename(parsed.path) or 'index'
@@ -155,36 +146,75 @@ class HomepageDuplicator:
             
             # Download images
             logger.info("Downloading images...")
-            for img_tag in soup.find_all('img', src=True):
-                img_url = urljoin(self.url, img_tag['src'])
-                local_img = self.download_asset(img_url, 'images')
-                img_tag['src'] = local_img
+            for img_tag in soup.find_all('img'):
+                # Handle src attribute
+                if img_tag.get('src'):
+                    img_url = urljoin(self.url, img_tag['src'])
+                    local_img = self.download_asset(img_url, 'images')
+                    img_tag['src'] = local_img
+                
+                # Handle srcset attribute
+                if img_tag.get('srcset'):
+                    srcset_parts = []
+                    for srcset_item in img_tag['srcset'].split(','):
+                        parts = srcset_item.strip().split()
+                        if parts:
+                            img_url = urljoin(self.url, parts[0])
+                            local_img = self.download_asset(img_url, 'images')
+                            parts[0] = local_img
+                            srcset_parts.append(' '.join(parts))
+                    img_tag['srcset'] = ', '.join(srcset_parts)
+                
+                # Handle data-src (lazy loading)
+                if img_tag.get('data-src'):
+                    img_url = urljoin(self.url, img_tag['data-src'])
+                    local_img = self.download_asset(img_url, 'images')
+                    img_tag['data-src'] = local_img
+                    # Also set as src for immediate display
+                    if not img_tag.get('src'):
+                        img_tag['src'] = local_img
             
-            # Remove audio tags
-            logger.info("Removing audio elements...")
-            for audio_tag in soup.find_all('audio'):
-                audio_tag.decompose()
+            # Handle picture tags with source elements
+            for picture_tag in soup.find_all('picture'):
+                for source_tag in picture_tag.find_all('source'):
+                    if source_tag.get('srcset'):
+                        srcset_parts = []
+                        for srcset_item in source_tag['srcset'].split(','):
+                            parts = srcset_item.strip().split()
+                            if parts:
+                                img_url = urljoin(self.url, parts[0])
+                                local_img = self.download_asset(img_url, 'images')
+                                parts[0] = local_img
+                                srcset_parts.append(' '.join(parts))
+                        source_tag['srcset'] = ', '.join(srcset_parts)
             
-            # Remove video tags
-            logger.info("Removing video elements...")
+            # Download video sources
+            logger.info("Downloading video files...")
             for video_tag in soup.find_all('video'):
-                video_tag.decompose()
+                if video_tag.get('src'):
+                    video_url = urljoin(self.url, video_tag['src'])
+                    local_video = self.download_asset(video_url, 'images')
+                    video_tag['src'] = local_video
+                # Download sources in source tags
+                for source_tag in video_tag.find_all('source'):
+                    if source_tag.get('src'):
+                        video_url = urljoin(self.url, source_tag['src'])
+                        local_video = self.download_asset(video_url, 'images')
+                        source_tag['src'] = local_video
             
-            # Remove iframes (maps, embedded videos, etc.)
-            logger.info("Removing embedded content (maps, videos)...")
-            for iframe_tag in soup.find_all('iframe'):
-                # Keep a placeholder
-                placeholder = soup.new_tag('div', style='background: #f0f0f0; padding: 20px; text-align: center; border: 2px dashed #ccc; color: #666;')
-                placeholder.string = '[Embedded content removed - was: ' + (iframe_tag.get('title') or 'video/map') + ']'
-                iframe_tag.replace_with(placeholder)
-            
-            # Remove embed tags
-            for embed_tag in soup.find_all('embed'):
-                embed_tag.decompose()
-            
-            # Remove object tags (can contain video/audio)
-            for object_tag in soup.find_all('object'):
-                object_tag.decompose()
+            # Download audio sources
+            logger.info("Downloading audio files...")
+            for audio_tag in soup.find_all('audio'):
+                if audio_tag.get('src'):
+                    audio_url = urljoin(self.url, audio_tag['src'])
+                    local_audio = self.download_asset(audio_url, 'images')
+                    audio_tag['src'] = local_audio
+                # Download sources in source tags
+                for source_tag in audio_tag.find_all('source'):
+                    if source_tag.get('src'):
+                        audio_url = urljoin(self.url, source_tag['src'])
+                        local_audio = self.download_asset(audio_url, 'images')
+                        source_tag['src'] = local_audio
             
             # Process inline styles with background images
             for tag in soup.find_all(style=True):
