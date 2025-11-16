@@ -212,3 +212,6 @@ web_scraper/local_site/
 web_scraper/homepage_local/
 web_scraper/demo_sites/
 websites/
+
+# etc
+IGNORED/
