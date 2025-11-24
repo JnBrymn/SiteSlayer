@@ -33,7 +33,7 @@ def get_mock_chat_response(message: str, site: str) -> str:
     
     content_file = SITES_DIR / site / "content.md"
     if content_file.exists():
-        with open(content_file, "r") as f:
+        with open(content_file, "r", encoding="utf-8") as f:
             content = f.read()
     else:
         raise HTTPException(status_code=404, detail="Content file not found")
@@ -235,4 +235,3 @@ async def root():
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
-

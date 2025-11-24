@@ -11,6 +11,7 @@ A powerful web scraper that extracts content from websites and converts it into 
 - ⚙️ **Configurable**: Extensive configuration options via environment variables
 - 📊 **Progress Tracking**: Colored console output with detailed logging
 - 🔄 **Automatic Filtering**: Removes duplicate links and unwanted file types
+- 🤝 **AI Chatbot Ready**: Automatically aggregates content into a single file optimized for AI consumption
 
 ## Project Structure
 
@@ -181,14 +182,16 @@ HTML content is converted to clean, readable Markdown with:
 
 ## Output
 
-Scraped content is saved in `web_scraper/output/` with the following structure:
+Scraped content is saved in two locations:
+
+### Individual Files (`websites/`)
 
 ```
-output/
-├── example_com_homepage.md
-├── example_com_about.md
-├── example_com_products.md
-└── ...
+websites/
+├── <domain>/
+│   ├── homepage.md
+│   ├── about.md
+│   └── ...
 ```
 
 Each file includes:
@@ -196,6 +199,24 @@ Each file includes:
 - Page title
 - Source URL
 - Markdown-formatted content
+
+### Aggregated Content (`sites/`)
+
+For AI chatbot integration, all content is automatically combined into a single file:
+
+```
+sites/
+├── <domain>/
+│   └── content.md
+```
+
+The `content.md` file contains:
+
+- All pages combined with clear separators
+- Complete metadata (titles, URLs, link text)
+- Structured format optimized for AI consumption
+
+See [MARKDOWN_AGGREGATION.md](MARKDOWN_AGGREGATION.md) for detailed documentation.
 
 ## Troubleshooting
 
