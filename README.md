@@ -23,16 +23,13 @@ python web_scraper/main.py https://example.com
 ```
 
 The scraper:
-1. Downloads the homepage
-2. Extracts and ranks internal links (uses AI if `OPENAI_API_KEY` is set)
-3. Crawls up to 50 pages (configurable via `MAX_PAGES` env var)
-4. Saves content as Markdown files in `web_scraper/output/`
-
-To convert scraped Markdown to HTML:
-
-```bash
-python web_scraper/replicate_site.py
-```
+1. **Harvests HTML**: Downloads complete HTML content using Selenium (with JavaScript rendering) and saves to `sites/{domain}/index.html`
+2. **Scrapes homepage**: Extracts markdown content from the homepage
+3. **Crawls the site**: 
+   - Extracts and ranks internal links (uses AI if `OPENAI_API_KEY` is set and `USE_AI_RANKING=true`)
+   - Crawls up to `MAX_PAGES` pages (default: 5, configurable via `MAX_PAGES` env var)
+   - Saves individual pages as Markdown files in `websites/{domain}/`
+4. **Aggregates content**: Combines all markdown files into a single `content.md` file in `sites/{domain}/` for chatbot consumption
 
 ## Website Server
 
