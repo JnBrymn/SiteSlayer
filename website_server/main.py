@@ -218,18 +218,37 @@ async def serve_site(site_path: str):
 
 @app.get("/")
 async def root():
-    """Root endpoint with basic information."""
-    return {
-        "message": "SiteSlayer Web Server",
-        "endpoints": {
-            "serve_site": "/site/{site_path}",
-            "example": "/site/www.bigthunderevents.com",
-            "chatbot_widget": "/chatbot/widget.js",
-            "chatbot_config": "/chatbot/api/chatwidget/{site}/",
-            "chatbot_interface": "/chatbot/embed/{site}",
-            "chatbot_api": "POST /chatbot/api/chats/"
-        }
-    }
+    """Root endpoint listing all available websites."""
+    # Scan the sites directory for subdirectories
+    websites = []
+    if SITES_DIR.exists() and SITES_DIR.is_dir():
+        for item in SITES_DIR.iterdir():
+            if item.is_dir():
+                # Check if it has an index.html file
+                index_file = item / "index.html"
+                if index_file.exists():
+                    # Use the directory name as the site path
+                    site_name = item.name
+                    websites.append(site_name)
+    
+    # Generate HTML with clickable links
+    links_html = ""
+    for site_name in websites:
+        links_html += f'    <li><a href="/site/{site_name}">{site_name}</a></li>\n'
+    
+    html_content = f"""<!DOCTYPE html>
+<html>
+<head>
+    <title>SiteSlayer - Available Websites</title>
+</head>
+<body>
+    <h1>Available Websites</h1>
+    <ul>
+{links_html}    </ul>
+</body>
+</html>"""
+    
+    return HTMLResponse(content=html_content)
 
 
 if __name__ == "__main__":
