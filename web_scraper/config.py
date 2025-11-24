@@ -18,7 +18,7 @@ class Config:
         self.openai_api_key = os.getenv('OPENAI_API_KEY', '')
         
         # Scraping Settings
-        self.max_pages = int(os.getenv('MAX_PAGES', '10'))
+        self.max_pages = int(os.getenv('MAX_PAGES', '5'))
         self.timeout = int(os.getenv('TIMEOUT', '30'))
         self.delay_between_requests = float(os.getenv('DELAY_BETWEEN_REQUESTS', '1.0'))
         self.max_concurrent_requests = int(os.getenv('MAX_CONCURRENT_REQUESTS', '5'))
