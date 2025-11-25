@@ -1,12 +1,12 @@
 # Website Content: example_com
-Generated: 2025-11-24 16:02:36
+Generated: 2025-11-24 18:26:34
 Total Pages: 1
 
 ---
 
 
 ## PAGE: Example Domain
-**Source URL:** https://example.com/
+**Source URL:** https://example.com
 **File:** homepage.md
 
 # Example Domain
