@@ -2,43 +2,37 @@
 Configuration management for SiteSlayer
 """
 
-import os
+import tempfile
+import shutil
 from pathlib import Path
 from urllib.parse import urlparse
-from dotenv import load_dotenv
-
-# Load environment variables
-load_dotenv()
 
 class Config:
     """Configuration settings for the web scraper"""
     
     def __init__(self, target_url=None):
         # API Keys
-        self.openai_api_key = os.getenv('OPENAI_API_KEY', '')
+        self.openai_api_key = 'your_openai_api_key_here'
         
         # Scraping Settings
-        self.max_pages = int(os.getenv('MAX_PAGES', '5'))
-        self.timeout = int(os.getenv('TIMEOUT', '30'))
-        self.delay_between_requests = float(os.getenv('DELAY_BETWEEN_REQUESTS', '1.0'))
-        self.max_concurrent_requests = int(os.getenv('MAX_CONCURRENT_REQUESTS', '5'))
+        self.max_pages = 50
+        self.timeout = 30
+        self.delay_between_requests = 1.0
+        self.max_concurrent_requests = 5
         
         # User Agent
-        self.user_agent = os.getenv(
-            'USER_AGENT',
-            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-        )
+        self.user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         
-        # Output Settings - Create site-specific directory
-        base_dir = Path(os.getenv('OUTPUT_DIR', 'websites'))
+        # Output Settings - Use OS temporary directory
+        temp_base = Path(tempfile.gettempdir())
         
         if target_url:
             # Create a sanitized directory name from the domain
             domain = self._sanitize_domain(target_url)
-            self.output_dir = base_dir / domain
+            self.output_dir = temp_base / 'siteslayer' / domain
         else:
             # Fallback for when no URL is provided
-            self.output_dir = base_dir / 'default'
+            self.output_dir = temp_base / 'siteslayer' / 'default'
         
         self.output_dir.mkdir(parents=True, exist_ok=True)
         
@@ -50,16 +44,16 @@ class Config:
         ]
         
         # Content Settings
-        self.min_content_length = int(os.getenv('MIN_CONTENT_LENGTH', '100'))
-        self.include_images = os.getenv('INCLUDE_IMAGES', 'true').lower() == 'true'
+        self.min_content_length = 100
+        self.include_images = True
         
         # AI Settings
-        self.use_ai_ranking = os.getenv('USE_AI_RANKING', 'true').lower() == 'true'
-        self.ai_model = os.getenv('AI_MODEL', 'gpt-3.5-turbo')
+        self.use_ai_ranking = True
+        self.ai_model = 'gpt-5-mini-2025-08-07'
         
         # JavaScript Rendering Settings
-        self.use_js_rendering = os.getenv('USE_JS_RENDERING', 'false').lower() == 'true'
-        self.js_wait_time = int(os.getenv('JS_WAIT_TIME', '3'))
+        self.use_js_rendering = False
+        self.js_wait_time = 3
     
     def _sanitize_domain(self, url):
         """Convert URL domain to a safe directory name"""
@@ -69,17 +63,13 @@ class Config:
         sanitized = domain.replace('.', '_').replace(':', '_').replace('/', '_')
         return sanitized
     
-    def validate(self):
-        """Validate configuration settings"""
-        errors = []
-        
-        if self.use_ai_ranking and not self.openai_api_key:
-            errors.append("OPENAI_API_KEY is required when USE_AI_RANKING is enabled")
-        
-        if self.max_pages < 1:
-            errors.append("MAX_PAGES must be at least 1")
-        
-        if self.timeout < 1:
-            errors.append("TIMEOUT must be at least 1 second")
-        
-        return errors
+    def cleanup_temp_dir(self):
+        """Remove the temporary output directory and all its contents"""
+        try:
+            if self.output_dir.exists():
+                shutil.rmtree(self.output_dir)
+                return True
+        except Exception as e:
+            # Log error but don't raise - cleanup failures shouldn't break the program
+            return False
+        return False

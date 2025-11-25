@@ -10,13 +10,13 @@ from utils.logger import setup_logger
 
 logger = setup_logger(__name__)
 
-def aggregate_markdown_content(domain, websites_dir='websites', sites_dir='sites'):
+def aggregate_markdown_content(domain, temp_dir=None, sites_dir='sites'):
     """
     Aggregate all markdown files from a scraped website into a single content.md file
     
     Args:
         domain (str): The domain name (sanitized) of the website
-        websites_dir (str): Directory containing individual markdown files
+        temp_dir (Path): Path to temporary directory containing individual markdown files
         sites_dir (str): Directory where content.md will be saved
         
     Returns:
@@ -25,7 +25,12 @@ def aggregate_markdown_content(domain, websites_dir='websites', sites_dir='sites
     logger.info(f"Aggregating markdown content for: {domain}")
     
     # Define paths
-    source_dir = Path(websites_dir) / domain
+    if temp_dir is None:
+        # Fallback to old behavior for backwards compatibility
+        source_dir = Path('websites') / domain
+    else:
+        source_dir = Path(temp_dir)
+    
     target_dir = Path(sites_dir) / domain
     
     # Validate source directory exists

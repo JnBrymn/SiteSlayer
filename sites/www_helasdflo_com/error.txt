@@ -1,0 +1,7 @@
+ERROR REPORT
+==================================================
+Timestamp: 2025-11-24 18:12:55
+
+Error Message:
+HTML harvesting failed - no HTML file was generated
+

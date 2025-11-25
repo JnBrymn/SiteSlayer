@@ -3,6 +3,7 @@ AI-powered link ranking using OpenAI
 """
 
 import json
+import os
 from openai import OpenAI
 from utils.logger import setup_logger
 
@@ -19,13 +20,18 @@ def rank_links(links, base_url, config):
         
     Returns:
         list: Ranked list of links
+        
+    Raises:
+        ValueError: If OPENAI_API_KEY environment variable is not set
     """
-    if not config.openai_api_key:
-        logger.warning("No OpenAI API key provided, skipping AI ranking")
-        return links
+    openai_api_key = os.getenv('OPENAI_API_KEY')
+    if not openai_api_key:
+        error_msg = "OPENAI_API_KEY environment variable is required for AI ranking but was not found"
+        logger.error(error_msg)
+        raise ValueError(error_msg)
     
     try:
-        client = OpenAI(api_key=config.openai_api_key)
+        client = OpenAI()
         
         # Prepare prompt
         links_text = "\n".join([
@@ -45,8 +51,7 @@ Below is a list of links found on the homepage. Please rank them by importance a
 Links:
 {links_text}
 
-Respond with a JSON array of numbers representing the ranking (1 being most important). For example: [3, 1, 5, 2, 4, ...]
-Only include the JSON array, no other text."""
+Respond with a JSON object containing a "ranking" field with an array of numbers representing the ranking (1 being most important). For example: {{"ranking": [3, 1, 5, 2, 4, ...]}}"""
 
         response = client.chat.completions.create(
             model=config.ai_model,
@@ -54,20 +59,14 @@ Only include the JSON array, no other text."""
                 {"role": "system", "content": "You are a web content analysis assistant."},
                 {"role": "user", "content": prompt}
             ],
-            temperature=0.3,
-            max_tokens=500
+            max_completion_tokens=500,
+            response_format={"type": "json_object"}
         )
         
         # Parse response
         ranking_text = response.choices[0].message.content.strip()
-        
-        # Extract JSON array from response
-        if '[' in ranking_text and ']' in ranking_text:
-            start = ranking_text.index('[')
-            end = ranking_text.rindex(']') + 1
-            ranking_text = ranking_text[start:end]
-        
-        ranking = json.loads(ranking_text)
+        response_data = json.loads(ranking_text)
+        ranking = response_data.get("ranking", [])
         
         # Create ranked list
         ranked_links = []
