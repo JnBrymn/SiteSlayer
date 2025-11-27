@@ -7,6 +7,7 @@ import os
 from pathlib import Path
 from datetime import datetime
 from utils.logger import setup_logger
+from .deduplicate_content import deduplicate_content
 
 logger = setup_logger(__name__)
 
@@ -97,12 +98,35 @@ def aggregate_markdown_content(domain, temp_dir=None, sites_dir='sites'):
         logger.error("Failed to process any markdown files")
         return None
     
+    # Join aggregated content
+    aggregated_text = '\n'.join(aggregated_content)
+    
+    # Apply deduplication to remove repeated content (navigation, footers, etc.)
+    logger.info("Applying content deduplication...")
+    try:
+        deduplicated_text, dedup_stats = deduplicate_content(
+            aggregated_text,
+            min_chunk_size=10,
+            min_occurrences=3,
+            silent_remove=True
+        )
+        
+        logger.info(f"Deduplication complete: {dedup_stats['original_lines']:,} lines -> "
+                   f"{dedup_stats['final_lines']:,} lines "
+                   f"({dedup_stats['reduction_percent']:.1f}% reduction)")
+        logger.info(f"Removed {dedup_stats['removed_chunks']} duplicate chunks "
+                   f"({dedup_stats['duplicate_patterns']} patterns found)")
+        
+        aggregated_text = deduplicated_text
+    except Exception as e:
+        logger.warning(f"Error during deduplication, continuing without it: {str(e)}", exc_info=True)
+    
     # Write aggregated content to file
     output_file = target_dir / 'content.md'
     
     try:
         with open(output_file, 'w', encoding='utf-8') as f:
-            f.write('\n'.join(aggregated_content))
+            f.write(aggregated_text)
         
         logger.info(f"Successfully created content.md at: {output_file}")
         logger.info(f"Aggregated {successful_files} pages")
