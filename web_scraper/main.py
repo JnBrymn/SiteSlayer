@@ -185,9 +185,9 @@ def crawl_site(target_url, domain, config):
     # Limit to max_pages
     links_to_crawl = links_to_crawl[:config.max_pages]
     
-    # Crawl URLs
+    # Crawl URLs (async, run in event loop)
     logger.info(f"Crawling {len(links_to_crawl)} URLs...")
-    crawl_results = crawl_urls(target_url, links_to_crawl, config)
+    crawl_results = asyncio.run(crawl_urls(links_to_crawl, config))
     
     logger.info(f"Crawl complete. Total pages scraped: {len(crawl_results)}")
     
