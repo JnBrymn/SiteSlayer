@@ -139,7 +139,7 @@ After crawling completes, the aggregator runs automatically:
 ```python
 # Step 3: Aggregate markdown content for chatbot
 logger.info("Step 3: Aggregating markdown content...")
-domain = config._sanitize_domain(target_url)
+domain = sanitize_domain(target_url)
 content_file = aggregate_markdown_content(domain)
 ```
 

@@ -8,17 +8,27 @@ from bs4 import BeautifulSoup
 from utils.fetch import fetch_page
 from utils.logger import setup_logger
 from scraper.markdown_converter import html_to_markdown
-from scraper.ai_link_ranker import rank_links
 
 logger = setup_logger(__name__)
 
-def crawl_site(base_url, initial_links, config):
+def normalize_url(url):
     """
-    Crawl the site starting from initial links
+    Normalize URL by removing fragment (hash) to ensure uniqueness
+    URLs that differ only by hash are treated as the same
+    """
+    parsed = urlparse(url)
+    clean_url = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
+    if parsed.query:
+        clean_url += f"?{parsed.query}"
+    return clean_url
+
+def crawl_urls(base_url, links_to_crawl, config):
+    """
+    Crawl URLs from the provided list of links
     
     Args:
         base_url (str): Base URL of the site
-        initial_links (list): List of links to start crawling
+        links_to_crawl (list[str]): List of URL strings to crawl (already ranked/processed)
         config (Config): Configuration object
         
     Returns:
@@ -28,26 +38,17 @@ def crawl_site(base_url, initial_links, config):
     results = []
     base_domain = urlparse(base_url).netloc
     
-    # Rank links if AI ranking is enabled
-    if config.use_ai_ranking:
-        logger.info("Ranking links using AI...")
-        links_to_crawl = rank_links(initial_links, base_url, config)
-    else:
-        links_to_crawl = initial_links
-    
-    # Limit to max_pages
-    links_to_crawl = links_to_crawl[:config.max_pages]
-    
     logger.info(f"Starting crawl of {len(links_to_crawl)} links")
     
-    for i, link in enumerate(links_to_crawl, 1):
-        url = link['url']
+    for i, url in enumerate(links_to_crawl, 1):
+        # Normalize URL (remove fragment) to check for duplicates
+        normalized_url = normalize_url(url)
         
-        # Skip if already visited
-        if url in visited_urls:
+        # Skip if already visited (using normalized URL)
+        if normalized_url in visited_urls:
             continue
         
-        visited_urls.add(url)
+        visited_urls.add(normalized_url)
         
         logger.info(f"[{i}/{len(links_to_crawl)}] Scraping: {url}")
         
@@ -93,8 +94,7 @@ def crawl_site(base_url, initial_links, config):
             page_data = {
                 'url': url,
                 'title': title,
-                'content': markdown_content,
-                'link_text': link.get('text', '')
+                'content': markdown_content
             }
             
             save_page(page_data, base_domain, config)
@@ -131,8 +131,6 @@ def save_page(page_data, base_domain, config):
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(f"# {page_data['title']}\n\n")
             f.write(f"Source: {page_data['url']}\n")
-            if page_data.get('link_text'):
-                f.write(f"Link Text: {page_data['link_text']}\n")
             f.write("\n---\n\n")
             f.write(page_data['content'])
         

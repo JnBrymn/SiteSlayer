@@ -11,11 +11,12 @@ import asyncio
 from functools import partial
 from pathlib import Path
 from datetime import datetime
-from config import Config
+from config import Config, sanitize_domain
 from harvester import harvest_html
 from scraper.homepage import scrape_homepage
-from scraper.crawler import crawl_site
+from scraper.crawler import crawl_urls
 from scraper.markdown_aggregator import aggregate_markdown_content
+from scraper.ai_link_ranker import rank_links
 from utils.logger import setup_logger
 from urllib.parse import urlparse
 
@@ -51,7 +52,7 @@ def write_error_to_file(site_dir, error_message, exception=None):
         logger = setup_logger(__name__)
         logger.error(f"Failed to write error.txt file: {str(e)}", exc_info=True)
 
-async def execute(target_url):
+def execute(target_url):
     """Execute scraping for a single URL"""
     logger = setup_logger(__name__)
 
@@ -61,10 +62,7 @@ async def execute(target_url):
 
     # Get the site directory path (where final output goes) - do this before Config
     # in case Config fails, we still need to know where to write errors
-    # Sanitize domain name (same logic as Config._sanitize_domain)
-    parsed = urlparse(target_url)
-    domain = parsed.netloc or parsed.path
-    domain = domain.replace('.', '_').replace(':', '_').replace('/', '_')
+    domain = sanitize_domain(target_url)
     site_dir = Path('sites') / domain
     
     # Check if site directory already exists - fast return if it does
@@ -86,7 +84,7 @@ async def execute(target_url):
     try:
         # Step 1: Harvest HTML from homepage
         logger.info("Step 1: Harvesting homepage HTML...")
-        html_file = await asyncio.to_thread(harvest_html, target_url, config)
+        html_file = harvest_html(target_url, config)
 
         if html_file:
             logger.info(f"Homepage HTML harvested: {html_file}")
@@ -96,27 +94,17 @@ async def execute(target_url):
             write_error_to_file(site_dir, error_msg)
             return
 
-        # Step 2: Scrape homepage for markdown
-        logger.info("Step 2: Scraping homepage...")
-        homepage_data = await asyncio.to_thread(scrape_homepage, target_url, config)
-
-        if not homepage_data:
-            error_msg = "Failed to scrape homepage - no data returned"
+        # Step 2: Crawl the site
+        logger.info("Step 2: Crawling site...")
+        crawl_results, content_file = crawl_site(target_url, domain, config)
+        
+        if crawl_results is None:
+            error_msg = "Failed to crawl site - no results returned"
             logger.error(error_msg)
             write_error_to_file(site_dir, error_msg)
             return
-
-        logger.info(f"Homepage scraped successfully: {homepage_data['title']}")
-
-        # Step 3: Crawl the site
-        logger.info("Step 3: Crawling site for links...")
-        crawl_results = await asyncio.to_thread(crawl_site, target_url, homepage_data['links'], config)
-
+            
         logger.info(f"Crawl complete. Total pages scraped: {len(crawl_results)}")
-
-        # Step 4: Aggregate markdown content for chatbot
-        logger.info("Step 4: Aggregating markdown content...")
-        content_file = await asyncio.to_thread(partial(aggregate_markdown_content, domain, temp_dir=config.output_dir))
 
         # Display results summary
         print("\n" + "="*50)
@@ -162,10 +150,58 @@ async def execute(target_url):
             write_error_to_file(site_dir, f"Error during cleanup after processing error: {str(cleanup_error)}", cleanup_error)
 
 
+def crawl_site(target_url, domain, config):
+    """
+    Crawl the site by scraping homepage, crawling URLs, and aggregating markdown content.
+    
+    Args:
+        target_url (str): The target URL to crawl
+        domain (str): The sanitized domain name
+        config (Config): Configuration object
+        
+    Returns:
+        tuple: (crawl_results, content_file) or (None, None) on error
+    """
+    logger = setup_logger(__name__)
+    
+    # Scrape homepage for markdown
+    logger.info("Scraping homepage...")
+    homepage_data = scrape_homepage(target_url, config)
+    
+    if not homepage_data:
+        error_msg = "Failed to scrape homepage - no data returned"
+        logger.error(error_msg)
+        return None, None
+    
+    logger.info(f"Homepage scraped successfully: {homepage_data['title']}")
+    
+    # Rank links if AI ranking is enabled
+    if config.use_ai_ranking:
+        logger.info("Ranking links using AI...")
+        links_to_crawl = rank_links(homepage_data['content'], target_url, config)
+    else:
+        links_to_crawl = homepage_data['links']
+    
+    # Limit to max_pages
+    links_to_crawl = links_to_crawl[:config.max_pages]
+    
+    # Crawl URLs
+    logger.info(f"Crawling {len(links_to_crawl)} URLs...")
+    crawl_results = crawl_urls(target_url, links_to_crawl, config)
+    
+    logger.info(f"Crawl complete. Total pages scraped: {len(crawl_results)}")
+    
+    # Aggregate markdown content for chatbot
+    logger.info("Aggregating markdown content...")
+    content_file = aggregate_markdown_content(domain, temp_dir=config.output_dir)
+    
+    return crawl_results, content_file
+
+
 async def execute_with_semaphore(semaphore, url):
     """Execute a URL with semaphore control for concurrency limiting"""
     async with semaphore:
-        await execute(url)
+        await asyncio.to_thread(execute, url)
 
 
 def main():

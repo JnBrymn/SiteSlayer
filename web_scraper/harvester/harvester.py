@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 from playwright._impl._errors import Error as PlaywrightError
 from utils.logger import setup_logger
-from config import USER_AGENT
+from config import USER_AGENT, sanitize_domain
 
 logger = setup_logger(__name__)
 
@@ -68,7 +68,7 @@ def harvest_html(url, config):
         rewritten_html = rewrite_urls(soup, url)
         
         # Save to file
-        domain = config._sanitize_domain(url)
+        domain = sanitize_domain(url)
         sites_dir = Path('sites')
         target_dir = sites_dir / domain
         target_dir.mkdir(parents=True, exist_ok=True)

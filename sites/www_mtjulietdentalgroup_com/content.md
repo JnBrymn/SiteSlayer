@@ -1,13 +1,12 @@
 # Website Content: www_mtjulietdentalgroup_com
-Generated: 2025-11-24 18:27:36
-Total Pages: 29
+Generated: 2025-11-27 16:34:33
+Total Pages: 30
 
 ---
 
 
 ## PAGE: Dentist Appointment in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/about-us/dentist-appointment/
-**Link Text:** Supercharge your dental benefits. Schedule today!
 **File:** about-us_dentist-appointment.md
 
 ### $100 Off Dentistry*
@@ -37,7 +36,6 @@ Call us for personalized assistance and answers to your dental questions. Your c
 
 ## PAGE: Dental Services in Mt Juliet, TN -  Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/
-**Link Text:** VIEW ALL SERVICES
 **File:** dental-services.md
 
 # Services
@@ -193,7 +191,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Dental Crowns in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/dental-crowns/
-**Link Text:** CROWNS
 **File:** dental-services_dental-crowns.md
 
 # Crowns in Mt Juliet, TN
@@ -343,6 +340,7 @@ If you have any questions about dental crowns, we’ve got answers.
 The dentist will start by numbing the tooth and the area around it to make sure you’re comfortable throughout the process. Next, your dentist will shape the damaged tooth to better support the crown and creates an impression. 
 
  
+
 Here’s the exciting part: With our advanced, proven technology, we can provide same-day crowns! That means you can walk out with your new crown in just one appointment.
 
 ### How long do dental crowns last?
@@ -370,7 +368,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Dental Fillings in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/dental-fillings/
-**Link Text:** FILLINGS
 **File:** dental-services_dental-fillings.md
 
 # Dental Fillings in Mt Juliet, TN
@@ -386,6 +383,7 @@ From addressing cavities to reinforcing weakened teeth, our team ensures lasting
 Dental fillings are restorative materials used to repair teeth that have been damaged by decay, cracks, or fractures. By filling in the affected area, fillings restore the tooth’s structure, function, and aesthetics. They help prevent further decay, preserve the natural tooth, and promote long-term oral health.
 
  
+
 Fillings vary in material and characteristics. Amalgam fillings, made from a mixture of metals, are durable and cost-effective but may not match the color of natural teeth. Composite resin offers a natural look but may not be as long-lasting as amalgam fillings. Ceramic and gold fillings offer excellent durability and asthma but are typically more expensive options.
 
 ![Dentist preparing to check patient with mirror]()
@@ -553,7 +551,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Dental Implants in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/dental-implants/
-**Link Text:** IMPLANTS
 **File:** dental-services_dental-implants.md
 
 # Dental Implants in Mt Juliet, TN
@@ -739,7 +736,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Affordable Dental Sealants near Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/dental-sealants/
-**Link Text:** DENTAL SEALANTS
 **File:** dental-services_dental-sealants.md
 
 # Dental Sealants in Mt Juliet, TN
@@ -915,7 +911,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Dental X-Rays and Imaging in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/dental-x-rays-and-imaging/
-**Link Text:** DENTAL X-RAYS AND IMAGING
 **File:** dental-services_dental-x-rays-and-imaging.md
 
 # Dental X-rays and Imaging in Mt Juliet, TN
@@ -1089,7 +1084,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Affordable Dental Dentures in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/dentures/
-**Link Text:** DENTURES
 **File:** dental-services_dentures.md
 
 # Dentures in Mt Juliet, TN
@@ -1271,7 +1265,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Emergency Dentistry in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/emergency-dentist/
-**Link Text:** EMERGENCY SERVICES
 **File:** dental-services_emergency-dentist.md
 
 # Emergency Dentistry in Mt Juliet, TN
@@ -1457,7 +1450,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Dental Fluoride Treatment near Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/fluoride-treatment/
-**Link Text:** FLUORIDE TREATMENT
 **File:** dental-services_fluoride-treatment.md
 
 # Fluoride Treatment in Mt Juliet, TN
@@ -1633,7 +1625,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Dental Inlays and Onlays in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/inlays-and-onlays/
-**Link Text:** INLAYS AND ONLAYS
 **File:** dental-services_inlays-and-onlays.md
 
 # Dental Onlays and Inlays in Mt Juliet, TN
@@ -1811,7 +1802,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Customized Mouth Guard in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/mouth-guard/
-**Link Text:** MOUTH GUARD
 **File:** dental-services_mouth-guard.md
 
 # Mouth Guards in Mt Juliet, TN
@@ -1993,7 +1983,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Oral Cancer Screening in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/oral-cancer-screening/
-**Link Text:** ORAL CANCER SCREENING
 **File:** dental-services_oral-cancer-screening.md
 
 # Oral Cancer Screening in Mt Juliet, TN
@@ -2009,6 +1998,7 @@ Early detection is key. A quick five-minute oral cancer screening can make all t
 Oral screening is a vital component of preventative dental care. In just five minutes, our skilled dental team conducts a thorough examination of your mouth, teeth, gums, and oral tissues to spot any abnormalities or potential issues.
 
  
+
 These screenings are designed to catch early signs of oral cancer, increasing your chances of successful treatment and minimizing the risk of serious complications. The best part? It’s a quick and painless process that can make a difference for both your oral and overall health.
 
 ![Female patient speaking with her dentist about her oral health]()
@@ -2178,7 +2168,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Oral Fitness Check in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/oral-fitness-check/
-**Link Text:** ORALFITNESSCHECK®
 **File:** dental-services_oral-fitness-check.md
 
 # OralFitnessCheck® in Mt Juliet, TN
@@ -2323,7 +2312,6 @@ Call today to schedule your appointment and learn more about how this this life-
 
 ## PAGE: Periodontitis Treatment in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/periodontitis/
-**Link Text:** PERIODONTICS
 **File:** dental-services_periodontitis.md
 
 # Gum Disease Treatment in Mt Juliet, TN
@@ -2539,7 +2527,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Root Canal in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/root-canal/
-**Link Text:** ROOT CANAL/ENDODONTICS
 **File:** dental-services_root-canal.md
 
 # Root Canal in Mt Juliet, TN
@@ -2713,7 +2700,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Scaling and Root Planning in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/scaling-and-root-planing/
-**Link Text:** SCALING AND ROOT PLANING
 **File:** dental-services_scaling-and-root-planing.md
 
 # Scaling and Root Planing in Mt Juliet, TN
@@ -2729,6 +2715,7 @@ Say goodbye to tartar buildup and hello to a plaque-free smile that’s ready to
 Scaling and root planing is a non-surgical and deep cleaning procedure that removes plaque below the gumline, where regular brushing and flossing can’t reach. Unlike a routine dental cleaning, this procedure is recommended when gum disease progresses from gingivitis to periodontitis, which is damage to the soft tissue around the teeth.
 
  
+
 During the cleaning, the dental hygienist uses specialized tools to remove plaque and tartar buildup that sits below the gumline and smooths out areas where deposits of bacteria can harbor.
 
 ![Young woman patient having dental treatment at dentist's office]()
@@ -2900,7 +2887,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Teeth Bonding in Mt Juliet,  TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/teeth-bonding/
-**Link Text:** TEETH BONDING
 **File:** dental-services_teeth-bonding.md
 
 # Teeth Bonding in Mt Juliet, TN
@@ -3076,7 +3062,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Teeth Cleaning in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/teeth-cleaning/
-**Link Text:** TEETH CLEANING
 **File:** dental-services_teeth-cleaning.md
 
 # Teeth Cleaning in Mt Juliet, TN
@@ -3250,7 +3235,6 @@ MyChart Footer
 
 ## PAGE: Affordable Tooth Extractions in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/teeth-extractions/
-**Link Text:** TEETH EXTRACTIONS
 **File:** dental-services_teeth-extractions.md
 
 # Tooth Extraction in Mt Juliet, TN
@@ -3466,7 +3450,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Teeth Whitening in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/teeth-whitening/
-**Link Text:** WHITENING
 **File:** dental-services_teeth-whitening.md
 
 # Teeth Whitening in Mt Juliet, TN
@@ -3644,7 +3627,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Tooth Bridge in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/tooth-bridge/
-**Link Text:** TOOTH BRIDGE
 **File:** dental-services_tooth-bridge.md
 
 # Tooth Bridges in Mt Juliet, TN
@@ -3820,7 +3802,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Veneers in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/veneers/
-**Link Text:** VENEERS
 **File:** dental-services_veneers.md
 
 # Veneers in Mt Juliet, TN
@@ -3998,7 +3979,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Wisdom Teeth Extraction in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/dental-services/wisdom-teeth/
-**Link Text:** WISDOM TEETH/ORAL SURGERY
 **File:** dental-services_wisdom-teeth.md
 
 # Wisdom Teeth Removal in Mt Juliet, TN
@@ -4223,6 +4203,7 @@ We are located near the intersection of Lebanon Rd and N Mt Juliet Rd next to F&
 - Sun : Closed
 
   
+
 - We are OPEN for ALL dental care procedures and emergency needs. Protecting the health and safety of our patients, families, and team members remains our number one priority.
 
 ## LANGUAGE SPOKEN
@@ -4342,9 +4323,232 @@ Google Reviewer
 I had an excellent experience at this dental office. The staff was friendly, professional, and made me feel completely at ease from the moment I walked in. The office is clean, modern, and well-organized. I left feeling confident in my care and will definitely be returning. Highly recommend!
 
 
+
 Google Reviewer
 
 Excellent care and outstanding service! The staff is friendly, the dentist is skilled and attentive, and the whole experience was smooth from start to finish. I’ll definitely be coming back.
+
+
+
+Google Reviewer
+
+Had an amazing visit!! Gabby and Claire treated me very wonderfully!! Most professional place yet!! Will be back
+
+![Woman with credit card and phone]()
+
+## **Payment Options**
+
+**Insurance**
+
+We happily accept a variety of dental insurance plans and file the claim on your behalf. Rest assured, we maintain transparency throughout the entire process.
+
+[LEARN MORE ABOUT INSURANCE](/payment/dental-insurance/)
+
+![Umbrella]()
+
+**Smile Generation Dental Plan**
+
+No dental insurance? No worries. Smile Generation Dental Plan offers up to 50% discounts on most treatments.
+
+[GET STARTED](/payment/smile-generation-dental-discount-plan/)
+
+![Credit Cards]()
+
+**Smile Generation Financing**
+
+You only have one smile, so we gladly offer flexible payment options to make caring for it more affordable. Finance up to $25,000 for 60 months and enjoy 0% interest and low-interest plans on approved credit.
+
+[EXPLORE FINANCING OPTIONS](/payment/smile-generation-dental-financing/)
+
+![Money]()
+
+## What is the Mouth-Body Connection® ?
+
+The Mouth-Body Connection® refers to the link between oral health and overall health, and the role that the harmful bacteria and inflammation in our mouths play in chronic, systemic disease. That’s why it’s time we talked about more than your teeth. Our office prioritizes your overall health as it relates to your oral health. When we care for your smile we’re also looking out for your entire self.
+
+[SCHEDULE TODAY](/about-us/dentist-appointment/)
+
+![Toothbrush]()
+
+---
+
+
+## PAGE: Local Dentist Office in Mt Juliet TN | Mt Juliet Dental Group
+**Source URL:** https://www.mtjulietdentalgroup.com
+**File:** index.md
+
+# We are Mt Juliet Dental Group
+
+Take advantage of **$100 Off Dentistry*** and keep your smile in top shape.
+
+[SCHEDULE NOW](/about-us/dentist-appointment/)
+
+[615-241-8023](tel:615-241-8023)
+
+![Meet Dr. Gillian Jessee](https://1.smilegeneration.com/uploadedimages/staff/38084.png)
+
+## Meet Dr. Gillian Jessee
+
+As your provider, you can expect individualized quality care using the latest technology. I believe there is a Mouth-Body Connection and take a holistic approach to treating patients. Your priority is my main focus.
+
+[MEET THE TEAM](/meet-our-team/)
+
+---
+
+![Google map of Mt Juliet Dental Group ]()
+
+## ADDRESS
+
+[615-241-8023](tel:615-241-8023)
+
+fax : 615-922-3768
+
+[4155 N Mt Juliet Rd
+
+Mt Juliet, TN
+
+37122](https://www.google.com/maps/dir//Mt%20Juliet%20Dental%20Group%20+4155%20N%20Mt%20Juliet%20Rd, +Mt%20Juliet,+TN+37122)
+
+[BOOK APPOINTMENT](/about-us/dentist-appointment/)
+
+We are located near the intersection of Lebanon Rd and N Mt Juliet Rd next to F&M Bank, across from the Kroger shopping center
+
+## BUSINESS HOURS
+
+- Mon : 9:30 AM - 6:00 PM
+- Tue : 8:30 AM - 5:00 PM
+- Wed : 7:30 AM - 4:00 PM
+- Thu : 8:30 AM - 5:00 PM
+- Fri : 8:00 AM - 3:00 PM
+- Sat : Closed
+- Sun : Closed
+
+  
+
+- We are OPEN for ALL dental care procedures and emergency needs. Protecting the health and safety of our patients, families, and team members remains our number one priority.
+
+## LANGUAGE SPOKEN
+
+- English
+
+## INSURANCE
+
+We take most major insurances, including:
+
+- Aetna
+- Ameritas
+- Anthem Blue Cross
+- Cigna
+- Delta
+- Guardian
+- MetLife
+- United Health Care
+- UCCI
+
+## Family Dentistry in Mt Juliet, TN
+
+At Mt Juliet Dental Group , we prioritize your oral health because we understand its vital role in your overall well-being. Our personalized care and advanced solutions keep your smile healthy, whether you’re here for a routine cleaning or advanced procedures like a root canal or a dental bridge. In our friendly, modern environment, we make every visit easy and comfortable for patients of all ages. Beyond your smile, we’re dedicated to supporting your overall health at every step. Schedule your appointment today and experience a healthier smile right here in Mt Juliet, TN.
+
+![Office Photo of Mt Juliet Dental Group ]()
+
+## We Pride Ourselves on Our Service
+
+When you choose Mt Juliet Dental Group , you step into a new era of dental excellence with our advanced, proven technology. Explore the advantages of transformative technology, such as Digital X-Rays and CEREC® CAD/CAM single-visit crowns.
+
+[VIEW ALL SERVICES](/dental-services/)
+
+[EMERGENCY SERVICES](/dental-services/emergency-dentist/)
+
+[CROWNS](/dental-services/dental-crowns/)
+
+[FILLINGS](/dental-services/dental-fillings/)
+
+[FLUORIDE TREATMENT](/dental-services/fluoride-treatment/)
+
+[TEETH CLEANING](/dental-services/teeth-cleaning/)
+
+[IMPLANTS](/dental-services/dental-implants/)
+
+[DENTAL SEALANTS](/dental-services/dental-sealants/)
+
+[MOUTH GUARD](/dental-services/mouth-guard/)
+
+[ORAL CANCER SCREENING](/dental-services/oral-cancer-screening/)
+
+[DENTAL X-RAYS AND IMAGING](/dental-services/dental-x-rays-and-imaging/)
+
+[PERIODONTICS](/dental-services/periodontitis/)
+
+[ROOT CANAL/ENDODONTICS](/dental-services/root-canal/)
+
+[DENTURES](/dental-services/dentures/)
+
+[INLAYS AND ONLAYS](/dental-services/inlays-and-onlays/)
+
+[ORALFITNESSCHECK®](/dental-services/oral-fitness-check/)
+
+[SCALING AND ROOT PLANING](/dental-services/scaling-and-root-planing/)
+
+[TEETH BONDING](/dental-services/teeth-bonding/)
+
+[TOOTH BRIDGE](/dental-services/tooth-bridge/)
+
+[TEETH EXTRACTIONS](/dental-services/teeth-extractions/)
+
+[VENEERS](/dental-services/veneers/)
+
+[WHITENING](/dental-services/teeth-whitening/)
+
+[WISDOM TEETH/ORAL SURGERY](/dental-services/wisdom-teeth/)
+
+## **Special Offers**
+
+###### $100 Off Dentistry*
+
+Take advantage of $100 Off Dentistry* and keep your smile in top shape.
+
+[SCHEDULE NOW](/about-us/dentist-appointment/)
+
+### Generations of Smiles
+
+Issue 20
+
+Celebrating 5 years of Health in Action
+
+[READ NOW](https://www.smilegeneration.com/mouth-body-connection/generations-of-smiles/)
+
+OralFitnessCheck®
+
+Take proactive steps to better health.  
+Ask at your next appointment for   
+your complementary initial screening.
+
+[LEARN MORE](/dental-services/oral-fitness-check/)
+
+### $59 New Patient Special
+
+Special offer for new patients, including comprehensive exam, cleaning, and X-rays for only $59.
+
+[BOOK ONLINE](/about-us/dentist-appointment/)
+
+### Emergency Dental Care
+
+Immediate care when you need it! Call now:
+
+[615-241-8023](tel:615-241-8023)
+
+## Trusted by Families Across Mt Juliet, TN
+
+Google Reviewer
+
+I had an excellent experience at this dental office. The staff was friendly, professional, and made me feel completely at ease from the moment I walked in. The office is clean, modern, and well-organized. I left feeling confident in my care and will definitely be returning. Highly recommend!
+
+
+
+Google Reviewer
+
+Excellent care and outstanding service! The staff is friendly, the dentist is skilled and attentive, and the whole experience was smooth from start to finish. I’ll definitely be coming back.
+
 
 
 Google Reviewer
@@ -4392,7 +4596,6 @@ The Mouth-Body Connection® refers to the link between oral health and overall h
 
 ## PAGE: Dental office staff in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/meet-our-team/
-**Link Text:** MEET THE TEAM
 **File:** meet-our-team.md
 
 # Meet the Mt Juliet Dental Group Team
@@ -4488,7 +4691,6 @@ Schedule an appointment with us today to discover the difference of advanced, pr
 
 ## PAGE: Accepted Insurance Plans - PPO and HMO - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/payment/dental-insurance/
-**Link Text:** LEARN MORE ABOUT INSURANCE
 **File:** payment_dental-insurance.md
 
 # Insurance
@@ -4601,7 +4803,6 @@ Let’s work together to optimize your dental care while making the most of your
 
 ## PAGE: Dental Discount Plan in Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/payment/smile-generation-dental-discount-plan/
-**Link Text:** GET STARTED
 **File:** payment_smile-generation-dental-discount-plan.md
 
 # Smile Generation Dental Plan
@@ -4680,7 +4881,6 @@ Let’s work together to optimize your dental care while tailoring a dental plan
 
 ## PAGE: In House Financing Dentist near Mt Juliet, TN - Mt Juliet Dental Group
 **Source URL:** https://www.mtjulietdentalgroup.com/payment/smile-generation-dental-financing/
-**Link Text:** EXPLORE FINANCING OPTIONS
 **File:** payment_smile-generation-dental-financing.md
 
 # Smile Generation Financing Marketplace

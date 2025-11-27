@@ -20,7 +20,7 @@ def scrape_homepage(url, config):
         config (Config): Configuration object
         
     Returns:
-        dict: Contains title, content, and links
+        dict: Contains title, content, and links (links is list[str] of URLs)
     """
     try:
         # Fetch the page
@@ -94,13 +94,7 @@ def extract_links(soup, base_url):
         # Convert to absolute URL
         absolute_url = urljoin(base_url, href)
         
-        # Get link text
-        link_text = a_tag.get_text(strip=True) or "No text"
-        
-        links.append({
-            'url': absolute_url,
-            'text': link_text
-        })
+        links.append(absolute_url)
     
     return links
 

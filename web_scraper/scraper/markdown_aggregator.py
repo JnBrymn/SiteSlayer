@@ -122,12 +122,12 @@ def extract_metadata(content):
         content (str): The markdown file content
         
     Returns:
-        dict: Dictionary containing title, url, and link_text
+        dict: Dictionary containing title, url, and link_text (link_text is optional/legacy)
     """
     metadata = {
         'title': 'Untitled',
         'url': '',
-        'link_text': ''
+        'link_text': ''  # Optional/legacy field
     }
     
     lines = content.split('\n')
@@ -143,7 +143,7 @@ def extract_metadata(content):
         elif line.startswith('Source:'):
             metadata['url'] = line.replace('Source:', '').strip()
         
-        # Extract link text
+        # Extract link text (optional/legacy field)
         elif line.startswith('Link Text:'):
             metadata['link_text'] = line.replace('Link Text:', '').strip()
     

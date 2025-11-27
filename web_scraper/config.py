@@ -24,7 +24,7 @@ class Config:
         temp_base = Path(tempfile.gettempdir())
         
         # Create a sanitized directory name from the domain
-        domain = self._sanitize_domain(target_url)
+        domain = sanitize_domain(target_url)
         self.output_dir = temp_base / 'siteslayer' / domain
 
         self.output_dir.mkdir(parents=True, exist_ok=True)
@@ -47,13 +47,7 @@ class Config:
         # JavaScript Rendering Settings
         self.use_js_rendering = False
         self.js_wait_time = 3
-    
-    def _sanitize_domain(self, url):
-        """Sanitize a URL to create a safe directory name"""
-        parsed = urlparse(url)
-        domain = parsed.netloc or parsed.path
-        domain = domain.replace('.', '_').replace(':', '_').replace('/', '_')
-        return domain
+
     
     def cleanup_temp_dir(self):
         """Remove the temporary output directory and all its contents"""
@@ -65,3 +59,10 @@ class Config:
             # Log error but don't raise - cleanup failures shouldn't break the program
             return False
         return False
+
+def sanitize_domain(url):
+    """Sanitize a URL to create a safe directory name"""
+    parsed = urlparse(url)
+    domain = parsed.netloc or parsed.path
+    domain = domain.replace('.', '_').replace(':', '_').replace('/', '_')
+    return domain

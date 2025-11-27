@@ -1,5 +1,5 @@
 # Website Content: www_hello_com
-Generated: 2025-11-24 18:26:34
+Generated: 2025-11-27 16:33:29
 Total Pages: 3
 
 ---
@@ -24,6 +24,7 @@ We are pausing hello while we get ready to launch something even better. We have
 ð hello team
 
   
+
 Please enter your email below to be the first one to hear about our upcoming launch.
 
 ---
@@ -31,7 +32,6 @@ Please enter your email below to be the first one to hear about our upcoming lau
 
 ## PAGE: hello network
 **Source URL:** https://www.hello.com/index.html
-**Link Text:** English
 **File:** index.html.md
 
 ![](/img/hello-logo.png)
@@ -49,6 +49,7 @@ We are pausing hello while we get ready to launch something even better. We have
 ð hello team
 
   
+
 Please enter your email below to be the first one to hear about our upcoming launch.
 
 ---
@@ -56,7 +57,6 @@ Please enter your email below to be the first one to hear about our upcoming lau
 
 ## PAGE: hello network
 **Source URL:** https://www.hello.com/index_pt.html
-**Link Text:** PortuguÃªs
 **File:** index_pt.html.md
 
 ![](/img/hello-logo.png)
@@ -74,6 +74,7 @@ Estamos pausando as operaÃ§Ãµes do hello enquanto preparamos algo ainda melh
 ð a equipe do hello
 
   
+
 Por favor, deixe seu email aqui para vocÃª ser o primeiro a saber quando lanÃ§aremos algo novo.
 
 ---
