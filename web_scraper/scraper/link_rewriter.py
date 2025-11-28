@@ -12,25 +12,19 @@ def clean_and_filter_links(links, base_url, config):
     Clean and filter links based on various criteria
     
     Args:
-        links (list): List of link dictionaries with 'url' and 'text'
+        links (list[str]): List of URL strings
         base_url (str): Base URL of the site
         config (Config): Configuration object
         
     Returns:
-        list: Filtered and cleaned links
+        list[str]: Filtered and cleaned URLs
     """
     base_domain = urlparse(base_url).netloc
     seen_urls = set()
     filtered_links = []
     
-    for link in links:
-        url = link['url']
-        
-        # Skip if already seen
-        if url in seen_urls:
-            continue
-        
-        # Parse URL
+    for url in links:
+        # Parse URL first to normalize it (remove fragment)
         parsed = urlparse(url)
         
         # Only keep links from the same domain
@@ -41,29 +35,18 @@ def clean_and_filter_links(links, base_url, config):
         if any(url.lower().endswith(ext) for ext in config.exclude_extensions):
             continue
         
-        # Skip query parameters and fragments (optional)
         # Remove fragment but keep query params
+        # This ensures URLs that differ only by hash are treated as the same
         clean_url = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
         if parsed.query:
             clean_url += f"?{parsed.query}"
         
-        # Skip if cleaned URL was already seen
+        # Skip if cleaned URL was already seen (this catches hash-only duplicates)
         if clean_url in seen_urls:
             continue
         
         seen_urls.add(clean_url)
         
-        filtered_links.append({
-            'url': clean_url,
-            'text': link['text']
-        })
+        filtered_links.append(clean_url)
     
     return filtered_links
-
-def is_valid_url(url):
-    """Check if URL is valid and accessible"""
-    try:
-        parsed = urlparse(url)
-        return all([parsed.scheme, parsed.netloc])
-    except Exception:
-        return False

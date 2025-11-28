@@ -7,6 +7,7 @@ import time
 from typing import Optional
 from contextlib import contextmanager
 from utils.logger import setup_logger
+from config import USER_AGENT
 
 logger = setup_logger(__name__)
 
@@ -14,7 +15,8 @@ logger = setup_logger(__name__)
 DEFAULT_HEADERS = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
     'Accept-Language': 'en-US,en;q=0.9',
-    'Accept-Encoding': 'gzip, deflate, br',
+    # Removed Accept-Encoding to avoid binary/compressed response issues
+    # requests will still handle decompression automatically if needed
     'DNT': '1',
     'Connection': 'keep-alive',
     'Upgrade-Insecure-Requests': '1'
@@ -39,7 +41,7 @@ def fetch_page(url: str, config, max_retries: int = 3) -> Optional[str]:
     
     # Build headers with user agent
     headers = DEFAULT_HEADERS.copy()
-    headers['User-Agent'] = config.user_agent
+    headers['User-Agent'] = USER_AGENT
     
     # Retry logic with exponential backoff
     for attempt in range(max_retries):
@@ -59,6 +61,10 @@ def fetch_page(url: str, config, max_retries: int = 3) -> Optional[str]:
             if 'text/html' not in content_type.lower():
                 logger.warning(f"Non-HTML content type for {url}: {content_type}")
                 return None
+            
+            # Ensure proper encoding - if not detected, default to utf-8
+            if response.encoding is None:
+                response.encoding = 'utf-8'
             
             return response.text
             
@@ -127,7 +133,7 @@ def _create_browser(config):
         )
         
         context = browser.new_context(
-            user_agent=config.user_agent,
+            user_agent=USER_AGENT,
             viewport={'width': 1920, 'height': 1080}
         )
         
@@ -212,7 +218,7 @@ def create_session(config) -> requests.Session:
     session = requests.Session()
     
     headers = DEFAULT_HEADERS.copy()
-    headers['User-Agent'] = config.user_agent
+    headers['User-Agent'] = USER_AGENT
     session.headers.update(headers)
     
     return session

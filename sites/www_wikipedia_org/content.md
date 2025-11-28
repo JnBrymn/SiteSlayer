@@ -1,21 +1,3 @@
-# Website Content: www_wikipedia_org
-Generated: 2025-11-24 18:26:31
-Total Pages: 1
-
----
-
-
-## PAGE: Wikipedia
-**Source URL:** https://www.wikipedia.org
-**File:** homepage.md
-
-![](portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png)
-
-# Wikipedia **The Free Encyclopedia**
-
-Search Wikipedia
-
-
 Afrikaans
 Shqip
 Ø§ÙØ¹Ø±Ø¨ÙØ©
@@ -112,18 +94,6 @@ Wikipedia's been around since 2001. Back then, it was just a wildly ambitious, p
 Only 2% ever donate. But that small group makes a big difference. When you support Wikipedia, you're standing up for something simple but profound: that knowledge should belong to everyone.
 
 If you agree, then this is your moment to give back. Even $2.75 makes a difference. Help keep it goingâfor you, for the next reader, and for the next generation.
-
-Please select an amount (USD).
-The average donation in the United States is around $13. Many first-time donors give $2.75. All that matters is that you're choosing to stand up for free, open information; and for that, you have our gratitude.
-
-5
-10
-20
-30
-50
-100
-Other
-
 How often would you like to donate?
 
 One time
@@ -138,21 +108,3 @@ We ask you, sincerely: don't skip this, join the 2% of readers who give.
 Collapse
 
 ### The internet we were promised
-
-Most people donate because Wikipedia is the internet we were promised: useful, free, and filled with reliable, human-created knowledge. If you agree, please give $2.75. If everyone reading this right now gave just $2.75, we'd reach our goal quickly.
-
-â *The Wikimedia Foundation, host of Wikipedia and other free knowledge projects*.
-
-[Donate now](#)
-
-ð Thank you for donating recently! ð
-
-Your support means the world to us. We'll hide banners in this browser for the rest of our campaign.
-
-Want to show off your support? **Donors get 20% off Wikipedia Store merchandise automatically applied at checkout.** Click the button below to shop hats, tees, and more!
-
-Go to the Wikipedia Store
-  
-Close
-
----

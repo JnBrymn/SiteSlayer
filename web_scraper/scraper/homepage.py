@@ -8,6 +8,7 @@ from utils.fetch import fetch_page
 from utils.logger import setup_logger
 from scraper.link_rewriter import clean_and_filter_links
 from scraper.markdown_converter import html_to_markdown
+from scraper.crawler import save_page
 
 logger = setup_logger(__name__)
 
@@ -20,7 +21,7 @@ def scrape_homepage(url, config):
         config (Config): Configuration object
         
     Returns:
-        dict: Contains title, content, and links
+        dict: Contains title, content, and links (links is list[str] of URLs)
     """
     try:
         # Fetch the page
@@ -48,8 +49,13 @@ def scrape_homepage(url, config):
         
         logger.info(f"Found {len(all_links)} total links, {len(filtered_links)} after filtering")
         
-        # Save homepage content
-        save_homepage(url, title, markdown_content, config)
+        # Save homepage content using save_page from crawler
+        page_data = {
+            'url': url,
+            'title': title,
+            'content': markdown_content
+        }
+        save_page(page_data, config)
         
         return {
             'url': url,
@@ -94,29 +100,6 @@ def extract_links(soup, base_url):
         # Convert to absolute URL
         absolute_url = urljoin(base_url, href)
         
-        # Get link text
-        link_text = a_tag.get_text(strip=True) or "No text"
-        
-        links.append({
-            'url': absolute_url,
-            'text': link_text
-        })
+        links.append(absolute_url)
     
     return links
-
-def save_homepage(url, title, content, config):
-    """Save homepage content to file"""
-    try:
-        # Create a simple filename for homepage
-        filename = config.output_dir / "homepage.md"
-        
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.write(f"# {title}\n\n")
-            f.write(f"Source: {url}\n\n")
-            f.write("---\n\n")
-            f.write(content)
-        
-        logger.info(f"Saved homepage to: {filename}")
-        
-    except Exception as e:
-        logger.error(f"Error saving homepage: {str(e)}", exc_info=True)
