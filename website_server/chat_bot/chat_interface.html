@@ -238,17 +238,25 @@
         const messageInput = document.getElementById('messageInput');
         const sendButton = document.getElementById('sendButton');
 
+        // Message history array to track all messages
+        // Format: [{role: 'user'|'assistant', content: 'message text'}, ...]
+        let messageHistory = [];
+
         // Add welcome message
         function addWelcomeMessage() {
+            const welcomeText = "Hello! I'm an AI assistant. How can I help you today?";
             const welcomeDiv = document.createElement('div');
             welcomeDiv.className = 'message bot';
             welcomeDiv.innerHTML = `
                 <div class="message-content">
-                    <p>Hello! I'm an AI assistant. How can I help you today?</p>
+                    <p>${welcomeText}</p>
                 </div>
             `;
             chatMessages.appendChild(welcomeDiv);
             chatMessages.scrollTop = chatMessages.scrollHeight;
+            
+            // Add welcome message to history
+            messageHistory.push({role: 'assistant', content: welcomeText});
         }
 
         // Add typing indicator
@@ -274,7 +282,7 @@
         }
 
         // Add message to chat
-        function addMessage(text, isUser = false) {
+        function addMessage(text, isUser = false, addToHistory = true) {
             hideTyping();
             const messageDiv = document.createElement('div');
             messageDiv.className = `message ${isUser ? 'user' : 'bot'}`;
@@ -292,6 +300,14 @@
             `;
             chatMessages.appendChild(messageDiv);
             chatMessages.scrollTop = chatMessages.scrollHeight;
+            
+            // Add to history if requested
+            if (addToHistory) {
+                messageHistory.push({
+                    role: isUser ? 'user' : 'assistant',
+                    content: text
+                });
+            }
         }
 
         // Send message
@@ -299,7 +315,7 @@
             const message = messageInput.value.trim();
             if (!message) return;
 
-            // Add user message
+            // Add user message to UI (will be added to history by addMessage)
             addMessage(message, true);
             messageInput.value = '';
             sendButton.disabled = true;
@@ -316,7 +332,7 @@
                     body: JSON.stringify({
                         message: message,
                         site: siteParam,
-                        user_key: `user_${Date.now()}`
+                        history: messageHistory  // Send entire message history
                     })
                 });
 
@@ -325,7 +341,10 @@
                 }
 
                 const data = await response.json();
-                addMessage(data.response || 'I apologize, but I encountered an error processing your message.');
+                
+                // Add assistant response to UI and history
+                const assistantResponse = data.response || 'I apologize, but I encountered an error processing your message.';
+                addMessage(assistantResponse, false);
             } catch (error) {
                 console.error('Error sending message:', error);
                 addMessage('Sorry, I encountered an error. Please try again.');

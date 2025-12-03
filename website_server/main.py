@@ -90,16 +90,40 @@ async def serve_chat_interface(site: str):#TODO! needs to be actual site
 
 @app.post("/chatbot/api/chats/")
 async def handle_chat_message(request: Request, body: dict = Body(...)):
-    """Handle chat messages and return mock responses."""
+    """Handle chat messages and return responses with full message history."""
     message = body.get("message", "")
     site = body.get("site", "default")
+    history = body.get("history", [])  # Get message history from request
     
     if not message:
         raise HTTPException(status_code=400, detail="Message is required")
     
-    # Generate response
-    chat_bot = ChatBot(site)
+    # Validate history format
+    if not isinstance(history, list):
+        history = []
+    
+    # Ensure history contains valid message objects
+    validated_history = []
+    for msg in history:
+        if isinstance(msg, dict) and "role" in msg and "content" in msg:
+            validated_history.append({
+                "role": msg["role"],
+                "content": msg["content"]
+            })
+    
+    # Check if the last message in history is already the current user message
+    # (to avoid duplicates if frontend already added it)
+    last_message_is_current = (
+        validated_history and 
+        validated_history[-1].get("role") == "user" and 
+        validated_history[-1].get("content") == message
+    )
+    
+    # Generate response with history (excluding the current message if it's already there)
+    history_for_agent = validated_history[:-1] if last_message_is_current else validated_history
+    chat_bot = ChatBot(site, history=history_for_agent)
     reply_text = await chat_bot.respond(message)
+    
     return {"response": reply_text}
 
 
