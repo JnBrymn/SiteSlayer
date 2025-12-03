@@ -99,7 +99,7 @@ async def handle_chat_message(request: Request, body: dict = Body(...)):
     
     # Generate response
     chat_bot = ChatBot(site)
-    reply_text = chat_bot.respond(message)
+    reply_text = await chat_bot.respond(message)
     return {"response": reply_text}
 
 

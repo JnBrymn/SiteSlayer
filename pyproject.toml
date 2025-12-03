@@ -24,4 +24,5 @@ dependencies = [
     "aiohttp>=3.9.0",
     # HTML Generation
     "markdown>=3.5.0",
+    "openai-agents==0.6.1",
 ]
