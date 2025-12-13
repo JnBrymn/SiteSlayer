@@ -122,6 +122,21 @@ def execute(target_url):
             
         logger.info(f"Crawl complete. Total pages scraped: {len(crawl_results)}")
 
+        email_writer_path = site_dir / 'email.txt'
+        if content_file and content_file.exists():
+            # Step 3: Generate email using EmailWriter
+            logger.info("Step 3: Generating email from aggregated content...")
+            from email_writer import EmailWriter  # Import here to avoid circular imports
+            email_writer = EmailWriter(site=domain)
+            with open(content_file, 'r', encoding='utf-8') as f:
+                aggregated_content = f.read()
+            email_text = asyncio.run(email_writer.write("Slay you are my best friend")) 
+            # Save email to file
+            with open(email_writer_path, 'w', encoding='utf-8') as f:
+                f.write(email_text)
+            
+            logger.info(f"Email generated and saved to: {email_writer_path}")
+
         # Display results summary
         print("\n" + "="*50)
         print(f"PROCESSING COMPLETE: {target_url}")
