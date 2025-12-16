@@ -4,6 +4,8 @@ Web scraper for extracting website HTML and markdown content
 """
 
 import sys
+from dotenv import load_dotenv
+load_dotenv()
 import os
 import shutil
 import traceback
@@ -123,9 +125,11 @@ def execute(target_url):
         logger.info(f"Crawl complete. Total pages scraped: {len(crawl_results)}")
 
         email_writer_path = site_dir / 'email.txt'
-        if content_file and content_file.exists():
+        if content_file and Path(content_file).exists():
             # Step 3: Generate email using EmailWriter
             logger.info("Step 3: Generating email from aggregated content...")
+            # Add parent directory to path to import email_writer from root
+            sys.path.insert(0, str(Path(__file__).parent.parent))
             from email_writer import EmailWriter  # Import here to avoid circular imports
             email_writer = EmailWriter(site=domain)
             with open(content_file, 'r', encoding='utf-8') as f:
