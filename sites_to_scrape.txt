@@ -1,4 +1,4 @@
-https://example.com
+
 https://www.bigthunderevents.com
 https://www.hello.com
 https://www.jessehall.com
@@ -15,4 +15,3 @@ https://dentistryofnashville.com/
 https://richlandcreekdentistry.com/
 https://lifetimedentistrytn.com/
 https://katherinehalldds.com/
-https://www.google.com/

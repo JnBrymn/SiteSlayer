@@ -4,6 +4,8 @@ Web scraper for extracting website HTML and markdown content
 """
 
 import sys
+from dotenv import load_dotenv
+load_dotenv()
 import os
 import shutil
 import traceback
@@ -19,6 +21,8 @@ from scraper.markdown_aggregator import aggregate_markdown_content
 from scraper.ai_link_ranker import rank_links
 from utils.logger import setup_logger
 from urllib.parse import urlparse
+
+from email_writer import EmailWriter
 
 def write_error_to_file(site_dir, error_message, exception=None):
     """
@@ -121,6 +125,18 @@ def execute(target_url):
             return
             
         logger.info(f"Crawl complete. Total pages scraped: {len(crawl_results)}")
+
+        email_writer_path = site_dir / 'email.txt'
+        if content_file and Path(content_file).exists():
+            # Step 3: Generate email using EmailWriter
+            logger.info("Step 3: Generating email from aggregated content...")
+            email_writer = EmailWriter(site=domain)
+            email_text = asyncio.run(email_writer.write()) 
+            # Save email to file
+            with open(email_writer_path, 'w', encoding='utf-8') as f:
+                f.write(email_text)
+            
+            logger.info(f"Email generated and saved to: {email_writer_path}")
 
         # Display results summary
         print("\n" + "="*50)

@@ -1,0 +1,20 @@
+ERROR REPORT
+==================================================
+Timestamp: 2025-12-18 10:48:19
+
+Error Message:
+Error during processing: OPENAI_API_KEY environment variable is required for AI ranking but was not found
+
+Exception Type: ValueError
+
+Traceback:
+Traceback (most recent call last):
+  File "/Users/johnberryman/projects/github/ApexFutz/SiteSlayer/web_scraper/main.py", line 117, in execute
+    crawl_results, content_file = crawl_site(target_url, domain, config)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/johnberryman/projects/github/ApexFutz/SiteSlayer/web_scraper/main.py", line 216, in crawl_site
+    links_to_crawl = rank_links(homepage_data['content'], target_url, config)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/johnberryman/projects/github/ApexFutz/SiteSlayer/web_scraper/scraper/ai_link_ranker.py", line 38, in rank_links
+    raise ValueError(error_msg)
+ValueError: OPENAI_API_KEY environment variable is required for AI ranking but was not found
