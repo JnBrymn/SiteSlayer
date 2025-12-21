@@ -3,7 +3,6 @@ Site crawler - Navigates through website links and scrapes content
 """
 
 import asyncio
-import hashlib
 import threading
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
@@ -88,14 +87,13 @@ async def _process_single_url(url, index, total, visited_urls, visited_lock, con
             logger.info(f"Content too short, skipping: {url}")
             return None
         
-        # Save page
+        # Return page data
         page_data = {
             'url': url,
             'title': title,
             'content': markdown_content
         }
         
-        save_page(page_data, config)
         return page_data
         
     except Exception as e:
@@ -155,28 +153,3 @@ async def crawl_urls(links_to_crawl, config):
     
     logger.info(f"Crawl complete. Successfully scraped {len(results)} pages")
     return results
-
-def save_page(page_data, config):
-    """Save page content to file"""
-    try:
-        # Create file content first
-        content = f"# {page_data['title']}\n\n"
-        content += f"Source: {page_data['url']}\n"
-        content += "\n---\n\n"
-        content += page_data['content']
-        
-        # Hash content to MD5
-        md5_hash = hashlib.md5(content.encode('utf-8')).hexdigest()
-        
-        # Create filename from MD5 hash
-        filename = f"{md5_hash}.md"
-        filepath = config.output_dir / filename
-        
-        # Save file (overwrites if it already exists)
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(content)
-        
-        logger.debug(f"Saved: {filepath}")
-        
-    except Exception as e:
-        logger.error(f"Error saving page {page_data['url']}: {str(e)}", exc_info=True)

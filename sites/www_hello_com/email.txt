@@ -1,21 +1,21 @@
-SUBJECT: Simple way to help visitors connect with hello network at launch
+SUBJECT: A simple way to welcome visitors (and questions) for your next launch
 
-Hi there,
+Hi hello team,
 
-I saw you're preparing for the upcoming launch of hello network—exciting times!
+I love your message on the site—turning a pause into a promise for “something even better” is a great way to keep your community engaged.
 
-I’m Zac from SlayDigital.ai. We build simple chat agents that live right on your site, letting visitors get instant answers from your own content. It's a great way to welcome early users and cut down on repetitive questions as you grow.
+I’m Zac from SlayDigital.ai. We build simple AI chat agents that live on your site and help visitors get instant answers from your own content—even if your team is busy or heads-down building the next version.
 
-I set up a quick demo using your site: https://slaydigital.fly.dev/site/www_hello_com. There’s a chat icon in the bottom-right corner; just click it to start chatting with a friendly AI agent that already knows your site info.
+I set up a quick mock version of your site here: https://slaydigital.fly.dev/site/www_hello_com. There’s a chat icon in the bottom-right; just click it to open the chat and try asking questions—the agent responds using info already on your site.
 
-You can try asking things like:
-- “When will hello network be launching?”
-- “How do I join the waitlist?”
-- “What features will be available at launch?”
-- “Is there a way to sign up in Portuguese?”
-- “Who is hello network for?”
+You can try things like:
+- When will the new hello launch?
+- Can I sign up for updates?
+- Where can I find past community news?
+- Is hello available in other languages?
+- Who’s behind the hello team?
 
-If you’re curious how this could support your launch, let me know—always happy to chat, no pressure.
+If you’d like something like this handy for your next announcement or re-launch, I’d be happy to chat. No pressure—just wanted to show a quick demo.
 
 Best,  
 Zac  

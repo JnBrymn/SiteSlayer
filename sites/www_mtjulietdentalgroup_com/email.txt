@@ -1,24 +1,21 @@
-SUBJECT: A Simple Way to Help Mt Juliet Dental Group Visitors Get Answers—Instantly
+SUBJECT: Quick way to help Mt Juliet Dental Group visitors get answers (demo inside)
 
 Hi there,
 
-I’ve been exploring the Mt Juliet Dental Group website, and it’s clear your team puts a lot of care into educating and guiding patients, whether it’s about CEREC® same-day crowns, insurance, or what to expect from advanced technologies like CBCT imaging. With so much helpful info available, I wanted to share something you might find valuable.
+I’m reaching out after visiting the Mt Juliet Dental Group website—your personalized approach and focus on patient comfort really stand out.
 
-I’m Zac, founder of SlayDigital.ai. We build custom, super-simple chat agents that sit quietly on your site—helping visitors quickly find answers from your own content, 24/7. No confusing tech speak or bots pretending to be dentists—just a fast way to reduce repetitive phone calls and make it easier for patients to get connected or book.
+At SlayDigital.ai, we build simple, custom AI web agents that let visitors chat with your site’s content, helping them quickly find answers without waiting or searching through menus.
 
-You can see a live demo on a mock version of your site here:  
-https://slaydigital.fly.dev/site/www_mtjulietdentalgroup_com
-
-Just click the chat icon at the bottom-right, type any question, and the agent will answer using your existing website info.
+I’ve set up a quick mock of your website with a demo agent here: https://slaydigital.fly.dev/site/www_mtjulietdentalgroup_com. Just click the chat icon in the bottom-right corner—type any question, and the agent replies using info already on your site.
 
 You can try asking things like:
-- “Do you offer same-day dental crowns with CEREC?”
-- “Which insurance plans are accepted?”
-- “How much does teeth whitening cost?”
-- “What’s the process for scheduling a dental emergency visit?”
-- “Are veneers covered by insurance at your office?”
+- “What insurance plans do you accept?”
+- “What does the $59 new patient special include?”
+- “How do I book an emergency appointment?”
+- “What are your business hours?”
+- “Do you offer payment plans or financing?”
 
-If you think this kind of instant Q&A could make your team’s day easier or help your patients take the next step, I’d love to hear what you think—zero pressure.
+If you’re interested in making it even easier for patients to get answers—and lightening your team’s call/email load—I’d be glad to chat. Let me know if you’d like to see what this could look like for Mt Juliet Dental Group.
 
 Best,  
 Zac Slay  

@@ -8,7 +8,6 @@ from utils.fetch import fetch_page
 from utils.logger import setup_logger
 from scraper.link_rewriter import clean_and_filter_links
 from scraper.markdown_converter import html_to_markdown
-from scraper.crawler import save_page
 
 logger = setup_logger(__name__)
 
@@ -40,21 +39,12 @@ async def scrape_homepage(url, config):
         # Extract and clean links
         all_links = extract_links(soup, url)
         filtered_links = clean_and_filter_links(all_links, url, config)
-        breakpoint()
         content = extract_main_content(soup)
         
         # Convert to markdown
         markdown_content = html_to_markdown(str(content), url)
         
         logger.info(f"Found {len(all_links)} total links, {len(filtered_links)} after filtering")
-        
-        # Save homepage content using save_page from crawler
-        page_data = {
-            'url': url,
-            'title': title,
-            'content': markdown_content
-        }
-        save_page(page_data, config)
         
         return {
             'url': url,

@@ -1,19 +1,20 @@
-SUBJECT: Making Your Dental Practice Website Easier for New & Existing Patients
+SUBJECT: Make Answers Easy for Your Dental Patients—See a Simple Demo
 
 Hi there,
 
-I came across Katherine Hall DDS and noticed how welcoming your Nashville practice looks. At SlayDigital.ai, we help dental offices like yours make it even easier for patients to get answers right on your website—without adding complexity for your team.
+I know that for both new and existing patients, quick answers make a big difference in their dental experience. At SlayDigital.ai, we build simple, custom AI website agents that help visitors instantly get information from your own site—24/7, without extra effort for your staff.
 
-We’ve put together a quick demo for your site: https://slaydigital.fly.dev/site/katherinehalldds_com. There’s a chat icon in the bottom-right—just click it, type a question, and the agent will respond using the information currently on your site.
+Here’s a live demo with your content: https://slaydigital.fly.dev/site/katherinehalldds_com  
+Just click the chat icon at the bottom-right corner and type a question—patients will get clear, friendly answers pulled right from your site.
 
 You can try asking things like:
-- What services do you offer?
-- How do I book a first appointment?
-- What’s the difference between the existing and new patient numbers?
-- Where are you located and what are your office hours?
-- Do you accept my insurance?
+- What is the best number to call for new patient appointments?
+- Where is your office located?
+- Do you accept emergency dental visits?
+- What insurance plans do you take?
+- What are your office hours?
 
-If you’re curious how this could reduce routine calls and help patients get the info they need faster, I’d be glad to answer any questions or set up a quick call.
+If you’d like to see how this could help your team and patients, just reply—I’m happy to talk or set up a sample for you.
 
 Best,  
 Zac Slay  

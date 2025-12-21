@@ -17,7 +17,6 @@ from config import Config, sanitize_domain
 from harvester import harvest_html
 from scraper.homepage import scrape_homepage
 from scraper.crawler import crawl_urls
-from scraper.markdown_aggregator import aggregate_markdown_content
 from scraper.ai_link_ranker import rank_links
 from utils.logger import setup_logger
 from urllib.parse import urlparse
@@ -241,11 +240,33 @@ async def crawl_site(target_url, domain, config):
     except Exception as e:
         logger.warning(f"Failed to save URLs list: {str(e)}", exc_info=True)
     
-    # Aggregate markdown content for chatbot
-    logger.info("Aggregating markdown content...")
-    content_file = await aggregate_markdown_content(domain, temp_dir=config.output_dir)
+    # Concatenate homepage content followed by other pages' content
+    logger.info("Concatenating markdown content...")
+    site_dir = Path('sites') / domain
+    site_dir.mkdir(parents=True, exist_ok=True)
+    content_file = site_dir / 'content.md'
     
-    return crawl_results, content_file
+    try:
+        # Start with homepage content
+        aggregated_content = [homepage_data['content']]
+        
+        # Add other pages' content
+        for result in crawl_results:
+            if result and 'content' in result:
+                aggregated_content.append(result['content'])
+        
+        # Write to content.md
+        with open(content_file, 'w', encoding='utf-8') as f:
+            f.write('\n\n---\n\n'.join(aggregated_content))
+        
+        logger.info(f"Successfully created content.md at: {content_file}")
+        logger.info(f"Aggregated {len(aggregated_content)} pages (1 homepage + {len(crawl_results)} other pages)")
+        
+    except Exception as e:
+        logger.error(f"Error writing content.md: {str(e)}", exc_info=True)
+        content_file = None
+    
+    return crawl_results, str(content_file) if content_file else None
 
 
 async def execute_with_semaphore(semaphore, url):

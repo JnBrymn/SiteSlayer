@@ -1,20 +1,24 @@
-SUBJECT: See how a simple chat agent could help answer patient questions at Iroquois Dentistry
+SUBJECT: Helping Your Nashville Dental Patients Get Answers Faster
 
 Hi there,
 
-I noticed the clear focus on patient comfort and restorative dentistry at Iroquois Dentistry—it’s easy to see how you help people restore their confidence. At SlayDigital.ai, we help clinics like yours simplify information for patients right on your website.
+I noticed your site is focused on helping Nashville patients regain their confidence with restorative dentistry—a valuable service, especially when people are unsure how to take the next step for their dental health.
 
-To show how this works, I built a quick demo of your site with a custom chat agent: https://slaydigital.fly.dev/site/ifdnashville_com. Just click the chat icon in the bottom-right corner and type a question—your visitors get instant answers based on your existing website content.
+I’m Zac from SlayDigital.ai. We build simple AI website agents that chat with your visitors and answer their questions using information that’s already on your site. This helps cut down repetitive inquiries and ensures people feel supported (even after hours).
+
+Here’s a quick mock-up we made of your site with an embedded chat agent: https://slaydigital.fly.dev/site/ifdnashville_com
+
+Just click the chat icon in the bottom right, then type a question—your visitors get real-time, clear answers straight from the info you already share.
 
 You can try asking things like:
 - What restorative dental services do you offer?
-- How do I book an appointment?
-- What should I expect during my first visit?
-- Do you accept new patients?
-- Is emergency dental care available?
+- Do you accept my dental insurance?
+- How do I book a consultation?
+- What should I do if I have a cracked tooth?
+- Where is your office located in Nashville?
 
-If you’re curious about how this could reduce repetitive calls and help patients get the info they need, I’d love your thoughts—or feel free to try out the demo.
+If this could help your patients or save you time, I’d be happy to chat further—no pressure. Thanks for your great work helping folks smile with confidence!
 
-Best regards,  
+Best,  
 Zac Slay  
-SlayDigital.ai
+Founder, SlayDigital.ai

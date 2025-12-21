@@ -1,25 +1,22 @@
-SUBJECT: Helping Your Patients Get Quick Answers—Try This AI Chat Agent Demo
+SUBJECT: Helping Patients Get Quick Answers—See a Simple Demo for Smiles Up
 
 Hi Dr. Dudley,
 
-I admire how Nashville Smiles Up makes dental care truly accessible—especially with 24-hour emergency coverage and convenient hours for working people.
+I’m Zac Slay, founder of SlayDigital.ai. I noticed how much Smiles Up prioritizes accessibility and a stress-free experience—especially with your 24/7 emergency care. I wanted to share a simple way to help patients quickly get the answers they need right from your website, day or night.
 
-I’m Zac from SlayDigital.ai. We build simple, custom AI web agents that help your website visitors find answers fast, right from your site content—reducing calls about common questions and helping people feel more comfortable before they even step into your office.
+We build custom AI chat agents that work with your site’s existing information—no jargon, just clear help for visitors. As an example, I set up a mock demo for Nashville Smiles Up here: https://slaydigital.fly.dev/site/nashvillesmilesup_com
 
-I put together a quick demo for you:  
-https://slaydigital.fly.dev/site/nashvillesmilesup_com
-
-Just click the chat icon in the bottom-right and ask the agent anything; it replies based on your site’s information.
+You (or your team) can try it by clicking the chat icon in the bottom-right of the page. Just type a question and the agent will reply using your site’s info.
 
 You can try asking things like:
-- What are your emergency hours?
-- Which dental services do you offer?
-- How do I book a same-day appointment?
-- Do you accept walk-ins for check-ups?
-- Who are your dentists and what are their specialties?
+- What should I do if I have a dental emergency after hours?
+- How do I book an appointment or fill out new patient paperwork?
+- What insurance plans and payment options do you accept?
+- Is after-hours care available for children?
+- What’s the cost and process for emergency dental visits?
 
-If you’d like to see how this could help your patients—and your team—just let me know. No pressure!  
+If this feels like it could help your patients (and your team), I’d be happy to chat or answer any questions. No pressure at all—just wanted to offer a tool to make things even easier for Nashville Smiles Up.
 
 Best,  
 Zac Slay  
-Founder, SlayDigital.ai
+SlayDigital.ai

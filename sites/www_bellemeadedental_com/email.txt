@@ -1,21 +1,22 @@
-SUBJECT: Helping Belle Meade Family Dentistry Answer Patient Questions Instantly
+SUBJECT: Helping New Patients at Belle Meade Family Dentistry Get Answers Faster
 
 Hi there,
 
-I was impressed by the warm testimonials and the focus on patient care at Belle Meade Family Dentistry. It’s clear you put a lot of effort into making each visit comfortable and informative.
+I’ve been impressed by how Belle Meade Family Dentistry emphasizes comfort, detail, and a welcoming experience for Nashville families. I noticed you offer a wide range of services and have lots of information available, which is great—but I imagine you get quite a few routine questions from new and existing patients.
 
-I’m Zac Slay, founder of SlayDigital.ai. We help practices like yours add a simple AI chat agent to your website, letting visitors get fast, accurate answers from your own site content—without adding any extra complexity for your team.
+I’m Zac Slay, founder of SlayDigital.ai. We build simple, custom AI chat agents that answer visitors’ questions directly from your website content—helping reduce repetitive calls and making it easier for patients to get the answers they need.
 
-To show you how this could work, I created a mock version of your site with a demo agent here: https://slaydigital.fly.dev/site/www_bellemeadedental_com. Just click the chat icon in the bottom-right to open a chat box and ask questions as your patients would.
+I set up a quick demo using a copy of your website: https://slaydigital.fly.dev/site/www_bellemeadedental_com.  
+Just click the chat icon at the bottom-right and type a question—the agent will answer with info pulled directly from your site.
 
-For example, you can try asking:
-- What dental services do you offer?
-- How do I request a new patient appointment?
-- What should I expect with dental implants?
-- Do you offer cosmetic dentistry?
-- Where are you located in Nashville?
+You can try asking things like:
+- “What dental services do you offer?”
+- “How do I schedule an appointment?”
+- “What sedation options are available if I have dental anxiety?”
+- “Who are the dentists and what are their backgrounds?”
+- “How does payment work and do you accept online payments?”
 
-If you’re curious how this could help streamline patient communication, I’d be glad to show you more. Let me know if you’d like to chat or have any questions!
+If you think this could make things simpler for your team and your patients, I’d love to hear your thoughts or set up a quick call to discuss.
 
 Best,  
 Zac Slay  

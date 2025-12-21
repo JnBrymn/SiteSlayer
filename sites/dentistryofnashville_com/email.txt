@@ -1,25 +1,25 @@
-SUBJECT: Simple way to answer patient questions instantly on your site
+SUBJECT: Helping Your Patients Get Answers Faster at Dentistry of Nashville
 
-Hi there,
+Hello Dentistry of Nashville team,
 
-I admire how Dentistry of Nashville emphasizes comfort, family values, and advanced technology for your patients. It’s clear you put a lot of care into making each visit easy and reassuring.
+I’m reaching out after visiting your website and seeing your long tradition of family-focused dental care in Nashville. The comfortable, personal experience you offer really stands out.
 
-I’m Zac Slay, the founder of SlayDigital.ai. We help practices like yours reduce repetitive calls and make information even more accessible by adding a custom, AI-powered web agent to your site. This simple chat tool instantly answers visitor questions using your own content—no jargon or technical hoops, just clear answers for your patients.
+At SlayDigital.ai, we help practices like yours reduce repetitive questions and make it even easier for patients to get the information they need—without adding any tech hassle. We do this by creating simple AI chat agents that use the information already on your website to answer patient questions, right on your site.
 
-Here’s a demo of what this could look like for Dentistry of Nashville:  
+To show what this could look like for you, we set up a demo here:  
 https://slaydigital.fly.dev/site/dentistryofnashville_com
 
-There’s a chat icon in the bottom right corner—just click it, type a question, and see the agent respond based on your website’s information.
+To try it, just click the chat icon in the bottom-right corner. A chat box will open—type in a question, and the agent will respond, using your own site’s content.
 
-You can try asking things like:
-- “What is LANAP, and how does it work?”
-- “How long does it take to get a same-day crown?”
-- “Do you offer dental implant consultations?”
-- “How do I schedule an appointment?”
-- “What cosmetic services can help me improve my smile?”
+You can try asking:  
+• What dental insurance plans do you accept?  
+• How does the same-day crown process work?  
+• What are your office hours and location?  
+• Who are your dentists and what are their backgrounds?  
+• How do I schedule or change an appointment?
 
-If this sounds useful, I’d be glad to chat about making it uniquely yours. No pressure—just let me know if you’d like more details!
+If making patient information more accessible sounds helpful, I’d be glad to answer questions or discuss further—no pressure.
 
-Warmly,  
+Best,  
 Zac Slay  
 Founder, SlayDigital.ai

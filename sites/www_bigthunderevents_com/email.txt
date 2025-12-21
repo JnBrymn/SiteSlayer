@@ -1,20 +1,24 @@
-SUBJECT: A Simple Way to Help Your Nashville Party Rental Customers Find Answers Faster
+SUBJECT: Make Event Planning Easier for Your Guests with a Website Chat Agent
 
-Hi there,
+Hi Tony & Kacey,
 
-I love the energy you bring to Nashville parties—those obstacle courses and bounce houses look like a blast! I’m Zac from SlayDigital.ai, and I help local businesses like yours make site visitor questions effortless to answer.
+I’m Zac, founder of SlayDigital.ai. I know that at Big Thunder Events, your team puts a lot of care into making every party and festival smooth and stress-free—from helping customers pick the right inflatables to answering all those power, setup, and booking questions.
 
-I set up a quick demo using your website: https://slaydigital.fly.dev/site/www_bigthunderevents_com. There’s a chat icon in the bottom-right corner; just click it to type questions and see instant answers from your site’s own info.
+We build simple, custom AI-powered website chat agents that answer visitor questions directly from your existing site content. It’s a quick, helpful way to reduce repetitive calls and make your customers’ event planning that much easier.
+
+To give you a feel for how this could work for Big Thunder Events, I set up a mock demo using your site:  
+https://slaydigital.fly.dev/site/www_bigthunderevents_com  
+There’s a chat icon in the bottom-right corner—click it, and you can type in questions as if you were a guest. The agent responds using info already on your website.
 
 You can try asking things like:
-- What party rental items are available for kids’ birthdays?
-- How far do you deliver in the Nashville area?
-- Do you have any package deals or combo rentals?
-- Are the inflatables cleaned between rentals?
-- What’s the process to reserve a bounce house?
+- What’s included with a bounce house rental?  
+- How far in advance should I reserve for a large event?  
+- Do you offer discounts for schools or churches?  
+- What are the power requirements for mechanical rides?  
+- Which areas do you deliver to, and are there extra travel fees?
 
-If something like this could help lighten your workload or improve customer experience, let me know—happy to chat or customize a version for you.
+If you think this kind of tool would be helpful for your customers (and maybe lighten your team’s inbox), just let me know. I’d love to hear your thoughts and answer any questions.
 
 Best,  
-Zac  
-SlayDigital.ai
+Zac Slay  
+Founder, SlayDigital.ai
