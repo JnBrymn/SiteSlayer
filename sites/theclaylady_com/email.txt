@@ -1,0 +1,24 @@
+SUBJECT: A Simple Way to Help Visitors Find Their Place at The Clay Lady’s Campus
+
+Hi Danielle and team,
+
+I love how The Clay Lady’s Campus brings Nashville’s clay community together—whether someone is looking for classes, workshops, supplies, or just inspiration.
+
+I’m Zac Slay, founder of SlayDigital.ai. We build simple, custom AI chat agents that turn your website’s content into a friendly guide for visitors—helping answer questions quickly, so you can spend more time nurturing creativity and less time on repetitive emails.
+
+To show what this could look like for your site, we’ve created a short demo:  
+https://slaydigital.fly.dev/site/theclaylady_com  
+Just click the chat icon in the bottom-right corner and type your question—answers come straight from information already on your site.
+
+You can try asking things like:
+- When do class registrations open and how does the waitlist work?
+- What workshops are available for beginners or families?
+- How do I book a field trip for my school group?
+- What are Mid-South Ceramics store hours?
+- How can I see or purchase work from your resident artists?
+
+If making your website even more helpful for newcomers and regulars sounds worthwhile, I’d be happy to chat further or let you test the agent on your own.
+
+Wishing you and your artists a great week,  
+Zac Slay  
+SlayDigital.ai
