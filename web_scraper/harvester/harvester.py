@@ -55,7 +55,11 @@ async def harvest_html(url, config):
         
         logger.debug("Loading page with Playwright...")
         try:
-            await page.goto(url, wait_until='networkidle', timeout=effective_timeout * 1000)
+            response = await page.goto(url, wait_until='networkidle', timeout=effective_timeout * 1000)
+            if response and response.status == 403:
+                error_msg = f"Received 403 Forbidden status for {url}"
+                logger.error(error_msg)
+                raise RuntimeError(error_msg)
             logger.debug("Page loaded successfully")
         except PlaywrightTimeoutError as e:
             timeout_occurred = True

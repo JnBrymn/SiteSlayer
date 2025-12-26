@@ -120,6 +120,19 @@ async def execute(target_url):
             logger.error(error_msg)
             write_error_to_file(site_dir, error_msg)
             return
+        
+        # Check if content file exists and has sufficient content
+        if content_file and Path(content_file).exists():
+            try:
+                with open(content_file, 'r', encoding='utf-8') as f:
+                    content_length = len(f.read())
+                if content_length < 1000:
+                    error_msg = f"Content file is too small ({content_length} characters) - likely incomplete or blocked"
+                    logger.error(error_msg)
+                    write_error_to_file(site_dir, error_msg)
+                    return
+            except Exception as e:
+                logger.warning(f"Failed to check content file length: {str(e)}")
             
         logger.info(f"Crawl complete. Total pages scraped: {len(crawl_results)}")
 

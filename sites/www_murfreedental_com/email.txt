@@ -1,24 +1,23 @@
-SUBJECT: Helping Murfree Dental Patients Get Answers—Instantly
+SUBJECT: A Simple Way to Answer Your Patients’ Top Questions—Instantly
 
-Hi Dr. Murfree and team,
+Hi Dr. Murfree and the Murfree Dental team,
 
-I love how welcoming and thorough your website is—it’s clear you prioritize both advanced care and making patients feel at ease. I’m Zac Slay, founder of SlayDigital.ai. We help local practices like yours reduce repetitive questions and make it even easier for patients to get the information they need, right from your website.
+I’m Zac Slay, founder of SlayDigital.ai, and I wanted to share something that could make life a little easier for your team—and more welcoming for your patients.
 
-We build simple custom AI web agents that let visitors chat directly with your site’s existing content—no extra tech speak or complexity. You can see a working demo, based on your own site, here: https://slaydigital.fly.dev/site/www_murfreedental_com
+We build simple, custom AI chat agents that use the content already on your website to instantly answer visitor questions, right from your site. No technical jargon, just practical help for new and returning patients alike.
 
-Just click the chat icon in the bottom-right corner to open the box and ask a question—your virtual agent replies instantly with answers from your current pages.
+To see how this works, here’s a personalized demo based on your website: https://slaydigital.fly.dev/site/www_murfreedental_com. Just click the chat icon in the bottom-right corner and type a question—your virtual agent will answer using information from your site.
 
 You can try asking things like:
-- “What dental insurance plans do you accept?”
-- “How does your in-house payment plan work?”
-- “What’s the process for getting dental implants?”
-- “What are your hours, and how do I request an appointment?”
-- “Do you offer sedation for anxious patients?”
+- Are you accepting new patients?  
+- What financial options or in-house plans do you offer?  
+- How do I schedule an appointment or fill out forms?  
+- What dental technology do you use?  
+- Do you provide sedation or emergency dental care?
 
-We built this to make your office even more approachable—for both new and returning patients—while freeing up your staff from answering the same quick questions.
+It’s a quick way to cut down on phone calls and make sure your patients always feel informed and supported. If you’d like to talk about making this part of your real website, just let me know—no pressure.
 
-Would you like to see how this could work for your real site? Happy to chat or set up a short call—just let me know.
+Wishing you and your staff a wonderful week,
 
-Warm regards,  
 Zac Slay  
 Founder, SlayDigital.ai
