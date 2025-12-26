@@ -273,6 +273,48 @@ async def execute_with_semaphore(semaphore, url):
         await execute(url)
 
 
+def cleanup_orphaned_directories(urls):
+    """
+    Clean up site directories that don't correspond to any provided URLs.
+    
+    Args:
+        urls (list): List of URLs to compare against existing directories
+    """
+    logger = setup_logger(__name__)
+    logger.info("Cleaning up orphaned site directories")
+    
+    # Convert URLs to directory names and find directories to keep
+    expected_dirs = set()
+    for url in urls:
+        # Ensure URL has proper scheme for sanitize_domain
+        if not url.startswith(('http://', 'https://')):
+            url = f"https://{url}"
+        domain = sanitize_domain(url)
+        expected_dirs.add(domain)
+    
+    # Get all directories in sites folder
+    sites_dir = Path('sites')
+    if sites_dir.exists() and sites_dir.is_dir():
+        existing_dirs = [d.name for d in sites_dir.iterdir() if d.is_dir()]
+        
+        # Find directories that don't match any expected directory
+        dirs_to_delete = [d for d in existing_dirs if d not in expected_dirs]
+        
+        if dirs_to_delete:
+            logger.info(f"Found {len(dirs_to_delete)} orphaned directory(ies) to delete")
+            for dir_name in dirs_to_delete:
+                dir_path = sites_dir / dir_name
+                try:
+                    shutil.rmtree(dir_path)
+                    logger.info(f"Deleted orphaned directory: {dir_path}")
+                except Exception as e:
+                    logger.error(f"Failed to delete directory {dir_path}: {str(e)}", exc_info=True)
+        else:
+            logger.info("No orphaned directories found")
+    else:
+        logger.info("Sites directory does not exist - nothing to clean up")
+
+
 def main():
     """Main entry point - handles command line args or loads sites_to_scrape.txt"""
     logger = setup_logger(__name__)
@@ -300,9 +342,7 @@ def main():
             logger.error(f"Failed to read sites_to_scrape.txt: {str(e)}", exc_info=True)
             return
     
-    if not urls:
-        logger.error("No URLs provided")
-        return
+    cleanup_orphaned_directories(urls)
     
     logger.info(f"Processing {len(urls)} URL(s)...")
     

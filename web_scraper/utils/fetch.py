@@ -279,4 +279,3 @@ async def fetch_page_with_js(url: str, config) -> Optional[str]:
     except Exception as e:
         logger.error(f"Error fetching with JavaScript {url}: {str(e)}", exc_info=True)
         return None
-π

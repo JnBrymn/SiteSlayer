@@ -1,0 +1,22 @@
+SUBJECT: Helping Patients Find Answers Faster at Dentistry of Nashville
+
+Hi there,
+
+I’ve been browsing Dentistry of Nashville’s website and was impressed by how your team blends tradition, technology, and a warm, family-friendly touch. Making every patient feel at home is clearly at the heart of your practice.
+
+I’m Zac, founder of SlayDigital.ai. We create simple, custom AI chat agents that sit right on your website—designed to help visitors quickly get clear answers from your site’s own content, without adding extra work for your staff or complexity for your patients.
+
+To show you what I mean, I set up a quick mock version of your website here: https://slaydigital.fly.dev/site/dentistryofnashville_com. Just click the chat icon in the bottom-right corner to open the chat box, then type any question a visitor might have—the agent responds instantly, pulling from information already on your site.
+
+You can try asking things like:
+- “What types of dental services do you provide?”
+- “How does your CEREC same-day crown process work?”
+- “Who are your dentists, and what are their backgrounds?”
+- “What are your office hours and how do I schedule an appointment?”
+- “Do you offer LANAP laser treatment for gum disease?”
+
+If you think this kind of tool could help your patients or free up your team from answering repetitive questions, I’d love to hear your thoughts. No pressure—just let me know if you’d like to chat about it.
+
+Best,  
+Zac Slay  
+SlayDigital.ai
