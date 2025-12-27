@@ -1,27 +1,24 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: Belle Meade Family Dentistry <info@bellemeadedental.com>
-SUBJECT: Simple way to answer patient questions—see a live example on your practice site
+SUBJECT: Helping Your Patients Get Answers Faster—See a Demo on Your Site
 
 -----------------------------------------
 Hi Belle Meade Family Dentistry team,
 
-I’m reaching out after browsing your website and seeing the thoughtful, patient-first approach you bring to dental care in Nashville. It’s clear you’re passionate about helping patients feel comfortable and informed, whether they’re booking a first visit or considering advanced treatment like implants.
+I noticed how much you prioritize patient comfort and clarity, whether someone is looking for cosmetic improvements, dental implants, or just a routine checkup. Your reputation for personal, attentive care is obvious—and I think you’ll appreciate a simple way to make your website even more helpful for new and returning patients.
 
-I wanted to share something practical that can help make your website even more welcoming for new and existing patients: a custom AI web agent from SlayDigital.ai. Our simple, embedded chat agent helps visitors find answers instantly—using information already on your site—so your team spends less time on repeat questions and your patients get clarity right away.
+At SlayDigital.ai, we build custom AI chat agents that let visitors ask questions and get instant, accurate answers using your existing site content. No confusing tech or big changes—just clearer information and less time spent on repetitive calls.
 
-I’ve set up a quick demo using your own site:  
-https://slaydigital.fly.dev/site/www_bellemeadedental_com  
-Click the chat icon in the bottom right to open the chat box and ask a question—no forms or logins needed.
+You can check out a live mockup on your site here: https://slaydigital.fly.dev/site/www_bellemeadedental_com. Just click the chat icon in the bottom-right corner, type a question, and the agent will answer using information from your website.
 
 You can try asking things like:
-- What dental implant options are available, and how do they work?
-- Do you offer sedation for anxious patients?
-- How do I schedule a new patient appointment or consultation?
-- What’s included in your cosmetic dentistry services?
-- Do you accept dental insurance or offer payment plans?
+- What types of dental implants do you offer?
+- How does your financing process work for cosmetic treatments?
+- Do you offer sedation options for anxious patients?
+- How do I book a first-time appointment online?
+- Who are your dentists and what are their backgrounds?
 
-If you’d like to discuss how this could fit seamlessly onto your real website, just reply or let me know a good time to connect—no pressure at all.
+If you think this tool might save your team time—or help patients make confident decisions—I’d be happy to chat. No pressure, just let me know if you’d like to explore next steps.
 
-Thanks for everything you do for Nashville smiles,
-Zac  
-SlayDigital.ai
+Best,
+Zac

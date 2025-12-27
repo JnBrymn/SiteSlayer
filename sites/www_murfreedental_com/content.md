@@ -340,79 +340,6 @@ Murfree Dental deserves more than 5 stars! Their customer service is fantastic. 
 
 [Request Appointment](https://flexbook.me/MURFREE)
 
-# Contact Your Dentist in Murfreesboro, Tennessee
-
-Thank you for visiting Murfree Dental online! We are pleased to welcome new and familiar faces at our office. We have a variety of services and stay up to date with the latest technology to ensure you have a comfortable dental experience. Give us a call today at 615-893-1770 to schedule an appointment with Dr. John Murfree and join our dental family today!
-
-Our compassionate dentist and team is proud to serve comprehensive dentistry in Murfreesboro, Tennessee, and its surrounding areas of Walterhill, Kittrell, Milton, Smyrna, Lascassas, Rockvale, Woodbury, Bradyville, Eagleville, Auburntown, Readyville and Christiana, Tennessee.
-
-### Hours
-
-| Day | Hours |
-| --- | --- |
-| Monday | 9:00 a.m. - 5:00 p.m. |
-| Tuesday | 9:00 a.m. - 6:00 p.m. |
-| Wednesday | Closed |
-| Thursday | 9:00 a.m. - 5:00 p.m. |
-| Friday | Closed |
-| Saturday | Closed |
-| Sunday | Closed |
-
-### Contact
-
-615-893-1770
-
-1140 Dow St.   
-Murfreesboro, TN 37130
-
-#### Patient Reviews
-
-## Melody T.
-
-I am not a patient of Dr. Murfree , but he was kind enough to repair my veneer as a favor for my dentist . This was done on the very same day that I called his office on short notice. I appreciate his care and professionalism. He did a great job with the repair.
-
-## Debarah T.
-
-My first visit today was really nice! Dr Murfree gets a thumbs up 👍 questions were answered and everything explained. I'm glad I choose Murfree Dental. An excellent visit! Very nice staff. I recommend this clean, friendly place.
-
-## Macy O.
-
-Murfree Dental deserves more than 5 stars! Their customer service is fantastic. Their work is virtually painless! For anyone who dreads going to the dentist, I highly recommend them! Very caring, attentive, and friendly staff!
-
-#### Hours
-
-| Day | Hours |
-| --- | --- |
-| Monday | 9:00 a.m. - 5:00 p.m. |
-| Tuesday | 9:00 a.m. - 6:00 p.m. |
-| Wednesday | Closed |
-| Thursday | 9:00 a.m. - 5:00 p.m. |
-| Friday | Closed |
-| Saturday | Closed |
-| Sunday | Closed |
-
-#### Have Questions?
-
-First Name
-
-Last Name
-
-EmailPhone
-
-Message
-
-Submit
-
----
-
-[615-893-1770](tel:615-893-1770)
-
-[1140 Dow St. , Murfreesboro, TN 37130](/contact/)
-
-[![logo](/wp-content/themes/charlie-child/images/logo.png)](https://www.murfreedental.com)
-
-[Request Appointment](https://flexbook.me/MURFREE)
-
 # Services
 
 At Murfree Dental, we are committed to providing the highest standard of dental care to ensure a lifetime of healthy smiles. Our dentist and team offer a variety of services and utilize state-of-the-art technology to craft a treatment plan just for you. These include:
@@ -489,9 +416,92 @@ Murfree Dental deserves more than 5 stars! Their customer service is fantastic. 
 
 [Request Appointment](https://flexbook.me/MURFREE)
 
-# Dental Implants in Murfreesboro, TN
+# Contact Your Dentist in Murfreesboro, Tennessee
 
-Missing teeth? Dental implants can restore your smile, oral health and oral function! [Dr. John Murfree](https://www.murfreedental.com/about-us/meet-our-doctor/) often recommends implants to replace missing teeth as they are considered the ideal option for not only your appearance but also your long-term oral health. [Call Murfree Dental](https://www.murfreedental.com/contact/) today at 615-893-1770 to learn more about dental implants in Murfreesboro, Tennessee, and schedule your consultation with our experienced dentist.
+Thank you for visiting Murfree Dental online! We are pleased to welcome new and familiar faces at our office. We have a variety of services and stay up to date with the latest technology to ensure you have a comfortable dental experience. Give us a call today at 615-893-1770 to schedule an appointment with Dr. John Murfree and join our dental family today!
+
+Our compassionate dentist and team is proud to serve comprehensive dentistry in Murfreesboro, Tennessee, and its surrounding areas of Walterhill, Kittrell, Milton, Smyrna, Lascassas, Rockvale, Woodbury, Bradyville, Eagleville, Auburntown, Readyville and Christiana, Tennessee.
+
+### Hours
+
+| Day | Hours |
+| --- | --- |
+| Monday | 9:00 a.m. - 5:00 p.m. |
+| Tuesday | 9:00 a.m. - 6:00 p.m. |
+| Wednesday | Closed |
+| Thursday | 9:00 a.m. - 5:00 p.m. |
+| Friday | Closed |
+| Saturday | Closed |
+| Sunday | Closed |
+
+### Contact
+
+615-893-1770
+
+1140 Dow St.   
+Murfreesboro, TN 37130
+
+#### Patient Reviews
+
+## Melody T.
+
+I am not a patient of Dr. Murfree , but he was kind enough to repair my veneer as a favor for my dentist . This was done on the very same day that I called his office on short notice. I appreciate his care and professionalism. He did a great job with the repair.
+
+## Debarah T.
+
+My first visit today was really nice! Dr Murfree gets a thumbs up 👍 questions were answered and everything explained. I'm glad I choose Murfree Dental. An excellent visit! Very nice staff. I recommend this clean, friendly place.
+
+## Macy O.
+
+Murfree Dental deserves more than 5 stars! Their customer service is fantastic. Their work is virtually painless! For anyone who dreads going to the dentist, I highly recommend them! Very caring, attentive, and friendly staff!
+
+#### Hours
+
+| Day | Hours |
+| --- | --- |
+| Monday | 9:00 a.m. - 5:00 p.m. |
+| Tuesday | 9:00 a.m. - 6:00 p.m. |
+| Wednesday | Closed |
+| Thursday | 9:00 a.m. - 5:00 p.m. |
+| Friday | Closed |
+| Saturday | Closed |
+| Sunday | Closed |
+
+#### Have Questions?
+
+First Name
+
+Last Name
+
+EmailPhone
+
+Message
+
+Submit
+
+---
+
+[615-893-1770](tel:615-893-1770)
+
+[1140 Dow St. , Murfreesboro, TN 37130](/contact/)
+
+[![logo](/wp-content/themes/charlie-child/images/logo.png)](https://www.murfreedental.com)
+
+[Request Appointment](https://flexbook.me/MURFREE)
+
+# Patient Resources
+
+At Murfree Dental, you are our top priority. To ensure you have a successful visit with Dr. John Murfree, we invite you to review our patient resources below. These will give you a good insight into our financial options and the quality of work we strive to provide.
+
+- [FAQ](https://www.murfreedental.com/patient-resources/faq/)
+- [Financial Options](https://www.murfreedental.com/patient-resources/financial-options/)
+- [Gallery](https://www.murfreedental.com/patient-resources/gallery/)
+- [Post-Op Instructions](https://www.murfreedental.com/patient-resources/post-op-instructions/)
+- [Refer a Friend](https://www.murfreedental.com/patient-resources/refer-a-friend/)
+- [Reviews](https://www.murfreedental.com/patient-resources/reviews/)
+- [Special Offers](https://www.murfreedental.com/patient-resources/special-offers/)
+
+If you have any questions about these resources before you meet with our dentist in Murfreesboro, Tennessee, please do not hesitate to give us a call at 615-893-1770.
 
 #### Patient Reviews
 
@@ -531,58 +541,11 @@ Murfree Dental deserves more than 5 stars! Their customer service is fantastic. 
 
 [Request Appointment](https://flexbook.me/MURFREE)
 
-# Dental Technology
+# Patient Forms
 
-Here at Murfree Dental, we use state-of-the-art dental technology to provide your dental care. By combining experience with advanced technology, our dentist and team can ensure that your treatments meet your needs and that you receive the best possible results from your care. We invite you to call us at 615-893-1770 to schedule your consultation with Dr. John Murfree and learn more about dental technology in Murfreesboro, Tennessee.
+Not a fan of long wait periods? If so, we invite you to fill out our digital patient forms to knock these off your to-do list and save time at your appointment here at Murfree Dental. These are quick to fill out and allow our dentist and team in Murfreesboro, Tennessee, to be aware of any health concerns. If you have any questions about these patient forms before you meet with Dr. John Murfree, please do not hesitate to contact us at 615-893-1770.
 
-- [3D Printing](https://www.murfreedental.com/services/dental-technology/3d-printing/)
-- [Cone Beam 3D Imaging](https://www.murfreedental.com/services/dental-technology/cone-beam-3d-imaging/)
-- [Digital X-Rays](https://www.murfreedental.com/services/dental-technology/digital-x-rays/)
-- [Intraoral Camera](https://www.murfreedental.com/services/dental-technology/intraoral-camera/)
-- [Laser Dentistry](https://www.murfreedental.com/services/dental-technology/laser-dentistry/)
-- [Panoramic X-Rays](https://www.murfreedental.com/services/dental-technology/panoramic-x-rays/)
-
-#### Patient Reviews
-
-## Melody T.
-
-I am not a patient of Dr. Murfree , but he was kind enough to repair my veneer as a favor for my dentist . This was done on the very same day that I called his office on short notice. I appreciate his care and professionalism. He did a great job with the repair.
-
-## Debarah T.
-
-My first visit today was really nice! Dr Murfree gets a thumbs up 👍 questions were answered and everything explained. I'm glad I choose Murfree Dental. An excellent visit! Very nice staff. I recommend this clean, friendly place.
-
-## Macy O.
-
-Murfree Dental deserves more than 5 stars! Their customer service is fantastic. Their work is virtually painless! For anyone who dreads going to the dentist, I highly recommend them! Very caring, attentive, and friendly staff!
-
-| Day | Hours |
-| --- | --- |
-| Monday | 9:00 a.m. - 5:00 p.m. |
-| Tuesday | 9:00 a.m. - 6:00 p.m. |
-| Wednesday | Closed |
-| Thursday | 9:00 a.m. - 5:00 p.m. |
-| Friday | Closed |
-| Saturday | Closed |
-| Sunday | Closed |
-
-## New Patients Welcome
-
-[Request Appointment](https://flexbook.me/MURFREE) [Contact Us](/contact/)
-
----
-
-[615-893-1770](tel:615-893-1770)
-
-[1140 Dow St. , Murfreesboro, TN 37130](/contact/)
-
-[![logo](/wp-content/themes/charlie-child/images/logo.png)](https://www.murfreedental.com)
-
-[Request Appointment](https://flexbook.me/MURFREE)
-
-# Dental Veneers
-
-Bothered by chipped, gapped or discolored teeth? We can help with dental veneers at Murfree Dental. These are tiny shells made with natural-looking material to craft the smile you have always desired. If you have any questions about dental veneers in Murfreesboro, Tennessee, and would like to schedule a consultation with our dentist, Dr. John Murfree, please call us at 615-893-1770.
+[View Patient Form](https://forms.dentalqore.com/view/11033/0)
 
 #### Patient Reviews
 
@@ -730,9 +693,9 @@ Murfree Dental deserves more than 5 stars! Their customer service is fantastic. 
 
 [Request Appointment](https://flexbook.me/MURFREE)
 
-# Looking for a New Dentist in Murfreesboro, Tennessee?
+# Dental Implants in Murfreesboro, TN
 
-Here at Murfree Dental, we value the feedback we receive from our patients. We invite you to read through the reviews below to learn why people trust Dr. John Murfree for their dental needs. After your appointment, we would love to hear about your experience. Call us today at 615-893-1770 to schedule your first visit with our dentist and learn more about our dental services in Murfreesboro, Tennessee.
+Missing teeth? Dental implants can restore your smile, oral health and oral function! [Dr. John Murfree](https://www.murfreedental.com/about-us/meet-our-doctor/) often recommends implants to replace missing teeth as they are considered the ideal option for not only your appearance but also your long-term oral health. [Call Murfree Dental](https://www.murfreedental.com/contact/) today at 615-893-1770 to learn more about dental implants in Murfreesboro, Tennessee, and schedule your consultation with our experienced dentist.
 
 #### Patient Reviews
 
@@ -772,25 +735,150 @@ Murfree Dental deserves more than 5 stars! Their customer service is fantastic. 
 
 [Request Appointment](https://flexbook.me/MURFREE)
 
-# Gallery
+# Cosmetic Dentistry in Murfreesboro, TN
 
-Are you looking to improve the appearance of your smile? If so, we invite you to look through our before and after gallery to see what Dr. John Murfree can do for you. Our dentist and team have a variety of [cosmetic](/services/cosmetic-dentistry/) and [restorative](/services/restorative-dentistry/) treatments in Murfreesboro, Tennessee, to choose from and will work with you to create a treatment plan just for you. Call Murfree Dental today at 615-893-1770 to schedule an appointment to take the first step towards a more confident smile.
+Are you embarrassed to flaunt your full smile when posing for the camera? If so, come visit [Dr. John Murfree](https://www.murfreedental.com/about-us/meet-our-doctor/) for cosmetic dentistry at [Murfree Dental](https://www.murfreedental.com/about-us/). We have a variety of treatments to choose from to help enhance your smile and self-confidence. [Contact us today](https://www.murfreedental.com/contact/) at 615-893-1770 to schedule a consultation with our dentist and learn more about cosmetic dentistry in Murfreesboro, Tennessee.
 
-![](/wp-content/themes/charlie-child/images/galleries/gallery/medium_Before-Deb.jpg)
+- [Dental Bonding](https://www.murfreedental.com/services/cosmetic-dentistry/dental-bonding/)
+- [Dental Veneers](https://www.murfreedental.com/services/cosmetic-dentistry/dental-veneers/)
+- [Invisalign®](https://www.murfreedental.com/services/cosmetic-dentistry/invisalign/)
+- [Smile Design](https://www.murfreedental.com/services/cosmetic-dentistry/smile-design/)
+- [Teeth Whitening](https://www.murfreedental.com/services/cosmetic-dentistry/teeth-whitening/)
 
-![](/wp-content/themes/charlie-child/images/galleries/gallery/medium_After-Deb.jpg)
+#### Patient Reviews
 
-![](/wp-content/themes/charlie-child/images/galleries/gallery/medium_Before-Eddie.jpg)
+## Melody T.
 
-![](/wp-content/themes/charlie-child/images/galleries/gallery/medium_After-Eddie.jpg)
+I am not a patient of Dr. Murfree , but he was kind enough to repair my veneer as a favor for my dentist . This was done on the very same day that I called his office on short notice. I appreciate his care and professionalism. He did a great job with the repair.
 
-![](/wp-content/themes/charlie-child/images/galleries/gallery/medium_Before-Donny.jpg)
+## Debarah T.
 
-![](/wp-content/themes/charlie-child/images/galleries/gallery/medium_After-Donny.jpg)
+My first visit today was really nice! Dr Murfree gets a thumbs up 👍 questions were answered and everything explained. I'm glad I choose Murfree Dental. An excellent visit! Very nice staff. I recommend this clean, friendly place.
 
-![](/wp-content/themes/charlie-child/images/galleries/gallery/medium_Before-Lisa.jpg)
+## Macy O.
 
-![](/wp-content/themes/charlie-child/images/galleries/gallery/medium_After-Lisa.jpg)
+Murfree Dental deserves more than 5 stars! Their customer service is fantastic. Their work is virtually painless! For anyone who dreads going to the dentist, I highly recommend them! Very caring, attentive, and friendly staff!
+
+| Day | Hours |
+| --- | --- |
+| Monday | 9:00 a.m. - 5:00 p.m. |
+| Tuesday | 9:00 a.m. - 6:00 p.m. |
+| Wednesday | Closed |
+| Thursday | 9:00 a.m. - 5:00 p.m. |
+| Friday | Closed |
+| Saturday | Closed |
+| Sunday | Closed |
+
+## New Patients Welcome
+
+[Request Appointment](https://flexbook.me/MURFREE) [Contact Us](/contact/)
+
+---
+
+[615-893-1770](tel:615-893-1770)
+
+[1140 Dow St. , Murfreesboro, TN 37130](/contact/)
+
+[![logo](/wp-content/themes/charlie-child/images/logo.png)](https://www.murfreedental.com)
+
+[Request Appointment](https://flexbook.me/MURFREE)
+
+# Dental Technology
+
+Here at Murfree Dental, we use state-of-the-art dental technology to provide your dental care. By combining experience with advanced technology, our dentist and team can ensure that your treatments meet your needs and that you receive the best possible results from your care. We invite you to call us at 615-893-1770 to schedule your consultation with Dr. John Murfree and learn more about dental technology in Murfreesboro, Tennessee.
+
+- [3D Printing](https://www.murfreedental.com/services/dental-technology/3d-printing/)
+- [Cone Beam 3D Imaging](https://www.murfreedental.com/services/dental-technology/cone-beam-3d-imaging/)
+- [Digital X-Rays](https://www.murfreedental.com/services/dental-technology/digital-x-rays/)
+- [Intraoral Camera](https://www.murfreedental.com/services/dental-technology/intraoral-camera/)
+- [Laser Dentistry](https://www.murfreedental.com/services/dental-technology/laser-dentistry/)
+- [Panoramic X-Rays](https://www.murfreedental.com/services/dental-technology/panoramic-x-rays/)
+
+#### Patient Reviews
+
+## Melody T.
+
+I am not a patient of Dr. Murfree , but he was kind enough to repair my veneer as a favor for my dentist . This was done on the very same day that I called his office on short notice. I appreciate his care and professionalism. He did a great job with the repair.
+
+## Debarah T.
+
+My first visit today was really nice! Dr Murfree gets a thumbs up 👍 questions were answered and everything explained. I'm glad I choose Murfree Dental. An excellent visit! Very nice staff. I recommend this clean, friendly place.
+
+## Macy O.
+
+Murfree Dental deserves more than 5 stars! Their customer service is fantastic. Their work is virtually painless! For anyone who dreads going to the dentist, I highly recommend them! Very caring, attentive, and friendly staff!
+
+| Day | Hours |
+| --- | --- |
+| Monday | 9:00 a.m. - 5:00 p.m. |
+| Tuesday | 9:00 a.m. - 6:00 p.m. |
+| Wednesday | Closed |
+| Thursday | 9:00 a.m. - 5:00 p.m. |
+| Friday | Closed |
+| Saturday | Closed |
+| Sunday | Closed |
+
+## New Patients Welcome
+
+[Request Appointment](https://flexbook.me/MURFREE) [Contact Us](/contact/)
+
+---
+
+[615-893-1770](tel:615-893-1770)
+
+[1140 Dow St. , Murfreesboro, TN 37130](/contact/)
+
+[![logo](/wp-content/themes/charlie-child/images/logo.png)](https://www.murfreedental.com)
+
+[Request Appointment](https://flexbook.me/MURFREE)
+
+# Sedation Dentistry
+
+At Murfree Dental, we prioritize patient comfort by offering sedation dentistry. Our trained professionals administer safe and effective sedatives, ensuring a calm and anxiety-free experience. If you have any questions about sedation dentistry in Murfreesboro, Tennessee, before you undergo a dental procedure with our dentist, Dr. John Murfree, please call us at 615-893-1770.
+
+- [Oral Conscious Sedation](https://www.murfreedental.com/services/sedation-dentistry/oral-sedation/)
+
+#### Patient Reviews
+
+## Melody T.
+
+I am not a patient of Dr. Murfree , but he was kind enough to repair my veneer as a favor for my dentist . This was done on the very same day that I called his office on short notice. I appreciate his care and professionalism. He did a great job with the repair.
+
+## Debarah T.
+
+My first visit today was really nice! Dr Murfree gets a thumbs up 👍 questions were answered and everything explained. I'm glad I choose Murfree Dental. An excellent visit! Very nice staff. I recommend this clean, friendly place.
+
+## Macy O.
+
+Murfree Dental deserves more than 5 stars! Their customer service is fantastic. Their work is virtually painless! For anyone who dreads going to the dentist, I highly recommend them! Very caring, attentive, and friendly staff!
+
+| Day | Hours |
+| --- | --- |
+| Monday | 9:00 a.m. - 5:00 p.m. |
+| Tuesday | 9:00 a.m. - 6:00 p.m. |
+| Wednesday | Closed |
+| Thursday | 9:00 a.m. - 5:00 p.m. |
+| Friday | Closed |
+| Saturday | Closed |
+| Sunday | Closed |
+
+## New Patients Welcome
+
+[Request Appointment](https://flexbook.me/MURFREE) [Contact Us](/contact/)
+
+---
+
+[615-893-1770](tel:615-893-1770)
+
+[1140 Dow St. , Murfreesboro, TN 37130](/contact/)
+
+[![logo](/wp-content/themes/charlie-child/images/logo.png)](https://www.murfreedental.com)
+
+[Request Appointment](https://flexbook.me/MURFREE)
+
+# Looking for a New Dentist in Murfreesboro, Tennessee?
+
+Here at Murfree Dental, we value the feedback we receive from our patients. We invite you to read through the reviews below to learn why people trust Dr. John Murfree for their dental needs. After your appointment, we would love to hear about your experience. Call us today at 615-893-1770 to schedule your first visit with our dentist and learn more about our dental services in Murfreesboro, Tennessee.
 
 #### Patient Reviews
 
@@ -844,92 +932,6 @@ At Murfree Dental, we are only in-network with PPO plans, no HMOs. For out-of-po
 Our dentist and team in Murfreesboro, Tennessee, also offer an in-house payment plan with Kleer® for patients without insurance.
 
 If you have any questions about these financial options before you meet with Dr. John Murfree, please contact us at 615-893-1770.
-
-#### Patient Reviews
-
-## Melody T.
-
-I am not a patient of Dr. Murfree , but he was kind enough to repair my veneer as a favor for my dentist . This was done on the very same day that I called his office on short notice. I appreciate his care and professionalism. He did a great job with the repair.
-
-## Debarah T.
-
-My first visit today was really nice! Dr Murfree gets a thumbs up 👍 questions were answered and everything explained. I'm glad I choose Murfree Dental. An excellent visit! Very nice staff. I recommend this clean, friendly place.
-
-## Macy O.
-
-Murfree Dental deserves more than 5 stars! Their customer service is fantastic. Their work is virtually painless! For anyone who dreads going to the dentist, I highly recommend them! Very caring, attentive, and friendly staff!
-
-| Day | Hours |
-| --- | --- |
-| Monday | 9:00 a.m. - 5:00 p.m. |
-| Tuesday | 9:00 a.m. - 6:00 p.m. |
-| Wednesday | Closed |
-| Thursday | 9:00 a.m. - 5:00 p.m. |
-| Friday | Closed |
-| Saturday | Closed |
-| Sunday | Closed |
-
-## New Patients Welcome
-
-[Request Appointment](https://flexbook.me/MURFREE) [Contact Us](/contact/)
-
----
-
-[615-893-1770](tel:615-893-1770)
-
-[1140 Dow St. , Murfreesboro, TN 37130](/contact/)
-
-[![logo](/wp-content/themes/charlie-child/images/logo.png)](https://www.murfreedental.com)
-
-[Request Appointment](https://flexbook.me/MURFREE)
-
-# Patient Forms
-
-Not a fan of long wait periods? If so, we invite you to fill out our digital patient forms to knock these off your to-do list and save time at your appointment here at Murfree Dental. These are quick to fill out and allow our dentist and team in Murfreesboro, Tennessee, to be aware of any health concerns. If you have any questions about these patient forms before you meet with Dr. John Murfree, please do not hesitate to contact us at 615-893-1770.
-
-[View Patient Form](https://forms.dentalqore.com/view/11033/0)
-
-#### Patient Reviews
-
-## Melody T.
-
-I am not a patient of Dr. Murfree , but he was kind enough to repair my veneer as a favor for my dentist . This was done on the very same day that I called his office on short notice. I appreciate his care and professionalism. He did a great job with the repair.
-
-## Debarah T.
-
-My first visit today was really nice! Dr Murfree gets a thumbs up 👍 questions were answered and everything explained. I'm glad I choose Murfree Dental. An excellent visit! Very nice staff. I recommend this clean, friendly place.
-
-## Macy O.
-
-Murfree Dental deserves more than 5 stars! Their customer service is fantastic. Their work is virtually painless! For anyone who dreads going to the dentist, I highly recommend them! Very caring, attentive, and friendly staff!
-
-| Day | Hours |
-| --- | --- |
-| Monday | 9:00 a.m. - 5:00 p.m. |
-| Tuesday | 9:00 a.m. - 6:00 p.m. |
-| Wednesday | Closed |
-| Thursday | 9:00 a.m. - 5:00 p.m. |
-| Friday | Closed |
-| Saturday | Closed |
-| Sunday | Closed |
-
-## New Patients Welcome
-
-[Request Appointment](https://flexbook.me/MURFREE) [Contact Us](/contact/)
-
----
-
-[615-893-1770](tel:615-893-1770)
-
-[1140 Dow St. , Murfreesboro, TN 37130](/contact/)
-
-[![logo](/wp-content/themes/charlie-child/images/logo.png)](https://www.murfreedental.com)
-
-[Request Appointment](https://flexbook.me/MURFREE)
-
-# Laser Dentistry
-
-Dr. John Murfree offers laser dentistry in Murfreesboro, Tennessee, to provide you with more precise, comfortable and effective care. Dental lasers are highly versatile and can be used in a number of different treatments to improve your oral health and smile. To schedule an appointment with our dentist and learn more about laser dentistry, contact Murfree Dental at 615-893-1770.
 
 #### Patient Reviews
 

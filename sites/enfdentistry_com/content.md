@@ -976,159 +976,6 @@ We’re here to help repair and protect your smile with skilled, compassionate c
 
 ---
 
-# Dentures & Implant Dentures in Nashville
-
-Keep your smile bright and strong with East Nashville Family Dentistry
-
-[Call: (615) 610-1680](tel:+16156101680) 
-[Book an Appointment](https://rwl.io/3Ur20mr)
-
-Replace Missing Teeth
-
-## Smile With Confidence
-
-Dentures and implant dentures restore your smile and help you regain normal function after tooth loss. East Nashville Family Dentistry provides dentures and partial dentures with expert care and advanced techniques. Enjoy a natural, comfortable fit with skilled care in Nashville.
-
-![](https://enfdentistry.com/wp-content/uploads/2025/07/dentures-1.webp)
-
-### Why They Matter
-
-Dentures improve your quality of life by replacing missing teeth effectively.
-
-- Restore your smile beautifully and naturally
-- Support facial structure and lip muscles
-- Improve chewing, speaking, and comfort
-- Prevent bone loss and shifting of teeth
-
-Trust East Nashville Family Dentistry for dentures and partial dentures that fit and function perfectly.
-
-## Expert Dentures & Implant Dentures in Nashville
-
-## Why Choose East Nashville Family Dentistry
-
-![Tailored Dental Plans](https://enfdentistry.com/wp-content/uploads/2025/04/High-Quality-Materials.png)
-
-### Tailored Dental Plans
-
-We provide personalized care for every patient. Our team listens to your concerns, evaluates your needs, and creates a plan that fits your goals and lifestyle.
-
-![Comfort Focus](https://enfdentistry.com/wp-content/uploads/2025/04/Patient-Comfort.png)
-
-### Comfort Focus
-
-We use precise techniques to ensure a comfortable fit and natural appearance. Our staff keeps you at ease through every step of the process.
-
-![Gentle Treatment](https://enfdentistry.com/wp-content/uploads/2025/04/dentist-team.png)
-
-### Gentle Treatment
-
-With advanced tools and skilled dentists, we create dentures that feel natural and secure. Our team helps you adjust easily to your new smile.
-
-![Patient Satisfaction](https://enfdentistry.com/wp-content/uploads/2025/04/dental-awards.png)
-
-### Patient Satisfaction
-
-Patient Satisfaction
-
-![](https://enfdentistry.com/wp-content/uploads/2025/07/dentures-2.webp)
-
-## How Dentures & Implant Dentures Supports Your Oral Health
-
-Improved Chewing
-
-Dentures restore your ability to chew comfortably and enjoy a wider variety of foods again.
-
-Facial Support
-
-They help maintain the shape of your face, preventing sagging or sunken features caused by missing teeth.
-
-Better Speech
-
-Replacing teeth improves clarity and confidence when speaking with others.
-
-Bone Preservation
-
-Implant dentures help reduce bone loss by stimulating the jawbone with secure support.
-
-Custom Fit
-
-Each denture is crafted to fit your mouth perfectly, ensuring a natural feel and look.
-
-## Comfortable Care, Trusted Results
-
-## The Dentures & Implant Dentures Process
-
-### Schedule Your Appointment
-
-Call us to book a time that fits your schedule. Our team makes it easy and convenient to plan your visit.
-
-### Comprehensive Consultation
-
-We examine your gums, discuss your options, and determine the best denture solution for you.
-
-### Teeth Extractions
-
-If needed, we remove any remaining teeth gently and prepare your mouth for your new dentures.
-
-### Precise Impressions
-
-We take detailed impressions of your mouth to create dentures that fit perfectly and comfortably.
-
-### Placement & Adjustment
-
-We fit your dentures, make any needed adjustments, and show you how to care for them at home.
-
-![](https://enfdentistry.com/wp-content/uploads/2025/07/dentures-3.webp)
-
-### Maintaining Results After Your Visit
-
-After your dentures and implant dentures appointment at East Nashville Family Dentistry of Nashville, follow these steps to maintain good oral health:
-
-- Clean dentures daily
-- Remove and soak overnight if removable
-- Brush gums and tongue gently
-- Visit us for regular checkups
-
-Keep your dentures fitting well and looking great by caring for them properly every day.
-
-## What Our Patients Are Saying
-
-## Testimonials
-
-At East Nashville Family Dentistry of Nashville, our patients say it best. Here's what they're sharing through their Google Reviews about their experience with our care.
-
-## Frequently Asked Questions
-
-What are the benefits of getting dentures?
-
-Dentures improve chewing, speech, and appearance while supporting facial muscles. Our Nashville team ensures a secure, natural fit.
-
-What are partial dentures and when are they used?
-
-Partial dentures replace several missing teeth and protect your remaining teeth. They’re custom-made for comfort and function.
-
-How fast can I get my new dentures?
-
-Many patients receive same-day dentures after extractions, so you never have to be without teeth.
-
-Why choose East Nashville Family Dentistry for dentures?
-
-We offer personalized care, advanced options, and a skilled team dedicated to creating the perfect fit and look for you.
-
-How long do dentures last and how do I care for them?
-
-With proper care, dentures can last 5–10 years. Clean daily, avoid damage, and see us regularly for adjustments.
-
-## Book Your Dentures Consultation Today
-
-Contact East Nashville Family Dentistry of Nashville to book your dentures and implant dentures appointment.  
-We’re here to help you smile confidently again with expert, caring treatment.
-
-[Call: (615) 610-1680](tel:+16156101680) 
-[Book an Appointment](https://rwl.io/3Ur20mr)
-
----
-
 # Dental Implants in Nashville
 
 Keep your smile bright and strong with East Nashville Family Dentistry
@@ -1735,6 +1582,159 @@ Maintain good hygiene, visit us regularly, and wear a mouth guard during sports 
 
 Contact East Nashville Family Dentistry of Nashville to book your emergency dentistry appointment.  
 We’re here to provide fast relief and expert care whenever you need it most.
+
+[Call: (615) 610-1680](tel:+16156101680) 
+[Book an Appointment](https://rwl.io/3Ur20mr)
+
+---
+
+# Dentures & Implant Dentures in Nashville
+
+Keep your smile bright and strong with East Nashville Family Dentistry
+
+[Call: (615) 610-1680](tel:+16156101680) 
+[Book an Appointment](https://rwl.io/3Ur20mr)
+
+Replace Missing Teeth
+
+## Smile With Confidence
+
+Dentures and implant dentures restore your smile and help you regain normal function after tooth loss. East Nashville Family Dentistry provides dentures and partial dentures with expert care and advanced techniques. Enjoy a natural, comfortable fit with skilled care in Nashville.
+
+![](https://enfdentistry.com/wp-content/uploads/2025/07/dentures-1.webp)
+
+### Why They Matter
+
+Dentures improve your quality of life by replacing missing teeth effectively.
+
+- Restore your smile beautifully and naturally
+- Support facial structure and lip muscles
+- Improve chewing, speaking, and comfort
+- Prevent bone loss and shifting of teeth
+
+Trust East Nashville Family Dentistry for dentures and partial dentures that fit and function perfectly.
+
+## Expert Dentures & Implant Dentures in Nashville
+
+## Why Choose East Nashville Family Dentistry
+
+![Tailored Dental Plans](https://enfdentistry.com/wp-content/uploads/2025/04/High-Quality-Materials.png)
+
+### Tailored Dental Plans
+
+We provide personalized care for every patient. Our team listens to your concerns, evaluates your needs, and creates a plan that fits your goals and lifestyle.
+
+![Comfort Focus](https://enfdentistry.com/wp-content/uploads/2025/04/Patient-Comfort.png)
+
+### Comfort Focus
+
+We use precise techniques to ensure a comfortable fit and natural appearance. Our staff keeps you at ease through every step of the process.
+
+![Gentle Treatment](https://enfdentistry.com/wp-content/uploads/2025/04/dentist-team.png)
+
+### Gentle Treatment
+
+With advanced tools and skilled dentists, we create dentures that feel natural and secure. Our team helps you adjust easily to your new smile.
+
+![Patient Satisfaction](https://enfdentistry.com/wp-content/uploads/2025/04/dental-awards.png)
+
+### Patient Satisfaction
+
+Patient Satisfaction
+
+![](https://enfdentistry.com/wp-content/uploads/2025/07/dentures-2.webp)
+
+## How Dentures & Implant Dentures Supports Your Oral Health
+
+Improved Chewing
+
+Dentures restore your ability to chew comfortably and enjoy a wider variety of foods again.
+
+Facial Support
+
+They help maintain the shape of your face, preventing sagging or sunken features caused by missing teeth.
+
+Better Speech
+
+Replacing teeth improves clarity and confidence when speaking with others.
+
+Bone Preservation
+
+Implant dentures help reduce bone loss by stimulating the jawbone with secure support.
+
+Custom Fit
+
+Each denture is crafted to fit your mouth perfectly, ensuring a natural feel and look.
+
+## Comfortable Care, Trusted Results
+
+## The Dentures & Implant Dentures Process
+
+### Schedule Your Appointment
+
+Call us to book a time that fits your schedule. Our team makes it easy and convenient to plan your visit.
+
+### Comprehensive Consultation
+
+We examine your gums, discuss your options, and determine the best denture solution for you.
+
+### Teeth Extractions
+
+If needed, we remove any remaining teeth gently and prepare your mouth for your new dentures.
+
+### Precise Impressions
+
+We take detailed impressions of your mouth to create dentures that fit perfectly and comfortably.
+
+### Placement & Adjustment
+
+We fit your dentures, make any needed adjustments, and show you how to care for them at home.
+
+![](https://enfdentistry.com/wp-content/uploads/2025/07/dentures-3.webp)
+
+### Maintaining Results After Your Visit
+
+After your dentures and implant dentures appointment at East Nashville Family Dentistry of Nashville, follow these steps to maintain good oral health:
+
+- Clean dentures daily
+- Remove and soak overnight if removable
+- Brush gums and tongue gently
+- Visit us for regular checkups
+
+Keep your dentures fitting well and looking great by caring for them properly every day.
+
+## What Our Patients Are Saying
+
+## Testimonials
+
+At East Nashville Family Dentistry of Nashville, our patients say it best. Here's what they're sharing through their Google Reviews about their experience with our care.
+
+## Frequently Asked Questions
+
+What are the benefits of getting dentures?
+
+Dentures improve chewing, speech, and appearance while supporting facial muscles. Our Nashville team ensures a secure, natural fit.
+
+What are partial dentures and when are they used?
+
+Partial dentures replace several missing teeth and protect your remaining teeth. They’re custom-made for comfort and function.
+
+How fast can I get my new dentures?
+
+Many patients receive same-day dentures after extractions, so you never have to be without teeth.
+
+Why choose East Nashville Family Dentistry for dentures?
+
+We offer personalized care, advanced options, and a skilled team dedicated to creating the perfect fit and look for you.
+
+How long do dentures last and how do I care for them?
+
+With proper care, dentures can last 5–10 years. Clean daily, avoid damage, and see us regularly for adjustments.
+
+## Book Your Dentures Consultation Today
+
+Contact East Nashville Family Dentistry of Nashville to book your dentures and implant dentures appointment.  
+We’re here to help you smile confidently again with expert, caring treatment.
 
 [Call: (615) 610-1680](tel:+16156101680) 
 [Book an Appointment](https://rwl.io/3Ur20mr)

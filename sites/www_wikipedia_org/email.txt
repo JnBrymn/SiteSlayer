@@ -1,26 +1,25 @@
 FROM: Zac Slay <zac@slaydigital.ai>
-TO: Wikimedia Foundation <info@wikimedia.org>
-SUBJECT: Helping Wikipedia Visitors Find Answers Instantly—Quick Demo Inside
+TO: Wikipedia Foundation <info@wikimedia.org>
+SUBJECT: Helping Wikipedia readers find answers instantly—see a quick demo
 
 -----------------------------------------
 
 Hi team,
 
-I’m a longtime admirer of how Wikipedia simplifies access to knowledge in hundreds of languages. I noticed your users often land on the portal page with questions about language versions, donations, or how to get started.
+With Wikipedia connecting millions to free knowledge in so many languages, I noticed your homepage is packed with links, language options, and donation prompts—all important, but possibly overwhelming for some visitors.
 
-At SlayDigital.ai, we build simple, custom AI chat agents that live on your site and answer visitor questions directly from your existing content—no jargon, no complexity. To show what this could look like for Wikipedia, I created a quick demo:  
-https://slaydigital.fly.dev/site/www_wikipedia_org
+At SlayDigital.ai, we build simple AI web agents that help site visitors get instant answers by chatting directly with your site’s content—no jargon or complexity. I’ve put together a quick demo based on your homepage: https://slaydigital.fly.dev/site/www_wikipedia_org
 
-Just click the chat icon at the bottom-right corner, type a question, and the agent responds using info from your live portal.
+Just click the chat icon in the bottom-right, and type a question—our agent responds using info already on the page.
 
 You can try asking things like:
-- “How can I donate to Wikipedia?”
-- “Which languages have the most articles?”
-- “What’s the average donation amount?”
-- “How do I read Wikipedia in Japanese?”
-- “Where can I buy Wikipedia merchandise?”
+- How many articles are in English Wikipedia?
+- Where can I donate to support Wikipedia?
+- How do I change the language on this page?
+- What is the average donation amount?
+- Which languages have over 1 million articles?
 
-I’d love your thoughts on whether a tool like this could help users find key info and support your mission—even during busy fundraising periods. No pressure, but let me know if you’re interested in a real trial or feedback.
+Would love to hear your thoughts or set up a 10-minute call if you’re curious to see how this could help more visitors find what they need, faster.
 
 Best,  
 Zac

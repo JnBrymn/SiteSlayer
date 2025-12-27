@@ -1,29 +1,29 @@
 FROM: Zac Slay <zac@slaydigital.ai>
-TO: Tony & Kacey Atwell <info@bigthunderevents.com>
-SUBJECT: Quick way to help Big Thunder Events visitors get answers (see demo)
+TO: Big Thunder Events <info@bigthunderevents.com>
+SUBJECT: Help Your Customers Find the Perfect Rental—Instantly with an AI Chat Agent
 
 -----------------------------------------
-Hi Tony & Kacey,
+Hi Big Thunder Events team,
 
-I love how Big Thunder Events is a true one-stop shop for everything from bounce houses to carnival rides—all with that friendly, local touch you bring to Murfreesboro and Nashville. Your site has tons of info and options, but with so many event planners and parents visiting, I imagine you get a LOT of the same questions.
+Your website does an awesome job showcasing a huge variety of inflatables, carnival rides, and event options for every kind of party. With so many services, we know customers can get stuck searching or have repeat questions—especially during busy times.
 
-I’d like to show you something simple that could help: at SlayDigital.ai, we build custom AI web chat agents that answer visitors’ questions using your own site content—no complicated setup needed.
+That’s why I thought you might like to see something new: at SlayDigital.ai, we build simple AI web agents that let your visitors chat directly with your site’s info—making it easy for anyone to find what they need.
 
-Here’s a mock demo of your site with our chat agent added:  
+Here’s a hands-on example using a mock version of your site:  
 https://slaydigital.fly.dev/site/www_bigthunderevents_com  
-Just click the chat icon in the bottom-right, then type any question—your agent replies instantly using info from your pages.
+Just click the chat icon in the lower right corner, type a question, and the agent replies instantly using your own site content.
 
 You can try asking things like:
-- What’s included in the bounce house rental price?
-- How do I get a certificate of insurance for my event?
-- Do you deliver and set up in Franklin or Brentwood?
-- What power or space do I need for a mechanical ride?
-- How do I check available dates or book online?
+- “Which bounce houses are best for toddlers?”
+- “Do you deliver water slides to Franklin, TN?”
+- “How much does a mechanical bull rental cost, and what’s included?”
+- “What’s your bad weather and cancellation policy?”
+- “Can you help with park or corporate event paperwork like insurance certificates?”
 
-Our approach is all about clarity—making it easy for planners and parents to get exactly what they need, so you cut down on repetitive calls and bookings run even smoother.
+It’s a fast, friendly way to reduce phone tag and guide more visitors to a booking—especially when you offer as much as Big Thunder Events does.
 
-Curious to see how this could fit for Big Thunder? Happy to chat or set up a quick call if you’re interested.
+Would you be open to a quick chat? Happy to answer any questions, or just hear what you think.
 
-Best,  
+All the best,  
 Zac  
-SlayDigital.ai
+Founder, SlayDigital.ai

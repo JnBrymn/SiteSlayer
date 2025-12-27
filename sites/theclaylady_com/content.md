@@ -1474,6 +1474,12 @@ The entire building was made ready by a core group of eight artists (all were st
 
 Subscribe to The Clay Lady’s Campus emails for artist tips, classes, event announcements, special workshops and more.
 
+Fields marked with an * are required
+
+*
+
+If you are a human seeing this field, please leave it empty.
+
 ![](https://theclaylady.com/wp-content/uploads/2025/06/bottom-decor-blue.svg)
 
 [![A partially formed clay pot surrounded by raw clay chunks on a smooth surface.](https://theclaylady.com/wp-content/uploads/2024/01/True-Final-The-Clay-Ladys-Lesson-Book-by-Danielle-McDaniel-4.6.21_Page_020-scaled-e1705099398888-1009x1024.jpg)](https://theclaylady.com/blog/on-being-an-artist/)

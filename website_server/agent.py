@@ -30,6 +30,7 @@ class ChatBot:
 
         self.agent = Agent(
             name="Assistant", 
+            model="gpt-5-mini-2025-08-07",
             instructions=f"""\
 You are a helpful assistant that can answer questions about the website {site}. Answer in first person as a representative of the website. The website content is:
 

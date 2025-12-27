@@ -355,7 +355,23 @@ VR 40 FOOT OBSTACLE COURSE](/items/vr_40_foot_obstacle_course/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-HAPPY BIRTHDAY ANIMALS](/items/happy_birthday_animals/)
+ICE CREAM SHOP BOUNCE HOUSE](/items/ice_cream_shop_bounce_house/)
+
+[![](https://via.placeholder.com/1x1/FFFFFF)
+
+EXTRA LARGE FUN HOUSE](/items/extra_large_fun_house/)
+
+[![](https://via.placeholder.com/1x1/FFFFFF)
+
+STOCK CAR 500](/items/stock_car_500/)
+
+[![](https://via.placeholder.com/1x1/FFFFFF)
+
+DISNEY PRINCESS BOUNCE HOUSE](/items/disney_princess_bounce_house/)
+
+[![](https://via.placeholder.com/1x1/FFFFFF)
+
+UNDER CONSTRUCTION ADVENTURE](/items/under_construction_adventure/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
@@ -363,39 +379,19 @@ ICE CREAM SHOP BOUNCE HOUSE](/items/ice_cream_shop_bounce_house/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-ANIMAL ISLAND ADVENTURE](/items/animal_island_adventure/)
+EXTRA LARGE FUN HOUSE](/items/extra_large_fun_house/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-CASTLE 3](/items/castle_3/)
+STOCK CAR 500](/items/stock_car_500/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-Tiny Shark](/items/tiny_shark/)
+DISNEY PRINCESS BOUNCE HOUSE](/items/disney_princess_bounce_house/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-HAPPY BIRTHDAY ANIMALS](/items/happy_birthday_animals/)
-
-[![](https://via.placeholder.com/1x1/FFFFFF)
-
-ICE CREAM SHOP BOUNCE HOUSE](/items/ice_cream_shop_bounce_house/)
-
-[![](https://via.placeholder.com/1x1/FFFFFF)
-
-ANIMAL ISLAND ADVENTURE](/items/animal_island_adventure/)
-
-[![](https://via.placeholder.com/1x1/FFFFFF)
-
-CASTLE 3](/items/castle_3/)
-
-[![](https://via.placeholder.com/1x1/FFFFFF)
-
-Tiny Shark](/items/tiny_shark/)
-
-[![](https://via.placeholder.com/1x1/FFFFFF)
-
-HAPPY BIRTHDAY ANIMALS](/items/happy_birthday_animals/)
+UNDER CONSTRUCTION ADVENTURE](/items/under_construction_adventure/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
@@ -403,7 +399,11 @@ ICE CREAM SHOP BOUNCE HOUSE](/items/ice_cream_shop_bounce_house/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-ANIMAL ISLAND ADVENTURE](/items/animal_island_adventure/)
+EXTRA LARGE FUN HOUSE](/items/extra_large_fun_house/)
+
+[![](https://via.placeholder.com/1x1/FFFFFF)
+
+STOCK CAR 500](/items/stock_car_500/)
 
 ## Water Slide Rentals
 
@@ -411,15 +411,11 @@ ANIMAL ISLAND ADVENTURE](/items/animal_island_adventure/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-15' Dual Splash "Wet"](/items/15_dual_splash__inchwet_inch/)
+DUAL LANE RAMPAGE](/items/dual_lane_rampage/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-Battle of the Titans Tug-A-War water](/items/battle_of_the_titans_tug-a-war_water/)
-
-[![](https://via.placeholder.com/1x1/FFFFFF)
-
-19 FOOT TIKKI ISLAND WATER SLIDE](/items/19_foot_tikki_island_water_slide/)
+18' BLUE PLUMMET DOUBLE LANE WATER SLIDE](/items/18_blue_plummet_double_lane_water_slide/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
@@ -427,19 +423,19 @@ Battle of the Titans Tug-A-War water](/items/battle_of_the_titans_tug-a-war_wate
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-Lil' Tides 15' Water Slide](/items/lil_tides_15_water_slide/)
+18ft Standard Double Lane Water Slide](/items/18ft_standard_double_lane_water_slide/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-15' Dual Splash "Wet"](/items/15_dual_splash__inchwet_inch/)
+19 FOOT TIKI PLUNGE WATER SLIDE](/items/19_foot_tiki_plunge_water_slide/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-Battle of the Titans Tug-A-War water](/items/battle_of_the_titans_tug-a-war_water/)
+DUAL LANE RAMPAGE](/items/dual_lane_rampage/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-19 FOOT TIKKI ISLAND WATER SLIDE](/items/19_foot_tikki_island_water_slide/)
+18' BLUE PLUMMET DOUBLE LANE WATER SLIDE](/items/18_blue_plummet_double_lane_water_slide/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
@@ -447,19 +443,23 @@ Battle of the Titans Tug-A-War water](/items/battle_of_the_titans_tug-a-war_wate
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-Lil' Tides 15' Water Slide](/items/lil_tides_15_water_slide/)
+18ft Standard Double Lane Water Slide](/items/18ft_standard_double_lane_water_slide/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-15' Dual Splash "Wet"](/items/15_dual_splash__inchwet_inch/)
+19 FOOT TIKI PLUNGE WATER SLIDE](/items/19_foot_tiki_plunge_water_slide/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-Battle of the Titans Tug-A-War water](/items/battle_of_the_titans_tug-a-war_water/)
+DUAL LANE RAMPAGE](/items/dual_lane_rampage/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-19 FOOT TIKKI ISLAND WATER SLIDE](/items/19_foot_tikki_island_water_slide/)
+18' BLUE PLUMMET DOUBLE LANE WATER SLIDE](/items/18_blue_plummet_double_lane_water_slide/)
+
+[![](https://via.placeholder.com/1x1/FFFFFF)
+
+27 FOOT TROPICAL DROP AND SLIDE DUAL LANE WATER SLIDE](/items/27_foot_tropical_drop_and_slide_dual_lane_water_slide/)
 
 ## Interactive Games
 
@@ -467,23 +467,15 @@ Battle of the Titans Tug-A-War water](/items/battle_of_the_titans_tug-a-war_wate
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-AXE THROW DOUBLE](/items/axe_throw_double/)
+ARENA JOUST](/items/arena_joust/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-AIRCADE ( WORLDS LARGEST ARCADE MACHINE)](/items/aircade_(_worlds_largest_arcade_machine)/)
+GIANT CUP PONG](/items/giant_cup_pong/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-Battle of the Titans Tug-A-War](/items/battle_of_the_titans_tug-a-war/)
-
-[![](https://via.placeholder.com/1x1/FFFFFF)
-
-GIANT SUPER HOOPS](/items/giant_super_hoops/)
-
-[![](https://via.placeholder.com/1x1/FFFFFF)
-
-Big Sports 3 player](/items/big_sports_3_player/)
+AXE THROW](/items/axe_throw/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
@@ -491,19 +483,19 @@ AXE THROW DOUBLE](/items/axe_throw_double/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-AIRCADE ( WORLDS LARGEST ARCADE MACHINE)](/items/aircade_(_worlds_largest_arcade_machine)/)
+FOOTBALL CHALLENGE](/items/football_challenge/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-Battle of the Titans Tug-A-War](/items/battle_of_the_titans_tug-a-war/)
+ARENA JOUST](/items/arena_joust/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-GIANT SUPER HOOPS](/items/giant_super_hoops/)
+GIANT CUP PONG](/items/giant_cup_pong/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-Big Sports 3 player](/items/big_sports_3_player/)
+AXE THROW](/items/axe_throw/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
@@ -511,11 +503,19 @@ AXE THROW DOUBLE](/items/axe_throw_double/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-AIRCADE ( WORLDS LARGEST ARCADE MACHINE)](/items/aircade_(_worlds_largest_arcade_machine)/)
+FOOTBALL CHALLENGE](/items/football_challenge/)
 
 [![](https://via.placeholder.com/1x1/FFFFFF)
 
-Battle of the Titans Tug-A-War](/items/battle_of_the_titans_tug-a-war/)
+ARENA JOUST](/items/arena_joust/)
+
+[![](https://via.placeholder.com/1x1/FFFFFF)
+
+GIANT CUP PONG](/items/giant_cup_pong/)
+
+[![](https://via.placeholder.com/1x1/FFFFFF)
+
+AXE THROW](/items/axe_throw/)
 
 
 
@@ -792,259 +792,6 @@ If you are looking for the #1 bounce house rentals Nashville TN, Big Thunder Eve
 We are in Nashville, TN. However, we deliver our bounce houses Nashville Tn all over, like in Murfreesboro, Franklin, Brentwood, Columbia, Lebanon, Hendersonville, Spring Hill, Mt Juliet, Manchester, Smryna, Shelbyville and its surrounding areas.
 
 Next time you want to bounce Nashville Tn have a look at our website, give us a call, and we will let you know right away if we serve in your area or not!
-
-
-
-
-©
-2025 Big Thunder Events, LLC. All rights reserved.
-
-Powered by [EventRentalSystems](https://eventrentalsystems.com)
-
-Web Design by [Spider Web
-Development](http://www.spiderwebdev.com/)
-
----
-
-Combo Bouncers Rentals | BigThunderEvents.com | Murfreesboro TN
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| |  |  |  | | --- | --- | --- | |  |  | **X** | |
-|  |
-
-
-
-![](https://files.sysers.com/cp/upload/jumpjumpbounce/gallery/full/Combo-Bouncer---Big-Thunder-Events-%281%29-%281%29.jpg)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | |  | |  |  | | --- | --- | |  |  | | |
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | |  | Back Button |  | Category: Combo Bouncers |   < Back Combo Bouncers    Combo Bouncer Rentals Nashville and Murfreesboro, TN Combo Bouncers from Big Thunder Events provide a large bounce house area along with a multitude of other activities such as inflatable pop-up obstacles, crawl throughs, climb and slides, basketball hoops and more to add up the jump house fun for all!  Check out the selection below and choose your favorite Inflatable Combo bouncer today and order on line or call. Don't forget to order a [Popcorn Machine](/items/premium_popcorn_cart__and__machine/) or any of your other favorite concessions to complete your party package!    Big Thunder Events is fully Insured in the state of TN, because safety and great customer service are our number one priorities!  We offer the best selection of combo bouncers to set-up a simple backyard party or stage your large event.  We are located in Murfreesboro, TN and service the surrounding areas including Nashville, Franklin, Hendersonville, Lebabon, and many more!  [Click here](/delivery-areas/) to see our full Delivery area and to start your Combo Bouncers rental today! |
-
-|  |  |
-| --- | --- |
-| Jurassic Rebound | |
-| [Jurassic Rebound](/items/jurassic_rebound/) | |
-| --- | |
-| [More Info ...](/items/jurassic_rebound/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| 5N1 DOLPHIN COMBO | |
-| [5N1 DOLPHIN COMBO](/items/5n1_dolphin_combo/) | |
-| --- | |
-| [More Info ...](/items/5n1_dolphin_combo/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| TROPICAL REBOUND COMBO DOUBLE LANE | |
-| [TROPICAL REBOUND COMBO DOUBLE LANE](/items/tropical_rebound_combo_double_lane/) | |
-| --- | |
-| [More Info ...](/items/tropical_rebound_combo_double_lane/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| ISLAND FIRE COMBO | |
-| [ISLAND FIRE COMBO](/items/island_fire_double_lane_combo/) | |
-| --- | |
-| [More Info ...](/items/island_fire_double_lane_combo/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| C7 COMBO | |
-| [C7  COMBO](/items/c7__combo/) | |
-| --- | |
-| [More Info ...](/items/c7__combo/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| PRIMARY COMBO | |
-| [PRIMARY COMBO](/items/primary_combo/) | |
-| --- | |
-| [More Info ...](/items/primary_combo/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| FERRIS WHEEL COMBO | |
-| [FERRIS WHEEL COMBO](/items/ferris_wheel_combo/) | |
-| --- | |
-| [More Info ...](/items/ferris_wheel_combo/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| 3-D PIRATE FORTRESS COMBO | |
-| [3-D PIRATE FORTRESS COMBO](/items/3-d_pirate_fortress_combo/) | |
-| --- | |
-| [More Info ...](/items/3-d_pirate_fortress_combo/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| JUNGLE MANIA COMBO | |
-| [JUNGLE MANIA COMBO](/items/jungle_mania_combo/) | |
-| --- | |
-| [More Info ...](/items/jungle_mania_combo/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| BEACH PARTY TODDLER COMBO | |
-| [BEACH PARTY TODDLER COMBO](/items/beach_party_toddler_combo/) | |
-| --- | |
-| [More Info ...](/items/beach_party_toddler_combo/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| RESCUE HEROES TODDLER TOWN | |
-| [RESCUE HEROES TODDLER TOWN](/items/rescue_heroes_toddler_town/) | |
-| --- | |
-| [More Info ...](/items/rescue_heroes_toddler_town/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| CRAZY CONES INTERACTIVE GAME | |
-| [CRAZY CONES INTERACTIVE GAME](/items/crazy_cones_interactive_game/) | |
-| --- | |
-| [More Info ...](/items/crazy_cones_interactive_game/)   Add to Cart | $299.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| HAPPY BIRTHDAY ANIMALS COMBO | |
-| [HAPPY BIRTHDAY ANIMALS COMBO](/items/happy_birthday_animals_combo/) | |
-| --- | |
-| [More Info ...](/items/happy_birthday_animals_combo/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| STOCK CAR 500 COMBO | |
-| [STOCK CAR 500 COMBO](/items/stock_car_500_combo/) | |
-| --- | |
-| [More Info ...](/items/stock_car_500_combo/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| SPONGEBOB SQUARE PANTS COMBO | |
-| [SPONGEBOB SQUARE PANTS COMBO](/items/spongebob_square_pants_combo/) | |
-| --- | |
-| [More Info ...](/items/spongebob_square_pants_combo/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| PIRATE COMBO | |
-| [PIRATE COMBO](/items/pirate_combo/) | |
-| --- | |
-| [More Info ...](/items/pirate_combo/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| DORA THE EXPLORER COMBO | |
-| [DORA THE EXPLORER COMBO](/items/dora_the_explorer_combo/) | |
-| --- | |
-| [More Info ...](/items/dora_the_explorer_combo/)   Add to Cart | $310.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| DISNEY PRINCESS COMBO | |
-| [DISNEY PRINCESS COMBO](/items/disney_princess_combo/) | |
-| --- | |
-| [More Info ...](/items/disney_princess_combo/)   Add to Cart | $310.00 |
-|  |
-
-Big Thunder Events is renowned for offering the finest combo bouncers in Nashville, along with a diverse selection of other thrilling party rentals. Whether your event is a corporate gathering, college celebration, or any other occasion, we are here to support you. With a wide array of combo bouncers, we cater to all age groups. From young children to adults, everyone will have an amazing time with our Nashville combo bouncers at your event.
-
- We understand that organizing an event can be challenging, which is why Big Thunder Events is here to assist you with your combo bouncer needs. We handle the setup and delivery of the equipment at your Tennessee event, ensuring you are free to focus on enjoying the fun. Our combo bouncers will undoubtedly make your event memorable and exciting!
-
-### High Energy And Action-Packed Combo Bouncers
-
-Our combo bouncers for rent in Nashville, TN, are among the most thrilling and action-packed attractions in the area. These combo bouncers are perfect for any school carnival, company picnic, or community event. We are well-known in Nashville, TN, for providing the best and most exciting combo bouncers for various events. We take great care of our equipment, ensuring that each combo bouncer is thoroughly cleaned and sanitized after every event before being delivered to your venue.
-
-Have you ever wondered how to entertain both kids and adults at your party? Combo bouncers are the answer! Our combo bouncers are a favorite among Nashville locals and are a hit at parties of all kinds. They offer a delightful and unique jumping and sliding experience that everyone will enjoy. Big Thunder Events has the perfect combo bouncers for your event, adding an element of fun and excitement to any gathering. Explore our wide range of combo bouncers and make your next event unforgettable with Big Thunder Events.
-
-# 
-
-## Experience The Fun With Our Combo Bouncers
-
-#### **Combo Bouncers: The Ultimate Fun Zone**
-
-Our combo bouncers are the perfect addition to any event, offering a blend of bouncing, climbing, and sliding that keeps kids and adults entertained for hours. Each combo bouncer is designed with multiple activities, ensuring endless fun and excitement. Whether it's a school carnival, company picnic, or community event, our combo bouncers are sure to be a hit, providing a safe and enjoyable experience for all participants.
-
-#### **High-Quality and Safe Combo Bouncers**
-
-At Big Thunder Events, we prioritize safety and cleanliness. Every combo bouncer is thoroughly cleaned and sanitized after each use, ensuring a hygienic and safe environment for everyone. Our team takes great care in setting up and inspecting each unit to make sure it meets the highest safety standards, so you can focus on having fun without any worries.
-
-#### **Exciting and Versatile Options**
-
-Our collection of combo bouncers offers a variety of themes and designs to suit any event. From colorful and whimsical designs for children's parties to more adventurous setups that challenge older kids and adults, we have something for everyone. Our combo bouncers are equipped with multiple features, such as slides, obstacle courses, and climbing walls, providing diverse and engaging activities that cater to different interests and age groups.
-
-## 
-
-### More Thrilling Rentals: Mechanical Rides And Interactive Games
-
-#### **More Thrilling Rentals: Mechanical Rides and Interactive Games**
-
-In addition to our fantastic combo bouncers, we also offer a range of other exciting rental options. Our mechanical rides, such as the mechanical bull, mechanical shark, ferris wheel, and pirates revenge ride, provide a thrilling challenge for guests of all ages. These rides are perfect for adding an adventurous element to your event, ensuring unforgettable fun. We also have interactive games like inflatable jousting arenas and bungee trampolines, which encourage friendly competition and active participation. These activities are ideal for team-building events, school fairs, and any gathering where you want to create a lively and engaging atmosphere.
-
-#### **Memorable Events with Combo Bouncers**
-
-Hosting an event can be a daunting task, but with Big Thunder Events, you can rest assured that our combo bouncers will make it unforgettable. These attractions are perfect for creating lasting memories and ensuring that everyone has a great time. Whether it's a birthday party, community festival, or corporate event, our combo bouncers bring joy and excitement to any occasion.
 
 
 
@@ -2065,6 +1812,259 @@ Development](http://www.spiderwebdev.com/)
 
 
 
+![](https://files.sysers.com/cp/upload/jumpjumpbounce/gallery/full/Combo-Bouncer---Big-Thunder-Events-%281%29-%281%29.jpg)
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| |  |  |  |  | | --- | --- | --- | --- | |  | |  |  | | --- | --- | |  |  | | |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| |  |  |  |  | | --- | --- | --- | --- | |  | Back Button |  | Category: Combo Bouncers |   < Back Combo Bouncers    Combo Bouncer Rentals Nashville and Murfreesboro, TN Combo Bouncers from Big Thunder Events provide a large bounce house area along with a multitude of other activities such as inflatable pop-up obstacles, crawl throughs, climb and slides, basketball hoops and more to add up the jump house fun for all!  Check out the selection below and choose your favorite Inflatable Combo bouncer today and order on line or call. Don't forget to order a [Popcorn Machine](/items/premium_popcorn_cart__and__machine/) or any of your other favorite concessions to complete your party package!    Big Thunder Events is fully Insured in the state of TN, because safety and great customer service are our number one priorities!  We offer the best selection of combo bouncers to set-up a simple backyard party or stage your large event.  We are located in Murfreesboro, TN and service the surrounding areas including Nashville, Franklin, Hendersonville, Lebabon, and many more!  [Click here](/delivery-areas/) to see our full Delivery area and to start your Combo Bouncers rental today! |
+
+|  |  |
+| --- | --- |
+| Jurassic Rebound | |
+| [Jurassic Rebound](/items/jurassic_rebound/) | |
+| --- | |
+| [More Info ...](/items/jurassic_rebound/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| 5N1 DOLPHIN COMBO | |
+| [5N1 DOLPHIN COMBO](/items/5n1_dolphin_combo/) | |
+| --- | |
+| [More Info ...](/items/5n1_dolphin_combo/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| TROPICAL REBOUND COMBO DOUBLE LANE | |
+| [TROPICAL REBOUND COMBO DOUBLE LANE](/items/tropical_rebound_combo_double_lane/) | |
+| --- | |
+| [More Info ...](/items/tropical_rebound_combo_double_lane/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| ISLAND FIRE COMBO | |
+| [ISLAND FIRE COMBO](/items/island_fire_double_lane_combo/) | |
+| --- | |
+| [More Info ...](/items/island_fire_double_lane_combo/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| C7 COMBO | |
+| [C7  COMBO](/items/c7__combo/) | |
+| --- | |
+| [More Info ...](/items/c7__combo/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| PRIMARY COMBO | |
+| [PRIMARY COMBO](/items/primary_combo/) | |
+| --- | |
+| [More Info ...](/items/primary_combo/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| FERRIS WHEEL COMBO | |
+| [FERRIS WHEEL COMBO](/items/ferris_wheel_combo/) | |
+| --- | |
+| [More Info ...](/items/ferris_wheel_combo/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| 3-D PIRATE FORTRESS COMBO | |
+| [3-D PIRATE FORTRESS COMBO](/items/3-d_pirate_fortress_combo/) | |
+| --- | |
+| [More Info ...](/items/3-d_pirate_fortress_combo/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| JUNGLE MANIA COMBO | |
+| [JUNGLE MANIA COMBO](/items/jungle_mania_combo/) | |
+| --- | |
+| [More Info ...](/items/jungle_mania_combo/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| BEACH PARTY TODDLER COMBO | |
+| [BEACH PARTY TODDLER COMBO](/items/beach_party_toddler_combo/) | |
+| --- | |
+| [More Info ...](/items/beach_party_toddler_combo/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| RESCUE HEROES TODDLER TOWN | |
+| [RESCUE HEROES TODDLER TOWN](/items/rescue_heroes_toddler_town/) | |
+| --- | |
+| [More Info ...](/items/rescue_heroes_toddler_town/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| CRAZY CONES INTERACTIVE GAME | |
+| [CRAZY CONES INTERACTIVE GAME](/items/crazy_cones_interactive_game/) | |
+| --- | |
+| [More Info ...](/items/crazy_cones_interactive_game/)   Add to Cart | $299.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| HAPPY BIRTHDAY ANIMALS COMBO | |
+| [HAPPY BIRTHDAY ANIMALS COMBO](/items/happy_birthday_animals_combo/) | |
+| --- | |
+| [More Info ...](/items/happy_birthday_animals_combo/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| STOCK CAR 500 COMBO | |
+| [STOCK CAR 500 COMBO](/items/stock_car_500_combo/) | |
+| --- | |
+| [More Info ...](/items/stock_car_500_combo/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| SPONGEBOB SQUARE PANTS COMBO | |
+| [SPONGEBOB SQUARE PANTS COMBO](/items/spongebob_square_pants_combo/) | |
+| --- | |
+| [More Info ...](/items/spongebob_square_pants_combo/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| PIRATE COMBO | |
+| [PIRATE COMBO](/items/pirate_combo/) | |
+| --- | |
+| [More Info ...](/items/pirate_combo/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| DORA THE EXPLORER COMBO | |
+| [DORA THE EXPLORER COMBO](/items/dora_the_explorer_combo/) | |
+| --- | |
+| [More Info ...](/items/dora_the_explorer_combo/)   Add to Cart | $310.00 |
+|  |
+
+|  |  |
+| --- | --- |
+| DISNEY PRINCESS COMBO | |
+| [DISNEY PRINCESS COMBO](/items/disney_princess_combo/) | |
+| --- | |
+| [More Info ...](/items/disney_princess_combo/)   Add to Cart | $310.00 |
+|  |
+
+Big Thunder Events is renowned for offering the finest combo bouncers in Nashville, along with a diverse selection of other thrilling party rentals. Whether your event is a corporate gathering, college celebration, or any other occasion, we are here to support you. With a wide array of combo bouncers, we cater to all age groups. From young children to adults, everyone will have an amazing time with our Nashville combo bouncers at your event.
+
+ We understand that organizing an event can be challenging, which is why Big Thunder Events is here to assist you with your combo bouncer needs. We handle the setup and delivery of the equipment at your Tennessee event, ensuring you are free to focus on enjoying the fun. Our combo bouncers will undoubtedly make your event memorable and exciting!
+
+### High Energy And Action-Packed Combo Bouncers
+
+Our combo bouncers for rent in Nashville, TN, are among the most thrilling and action-packed attractions in the area. These combo bouncers are perfect for any school carnival, company picnic, or community event. We are well-known in Nashville, TN, for providing the best and most exciting combo bouncers for various events. We take great care of our equipment, ensuring that each combo bouncer is thoroughly cleaned and sanitized after every event before being delivered to your venue.
+
+Have you ever wondered how to entertain both kids and adults at your party? Combo bouncers are the answer! Our combo bouncers are a favorite among Nashville locals and are a hit at parties of all kinds. They offer a delightful and unique jumping and sliding experience that everyone will enjoy. Big Thunder Events has the perfect combo bouncers for your event, adding an element of fun and excitement to any gathering. Explore our wide range of combo bouncers and make your next event unforgettable with Big Thunder Events.
+
+# 
+
+## Experience The Fun With Our Combo Bouncers
+
+#### **Combo Bouncers: The Ultimate Fun Zone**
+
+Our combo bouncers are the perfect addition to any event, offering a blend of bouncing, climbing, and sliding that keeps kids and adults entertained for hours. Each combo bouncer is designed with multiple activities, ensuring endless fun and excitement. Whether it's a school carnival, company picnic, or community event, our combo bouncers are sure to be a hit, providing a safe and enjoyable experience for all participants.
+
+#### **High-Quality and Safe Combo Bouncers**
+
+At Big Thunder Events, we prioritize safety and cleanliness. Every combo bouncer is thoroughly cleaned and sanitized after each use, ensuring a hygienic and safe environment for everyone. Our team takes great care in setting up and inspecting each unit to make sure it meets the highest safety standards, so you can focus on having fun without any worries.
+
+#### **Exciting and Versatile Options**
+
+Our collection of combo bouncers offers a variety of themes and designs to suit any event. From colorful and whimsical designs for children's parties to more adventurous setups that challenge older kids and adults, we have something for everyone. Our combo bouncers are equipped with multiple features, such as slides, obstacle courses, and climbing walls, providing diverse and engaging activities that cater to different interests and age groups.
+
+## 
+
+### More Thrilling Rentals: Mechanical Rides And Interactive Games
+
+#### **More Thrilling Rentals: Mechanical Rides and Interactive Games**
+
+In addition to our fantastic combo bouncers, we also offer a range of other exciting rental options. Our mechanical rides, such as the mechanical bull, mechanical shark, ferris wheel, and pirates revenge ride, provide a thrilling challenge for guests of all ages. These rides are perfect for adding an adventurous element to your event, ensuring unforgettable fun. We also have interactive games like inflatable jousting arenas and bungee trampolines, which encourage friendly competition and active participation. These activities are ideal for team-building events, school fairs, and any gathering where you want to create a lively and engaging atmosphere.
+
+#### **Memorable Events with Combo Bouncers**
+
+Hosting an event can be a daunting task, but with Big Thunder Events, you can rest assured that our combo bouncers will make it unforgettable. These attractions are perfect for creating lasting memories and ensuring that everyone has a great time. Whether it's a birthday party, community festival, or corporate event, our combo bouncers bring joy and excitement to any occasion.
+
+
+
+
+©
+2025 Big Thunder Events, LLC. All rights reserved.
+
+Powered by [EventRentalSystems](https://eventrentalsystems.com)
+
+Web Design by [Spider Web
+Development](http://www.spiderwebdev.com/)
+
+---
+
+Mechanical Ride Rentals | BigThunderEvents.com | Murfreesboro TN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | |  |  | **X** | |
+|  |
+
+
+
 # The Best Carnival Rides For Your Event in Nashville
 
 ![Event Rentals In Nashville, TN.](https://files.sysers.com/cp/upload/jumpjumpbounce/gallery/full/Mechanical-Rides---Big-Thunder-Events-%282%29-%281%29.jpg "Event Rentals In Nashville, TN.")
@@ -2248,47 +2248,6 @@ Development](http://www.spiderwebdev.com/)
 
 ---
 
-Tent, Table & Chair Rentals | BigThunderEvents.com | Murfreesboro TN
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 |  |  |  |  |
 | --- | --- | --- | --- |
 | |  |  |  | | --- | --- | --- | |  |  | **X** | |
@@ -2440,170 +2399,46 @@ Development](http://www.spiderwebdev.com/)
 
 ---
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| |  |  |  | | --- | --- | --- | |  |  | **X** | |
-|  |
-
-
-
-# Fun Foods and Concession Equipment Rentals Nashville
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | |  | |  |  | | --- | --- | |  |  | | |
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | |  | Back Button |  | Category: Fun Foods and More |   < Back Fun Foods and More |
-
-|  |  |
-| --- | --- |
-| TREAT SHOP CONCESSION STAND | |
-| [TREAT SHOP CONCESSION STAND](/items/treat_shop_concession_stand/) | |
-| --- | |
-| [More Info ...](/items/treat_shop_concession_stand/)   Add to Cart | $295.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| PREMIUM COTTON CANDY CART & MACHINE | |
-| [PREMIUM COTTON CANDY CART & MACHINE](/items/premium_cotton_candy_cart__and__machine/) | |
-| --- | |
-| [More Info ...](/items/premium_cotton_candy_cart__and__machine/)   Add to Cart | $114.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| PREMIUM POPCORN CART & MACHINE | |
-| [PREMIUM POPCORN CART & MACHINE](/items/premium_popcorn_cart__and__machine/) | |
-| --- | |
-| [More Info ...](/items/premium_popcorn_cart__and__machine/)   Add to Cart | $114.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| MINI TREAT SHOP | |
-| [MINI TREAT SHOP](/items/mini_treat_shop/) | |
-| --- | |
-| [More Info ...](/items/mini_treat_shop/)   Add to Cart | $199.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| NACHO MACHINE | |
-| [NACHO MACHINE](/items/nacho_machine/) | |
-| --- | |
-| [More Info ...](/items/nacho_machine/)   Add to Cart | $90.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| POPCORN POPPER | |
-| [POPCORN POPPER](/items/popcorn_popper/) | |
-| --- | |
-| [More Info ...](/items/popcorn_popper/)   Add to Cart | $99.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| HOT DOG STEAMER | |
-| [HOT DOG STEAMER](/items/hot_dog_steamer/) | |
-| --- | |
-| [More Info ...](/items/hot_dog_steamer/)   Add to Cart | $89.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| SNO-KONE MACHINE WITH SYRUP AND CONES FOR 50 SERVINGS (ICE NOT INCLUDED) | |
-| [SNO-KONE MACHINE WITH SYRUP AND CONES FOR 50 SERVINGS (ICE NOT INCLUDED)](/items/sno-kone_machine_with_syrup_and_cones_for_50_servings_(ice_not_included)/) | |
-| --- | |
-| [More Info ...](/items/sno-kone_machine_with_syrup_and_cones_for_50_servings_(ice_not_included)/)   Add to Cart | $89.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| COTTON CANDY MACHINE WITH FLOSS AND CONES FOR 50 SERVINGS | |
-| [COTTON CANDY MACHINE WITH FLOSS AND CONES  FOR 50 SERVINGS](/items/cotton_candy_machine_with_floss_and_cones__for_50_servings/) | |
-| --- | |
-| [More Info ...](/items/cotton_candy_machine_with_floss_and_cones__for_50_servings/)   Add to Cart | $89.00 |
-|  |
-
-|  |  |
-| --- | --- |
-| GIANT BEVERAGE ICE TUB | |
-| [GIANT BEVERAGE ICE TUB](/items/giant_beverage_ice_tub/) | |
-| --- | |
-| [More Info ...](/items/giant_beverage_ice_tub/)   Add to Cart | $90.00 |
-|  |
-
-Big Thunder Events has the concession equipment rental you need for your party or event. We have Cotton Candy Machines, Sno-Kone Machines, Popcorn Machines, Nacho Machines, Fozen Beverage Machines, and even Pucker Powder Machines, and each concession is easy to use and set up. Kids and adults alike love these carnival treats, and you can make them fresh at your event by ordering from Big Thunder Events! We will be happy to deliver your concession with an inflatable rental, so check out our combo bouncers to add one today!
-
-Concession equipment rentals are fun things you can add to your party to make it more exciting for your guests. From any event to religious celebrations, corporate events, and school festivals, our concession equipment is the best in Nashville, TN. Our concession equipment is just like the ones you see at a fair and is relatively easy to operate. When you rent from Big Thunder Events, you are assured that the equipment is cleaned and sanitized correctly. The concession rentals will be ready before your guests arrive at the venue. Check out the items in store for you and make your reservation today!
-
-## Great Selection for a Concession Rental Service Provider
-
-Whether you are looking for food to satisfy your hunger or want some ice cream cones, we have you covered, Tennessee! When you rent a concession machine, we guarantee a clean unit will be delivered to your event. Our professional staff would find the appropriate time to help you operate the machines. They will provide a demo to let you know how to use the equipment. We provide multiple ingredients: cotton candy, hot dogs, popcorn, nachos, and much more. Browse our [concession supplies](https://www.bigthunderevents.com/category/concession_supplies/) to see what we have to offer with our machines.
-
-We have a variety of concessions that our customers love and that would be an excellent fit for any event. Choose from any one of our concession rentals suitable for your event. Be sure to let us know how many supplies you will need for your event as well. Our team can handle small to large events with our concession machine supplies; we just need to know how many people. We can help plan as well to make sure you have enough machines as well as supplies for the duration of your event so your guests aren't waiting for their tasty treats.
-
-### Cotton Candy Machine with Cart
-
-What’s not to love in cotton candy? This big, bright, colorful ball of sugar served straight up on a stick is loved by everyone! With our productive cotton candy cart and machine, you can fill your guests with tasty bucket loads of this pillowy sugar miracle—the perfect treat to provide your guests at any event. We have all the popular flavors to choose from as well. Just let us know and we will provide the sugar floss along with the stick to roll up the perfect cotton candy treat for the guests. There is nothing better!
-
-### Popcorn Machine with Cart
-
-Renting a popcorn machine for any event is the best decision you can ever make! It is simple to operate and doesn't even take much time to prepare. Our equipment is ready to go from the moment we install it in your event. The delicious smell of popcorn would surely make your guests happy! Let us know how many guests will be in attendance to make sure nobody is waiting on the fresh buttery popped kernels, which will sure bring them in once it gets to popping. Everyone loves the aroma of freshly popped popcorn at an event!
-
-### Frozen Beverage
-
-You can now meet the strong demand for frozen beverages with a frozen beverage dispenser. Along with its impactful functionality, having a frozen beverage machine at your event can cool your guests down after a hot and exciting day! Of course, after hours of being in our bounce houses, anyone would need something to cool them off. Eventually, we will provide this equipment to you. You can add more flavors and serve more of your friends. All you would need is a large bag of ice to keep things cool!
-
-### Nacho Machine
-
-Having hot nacho cheese at your event is more than enough! If you like hot cheese on your food or the greatest concession of all time, nachos and cheese, this concession rental would be the perfect thing for you. You would have a great nacho experience just at the push of a button. The cheese is applied to your nachos with no mess. All you need are trays, cheese, and chips for the ultimate nacho experience from Big Thunder! Don't forget the napkins too...
-
-### Hot Dog Steamer
-
-Our hot dog steamer efficiently provides your guests with the best hot dogs during your event. It even comes with removable trays and sliding doors for ease of access. Renting a hot dog steamer is something that you will definitely want at your party if you plan on serving hot dogs and chili. If you like the good old-fashioned hot dogs at ballpark concession stands, then let us bring that same experience to your event. Keeping your guests well-fed is a necessity!
-
-### How to Book Concession Rental Equipment
-
-It's relatively easy when you want to book party rental equipment from us.
-
-- Add to cart
-- Pick the date for your event
-- Make the payment
-
-It is as simple as that! We understand that the parents or event coordinators are busy while hosting the event. Big Thunder Events offers a 24/7 booking feature. You need to visit our website and get yourself the best rental equipment. We have years of experience in our working procedures. Be it a particular birthday party, backyard celebration, or your kids this summer party, we are there for you! Give us a call at 1-800-2GO-JUMP, and we will provide you with more details of our services.
-
-### Why Choose us for Our Concessions
-
-The following are the reasons that would make you choose us as your primary service provider:.
-
-- Safety is our #1 priority.
-- All our equipment is sanitized and cleaned before we deliver it to the venue.
-- We will set up the equipment properly and safely.
-- We ensure on-time delivery.
-- We are licensed and insured.
-- We deliver throughout Nashville and its surrounding areas.
-
-Customer satisfaction is our primary objective. We have helped various clients with their parties and events. This is the reason we have the best concession rental equipment in your area.
-
-Book your rental equipment now via our online booking system, or you can also give us a call. Remember to book your other party rentals with us, like bounce houses, water slides, obstacle courses, and other inflatables.
+Big Thunder Events - Inflatable & Party Rental Equipment Service in TN
 
 
 
 
-©
-2025 Big Thunder Events, LLC. All rights reserved.
 
-Powered by [EventRentalSystems](https://eventrentalsystems.com)
 
-Web Design by [Spider Web
-Development](http://www.spiderwebdev.com/)
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -2957,39 +2792,6 @@ Development](http://www.spiderwebdev.com/)
 
 ---
 
-# All About Big Thunder Events
-
-![JumpJumpBounce is now BigThunderEvents](//files.sysers.com/cp/upload/jumpjumpbounce/editor/images/photo-booth-banner.jpg)
-
-We have been growing by leaps & bounds (no-pun intended) formerly JumpJumpBounce we are now Big Thunder Events!  
-  
-Big Thunder Events is locally owned and operated by a Middle TN family with children. Like you, we always want the best for our children and know what is expected from a party rental company for special parties and events. We have watched our girls grow up over the last nine years as we have watched many of your children grow up celebrating each yearly milestone with an inflatable bounce house or water slide. We love our customers and are thankful to see many of them over and over again.  
-  
-We here at Big Thunder Events love watching our communities in Murfreesboro and Nashville gather for large events . Whether it be for a school or a church it is important to get to know your neighbors by attending these festivals, they are fun, exciting, and great for our community. We have had special programs for the non-profit organizations that sponsor these events, this is our way of giving back to the very community that we ourselves live in.  
-  
-As we grow into the future you will notice a transition into something bigger and better, Big Thunder Events will offer many more options catering to the "Total Event". You will see more things for older kids, like mechanical bulls and euro bungees. We will have more options for tables and chairs for your event, sound systems, and even tents. Check out all of our [inventory](https://www.bigthunderevents.com/category/)!  
-  
-We look forward to serving you for years to come in the most professional manner possible. Please call with any questions you may have, we love talking with our customers. 1-866-246-5867   www.WePartyYouParty.com  
-  
-Sincerely,  
-  
-Tony & Kacey Atwell  
-Big Thunder Events
-
-
-
-
-
-©
-2025 Big Thunder Events, LLC. All rights reserved.
-
-Powered by [EventRentalSystems](https://eventrentalsystems.com)
-
-Web Design by [Spider Web
-Development](http://www.spiderwebdev.com/)
-
----
-
 |  |  |  |  |
 | --- | --- | --- | --- |
 | |  |  |  | | --- | --- | --- | |  |  | **X** | |
@@ -3083,337 +2885,6 @@ Web Design by [Spider Web
 Development](http://www.spiderwebdev.com/)
 
 ---
-
-Frequently Asked Questions | BigThunderEvents.com Nashville TN
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| |  |  |  | | --- | --- | --- | |  |  | **X** | |
-|  |
-
-
-
-# 🎉 Frequently Asked Questions – Big Thunder Events 🎉
-
-## 🎪 Top 5 Things to Look for When Choosing an Inflatable or Carnival Rental
-
-[⚡ Experience That Delivers](#accn23at_0_collapseOne)
-
-Look for a company that’s been tested by time, not just trending.  
-**Big Thunder Events has been serving Middle Tennessee since 2005**, handling everything from backyard birthdays to corporate festivals. We’ve seen it all, solved it all, and brought the fun every step of the way.
-
-[🛠️ Licensed, Insured & Professionally Staffed](#accn23at_0_collapseTwo)
-
-Your event deserves more than “guy with a trailer” energy.  
-We’re a **fully licensed and insured company** with trained crews and optional staffing for events of all sizes. We even provide operators for mechanical rides and offer **full event management** if you want to sit back and actually enjoy the day.
-
-[🧠 Planning Help You Can Count On](#accn23at_0_collapseThree)
-
-Events aren’t one-size-fits-all, and neither are we. We’ve been around the block a time or two.  
-We’ll help match the right units to your age group, space, and vibe—whether you’re planning a preschool water day, a church carnival, or a school-wide field day. **Need a full layout plan or help with crowd flow? Just ask.**
-
-[💥 A Reputation Built on Results](#accn23at_0_collapseFour)
-
-Great reviews don’t lie. Big Thunder Events is known across Middle Tennessee for **on-time setup, professional crews, and events that go off without a hitch**. Just ask a local school, church, or PTO—we’ve probably already worked with them.
-
-[🎪 More Than Just Inflatables](#accn23at_0_collapseFive)
-
-A bounce house is fun—but **Big Thunder Events brings the full experience**.
-
-We offer **mechanical rides, obstacle courses, water attractions, interactive games, tents, concessions, generators**, and even **full event management**. Whether you're planning a church carnival, a school field day, or a city-wide festival, we’re your **one-stop shop for BIG fun**.
-
-Why juggle five vendors when you can get **everything from one trusted team**?
-
-## 🚚 Booking, Delivery & Setup
-
-[How do I reserve an inflatable or ride?](#accn10at_0_collapseOne)
-
-You can book most inflatables right here on our **[website](https://www.bigthunderevents.com/order-by-date/?show_instructions=1)**—or give us a call at [**(866) 246-5867**](tel:(866) 246-5867) to reserve over the phone. **[Quotes](https://www.bigthunderevents.com/order-by-date/?show_instructions=1) are always free**, but a **deposit is required** to lock in your date and equipment.
-
-[What areas do you serve?](#accn3at_0_collapseOne)
-
-Big Thunder Events proudly serves **Nashville, Murfreesboro, Franklin, Brentwood, Smyrna**, and most of **Middle Tennessee**. If you're within about an hour of Murfreesboro, there's a good chance we deliver to you.
-
-**For larger events or full event management**, we’re happy to travel further. Please give us a call at [**(866) 246-5867**](tel:(866) 246-5867) or email us at **[info@bigthunderevents.com](mailto:info@bigthunderevents.com?subject=larger%20events%20or%20full%20event%20management)** to discuss options.
-
-[Do prices include delivery and setup?](#accn3at_0_collapseTwo)
-
-Our rental prices include **professional setup and takedown** of your equipment. However, **a travel fee** is added based on your event location. This covers fuel, crew time, and logistics.
-
-You’ll always receive a **detailed quote with all fees included** before confirming your reservation—**no surprises**.
-
-Need a quick estimate? Call us at [**(866) 246-5867**](tel:(866) 246-5867) and we’ll be happy to help.
-
-[How far in advance should I book?](#accn3at_0_collapseThree)
-
-We recommend booking **as early as possible**, especially for **weekends, school field days, church events, and large festivals**.
-
-Spring and summer dates fill up fast, and popular items are often reserved **weeks—even months—in advance**.  
-That said, if your event is coming up soon, give us a call—we’ll do our best to make it happen!
-
-📞 [**(866) 246-5867**](tel:(866) 246-5867) | ✉️ **[**info@bigthunderevents.com**](mailto:info@bigthunderevents.com)**
-
-[Can I rent multiple inflatables for one event?](#accn3at_0_collapseFour)
-
-Yes! In fact, **many of our clients rent multiple inflatables or attractions** for school field days, church festivals, corporate events, and large parties.
-
-We also offer **multi-unit discounts** for **schools, churches, and nonprofits**, so you can get more fun for your budget.
-
-Not sure what combos work best together? Give us a call at [**(866) 246-5867**](tel:(866) 246-5867), and we’ll help you build the perfect event lineup.
-
-[Do you offer attendants or staffing?](#accn3at_0_collapseFive)
-
-Yes! **One trained operator is included** with any equipment that requires staffing, such as **mechanical rides, select interactive games, and specialty attractions**.
-
-Need extra hands? **Additional staffing is available for an added fee** and is **subject to availability**.
-
-If you truly want to **sit back and enjoy the party**, ask about our **full event management services**—we’ll handle setup, staffing, and coordination from start to finish.
-
-📞 [**(866) 246-5867**](tel:(866) 246-5867) | ✉️ **[**info@bigthunderevents.com**](mailto: info@bigthunderevents.com?subject=Event%20staffing)**
-
-## ⚡ Power & Setup Requirements
-
-[What kind of power is required?](#accn14at_0_collapseOne)
-
-Each inflatable requires **one or more blowers**, and **each blower must have its own dedicated 20-amp circuit**, not just a separate outlet. Most outlets in homes or parks are linked to the same circuit, so plugging into two nearby plugs could still **overload and trip the breaker**.
-
-We provide up to **100 feet of commercial-grade extension cord per blower**.
-
-Not sure if your setup can handle it? **Just ask!** Or skip the guesswork and **rent one of our [generators](https://www.bigthunderevents.com/items/generator/?ssq=GENERATOR)** to keep everything running smoothly.  
-📞 [**(866) 246-5867**](tel:(866) 246-5867) | ✉️ **[**info@bigthunderevents.com**](mailto: info@bigthunderevents.com)**
-
-[Can you set up on concrete, turf, or indoors?](#accn14at_0_collapseTwo)
-
-Yes! We can set up on **grass, turf, concrete, asphalt, gym floors, or indoors**. Just let us know your surface type when booking so we can bring the right anchoring equipment (like **sandbags or water barrels** instead of stakes).
-
-> 🚫 **Please note:** We do **not** set up on **gravel, loose rock, or aggregate driveways**, as these surfaces can damage the equipment and create safety issues.
-
-Have questions about your setup area? We’ll help you plan a safe and smooth event!   
-📞 [**(866) 246-5867**](tel:(866) 246-5867) | ✉️ **[info@bigthunderevents.com](mailto:info@bigthunderevents.com)**
-
-[How much space is needed for setup?](#accn14at_0_collapseThree)
-
-Each inflatable or ride has its own size requirements, but as a general rule, we recommend **at least 2 feet of clearance on all sides**, including **overhead clearance** for tall slides or games. You can find exact measurements listed in each unit’s description.
-
-If you’re unsure whether your space will work, just ask!  
-And don’t forget, we also need room for **setup access**, especially for larger rides or obstacle courses.
-
-Need help planning your layout? We offer **on-site walk-throughs for an additional fee**. Or **Give us a call or email us and we’ll walk you through the process:**  
-📞[**(866) 246-5867**](tel:(866) 246-5867) | ✉️ **[info@bigthunderevents.com](mailto:info@bigthunderevents.com)**
-
-[What power is required for Mechanical/Carnival rides?](#accn14at_0_collapseFour)
-
-We **provide power for all mechanical and carnival rides** as part of your rental. However, most of these attractions require a **50-amp RV-style outlet** to operate safely and reliably.
-
-If your location doesn't have the correct outlet available, don’t worry—we’ll bring a **generator setup** to power the ride. Our team will go over all power needs with you during the booking process to ensure everything runs smoothly.
-
-📞 **Have questions about power access?** Give us a call at [**(866) 246-5867**](tel:(866) 246-5867) or email **[info@bigthunderevents.com](mailto:info@bigthunderevents.com)** and we’ll walk you through the details.
-
-[what are the Setup & Site Requirements?](#accn14at_0_collapseFive)
-
-To ensure a smooth and safe event, here’s what we need for setup:
-
-✅ **Flat, clear space** — free of debris, holes, sharp objects, or overhead obstructions (like trees or power lines).  
-✅ **Access to power** — most inflatables require a **dedicated 20-amp outlet per blower** within 100 feet.  
-✅ **Surface type** — we can set up on **grass, turf, concrete, asphalt, or indoors**. Let us know your surface in advance.  
-🚫 We do **not** set up on gravel, loose rock, or aggregate driveways.
-
-We also need **clear access to the setup area**, including gates wide enough for equipment ( four feet minimum) and no tight turns or steep inclines.
-
-Have a tight space or are unsure if your site will work?  
-We offer **on-site walk-throughs for an additional fee** and will gladly help you plan your layout.  
-📞 Call us at [**(866) 246-5867**](tel:(866) 246-5867) or email **[info@bigthunderevents.com](mailto:info@bigthunderevents.com)** and we’ll walk you through it!
-
-## ⛅ Weather, Safety & Cancellations
-
-[What if it rains or storms?](#accn16at_0_collapseOne)
-
-**Weather can be unpredictable, but we make it easy.**  
-For rescheduling options, safety guidelines, and important policies,  
-👉 **[**view our full Weather Policy here**](https://www.bigthunderevents.com/policies/)** before checkout.
-
-[What is your cancellation policy?](#accn16at_0_collapseTwo)
-
-**Need to cancel or reschedule?**
-
-We've got clear guidelines to keep things fair for everyone.  
-👉 [**View our full cancellation & weather policy here**](https://www.bigthunderevents.com/policies/)
-
-[What happens if something gets damaged?](#accn16at_0_collapseThree)
-
-**Want peace of mind?**  
-We offer an **optional damage waiver** that covers **accidental damage from typical use**, so you can focus on the fun—not the what-ifs. Ask us about adding it to your rental!
-
-However, if equipment is damaged due to **misuse, negligence, or prohibited items** (like food, drinks, silly string, or confetti inside inflatables), you may be responsible for **cleaning, repair, or replacement costs**.
-
-[Do you have insurance?](#accn16at_0_collapseFour)
-
-Yes! Big Thunder Events is **fully licensed and insured**, including **general liability coverage** for all our equipment and services.
-
-Need proof of insurance for a school, church, city, or venue? No problem—we’re happy to provide a **certificate of insurance (COI)** upon request.
-
-📞 Call us at [**(866) 246-5867**](tel:(866) 246-5867) or email **[info@bigthunderevents.com](mailto:info@bigthunderevents.com)** to request a copy for your event.
-
-[Will Big Thunder Events ever cancel our event?](#accn16at_0_collapseFive)
-
-We do everything possible to deliver as promised—but **safety always comes first**.
-
-Big Thunder Events reserves the right to **cancel or postpone a rental** if conditions are unsafe, including:
-
-- 🌬️ **High winds (20+ MPH)**
-- ⛈️ **Severe weather or lightning**
-- ⚠️ **Unsafe setup surfaces** (like steep hills or loose gravel)
-- 🔌 **Power issues or blocked access** at the setup site
-
-If we must cancel, we’ll **communicate with you directly** and do our best to **reschedule or credit your event**, especially when the issue is something neither of us can control.
-
-Questions about your site or the forecast?  
-📞 Call us at [**(866) 246-5867**](tel:(866) 246-5867) or ✉️ email **[info@bigthunderevents.com](mailto:info@bigthunderevents.com)**—we’re happy to help!
-
-## 🧼 Cleanliness, Age Ranges & Safety
-
-[Is the equipment cleaned between rentals?](#accn18at_0_collapseOne)
-
-Absolutely. At Big Thunder Events, **cleanliness and safety are top priorities**.
-
-All equipment is **thoroughly cleaned, sanitized, and inspected** after every rental—no exceptions. We use commercial-grade disinfectants and follow a detailed cleaning checklist to make sure your inflatable or ride arrives **fresh, safe, and event-ready** every time.
-
-Got questions about our process?  
-📞 Call [**(866) 246-5867**](tel:(866) 246-5867) or email **[info@bigthunderevents.com](mailto:info@bigthunderevents.com)**
-
-[What age groups are your inflatables for?](#accn18at_0_collapseTwo)
-
-We offer inflatables and attractions for **all age groups**—from **toddlers to teens, and even adults** for certain rides and obstacle courses.
-
-Each unit is designed with different age ranges in mind, and the **majority of our inflatables have a weight limit of 250 lbs per person**. This helps ensure safe, balanced fun for all participants.
-
-Whether you’re planning a **preschool play day, church youth event, or community festival**, we’ll help you choose the right attractions for your crowd.
-
-📞 Call us at [**(866) 246-5867**](tel:(866) 246-5867) or ✉️ email **[info@bigthunderevents.com](mailto:info@bigthunderevents.com)**—we’re happy to help you build the perfect lineup.
-
-[Are your rentals safe?](#accn18at_0_collapseThree)
-
-Yes—**safety is our top priority** at Big Thunder Events.
-
-All of our equipment is **inspected, cleaned, and sanitized** after every rental, and we follow strict safety protocols during setup. Our inflatables are made from **commercial-grade materials** and anchored securely using the proper equipment for your surface.
-
-We also provide **clear safety rules and operating instructions** at delivery, and for larger events, **trained staff** is available to help oversee certain attractions.
-
-Got questions about setup, supervision, or safety planning?  
-📞 Call us at [**(866) 246-5867**](tel:(866) 246-5867) or email **[info@bigthunderevents.com](mailto:info@bigthunderevents.com)**
-
-[Do you provide safety instructions at delivery?](#accn18at_0_collapseFour)
-
-Yes! Our team will walk you through all **safety guidelines, supervision tips, and emergency procedures** when we deliver your rental.
-
-We also provide a**n emailed****copy of the rules** to keep on-site, so everyone stays informed during your event. If you have any questions, our crew is happy to clarify before they leave.
-
-For larger attractions or mechanical rides, we offer **trained staff** to stay and monitor the operation if needed.
-
-[Can adults use the inflatables too?](#accn18at_0_collapseFive)
-
-Yes—**many of our inflatables are designed for teens and adults**, especially larger **slides, obstacle courses, and interactive games**. Most units have a **250 lb per person weight limit** to ensure safety and performance.
-
-👉 **Keep in mind:** We **strongly recommend that kids and adults do not use the same inflatable at the same time**. It’s always safer to group **participants of similar size and age** together.
-
-📞 Need help picking the right setup? Call us at [**(866) 246-5867**](tel:(866) 246-5867) or email **[info@bigthunderevents.com](mailto:info@bigthunderevents.com)**—we’ve got you covered.
-
-## ❓🎉 Have a question we didn’t cover? Ask us here! — we’re always happy to help.❓🎉
-
-Send Message
-
-
-
-
-©
-2025 Big Thunder Events, LLC. All rights reserved.
-
-Powered by [EventRentalSystems](https://eventrentalsystems.com)
-
-Web Design by [Spider Web
-Development](http://www.spiderwebdev.com/)
-
----
-
-Safety & Weather Policies | BigThunderEvents.com Nashville TN
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -3662,6 +3133,63 @@ Many rides stay connected to the trailer during operation (like swings, spinners
 
 Got a tricky setup or weird layout? Give us a shout and we’ll help you make a game plan.  
 We’re good at navigating—but backing a trailer into a jungle gym isn’t exactly part of the Big Thunder dream. 😄⚡
+
+
+
+
+©
+2025 Big Thunder Events, LLC. All rights reserved.
+
+Powered by [EventRentalSystems](https://eventrentalsystems.com)
+
+Web Design by [Spider Web
+Development](http://www.spiderwebdev.com/)
+
+---
+
+# Big Thunder Photo Gallery
+
+![Big Thunder Event Photos](//files.sysers.com/cp/upload/jumpjumpbounce/editor/images/photo-booth-banner.jpg)
+
+**Click on a picture to view a larger version**
+
+|  |  |
+| --- | --- |
+| |  | | --- | | 40 FOOT OBSTACLE COURSE BigThunderEvents.com  27 FOOT ROARING RIVER DUAL LANE RUN N SPLASH  Bounce House City BigThunderEvents.com  Victory Lane BigThunderEvents.com  Large Events BigThunderEvents.com  911 Event Murfreesboro TN, 2013  Indoor Events Are Awesome  50 FOOT OBSTACLE COURSE BigThunderEvents.com  Birthday Cake Anyone?  Trackless Train BigThunderEvents.com  Large Event Ariel Photo 1  The Edge Size Comparison BigThunderEvents.com  Loading GIF  <//files.sysers.com/cp/upload/jumpjumpbounce/gallery/FotoFlexer_Photo10.jpg> 40 FOOT OBSTACLE COURSE BigThunderEvents.com  <//files.sysers.com/cp/upload/jumpjumpbounce/gallery/FotoFlexer_Photo11.jpg> 27 FOOT ROARING RIVER DUAL LANE RUN N SPLASH  <//files.sysers.com/cp/upload/jumpjumpbounce/gallery/FotoFlexer_Photo2.jpg> Bounce House City BigThunderEvents.com  [//files.sysers.com/cp/upload/jumpjumpbounce/gallery/FotoFlexer_Photo3.jpg](//files.sysers.com/cp/upload/jumpjumpbounce/gallery/FotoFlexer_Photo3.jpg "Victory Lane Nashville Super Speedway !") Victory Lane BigThunderEvents.com  [//files.sysers.com/cp/upload/jumpjumpbounce/gallery/FotoFlexer_Photo4.jpg](//files.sysers.com/cp/upload/jumpjumpbounce/gallery/FotoFlexer_Photo4.jpg "How many Bounce Houses did you say you wanted?") Large Events BigThunderEvents.com  <//files.sysers.com/cp/upload/jumpjumpbounce/gallery/FotoFlexer_Photo5.jpg> 911 Event Murfreesboro TN, 2013  <//files.sysers.com/cp/upload/jumpjumpbounce/gallery/FotoFlexer_Photo6.jpg> Indoor Events Are Awesome  <//files.sysers.com/cp/upload/jumpjumpbounce/gallery/FotoFlexer_Photo7.jpg> 50 FOOT OBSTACLE COURSE BigThunderEvents.com  [//files.sysers.com/cp/upload/jumpjumpbounce/gallery/FotoFlexer_Photo8.jpg](//files.sysers.com/cp/upload/jumpjumpbounce/gallery/FotoFlexer_Photo8.jpg "We love renting inflatables for any event, even for filming commercials.") Birthday Cake Anyone?  <//files.sysers.com/cp/upload/jumpjumpbounce/gallery/FotoFlexer_Photo9.jpg> Trackless Train BigThunderEvents.com  <//files.sysers.com/cp/upload/jumpjumpbounce/gallery/hoedown1.jpg> Large Event Ariel Photo 1  [//files.sysers.com/cp/upload/jumpjumpbounce/gallery/IMG_9876.JPG](//files.sysers.com/cp/upload/jumpjumpbounce/gallery/IMG_9876.JPG "This photo shows the size of the 35 foot tall Edge Slide beside a full size box truck and a 2 story building.") The Edge Size Comparison BigThunderEvents.com | |
+
+
+
+
+
+©
+2025 Big Thunder Events, LLC. All rights reserved.
+
+Powered by [EventRentalSystems](https://eventrentalsystems.com)
+
+Web Design by [Spider Web
+Development](http://www.spiderwebdev.com/)
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+
+---
+
+Corporate Events Parties & Picnics
+
+![Corporate Events Parties & Picnics Rentals Nashville and Murfreesboro](//files.sysers.com/cp/upload/jumpjumpbounce/editor/images/coporate-hdr.png)
+
+At Big Thunder Events, we specialize in " Hands-Free" event planning. Our event specialists will meet with you to learn what you would like to see at your event, then we will plan every detail from beginning to the final clean up so you can can relax and enjoy along side your guests. In other words, we do all of the leg work and you recieve all of the credit.  
+  
+![Corporate Events Parties Rentals Nashville and Murfreesboro](//files.sysers.com/cp/upload/jumpjumpbounce/editor/images/corporate-2.png)We offer some of the most "mind-Blowing" inflatable equipment on the market as well as games, tents, tables, chairs, concessions, sound and the greatest staff available. You will be amazed by how smoothly your next event will operate.  
+  
+Big Thunder Events will take the "stress" of planning your next company picnic, school or church event, festival, fair, post prom, lock in or any other reason to gather with friends so you can enjoy.  
+  
+So, when you are ready to assemble the next, most talked about event in the office, the only question remaining for you to ask yourself is,  
+"Do you just want to entertain them, or do you want to take them by STORM ?"  
+  
+Not sure what type of corporate event to throw? [Here are some ideas that will build your brand, as well.](/corporate-event-ideas/)
+
+![Corporate Events Picnics Rentals Nashville and Murfreesboro](//files.sysers.com/cp/upload/jumpjumpbounce/editor/images/corporate-3.png)
+
 
 
 

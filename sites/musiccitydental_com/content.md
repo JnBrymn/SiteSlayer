@@ -552,6 +552,14 @@ One of our newest pieces of equipment is our iTero 3D scanner. It allows us to t
 
 ---
 
+![New Patient Forms](/wp-content/uploads/2018/10/dentistry-112-300x200.jpg)At Music City Dental, we offer patient forms online so you can complete them in the convenience of your own home or office. Fax us your printed and completed forms or you may bring them during your visit.
+
+[New Patient Registration Form – Download & Print Form](/wp-content/uploads/2018/10/1a.-New-Patient-forms-all-6-pages2016MCDUSE-ONLY-1-2.pdf)
+
+If you do not have AdobeReader® installed on your computer, [Click Here To Download](https://get.adobe.com/reader/).
+
+---
+
 ### Are you living without Dental Insurance?
 
 Our in-office plan is an affordable program designed for those living without insurance, but understand the importance of routine care. With our membership program, you no longer have to worry about not having insurance to maintain the routine care needed to keep your teeth and gums clean and healthy. As an added bonus, it allows for a 15% discount off of other services.
@@ -603,16 +611,6 @@ Our in-office plan is an affordable program designed for those living without in
 
 ---
 
-[![Dr. Terry Spurlin-Moore's cousin Novella Page (center with glasses) participated in the Nashville Sit-Ins. (Image Courtesy of the Library of Congress)](https://musiccitydental.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-01-at-6.59.18-AM-800x533.png)](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/ "The Nashville Sit-Ins and Dr. Terry’s Cousin")
-
-### [The Nashville Sit-Ins and Dr. Terry’s Cousin](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/ "The Nashville Sit-Ins and Dr. Terry’s Cousin")
-
-As we celebrate Black History Month we wanted to share some information on the Nashville Sit-Ins and their importance to the civil rights movement. Dr. Terry Spurlin-Moore’s cousin Novella …
-
-[[Continue Reading...]](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/ "The Nashville Sit-Ins and Dr. Terry’s Cousin")
-
----
-
 ![In The Press](/wp-content/uploads/2018/10/NL_0918_Spurlin_Page_1-842x1024.jpg)
 
 [![In The Press](/wp-content/uploads/2018/10/NL_0918_Spurlin_Page_2-861x1024.jpg)](/wp-content/uploads/2018/10/NL_0918_Spurlin_Page_2.jpg)
@@ -626,6 +624,16 @@ As we celebrate Black History Month we wanted to share some information on the N
 [![In The Press](/wp-content/uploads/2023/02/Nashville-Lifestyles-Top-dentists-bio-2020.jpg)](/wp-content/uploads/2023/02/Nashville-Lifestyles-Top-dentists-bio-2020.jpg)
 
 [![In The Press](/wp-content/uploads/2023/02/Top-dentists-2021-scaled.jpg)](/wp-content/uploads/2023/02/Top-dentists-2021-scaled.jpg)
+
+---
+
+[![Dr. Terry Spurlin-Moore's cousin Novella Page (center with glasses) participated in the Nashville Sit-Ins. (Image Courtesy of the Library of Congress)](https://musiccitydental.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-01-at-6.59.18-AM-800x533.png)](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/ "The Nashville Sit-Ins and Dr. Terry’s Cousin")
+
+### [The Nashville Sit-Ins and Dr. Terry’s Cousin](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/ "The Nashville Sit-Ins and Dr. Terry’s Cousin")
+
+As we celebrate Black History Month we wanted to share some information on the Nashville Sit-Ins and their importance to the civil rights movement. Dr. Terry Spurlin-Moore’s cousin Novella …
+
+[[Continue Reading...]](https://musiccitydental.com/the-nashville-sit-ins-and-dr-terrys-cousin/ "The Nashville Sit-Ins and Dr. Terry’s Cousin")
 
 ---
 

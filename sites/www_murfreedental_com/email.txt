@@ -1,27 +1,25 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: Dr. John Murfree <info@murfreedental.com>
-SUBJECT: Make patient questions effortless on the Murfree Dental website
-
+SUBJECT: Helping Patients Find Answers (and Appointments) Faster at Murfree Dental
 -----------------------------------------
 Hi Dr. Murfree,
 
-I’m really impressed by how Murfree Dental combines advanced technology with a warm, welcoming atmosphere for your patients. Your “patient-first” approach and transparent info on services, financial options, and new patient support stand out.
+I was impressed by how Murfree Dental blends advanced technology with a personalized, friendly approach. Your “family-based” focus and thorough explanations set you apart.
 
-I wanted to share something practical we do at SlayDigital.ai: we build simple web chat agents that help visitors get answers straight from your current site content—no AI buzzwords, just instant clarity. To show you how this could work on your site, we’ve set up a quick demo at: https://slaydigital.fly.dev/site/www_murfreedental_com
+I’m Zac from SlayDigital.ai. We help practices like yours make website information even easier for patients with custom AI chat agents—simple, helpful tools that answer questions using your own site’s content, right on your website.
 
-Just click the chat icon in the bottom-right, type a question, and the agent will answer using details directly from your real website.
+I made a quick demo with your content here: https://slaydigital.fly.dev/site/www_murfreedental_com — you’ll see a chat icon in the lower right corner. Clicking it opens a box where you can type any question, and it replies based on details already on your site.
 
-You can try asking things like:
-- What are the options if I don’t have dental insurance?
-- How do I schedule an appointment as a new patient?
-- What types of sedation dentistry do you offer?
-- Do you provide laser dentistry or dental implants?
-- Where can I find your patient forms or hours?
+For example, you can try asking things like:
+- “What insurance plans do you accept or what financial options are available?”
+- “How do I request an appointment or fill out new patient forms?”
+- “What sedation options do you offer for anxious patients?”
+- “Do you offer dental implants or Invisalign, and how do I know if I qualify?”
+- “What are your office hours and which days are you open?”
 
-This kind of agent can help reduce repetitive calls, make info easy to find, and get patients started faster—without adding extra work for your team.
+Our approach is all about clarity—answering the repeat questions fast, helping new and nervous patients feel more at home, and freeing your team to focus on care.
 
-Would you be interested in a quick chat to see if this could save your staff time (and make your patients’ lives easier)?
+Would you be open to a quick call to see if this could save your team time or improve your patients’ online experience?
 
-Best regards,  
-Zac  
-Founder, SlayDigital.ai
+Warm regards,  
+Zac

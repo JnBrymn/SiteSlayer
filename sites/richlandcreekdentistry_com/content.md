@@ -282,6 +282,16 @@ Notifications
 
 ---
 
+![About](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/reception20area201.jpg)
+
+Here at Richland Creek Family Dentistry, we believe that a smile tells a thousand words, and we are dedicated to giving our patients high-quality dental care. We offer a full range of dental services, so all of your family’s needs are met under one roof.
+
+Our goal is for you to leave our office with a memorable and enjoyable dental experience, which is why our welcoming and compassionate staff will do everything they can to make you feel right at home.
+
+If you are looking to brighten and enhance your smile, please don’t hesitate to [contact us](/contact/) today at [(615) 383-1444](tel:(615) 383-1444)!
+
+---
+
 ### Richland Creek Family Dentistry offers a full array of dental services to help you fix and maintain healthy teeth.
 
 ### Common Services Offered
@@ -327,79 +337,62 @@ If you have a life-threatening or severe injury, call 911 or go directly to the 
 
 ---
 
-![general dentistry  Nashville, TN ](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/generaldentistry_img.jpg)
+![New Patients](/wp-content/uploads/2022/08/operatory-picture.jpg)
 
-### General Dentistry
+Here at Richland Creek Family Dentistry, we love meeting new patients. Part of easing your concerns is explaining what you can expect from our practice. When you are new to our office, we put in the effort to provide you with a positive and comforting experience. Once you have been with us for a while, you can continue to expect the highest level of service. We focus on providing quality dental care, excellent customer service, and a relaxing environment to maintain a lasting patient relationship. We consider your first visit the start of a long-term relationship with you.
 
-Helping our patients maintain a healthy mouth and smile is the main goal of general dentistry. We prefer to provide more minor, preventive care than to see patients suffer with more intensive treatments from a problem that was not managed in time. We want to ensure that your oral health is in its optimal state and positively contributing to the health of your entire body. We are here to brighten your smile and pave the way for a brighter life.
+During your initial appointment, we will perform various tests to assess the condition of your oral health and to create a dental plan based on your unique, individual needs. We look forward to meeting you!
 
-- [Fillings](#fillings)
-- [Root Canals](#rootcanals)
-- [Extractions](#extractions)
-- [Porcelain Crowns](#porcelaincrowns)
-- [Bridges](#bridges)
-- [Nitrous Oxide](#nitrousoxide)
-- [Oral Conscious Sedation](#oralconscioussedation)
+For more information on your initial visit or to [request an appointment](/appointments/), please don’t hesitate to [contact us](/contact/) today at [(615) 383-1444](tel:(615) 383-1444)!
 
-![Fillings  Nashville, TN ](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/fillings_img.jpg)
+---
 
-### Fillings
+**Richland Creek Family Dentistry**
 
-Composite fillings act as a dentistry solution for problems such as tooth decay or cracks. A composite filling is a tooth-colored plastic and glass mixture used to restore decayed teeth. This procedure is also utilized for cosmetic improvements of the smile by fixing any discoloration or reshaping any disfigured teeth.
+406 Morrow Rd.   
+ Nashville, TN 37209
 
- [request an appointment](/appointments/)
+**Phone:**  [(615) 383-1444](tel:(615) 383-1444)
 
-![Root Canals  Nashville, TN ](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/rootcanals_img.jpg)
+**Send Us A Message**
 
-### Root Canals
+- LinkedIn
 
-Root canals are needed when decay and bacteria spread for too long without treatment. At a certain point, this decay makes it to the pulp inside the tooth. This pulp includes nerves, therefore infection generally causes a lot of pain. Since this is happening on the inside of the tooth, you won’t necessarily see the damage. Instead, you could feel it through pain and notice other signs that include bleeding, swelling and bad breath.
+  This field is for validation purposes and should be left unchanged.
+- Name*
+- Phone*
+- Email*
+- Message*
+- Please use this form for general information purposes only. DO NOT send personal health information through this form. Specific patient care must be addressed during your appointment.
 
- [request an appointment](/appointments/)
+**Business Hours**
 
-![Extractions  Nashville, TN ](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/extractions_img.jpg)
+Mon, Tue, Thu: 8 am – 5 pm  
+Wed: 8 am – 4 pm
 
-### Extractions
+**Our Location**
 
-An extraction is performed to remove a tooth, whether because of disease, crowding, or damage. When extractions are required, the area around the tooth will be numbed and your dentist will remove the tooth. A small amount of bleeding is normal, as your mouth will replace the removed tooth root by forming a blood clot in the area.
+---
 
- [request an appointment](/appointments/)
+## Tim McNutt, DDS
 
-![Porcelain Crowns  Nashville, TN ](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/porcelaincrowns_img.jpg)
+#### 
 
-### Porcelain Crowns
+Dr. Tim McNutt, Jr. is a native of Nashville, Tennessee. Following his undergraduate education at Lipscomb University, he earned a Doctorate of Dental Surgery from the University of Tennessee – Memphis College of Dentistry. He is an active member of the American Dental Association, Tennessee Dental Association, and Nashville Dental Society; as well as, the American Academy of Cosmetic Dentistry; and the Academy of General Dentistry. In order to provide the best treatment, Dr. McNutt is constantly attending continuing education courses to offer up-to-date and convenient treatments for all your dental needs.
 
-Getting porcelain crowns is the best way to have a very natural looking smile. They are used when simply filling in a tooth is not an option. There are times when they decay is so bad that we just have to use a porcelain crown. We also use them with severely damaged teeth or teeth that have already had multiple fillings. Porcelain crowns are attached right to your teeth so that they can function, even when you bite something really hard! There are several types of porcelain crowns so it is important to discuss which type is best for you with your dentist.
+Richland Creek Family Dentistry believes in giving back. Dr. McNutt has participated in free dental days, helping to alleviate dental pain in underserved communities. He is also a sustaining contributor to Interfaith Dental Clinic, which provides great dental care on an income based sliding scale. Most of all, Dr. McNutt enjoys working with patients to create and keep beautiful smiles for a lifetime.
 
- [request an appointment](/appointments/)
+Outside the office, he and his wife enjoy spending time together with their two sons and daughter. He loves Nashville’s rich music history and enjoys listening to the different artists and styles. Dr. McNutt is active leading and serving in church and carries that service into all aspects of his profession.
 
-![Bridges  Nashville, TN ](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/bridges_img.jpg)
+---
 
-### Bridges
+Your kind words help us help others.
 
-When your teeth are missing, it greatly affects your smile. At the same time, the missing tooth has the potential to negatively affect your oral hygiene because of unprotected gum exposure. Dental bridges are one of many options aimed at improving the appearance and function of your teeth by replacing the missing tooth or teeth. During your exam, we will discuss whether or not dental bridges are right for you.
+If you enjoyed your experience with our practice, please select one or more of the review sites below, and tell us about it! It only takes a few minutes, and we appreciate your feedback.
 
- [request an appointment](/appointments/)
+[![Reviews](/wp-content/uploads/2022/08/google-review-us-smaller.png)](https://g.page/RichlandCreekDentistry/review) [![Reviews](/wp-content/uploads/2022/08/facebook.png)](https://www.facebook.com/Richland-Creek-Family-Dentistry-452808288240830/reviews/?ref=page_internal) [![Reviews](/wp-content/uploads/2022/08/yelp-review-us-smaller.png)](https://www.yelp.com/biz/west-robert-l-dds-nashville) [![Reviews](/wp-content/uploads/2022/08/healthgrades.png)](http://www.healthgrades.com/dentist/dr-tim-mcnutt-zc855#tab=patient-ratings&scrollTo=QualitySurveyResults_anchor)
 
-![Nitrous Oxide  Nashville, TN ](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/nitrousoxide_img.jpg)
-
-### Nitrous Oxide
-
-Nitrous oxide is a very safe form of sedation. It is inhaled and the effects start within a few seconds. It can be adjusted quickly if a patient is too light or too deep. Also, after a few minutes without the gas, it is safe to drive home. It has very little side effects and hardly any effects on the kidneys, liver, brain, and more.
-
-Nitrous oxide makes many people feel happy and warm. It causes a lot of people to laugh so it is often called laughing gas. It is great for sedation when a person is nervous at the dentist. It is also a great pain relief.
-
-Not many dentists use nitrous oxide analgesia anymore. We would be glad to use it if you are extremely nervous or you need some pain relief during your procedure. Our goal is to keep you as relaxed as possible, no matter what procedure that we are performing.
-
-[request an appointment](/appointments/)
-
-![Oral Conscious Sedation  Nashville, TN ](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/oralconscioussedation_img.jpg)
-
-### Oral Conscious Sedation
-
-With oral conscious sedation, your anxiety will decrease and you’ll feel comfortable during your dental treatment. Rest assured, you will stay conscious throughout the procedure. With this type of sedation, we provide medication that relaxes your body and mind. If you undergo this type of sedation procedure, we ask that you have someone else drive you on the day of your treatment. Nonetheless, the effects of the sedation do not linger, so you will feel alert and back to your normal state again soon after treatment.
-
-[request an appointment](/appointments/)
+Provided for [Tim McNutt Jr](https://local.demandforce.com/b/richlandcreekfamilydentistry) by ![Reviews](https://local.demandforce.com/v2/b/images/demandforce_logo_pms-sm.png)
 
 ---
 
@@ -469,19 +462,26 @@ A beautiful and warm smile can significantly boost your esteem and confidence. A
 
 ---
 
-![Emergency Care](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/dental-00.jpg)
+You’ve no doubt heard it said that an ounce of prevention is worth a pound of cure. In dentistry, you might say it’s worth two pounds. Maybe even thousands of dollars. That’s because dental problems can become exponentially more expensive — and painful — the longer they go unaddressed. Fortunately, modern dentistry has many easy and relatively inexpensive ways to make sure that today’s minor annoyance does not turn into tomorrow’s major headache.
 
-Emergencies can, and do, happen at any time. Being prepared and discussing emergency situations with your dentist is the best way to save valuable time and stress in the unfortunate situation of a dental emergency. Knowing what to do can be the difference between losing and saving a tooth. Always have your dentist’s number readily available in the case of an emergency.
+Preventive dentistry describes all the procedures used to arrest tooth decay and other diseases in the earliest stages. The goal is to keep you as healthy as possible and maintain your natural teeth for life.
 
-You should always contact your dentist right away in an emergency situation. If you lose a permanent tooth, try to keep it moist while you get to the dentist. You can try placing it back in the socket if that is not painful, or between your cheek and gums. If that is not possible, placing it in milk can help improve the chances of saving the tooth.
+## Preventive Dentistry Procedures
 
-If you crack a tooth or bite your tongue or lip, rinse your mouth with warm water and apply a cold compress to reduce swelling. For toothaches or objects stuck in your mouth, gently use floss to clean the area and remove any debris. Do not put aspirin on your teeth or gums and never use a sharp object on your teeth.
+Preventive dentistry procedures range from the most basic services that have been used successfully for decades, to recent technological innovations. These procedures include:
 
-Wearing a mouthguard during physical activity will help protect your teeth. And avoid chewing foods like ice, popcorn kernels, or hard candy to reduce the chances of cracking a tooth. Also, refrain from cutting or tearing objects with your teeth.
+- **Cleanings**. This is where dental health starts. There’s just no substitute for physically removing disease-causing dental plaque and calculus (tartar) from your teeth — especially in hard-to-reach areas near the gum line. That’s why regular professional cleanings are so important to your health.
+- **Dental Sealants**. These invisible plastic coatings fill the tiny grooves in back teeth so they do not become havens for bacteria. They prevent cavities from forming and the need for fillings later on.
+- **Fluoride**. This mineral is readily incorporated into the teeth’s mineral structure, thereby making them stronger and more decay-resistant. Fluoride can even reverse tiny cavities that are starting to form. If you are not getting enough from your toothpaste and drinking water, it can be applied directly to your teeth at the dental office.
+- **Laser Decay Diagnosis**. Laser light can be used to detect early tooth decay quickly and easily, right in the dental office — before full-blown cavities form.
+- **Mouthguards**. Athletic mouthguards are designed to absorb and distribute the forces of impact and minimize traumatic injury to both the hard and soft tissues of the mouth. In fact, an athlete is 60 times more likely to suffer harm to teeth when not wearing a mouthguard. The best ones are custom-made for you by your dentist.
+- **Oral Cancer Screenings**. Your best chance of surviving oral cancer — a disease that affects not only lifelong smokers but also young non-smokers — is early detection and treatment. Oral cancer screenings are a routine part of every regular dental exam.
+- **Salivary Diagnostics**. This is an exciting new development in the field of preventive dentistry. While it is in its infancy, it is already possible to detect the presence of certain diseases with a saliva test, and the technology is developing rapidly.
+- **X-Rays**. For around a century, dentists have been using x-rays to reveal signs of disease not visible to the naked eye. Now, with CAT scans, they have become three-dimensional and are an indispensable tool to diagnose tooth decay, gum disease, bone density, bone volume and tumors.
 
-If you have a dental emergency, contact us immediately.
+## Your Role in Preventing Dental Disease
 
- [request an appointment](/appointments/)
+There’s one more extremely important component of preventive dentistry: you. The procedures mentioned above can only be effective if you come in to the dental office to take advantage of them. Likewise, the importance of maintaining a good oral hygiene routine at home cannot be overstated. Daily effective brushing and flossing will go a long way toward removing the dental plaque responsible for dental disease, tooth loss, and the need for more complex dental treatment.
 
 ---
 
@@ -570,16 +570,6 @@ Are you seeking teeth whitening services in the [Nashville](https://www.nashvil
 
 ---
 
-![New Patients](/wp-content/uploads/2022/08/operatory-picture.jpg)
-
-Here at Richland Creek Family Dentistry, we love meeting new patients. Part of easing your concerns is explaining what you can expect from our practice. When you are new to our office, we put in the effort to provide you with a positive and comforting experience. Once you have been with us for a while, you can continue to expect the highest level of service. We focus on providing quality dental care, excellent customer service, and a relaxing environment to maintain a lasting patient relationship. We consider your first visit the start of a long-term relationship with you.
-
-During your initial appointment, we will perform various tests to assess the condition of your oral health and to create a dental plan based on your unique, individual needs. We look forward to meeting you!
-
-For more information on your initial visit or to [request an appointment](/appointments/), please don’t hesitate to [contact us](/contact/) today at [(615) 383-1444](tel:(615) 383-1444)!
-
----
-
 ****We collect for all services up front at time of service.****
 
 ****Insurance and Billing****
@@ -630,52 +620,3 @@ For patients without dental insurance coverage, Richland Creek Family Dentistry 
 - Crowns
 - Fixed bridges
 - Dentures and Partials
-
----
-
-**Richland Creek Family Dentistry**
-
-406 Morrow Rd.   
- Nashville, TN 37209
-
-**Phone:**  [(615) 383-1444](tel:(615) 383-1444)
-
-**Send Us A Message**
-
-- LinkedIn
-
-  This field is for validation purposes and should be left unchanged.
-- Name*
-- Phone*
-- Email*
-- Message*
-- Please use this form for general information purposes only. DO NOT send personal health information through this form. Specific patient care must be addressed during your appointment.
-
-**Business Hours**
-
-Mon, Tue, Thu: 8 am – 5 pm  
-Wed: 8 am – 4 pm
-
-**Our Location**
-
----
-
-![About](https://richlandcreekdentistry.com/wp-content/uploads/2022/08/reception20area201.jpg)
-
-Here at Richland Creek Family Dentistry, we believe that a smile tells a thousand words, and we are dedicated to giving our patients high-quality dental care. We offer a full range of dental services, so all of your family’s needs are met under one roof.
-
-Our goal is for you to leave our office with a memorable and enjoyable dental experience, which is why our welcoming and compassionate staff will do everything they can to make you feel right at home.
-
-If you are looking to brighten and enhance your smile, please don’t hesitate to [contact us](/contact/) today at [(615) 383-1444](tel:(615) 383-1444)!
-
----
-
-## Tim McNutt, DDS
-
-#### 
-
-Dr. Tim McNutt, Jr. is a native of Nashville, Tennessee. Following his undergraduate education at Lipscomb University, he earned a Doctorate of Dental Surgery from the University of Tennessee – Memphis College of Dentistry. He is an active member of the American Dental Association, Tennessee Dental Association, and Nashville Dental Society; as well as, the American Academy of Cosmetic Dentistry; and the Academy of General Dentistry. In order to provide the best treatment, Dr. McNutt is constantly attending continuing education courses to offer up-to-date and convenient treatments for all your dental needs.
-
-Richland Creek Family Dentistry believes in giving back. Dr. McNutt has participated in free dental days, helping to alleviate dental pain in underserved communities. He is also a sustaining contributor to Interfaith Dental Clinic, which provides great dental care on an income based sliding scale. Most of all, Dr. McNutt enjoys working with patients to create and keep beautiful smiles for a lifetime.
-
-Outside the office, he and his wife enjoy spending time together with their two sons and daughter. He loves Nashville’s rich music history and enjoys listening to the different artists and styles. Dr. McNutt is active leading and serving in church and carries that service into all aspects of his profession.

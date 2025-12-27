@@ -2,15 +2,11 @@
 
 [Schedule  
 Appointment](https://app.nexhealth.com/appt/Imagen-Dental-Partners?lid=122650)
-[Call Now](tel:6156226670)
+[Call Now](tel:615-646-5595)
 
 Video Player
 
 [<https://lifetimedentistrytn.com/wp-content/uploads/2025/01/Lifetime-Hero.mp4>](https://lifetimedentistrytn.com/wp-content/uploads/2025/01/Lifetime-Hero.mp4?_=1)
-
-Media error: Format(s) not supported or source(s) not found
-
-[Download File: https://lifetimedentistrytn.com/wp-content/uploads/2025/01/Lifetime-Hero.mp4?_=1](https://lifetimedentistrytn.com/wp-content/uploads/2025/01/Lifetime-Hero.mp4?_=1)
 
 00:00
 
@@ -24,7 +20,7 @@ Media error: Format(s) not supported or source(s) not found
 
 [Schedule  
 Appointment](https://app.nexhealth.com/appt/Imagen-Dental-Partners?lid=122650)
-[Call Now](tel:6156226670)
+[Call Now](tel:615-646-5595)
 
 ## Welcome to Lifetime Dentistry
 
@@ -34,7 +30,7 @@ Our expertise extends beyond basic services. With advanced training and a commit
 
 We take pride in reconnecting patients with their care, helping them reclaim their health, restore lasting function, and reveal the natural beauty of their smiles. At Lifetime Dentistry, every treatment is a step toward renewed confidence, comfort, and well-being. Discover the difference in restorative dentistry with us in .
 
-[![Wistia video thumbnail](https://embed-ssl.wistia.com/deliveries/ba08f9b6c6153d9a603e000323af3fb80ab343cf.webp?image_crop_resized=960x540)](https://embed-ssl.wistia.com/deliveries/264ab4227cdf8a0a94e1f6faa85b4efcbedee903.bin)
+![](https://fast.wistia.com/embed/medias/3qnus89o61/swatch)
 
 ## Comprehensive Dental Services
 
@@ -417,7 +413,7 @@ Welcome to Lifetime Dentistry, where we pride ourselves on delivering attentive 
 
 [Schedule  
 Appointment](https://app.nexhealth.com/appt/Imagen-Dental-Partners?lid=122650)
-[Call Now](tel:615-646-5595)
+[Call Now](tel:6156226670)
 
 ## Meet Our Dentists
 

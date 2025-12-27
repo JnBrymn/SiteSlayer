@@ -181,46 +181,6 @@ Nashville, TN 37203
 
 [Skip to content](#content)
 
-# About Us
-
-## Why Choose Us
-
-Smiles Up was created to be accessible to people who work hard and do not have the luxury to access dental care during regular business hours. We understand that your life is busy and that is why we make dental visits after hours and on weekends to better serve our [community](https://web.facebook.com/SmilesUPNashville/?_rdc=1&_rdr).
-
-### **We are open 24 hours for emergencies!**
-
-General and preventative care: 8 am – 5 pm Tuesday – Friday | 8 am – 2 pm Saturday (Walk-ins welcome)
-
-Emergency care*: 5 pm – 8 am Tuesday – Friday, after 2pm Saturday and 24 hours Sunday – Monday (Please call our office at 615-678-8965)
-
-## Our Mission
-
-Our mission is to provide accessible high quality comprehensive care that caters to your personal needs ranging from emergencies to cosmetic dentistry.
-
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Generated-Image-November-12-2025-2_03PM-1.png)
-
-# Our Dentists
-
-At Nashville Smiles Up, our doctors bring more than skill—they bring heart. With a shared mission to make high-quality dental care accessible to everyone, Dr. Jaja Bakari and Dr. Drake Dudley combine experience, innovation, and compassion to help patients feel confident about their smiles. Whether it’s a routine check-up or an emergency visit, their focus is on comfort, trust, and lasting results.
-
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Dr.-D.--535x1024.png)
-
-## Dr. Drake Dudley - Owner
-
-**Dedicated. Experienced. Patient-First.**  
-Founder of Nashville Smiles Up, Dr. Dudley is known for his warm demeanor and commitment to delivering dentistry with integrity and excellence. He specializes in restorative and cosmetic procedures, emphasizing education and prevention to build healthier, happier smiles across the community.
-
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Dr.-B-448x1024.png)
-
-**Compassionate. Skilled. Community-Focused.**  
-Dr. Bakari is passionate about providing exceptional, accessible dental care that meets patients where they are. With a calm, reassuring approach, he helps patients overcome dental anxiety while promoting long-term oral health and confidence. His philosophy is simple: every patient deserves a smile they can be proud of.
-
-## Dr. Jaja Bakari
-
----
-
-[Skip to content](#content)
-
 # Book An Appointment
 
 ### When scheduling an appointment will try our best to give you the request date and time. We will contact you to confirm or set a time as close as possible to the time you request.*
@@ -277,29 +237,87 @@ SunMonTueWedThuFriSat
 
 [Skip to content](#content)
 
-# Contact Us
+# About Us
 
-## We’re just a call or message away
+## Why Choose Us
 
-# Get In Touch
+Smiles Up was created to be accessible to people who work hard and do not have the luxury to access dental care during regular business hours. We understand that your life is busy and that is why we make dental visits after hours and on weekends to better serve our [community](https://web.facebook.com/SmilesUPNashville/?_rdc=1&_rdr).
 
-Whether you’re a new patient or one of our regulars, we’d love to hear from you. Have a question, need to schedule an appointment, or want to tell us how we’re doing? Drop us a message, give us a call at 615-678-8965, or send an email to smilesupdentistry@gmail.com — we’ll get back to you quickly
+### **We are open 24 hours for emergencies!**
 
-- 615-678-8965
-- smilesupdentistry@gmail.com
-- 1916 Patterson St. Suite 712, Nashivlle, TN 37203
+General and preventative care: 8 am – 5 pm Tuesday – Friday | 8 am – 2 pm Saturday (Walk-ins welcome)
 
-Name
+Emergency care*: 5 pm – 8 am Tuesday – Friday, after 2pm Saturday and 24 hours Sunday – Monday (Please call our office at 615-678-8965)
 
-Email
+## Our Mission
 
-Phone
+Our mission is to provide accessible high quality comprehensive care that caters to your personal needs ranging from emergencies to cosmetic dentistry.
 
-Subject
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Generated-Image-November-12-2025-2_03PM-1.png)
 
-Message
+# Our Dentists
 
-Send
+At Nashville Smiles Up, our doctors bring more than skill—they bring heart. With a shared mission to make high-quality dental care accessible to everyone, Dr. Jaja Bakari and Dr. Drake Dudley combine experience, innovation, and compassion to help patients feel confident about their smiles. Whether it’s a routine check-up or an emergency visit, their focus is on comfort, trust, and lasting results.
+
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Dr.-D.--535x1024.png)
+
+## Dr. Drake Dudley - Owner
+
+**Dedicated. Experienced. Patient-First.**  
+Founder of Nashville Smiles Up, Dr. Dudley is known for his warm demeanor and commitment to delivering dentistry with integrity and excellence. He specializes in restorative and cosmetic procedures, emphasizing education and prevention to build healthier, happier smiles across the community.
+
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Dr.-B-448x1024.png)
+
+**Compassionate. Skilled. Community-Focused.**  
+Dr. Bakari is passionate about providing exceptional, accessible dental care that meets patients where they are. With a calm, reassuring approach, he helps patients overcome dental anxiety while promoting long-term oral health and confidence. His philosophy is simple: every patient deserves a smile they can be proud of.
+
+## Dr. Jaja Bakari
+
+---
+
+[Skip to content](#content)
+
+# Insurance and Financing Plans
+
+Everyone deserves quality dental care. We offer payment and financing options for accessibility and affordability.
+
+## Insurance coverage
+
+We partner with a wide range of providers.
+
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/AlwaysCare-logo.jpg)
+
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Blue-Cross-Blue-Shield-Logo-1024x576.jpg)
+
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Cigna.png)
+
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Guardian-light.png)
+
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/metlife_eng_logo_rgb.png)
+
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/renaissance-large.png)
+
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/ucd-logo-1024x216.png)
+
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/UnitedHealthcare_logo.svg_-1024x322.png)
+
+## Flexible financing solutions
+
+CareCredit (Financing)
+
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/carecredit-syflogo.avif)
+
+CareCredit offers a trusted way to finance dental treatments that may not be fully covered by insurance. With over 30 years of experience, it’s a go-to option for managing out-of-pocket expenses like deductibles, co-pays, and cosmetic procedures—so you never have to delay your smile.
+
+[Learn More](#)
+
+Cherry (Financing)
+
+![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/logo-cherry.jpg)
+
+Cherry makes it easy to get the dental care you need now and pay later, with flexible payment plans tailored to fit your budget. It’s quick to apply, and approval takes just minutes—no hard credit check required. Get treated today, pay over time.
+
+[Learn More](#)
 
 ---
 
@@ -357,44 +375,26 @@ If you’re unsure, call us at 615-678-8965 we’ll guide you.
 
 [Skip to content](#content)
 
-# Insurance and Financing Plans
+# Contact Us
 
-Everyone deserves quality dental care. We offer payment and financing options for accessibility and affordability.
+## We’re just a call or message away
 
-## Insurance coverage
+# Get In Touch
 
-We partner with a wide range of providers.
+Whether you’re a new patient or one of our regulars, we’d love to hear from you. Have a question, need to schedule an appointment, or want to tell us how we’re doing? Drop us a message, give us a call at 615-678-8965, or send an email to smilesupdentistry@gmail.com — we’ll get back to you quickly
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/AlwaysCare-logo.jpg)
+- 615-678-8965
+- smilesupdentistry@gmail.com
+- 1916 Patterson St. Suite 712, Nashivlle, TN 37203
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Blue-Cross-Blue-Shield-Logo-1024x576.jpg)
+Name
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Cigna.png)
+Email
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/Guardian-light.png)
+Phone
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/metlife_eng_logo_rgb.png)
+Subject
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/renaissance-large.png)
+Message
 
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/ucd-logo-1024x216.png)
-
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/UnitedHealthcare_logo.svg_-1024x322.png)
-
-## Flexible financing solutions
-
-CareCredit (Financing)
-
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/carecredit-syflogo.avif)
-
-CareCredit offers a trusted way to finance dental treatments that may not be fully covered by insurance. With over 30 years of experience, it’s a go-to option for managing out-of-pocket expenses like deductibles, co-pays, and cosmetic procedures—so you never have to delay your smile.
-
-[Learn More](#)
-
-Cherry (Financing)
-
-![](https://nashvillesmilesup.com/wp-content/uploads/2025/11/logo-cherry.jpg)
-
-Cherry makes it easy to get the dental care you need now and pay later, with flexible payment plans tailored to fit your budget. It’s quick to apply, and approval takes just minutes—no hard credit check required. Get treated today, pay over time.
-
-[Learn More](#)
+Send

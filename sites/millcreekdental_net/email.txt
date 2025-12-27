@@ -1,26 +1,28 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: Dr. Jared Anway <info@millcreekdental.net>
-SUBJECT: A simple way to answer patient questions instantly on your website
+SUBJECT: Helping New Patients Get Answers Instantly at Mill Creek Dental
 
 -----------------------------------------
 Hi Dr. Anway,
 
-Your commitment to trust and a positive, relaxing experience at Mill Creek Dental really stands out. I noticed how welcoming you are to new patients and how thoroughly you explain each service—exactly what folks are looking for in a hometown dental practice.
+I appreciate how Mill Creek Dental makes newcomers feel at home and emphasizes trust and clarity in patient care. I’d love to help you make it even easier for patients to get detailed answers—directly from your own website.
 
-I’m reaching out from SlayDigital.ai. We build easy-to-use AI chat agents that embed right on your website, helping answer common questions instantly using the info you’re already sharing.
+I’m Zac, founder of SlayDigital.ai. We create custom AI website agents that let visitors chat with your site’s existing content—helping them find info quickly without waiting for a call-back or digging through pages.
 
-To show you what this could look like, I created a simple demo using your own content: https://slaydigital.fly.dev/site/millcreekdental_net  
-Just click the chat icon in the bottom-right corner to open the agent and type a question—your website’s info powers the responses.
+Here’s a quick demo, using a mock version of your website:  
+https://slaydigital.fly.dev/site/millcreekdental_net  
+Just click the chat icon in the bottom-right, and type a question to see answers pulled right from your site.
 
 You can try asking things like:
-- Are you accepting new patients, and how do I schedule an appointment?
-- What dental insurance plans do you accept?
-- Can you explain the different types of crowns you offer?
-- What’s the process and recovery time for a root canal?
-- How does your teeth whitening treatment work?
+- Do you accept Metlife or Cigna dental insurance?
+- What kind of crowns do you offer, and how long do they take?
+- How does your teeth whitening process work?
+- What should I do if my gums are bleeding or painful?
+- Are you accepting new patients, and how do I book an appointment?
 
-If you’d like to see it tailored for more specific FAQs or want to discuss, I’m happy to chat—no pressure at all.
+I think this could help your team save time, reduce repeat calls, and help new patients feel confident in choosing Mill Creek Dental.
 
-All the best,  
-Zac  
-Founder, SlayDigital.ai
+Let me know if you’d like to chat or see more—happy to customize for your practice’s needs.
+
+Warm wishes,  
+Zac

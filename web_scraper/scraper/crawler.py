@@ -6,9 +6,12 @@ import asyncio
 import threading
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
-from utils.fetch import fetch_page
+from playwright.async_api import TimeoutError as PlaywrightTimeoutError
+from playwright._impl._errors import Error as PlaywrightError
+from utils.fetch import get_browser_instance
 from utils.logger import setup_logger
 from utils.markdown_utils import html_to_markdown
+from config import USER_AGENT
 
 logger = setup_logger(__name__)
 
@@ -50,8 +53,69 @@ async def _process_single_url(url, index, total, visited_urls, visited_lock, con
     logger.info(f"[{index}/{total}] Scraping: {url}")
     
     try:
-        # Fetch page
-        html_content = await fetch_page(url, config)
+        # Fetch page using Playwright pattern
+        pool = await get_browser_instance()
+        if not pool:
+            logger.warning(f"Browser pool unavailable - cannot fetch: {url}")
+            return None
+        
+        browser = pool['browser']
+        context = None
+        page = None
+        html_content = None
+        timeout_occurred = False
+        
+        try:
+            # Create context with user agent (isolates cookies/cache)
+            context = await browser.new_context(
+                user_agent=USER_AGENT,
+                viewport={'width': 1920, 'height': 1080}
+            )
+            
+            # Create page and navigate
+            page = await context.new_page()
+            
+            # Use reduced timeout (4 seconds) if we've already hit a timeout for this site
+            effective_timeout = 4 if getattr(config, 'timeout_reduced', False) else getattr(config, 'timeout', 15)
+            
+            try:
+                response = await page.goto(url, wait_until='networkidle', timeout=effective_timeout * 1000)
+                if response and response.status == 403:
+                    logger.warning(f"Received 403 Forbidden status for {url}")
+                    return None
+            except PlaywrightTimeoutError as e:
+                timeout_occurred = True
+                # Mark config to use reduced timeout for subsequent pages
+                if not getattr(config, 'timeout_reduced', False):
+                    config.timeout_reduced = True
+                    logger.info(f"Site appears slow - reducing timeout to 4 seconds for remaining pages")
+                logger.warning(f"Timeout waiting for networkidle on {url}: {str(e)}")
+                logger.info("Attempting to capture partial HTML content that has already loaded...")
+            
+            # Get the rendered HTML (even if timeout occurred)
+            html_content = await page.content()
+            if timeout_occurred:
+                logger.warning(f"Retrieved partial HTML content: {len(html_content)} characters (timeout occurred)")
+        except PlaywrightError as e:
+            error_msg = str(e)
+            if "Executable doesn't exist" in error_msg or "BrowserType.launch" in error_msg:
+                logger.error(f"Playwright browser not installed. Please run: playwright install chromium")
+            else:
+                logger.error(f"Playwright error fetching {url}: {error_msg}")
+            return None
+        except Exception as e:
+            logger.error(f"Error fetching {url}: {str(e)}", exc_info=True)
+            return None
+        finally:
+            # Clean up only context and page (browser/playwright are managed by the pool)
+            try:
+                if page:
+                    await page.close()
+                if context:
+                    await context.close()
+            except Exception as cleanup_error:
+                logger.warning(f"Error during browser cleanup: {str(cleanup_error)}")
+        
         if not html_content:
             logger.warning(f"Failed to fetch: {url}")
             return None

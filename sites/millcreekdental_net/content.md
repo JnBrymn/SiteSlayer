@@ -234,6 +234,10 @@ The best dentist and team around. Won’t do work you don’t need and a straigh
  ![](https://millcreekdental.net/wp-content/uploads/rating.png)  
  ![](https://millcreekdental.net/wp-content/uploads/google.png)
 
+[Previous](#)[Next](#)
+
+[1](#)[2](#)
+
 ### Reviews
 
 ## Patient Testimonials
@@ -253,6 +257,10 @@ Highly recommend Mill Creek Dental. Everyone is so welcoming and they make you f
 **Pam F.**  
  ![](https://millcreekdental.net/wp-content/uploads/rating.png)  
  ![](https://millcreekdental.net/wp-content/uploads/google.png)
+
+[Previous](#)[Next](#)
+
+[1](#)[2](#)
 
 ### We are proud to be a member of
 
@@ -413,170 +421,6 @@ Friday through Sunday: Closed
 
 ---
 
-# Dental Bridges
-
-## Dental Bridges
-
-When you have one or more missing teeth, [Dr. Jared Anway](https://millcreekdental.net/) may close the gap with a dental bridge in Nolensville TN. Dental bridges are an oral prosthetic, or pontic, that permanently replaces missing teeth. A bridge will improve your bite and preserve the natural curves of your face. With proper maintenance, the lifespan of dental bridges can exceed 10 years.
-
-Regardless of how you lose a tooth, your remaining teeth near the void left by the lost tooth could begin to shift and drift into the empty area unless you seek a dentist for a solution like a dental bridge. This change can affect how you bite and chew, and it may produce additional stress on your jaw joints and teeth. The shifted teeth are also more difficult to clean, which can further affect your oral health by putting your mouth at risk of gum disease and tooth decay.
-
-A dental bridge consists of two or more connected crowns designed to fit your teeth. The dentist will place the crown on an abutment or anchoring tooth on either side of the space, along your gum line. The abutment teeth then form a bridge to allow the pontic to fill in to create a row of natural-looking teeth.
-
-Getting a dental bridge requires two or more dentist visits. During the first visit, usually a consultation, Dr. Jared Anway will file down the enamel on the anchor teeth around the space where the tooth is missing until they resemble small stubs. The team will then take a mold of your mouth, which the dental laboratory will use to create a custom crown.
-
-Until the next appointment, when you receive your permanent dental bridge, you will temporarily wear removable bridges. At the next visit, after removing the temporary bridge and cleaning the area underneath, Dr. Anway will permanently affix the customized pontic onto the abutment teeth. Follow-up appointments will ensure that your dental bridge fits well and that you have necessary aftercare information. Learn more about our [affordable dental crowns](https://millcreekdental.net/services/dental-crowns/).
-
-For more information on custom dental solutions in the Nolensville area, please contact us at (615) 776-1050 or fill out the form on our [Contact Us](https://millcreekdental.net/contact-us/) page. We look forward to meeting you!
-
-[Schedule an Appointment](#schedule)
-
-CONTACT US TODAY!
-
-### (615) 776-1050
-
-#### Our Services
-
-- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
-- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
-- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
-- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
-- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
-- [Root Canals](https://millcreekdental.net/services/root-canals/)
-- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
-
-![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
-
-Our vision as a dental office is to provide our patients with trust, confidence and a positive, relaxing experience. We are focused and committed to our patients and we won’t settle for anything less than excellence.
-
-### Contact Us
-
-7269 Nolensville Rd
-
-Nolensville, TN 37135
-
-[info@millcreekdental.net](mailto:info@millcreekdental.net)
-
-[(615) 776-1050](tel:+16157761050)
-
-Mon. - Thurs. - 7am - 4pm
-
-Friday through Sunday: Closed
-
-### Our Services
-
-- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
-- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
-- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
-- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
-- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
-- [Root Canals](https://millcreekdental.net/services/root-canals/)
-- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
-
-### About Us
-
-- [Meet Dr. Jared Anway](https://millcreekdental.net/about-us/meet-the-doctor/)
-- [Meet The Team](https://millcreekdental.net/about-us/meet-the-team/)
-- [Accepted Insurance](https://millcreekdental.net/about-us/accepted-insurance/)
-- [Notice of Privacy Practices](https://millcreekdental.net/about-us/hipaa/)
-
-### Get Connected
-
-- [Follow](https://www.facebook.com/pages/category/General-Dentist/Mill-Creek-Dental-116020675126118/ "Follow on Facebook")
-
-[Schedule Appointment](/contact-us/)
-
----
-
-# Composite Fillings
-
-## Dental Fillings
-
-Most people will get a cavity in a tooth at some point in life. Cavities are damaged areas of a tooth created by decay. Excessive oral bacteria, improper oral hygiene, and eating sugar are usually the causes. The decay permanently damages tooth enamel and creates openings into the tooth.
-
-Dental fillings are one of the most common ways that dentists treat cavities. The dentist will remove the damaged area and fill the void with cast gold, amalgams, or tooth-colored composite material. Amalgams or silver fillings were typical in the past, but composite fillings are more popular today because they make the damaged tooth look natural. They are also highly durable with a long lifespan.
-
-Signs that you may have cavities in need of dental fillings include:
-
-- tenderness when biting down
-- tooth sensitivity to sweet foods or beverages
-- feeling a rough patch around a tooth
-
-You may also have difficulty clearing food away from a specific area inside your mouth because the hole catches the particles.
-
-Cavities are not the only reason to receive dental fillings. This procedure is also beneficial to fill any hole in a tooth to prevent further decay.
-
-Dental fillings consisting of white composite material may be a viable solution to preserve a fractured tooth. A dentist may also use dental fillings to give a damaged tooth additional support and enhance its appearance.
-
-The process of receiving dental fillings is relatively simple. The dental team will begin by thoroughly examining your teeth to determine the source of your problem. If they notice signs of decay or cavities, the dentist will apply a local anesthetic before drilling away the damaged area.
-
-Next, the dentist cleans the area and uses dental filling materials to pack the void, followed by adhesives and a composite material to protect and seal the filling.
-
-To harden the soft dental filling and composite overlay, the dentist may use a bonding light.
-
-The final step is to smoothe away any rough areas to ensure comfort.
-
-For more information on [custom dental solutions in the Nolensville area](https://millcreekdental.net/services/inlays-onlays/), please contact us at (615) 776-1050 or fill out the form on our [Contact Us](https://millcreekdental.net/contact-us/) page. We look forward to meeting you!
-
-[Schedule an Appointment](#schedule)
-
-CONTACT US TODAY!
-
-### (615) 776-1050
-
-#### Our Services
-
-- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
-- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
-- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
-- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
-- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
-- [Root Canals](https://millcreekdental.net/services/root-canals/)
-- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
-
-![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
-
-Our vision as a dental office is to provide our patients with trust, confidence and a positive, relaxing experience. We are focused and committed to our patients and we won’t settle for anything less than excellence.
-
-### Contact Us
-
-7269 Nolensville Rd
-
-Nolensville, TN 37135
-
-[info@millcreekdental.net](mailto:info@millcreekdental.net)
-
-[(615) 776-1050](tel:+16157761050)
-
-Mon. - Thurs. - 7am - 4pm
-
-Friday through Sunday: Closed
-
-### Our Services
-
-- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
-- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
-- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
-- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
-- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
-- [Root Canals](https://millcreekdental.net/services/root-canals/)
-- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
-
-### About Us
-
-- [Meet Dr. Jared Anway](https://millcreekdental.net/about-us/meet-the-doctor/)
-- [Meet The Team](https://millcreekdental.net/about-us/meet-the-team/)
-- [Accepted Insurance](https://millcreekdental.net/about-us/accepted-insurance/)
-- [Notice of Privacy Practices](https://millcreekdental.net/about-us/hipaa/)
-
-### Get Connected
-
-- [Follow](https://www.facebook.com/pages/category/General-Dentist/Mill-Creek-Dental-116020675126118/ "Follow on Facebook")
-
-[Schedule Appointment](/contact-us/)
-
----
-
 # Dental Crowns
 
 ## Dental Crowns in Nolensville, TN
@@ -613,171 +457,6 @@ All-porcelain crowns are both functional and aesthetic restorations. Porcelain c
 Porcelain fused to metal crowns is both functional and aesthetic restorations. A porcelain-fused-to-metal crown (PFM) could be considered to be a hybrid of the other types of crowns, in the sense that it is composed of two different types of materials. One is a metal alloy that is used to create that portion of the crown that fits directly on the tooth. The other is porcelain. The porcelain forms the tooth-shaped aspect of the crown and gives the crown a white tooth-like coloration. The PFM is often used when destructive night grinding is a problem or when long-span bridges are needed. Learn more about our [dental fillings](https://millcreekdental.net/services/composite-fillings/).
 
 For more information on custom dental solutions in the Nolensville area, please contact us at (615) 776-1050 or fill out the form on our [Contact Us](/contact-us) page. We look forward to meeting you!
-
-[Schedule an Appointment](#schedule)
-
-CONTACT US TODAY!
-
-### (615) 776-1050
-
-#### Our Services
-
-- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
-- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
-- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
-- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
-- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
-- [Root Canals](https://millcreekdental.net/services/root-canals/)
-- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
-
-![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
-
-Our vision as a dental office is to provide our patients with trust, confidence and a positive, relaxing experience. We are focused and committed to our patients and we won’t settle for anything less than excellence.
-
-### Contact Us
-
-7269 Nolensville Rd
-
-Nolensville, TN 37135
-
-[info@millcreekdental.net](mailto:info@millcreekdental.net)
-
-[(615) 776-1050](tel:+16157761050)
-
-Mon. - Thurs. - 7am - 4pm
-
-Friday through Sunday: Closed
-
-### Our Services
-
-- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
-- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
-- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
-- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
-- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
-- [Root Canals](https://millcreekdental.net/services/root-canals/)
-- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
-
-### About Us
-
-- [Meet Dr. Jared Anway](https://millcreekdental.net/about-us/meet-the-doctor/)
-- [Meet The Team](https://millcreekdental.net/about-us/meet-the-team/)
-- [Accepted Insurance](https://millcreekdental.net/about-us/accepted-insurance/)
-- [Notice of Privacy Practices](https://millcreekdental.net/about-us/hipaa/)
-
-### Get Connected
-
-- [Follow](https://www.facebook.com/pages/category/General-Dentist/Mill-Creek-Dental-116020675126118/ "Follow on Facebook")
-
-[Schedule Appointment](/contact-us/)
-
----
-
-# Inlays & Onlays
-
-### Dental Onlays
-
-Whereas dental inlays are designed to treat decay within the cusps, or top projections, of a tooth, onlays are used to treat decay that extends to one or more of the cusps. Onlays are placed in much the same way as inlays. First, an impression of the decayed tooth is taken, and a temporary onlay is placed over the tooth. The impression is then sent to a lab, where a dental technician creates the onlay according to the tooth’s dimensions. When the patient returns to the dentist’s office, the temporary onlay is removed, and the permanent restoration is placed on the tooth and securely bonded using high-strength dental resins.
-
-Like dental inlays, onlays can be created from tooth-colored material, which makes them virtually undetectable to the naked eye. Onlays also help to conserve more tooth structure because their use requires minimal removal a tooth’s surface. Perhaps their most important benefit, however, is that, in saving damaged teeth, onlays help patients avoid the eventual need for more extensive treatment with dental crowns, dental bridges, or dental implants.
-
-### Dental Inlays
-
-Dental inlays are used to treat teeth that have decay or damage lying within their indented top surfaces. They can also be used to replace old or damaged metal fillings. Inlay placement is usually carried out over two appointments. During your first visit to the dentist, an impression of your tooth will be taken, and a temporary inlay will be placed over the tooth. The dentist will send the impression off to a dental lab, which will create the inlay to match your tooth’s specifications. When you return to the dentist’s office, the temporary inlay will be removed and the permanent one will be placed carefully over your tooth. There is no downtime after receiving a dental inlay, only a mild level of tenderness in the treated area, so you can return to work or other activities as soon as you leave the office.
-
-For more information on [custom dental solutions in the Nolensville area](https://millcreekdental.net/services/periodontal-treatment/), please contact us at (615) 776-1050 or fill out the form on our [Contact Us](/contact-us) page. We look forward to meeting you!
-
-[Schedule an Appointment](#schedule)
-
-CONTACT US TODAY!
-
-### (615) 776-1050
-
-#### Our Services
-
-- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
-- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
-- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
-- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
-- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
-- [Root Canals](https://millcreekdental.net/services/root-canals/)
-- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
-
-![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
-
-Our vision as a dental office is to provide our patients with trust, confidence and a positive, relaxing experience. We are focused and committed to our patients and we won’t settle for anything less than excellence.
-
-### Contact Us
-
-7269 Nolensville Rd
-
-Nolensville, TN 37135
-
-[info@millcreekdental.net](mailto:info@millcreekdental.net)
-
-[(615) 776-1050](tel:+16157761050)
-
-Mon. - Thurs. - 7am - 4pm
-
-Friday through Sunday: Closed
-
-### Our Services
-
-- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
-- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
-- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
-- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
-- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
-- [Root Canals](https://millcreekdental.net/services/root-canals/)
-- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
-
-### About Us
-
-- [Meet Dr. Jared Anway](https://millcreekdental.net/about-us/meet-the-doctor/)
-- [Meet The Team](https://millcreekdental.net/about-us/meet-the-team/)
-- [Accepted Insurance](https://millcreekdental.net/about-us/accepted-insurance/)
-- [Notice of Privacy Practices](https://millcreekdental.net/about-us/hipaa/)
-
-### Get Connected
-
-- [Follow](https://www.facebook.com/pages/category/General-Dentist/Mill-Creek-Dental-116020675126118/ "Follow on Facebook")
-
-[Schedule Appointment](/contact-us/)
-
----
-
-# Periodontal Treatment
-
-## Periodontal Disease Treatment
-
-Periodontal disease is a bacterial infection that penetrates into the gums and into the bone around your teeth, causing inflammation. Periodontal inflammation leads to bone loss and possibly tooth loss and may contribute to other medical conditions.
-
-The periodontal infection must be removed and the area given a chance to heal. There are generally two levels of gum disease treatment for this condition depending upon the severity of your infection.
-
-### Upper Level Infection Removal
-
-The upper level of infection in the pockets around your teeth can be removed using specialized instruments. This procedure is called, “Scaling and Root Planing”. It is done under local anesthesia and is quite different from a routine dental cleaning. This is followed by a localized treatment of antibiotics “Arestin” to the infected areas.
-
-### Symptoms of Periodontal Infection
-
-Periodontal infection is usually painless until it reaches an advanced stage. However, there are some symptoms that can indicate the presence of periodontal infection.
-
-These may include:
-
-- Red or swollen gums
-- Bleeding when brushing (pink toothbrush), or at other times
-- Aching, itchy, sore or tender gums
-- Receding gums (teeth beginning to look longer)
-- Pus between your teeth and gums when you press down on the gums
-- Bad breath
-- Any change in the way your teeth fit together when you bite
-- Any change in the fit of partial dentures
-- Loose, separating or protruding teeth
-- Spaces between teeth
-
-If you notice any of the above warning signs of periodontal infection, please [contact our office](https://millcreekdental.net/contact-us/) at 615-776-1050 and ask for a periodontal evaluation.
-
-Learn more about our [root canal treatments](https://millcreekdental.net/services/root-canals/)
 
 [Schedule an Appointment](#schedule)
 
@@ -930,6 +609,335 @@ If you are prescribed a treatment that uses mouth trays, we will make you a cust
 For more information on custom dental solutions in the Nolensville area, please contact us at (615) 776-1050 or fill out the form on our [Contact Us](/contact-us) page. We look forward to meeting you!
 
 ![Teeth Whitening Service Nolensville TN](https://millcreekdental.net/wp-content/uploads/Screen-Shot-2020-07-27-at-10.56.40-AM.png "Screen-Shot-2020-07-27-at-10.56.40-AM")
+
+[Schedule an Appointment](#schedule)
+
+CONTACT US TODAY!
+
+### (615) 776-1050
+
+#### Our Services
+
+- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
+- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
+- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
+- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
+- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
+- [Root Canals](https://millcreekdental.net/services/root-canals/)
+- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
+
+![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
+
+Our vision as a dental office is to provide our patients with trust, confidence and a positive, relaxing experience. We are focused and committed to our patients and we won’t settle for anything less than excellence.
+
+### Contact Us
+
+7269 Nolensville Rd
+
+Nolensville, TN 37135
+
+[info@millcreekdental.net](mailto:info@millcreekdental.net)
+
+[(615) 776-1050](tel:+16157761050)
+
+Mon. - Thurs. - 7am - 4pm
+
+Friday through Sunday: Closed
+
+### Our Services
+
+- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
+- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
+- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
+- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
+- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
+- [Root Canals](https://millcreekdental.net/services/root-canals/)
+- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
+
+### About Us
+
+- [Meet Dr. Jared Anway](https://millcreekdental.net/about-us/meet-the-doctor/)
+- [Meet The Team](https://millcreekdental.net/about-us/meet-the-team/)
+- [Accepted Insurance](https://millcreekdental.net/about-us/accepted-insurance/)
+- [Notice of Privacy Practices](https://millcreekdental.net/about-us/hipaa/)
+
+### Get Connected
+
+- [Follow](https://www.facebook.com/pages/category/General-Dentist/Mill-Creek-Dental-116020675126118/ "Follow on Facebook")
+
+[Schedule Appointment](/contact-us/)
+
+---
+
+# Composite Fillings
+
+## Dental Fillings
+
+Most people will get a cavity in a tooth at some point in life. Cavities are damaged areas of a tooth created by decay. Excessive oral bacteria, improper oral hygiene, and eating sugar are usually the causes. The decay permanently damages tooth enamel and creates openings into the tooth.
+
+Dental fillings are one of the most common ways that dentists treat cavities. The dentist will remove the damaged area and fill the void with cast gold, amalgams, or tooth-colored composite material. Amalgams or silver fillings were typical in the past, but composite fillings are more popular today because they make the damaged tooth look natural. They are also highly durable with a long lifespan.
+
+Signs that you may have cavities in need of dental fillings include:
+
+- tenderness when biting down
+- tooth sensitivity to sweet foods or beverages
+- feeling a rough patch around a tooth
+
+You may also have difficulty clearing food away from a specific area inside your mouth because the hole catches the particles.
+
+Cavities are not the only reason to receive dental fillings. This procedure is also beneficial to fill any hole in a tooth to prevent further decay.
+
+Dental fillings consisting of white composite material may be a viable solution to preserve a fractured tooth. A dentist may also use dental fillings to give a damaged tooth additional support and enhance its appearance.
+
+The process of receiving dental fillings is relatively simple. The dental team will begin by thoroughly examining your teeth to determine the source of your problem. If they notice signs of decay or cavities, the dentist will apply a local anesthetic before drilling away the damaged area.
+
+Next, the dentist cleans the area and uses dental filling materials to pack the void, followed by adhesives and a composite material to protect and seal the filling.
+
+To harden the soft dental filling and composite overlay, the dentist may use a bonding light.
+
+The final step is to smoothe away any rough areas to ensure comfort.
+
+For more information on [custom dental solutions in the Nolensville area](https://millcreekdental.net/services/inlays-onlays/), please contact us at (615) 776-1050 or fill out the form on our [Contact Us](https://millcreekdental.net/contact-us/) page. We look forward to meeting you!
+
+[Schedule an Appointment](#schedule)
+
+CONTACT US TODAY!
+
+### (615) 776-1050
+
+#### Our Services
+
+- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
+- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
+- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
+- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
+- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
+- [Root Canals](https://millcreekdental.net/services/root-canals/)
+- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
+
+![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
+
+Our vision as a dental office is to provide our patients with trust, confidence and a positive, relaxing experience. We are focused and committed to our patients and we won’t settle for anything less than excellence.
+
+### Contact Us
+
+7269 Nolensville Rd
+
+Nolensville, TN 37135
+
+[info@millcreekdental.net](mailto:info@millcreekdental.net)
+
+[(615) 776-1050](tel:+16157761050)
+
+Mon. - Thurs. - 7am - 4pm
+
+Friday through Sunday: Closed
+
+### Our Services
+
+- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
+- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
+- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
+- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
+- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
+- [Root Canals](https://millcreekdental.net/services/root-canals/)
+- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
+
+### About Us
+
+- [Meet Dr. Jared Anway](https://millcreekdental.net/about-us/meet-the-doctor/)
+- [Meet The Team](https://millcreekdental.net/about-us/meet-the-team/)
+- [Accepted Insurance](https://millcreekdental.net/about-us/accepted-insurance/)
+- [Notice of Privacy Practices](https://millcreekdental.net/about-us/hipaa/)
+
+### Get Connected
+
+- [Follow](https://www.facebook.com/pages/category/General-Dentist/Mill-Creek-Dental-116020675126118/ "Follow on Facebook")
+
+[Schedule Appointment](/contact-us/)
+
+---
+
+# Dental Bridges
+
+## Dental Bridges
+
+When you have one or more missing teeth, [Dr. Jared Anway](https://millcreekdental.net/) may close the gap with a dental bridge in Nolensville TN. Dental bridges are an oral prosthetic, or pontic, that permanently replaces missing teeth. A bridge will improve your bite and preserve the natural curves of your face. With proper maintenance, the lifespan of dental bridges can exceed 10 years.
+
+Regardless of how you lose a tooth, your remaining teeth near the void left by the lost tooth could begin to shift and drift into the empty area unless you seek a dentist for a solution like a dental bridge. This change can affect how you bite and chew, and it may produce additional stress on your jaw joints and teeth. The shifted teeth are also more difficult to clean, which can further affect your oral health by putting your mouth at risk of gum disease and tooth decay.
+
+A dental bridge consists of two or more connected crowns designed to fit your teeth. The dentist will place the crown on an abutment or anchoring tooth on either side of the space, along your gum line. The abutment teeth then form a bridge to allow the pontic to fill in to create a row of natural-looking teeth.
+
+Getting a dental bridge requires two or more dentist visits. During the first visit, usually a consultation, Dr. Jared Anway will file down the enamel on the anchor teeth around the space where the tooth is missing until they resemble small stubs. The team will then take a mold of your mouth, which the dental laboratory will use to create a custom crown.
+
+Until the next appointment, when you receive your permanent dental bridge, you will temporarily wear removable bridges. At the next visit, after removing the temporary bridge and cleaning the area underneath, Dr. Anway will permanently affix the customized pontic onto the abutment teeth. Follow-up appointments will ensure that your dental bridge fits well and that you have necessary aftercare information. Learn more about our [affordable dental crowns](https://millcreekdental.net/services/dental-crowns/).
+
+For more information on custom dental solutions in the Nolensville area, please contact us at (615) 776-1050 or fill out the form on our [Contact Us](https://millcreekdental.net/contact-us/) page. We look forward to meeting you!
+
+[Schedule an Appointment](#schedule)
+
+CONTACT US TODAY!
+
+### (615) 776-1050
+
+#### Our Services
+
+- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
+- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
+- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
+- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
+- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
+- [Root Canals](https://millcreekdental.net/services/root-canals/)
+- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
+
+![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
+
+Our vision as a dental office is to provide our patients with trust, confidence and a positive, relaxing experience. We are focused and committed to our patients and we won’t settle for anything less than excellence.
+
+### Contact Us
+
+7269 Nolensville Rd
+
+Nolensville, TN 37135
+
+[info@millcreekdental.net](mailto:info@millcreekdental.net)
+
+[(615) 776-1050](tel:+16157761050)
+
+Mon. - Thurs. - 7am - 4pm
+
+Friday through Sunday: Closed
+
+### Our Services
+
+- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
+- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
+- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
+- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
+- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
+- [Root Canals](https://millcreekdental.net/services/root-canals/)
+- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
+
+### About Us
+
+- [Meet Dr. Jared Anway](https://millcreekdental.net/about-us/meet-the-doctor/)
+- [Meet The Team](https://millcreekdental.net/about-us/meet-the-team/)
+- [Accepted Insurance](https://millcreekdental.net/about-us/accepted-insurance/)
+- [Notice of Privacy Practices](https://millcreekdental.net/about-us/hipaa/)
+
+### Get Connected
+
+- [Follow](https://www.facebook.com/pages/category/General-Dentist/Mill-Creek-Dental-116020675126118/ "Follow on Facebook")
+
+[Schedule Appointment](/contact-us/)
+
+---
+
+# Periodontal Treatment
+
+## Periodontal Disease Treatment
+
+Periodontal disease is a bacterial infection that penetrates into the gums and into the bone around your teeth, causing inflammation. Periodontal inflammation leads to bone loss and possibly tooth loss and may contribute to other medical conditions.
+
+The periodontal infection must be removed and the area given a chance to heal. There are generally two levels of gum disease treatment for this condition depending upon the severity of your infection.
+
+### Upper Level Infection Removal
+
+The upper level of infection in the pockets around your teeth can be removed using specialized instruments. This procedure is called, “Scaling and Root Planing”. It is done under local anesthesia and is quite different from a routine dental cleaning. This is followed by a localized treatment of antibiotics “Arestin” to the infected areas.
+
+### Symptoms of Periodontal Infection
+
+Periodontal infection is usually painless until it reaches an advanced stage. However, there are some symptoms that can indicate the presence of periodontal infection.
+
+These may include:
+
+- Red or swollen gums
+- Bleeding when brushing (pink toothbrush), or at other times
+- Aching, itchy, sore or tender gums
+- Receding gums (teeth beginning to look longer)
+- Pus between your teeth and gums when you press down on the gums
+- Bad breath
+- Any change in the way your teeth fit together when you bite
+- Any change in the fit of partial dentures
+- Loose, separating or protruding teeth
+- Spaces between teeth
+
+If you notice any of the above warning signs of periodontal infection, please [contact our office](https://millcreekdental.net/contact-us/) at 615-776-1050 and ask for a periodontal evaluation.
+
+Learn more about our [root canal treatments](https://millcreekdental.net/services/root-canals/)
+
+[Schedule an Appointment](#schedule)
+
+CONTACT US TODAY!
+
+### (615) 776-1050
+
+#### Our Services
+
+- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
+- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
+- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
+- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
+- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
+- [Root Canals](https://millcreekdental.net/services/root-canals/)
+- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
+
+![Mill Creek Dental Dentist Nolensville TN](http://millcreekdental.net/wp-content/uploads/foot-logo.png "foot-logo")
+
+Our vision as a dental office is to provide our patients with trust, confidence and a positive, relaxing experience. We are focused and committed to our patients and we won’t settle for anything less than excellence.
+
+### Contact Us
+
+7269 Nolensville Rd
+
+Nolensville, TN 37135
+
+[info@millcreekdental.net](mailto:info@millcreekdental.net)
+
+[(615) 776-1050](tel:+16157761050)
+
+Mon. - Thurs. - 7am - 4pm
+
+Friday through Sunday: Closed
+
+### Our Services
+
+- [Dental Bridges](https://millcreekdental.net/services/dental-bridges/)
+- [Composite Fillings](https://millcreekdental.net/services/composite-fillings/)
+- [Dental Crowns](https://millcreekdental.net/services/dental-crowns/)
+- [Inlays & Onlays](https://millcreekdental.net/services/inlays-onlays/)
+- [Periodontal Treatment](https://millcreekdental.net/services/periodontal-treatment/)
+- [Root Canals](https://millcreekdental.net/services/root-canals/)
+- [Teeth Whitening](https://millcreekdental.net/services/teeth-whitening/)
+
+### About Us
+
+- [Meet Dr. Jared Anway](https://millcreekdental.net/about-us/meet-the-doctor/)
+- [Meet The Team](https://millcreekdental.net/about-us/meet-the-team/)
+- [Accepted Insurance](https://millcreekdental.net/about-us/accepted-insurance/)
+- [Notice of Privacy Practices](https://millcreekdental.net/about-us/hipaa/)
+
+### Get Connected
+
+- [Follow](https://www.facebook.com/pages/category/General-Dentist/Mill-Creek-Dental-116020675126118/ "Follow on Facebook")
+
+[Schedule Appointment](/contact-us/)
+
+---
+
+# Inlays & Onlays
+
+### Dental Onlays
+
+Whereas dental inlays are designed to treat decay within the cusps, or top projections, of a tooth, onlays are used to treat decay that extends to one or more of the cusps. Onlays are placed in much the same way as inlays. First, an impression of the decayed tooth is taken, and a temporary onlay is placed over the tooth. The impression is then sent to a lab, where a dental technician creates the onlay according to the tooth’s dimensions. When the patient returns to the dentist’s office, the temporary onlay is removed, and the permanent restoration is placed on the tooth and securely bonded using high-strength dental resins.
+
+Like dental inlays, onlays can be created from tooth-colored material, which makes them virtually undetectable to the naked eye. Onlays also help to conserve more tooth structure because their use requires minimal removal a tooth’s surface. Perhaps their most important benefit, however, is that, in saving damaged teeth, onlays help patients avoid the eventual need for more extensive treatment with dental crowns, dental bridges, or dental implants.
+
+### Dental Inlays
+
+Dental inlays are used to treat teeth that have decay or damage lying within their indented top surfaces. They can also be used to replace old or damaged metal fillings. Inlay placement is usually carried out over two appointments. During your first visit to the dentist, an impression of your tooth will be taken, and a temporary inlay will be placed over the tooth. The dentist will send the impression off to a dental lab, which will create the inlay to match your tooth’s specifications. When you return to the dentist’s office, the temporary inlay will be removed and the permanent one will be placed carefully over your tooth. There is no downtime after receiving a dental inlay, only a mild level of tenderness in the treated area, so you can return to work or other activities as soon as you leave the office.
+
+For more information on [custom dental solutions in the Nolensville area](https://millcreekdental.net/services/periodontal-treatment/), please contact us at (615) 776-1050 or fill out the form on our [Contact Us](/contact-us) page. We look forward to meeting you!
 
 [Schedule an Appointment](#schedule)
 

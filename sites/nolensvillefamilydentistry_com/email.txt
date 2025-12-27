@@ -1,25 +1,26 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: Dr. Lori Adamson <info@nolensvillefamilydentistry.com>
-SUBJECT: Helping New Patients Feel Right at Home on Your Website
+SUBJECT: Helping Nolensville families get answers faster—see a live demo for your practice
 
 -----------------------------------------
 Hi Dr. Adamson,
 
-I’ve been exploring Nolensville Family Dentistry’s website, and it’s obvious how much heart goes into making every patient feel welcome and cared for—just like an extended dental family.
+I’m impressed by the warmth and care you bring to Nolensville Family Dentistry, ensuring every patient feels comfortable—whether it’s their first visit or their hundredth.
 
-I wanted to introduce SlayDigital.ai. We build custom, simple AI chat agents that can help visitors find answers on your website 24/7—without replacing your team’s warmth or personal touch.
+I lead SlayDigital.ai, where we help dental practices like yours make website information easy to find for patients—without adding complexity for your team. Our custom AI web agent lets visitors chat with your site and quickly get answers using the content you already provide.
 
-To show how this could work for your practice, I’ve set up a mock version of your site with a demo chat agent here: https://slaydigital.fly.dev/site/nolensvillefamilydentistry_com. There’s a chat icon in the bottom-right corner; click it to open the chat and ask questions your patients might have—the agent replies using your existing site info.
+I put together a quick demo using your website:  
+https://slaydigital.fly.dev/site/nolensvillefamilydentistry_com  
+Just click the chat icon in the bottom-right corner to open the box, then type a question to see how it works.
 
 You can try asking things like:
-- What do I need to bring as a new patient?
+- What should I bring for my first appointment?
 - Which dental insurance plans do you accept?
-- What dental services do you offer for kids?
-- What are your office hours and how do I schedule an appointment?
-- Do you offer teeth whitening or cosmetic treatments?
+- What services do you offer for children?
+- How do I schedule a visit or pay online?
+- What are your office hours?
 
-I hope this makes it even easier for new and returning patients to feel right at home. If you’re interested in seeing how this could fit your practice, I’d be happy to chat—no pressure at all.
+If making it even easier for patients to get answers sounds helpful, I’d be glad to chat further—no pressure at all.
 
 Warm regards,  
-Zac  
-Founder, SlayDigital.ai
+Zac

@@ -1,29 +1,32 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: Danielle McDaniel <danielle@theclaylady.com>
-SUBJECT: A Helpful Way for Visitors to Get Quick Answers at The Clay Lady’s Campus
+SUBJECT: A new way to guide aspiring (and curious) artists on The Clay Lady’s Campus
 
 -----------------------------------------
 
 Hi Danielle,
 
-I love how The Clay Lady’s Campus brings together artists, students, and the Nashville community—it’s clear that you’ve created a place where creativity and learning truly thrive.
+I’ve enjoyed exploring how The Clay Lady’s Campus brings together artists, students, and enthusiasts through workshops, classes, and gallery events. It’s clear you’ve created something special where creativity thrives!
 
-I wanted to share a new way to make your website’s wealth of information even more accessible: at SlayDigital.ai, we build simple AI chat agents that help your website visitors find answers quickly, without the hassle of digging through menus or waiting for a reply. These agents can answer common questions using details already on your site.
+I wanted to share a quick idea. At SlayDigital.ai, we help community spaces like yours make their websites feel even more welcoming by adding a simple AI chat agent that can answer common questions—using the information already on your site.
 
-I put together a mock version of your homepage with a demo agent:  
+To show you what this looks like, I made a custom demo of your website:  
 https://slaydigital.fly.dev/site/theclaylady_com  
-To try it, just click the chat icon in the bottom-right corner. A box will pop up where you can type any question, and the agent will respond with clear info right from your own content.
+You’ll see a chat icon in the lower-right corner. Just click to open the box and type a question—the agent will reply using your content.
 
 You can try asking things like:
-- When do class registrations open, and how do I get on the waitlist?
-- What kinds of workshops are available for beginners or families?
-- How do I visit The CLC Gallery and tour artist studios?
-- What are the steps for first-time students signing up for classes?
-- Where can I buy Opulence Glaze or The Clay Lady’s Lesson Book?
+- “When does class registration open, and how does the waitlist work?”
+- “What is included in the Clay At Home Kits?”
+- “How can I schedule a field trip or private tour?”
+- “What supplies do I need for a pottery class, and where can I buy them?”
+- “When is the next campus-wide holiday sale?”
 
-A tool like this can help answer frequent questions 24/7, guide newcomers, and free up your staff to focus on what matters most: teaching and building community.
+This helps visitors get quick answers, frees up staff time, and makes your community’s resources even easier to discover—without changing your website’s spirit or warmth.
 
-If you think this could help your students or visitors, I’d be happy to talk more or customize a version for The Clay Lady’s Campus.
+Would you like to see how this could work for your team or artists? Happy to chat or set up a quick call, no pressure.
 
-Wishing you all the best (and lots of muddy hands!),
-Zac
+Take what you think and feel—mix it all up, and let me know what you think!
+
+Warm regards,  
+Zac  
+SlayDigital.ai

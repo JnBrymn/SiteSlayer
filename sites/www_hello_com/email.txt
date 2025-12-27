@@ -1,24 +1,25 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: hello team <contact@hello.com>
-SUBJECT: Making your next launch even friendlier with instant site answers
+SUBJECT: Try out a simple AI chat agent for your upcoming launch
 
 -----------------------------------------
 Hi hello team,
 
-I love how your site emphasizes community and staying connected, even during your pause. As you gear up for your next chapter, I wanted to share a simple way to welcome visitors and keep them in the loop right from your website.
+I saw your update about pausing hello while you prepare for your next big launch—exciting times ahead! I appreciate how you’ve fostered such a warm community.
 
-At SlayDigital.ai, we create easy-to-use, custom AI chat agents that live on your site and let visitors get quick answers using the information you already share. No jargon—just a friendly way to help people feel at home.
+I wanted to share a quick way to make your upcoming site even more welcoming for returning visitors. At SlayDigital.ai, we build simple, custom AI chat agents that let site visitors get instant answers based on your own content—without any technical hassle.
 
-To show what this could look like for hello, here’s a mock version of your site with a demo agent: https://slaydigital.fly.dev/site/www_hello_com. Just click the chat icon in the bottom-right corner, ask any question, and you’ll get answers based on your site content.
+To give you a feel, I set up a demo using your current page: https://slaydigital.fly.dev/site/www_hello_com  
+Just click the chat icon at the bottom-right to open a chat box and ask questions—your community can get info right from your site.
 
 You can try asking things like:
 - When will hello relaunch?
-- What’s changing in the new version?
-- How can I stay updated on the launch?
-- Will my previous account or data be saved?
-- Is hello available in multiple languages?
+- How can I get notified about the new launch?
+- Will my old account or data carry over?
+- Is hello available in other languages?
+- Can I still contact the hello team during the pause?
 
-If you think something like this could fit your next big reveal, I’d be happy to chat or set up a quick call whenever you’re ready.
+If you’re curious how this could help make your new launch even smoother, I’d love to chat. No rush—just let me know if you’d like to see more.
 
-Best,  
+Wishing you all the best with what’s next,
 Zac

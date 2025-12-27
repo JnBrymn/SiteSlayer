@@ -38,7 +38,7 @@ As the founder of [Clint Newman, DDS](http://www.clintnewmandds.com/), an establ
 
 While we offer a comprehensive list of [cosmetic](/services/cosmetic-dentistry), [general](/services/general-dentistry), [emergency](/services/emergency-dentist/), and [restorative](/services/restorative-dentistry) services, it is our kindness and compassion that enable us to treat each patient as an extended member of our family. Dr. Newman's 15 years of experience have solidified his reputation as a premier dentist. This **commitment to the health and well-being of our patients** has allowed our dentist's office in Nashville, TN, to become the highly regarded dental wellness center that it is today.
 
-![Dr. Clint Newman](https://einstein-clients.imgix.net/4839/467648/original.jpg?1728494812=&auto=format&fit=max&w=645)
+![Dr. Clint Newman]()
 
 ![]()
 
@@ -94,7 +94,7 @@ At Gulch Dental Studio in Nashville, TN, your oral health is important to eve
 
 To schedule an appointment today, [c*ontact us online*](/contact)*or call:*
 
-### [(615) 913-5889](tel:+16159135889)
+### [(615) 490-0597](tel:+16154900597)
 
 [Schedule an Appointment](/contact)
 
@@ -146,7 +146,7 @@ Don't let a less-than-perfect smile hold you back. Research and common sense tel
 
 Are you concerned about how your smile will turn out? We can give you a preview of what's possible and also answer your questions about treatment timelines and cost. We'll give you the information you need to make a confident choice. [Leave us a message online](/contact) or call to request a consultation.
 
-### [(615) 913-5889](tel:+16159135889)
+### [(615) 490-0597](tel:+16154900597)
 
 [Request a Consultation](/contact)
 
@@ -194,7 +194,7 @@ Whether you need a cleaning and exam or a [smile makeover in Nashville, TN](/ser
 
 ![Lobby of Gulch Dental Studio]()
 
-### [(615) 913-5889](tel:+16159135889)
+### [(615) 490-0597](tel:+16154900597)
 
 [Schedule an Appointment](/contact)
 
@@ -258,105 +258,367 @@ Having moved from Los Angeles in 2020 I had not been ready to visit a dentist in
 
 ---
 
-# Discover a Patient-Centered Experience at Our Dental Office
+# Smile Makeover
 
-Do you want a brighter, healthier smile? Our highly trained dentists offer [general](/services/general-dentistry), [cosmetic](/services/cosmetic-dentistry), and [restorative dentistry](/services/restorative-dentistry) treatments at their dental office in Nashville, TN, to help you achieve the healthiest and most beautiful smile possible. As a patient here, you can rest assured that the entire staff is committed to providing the highest quality care and affordable treatments. Situated in downtown Nashville's Gulch District, a dynamic area that is experiencing rapid urban development and redevelopment, our office can meet all your needs in one convenient location. If you want to experience a compassionate, patient-oriented practice that is down to earth and equipped with the latest technology, you have come to the right place.
+[![Smile Makeover Case 13](https://d1c40o0u1pbjgy.cloudfront.net/public/assets/images/1686399/large_image_1663696907.png)
 
-## Tour Our Office
+## Case 13
 
-## A Focus on Communication and Comfort
+1 set](/photogallery/smile-makeover-16029/case-13-93974 "Case 13")
 
-Our doctors are passionate about providing the latest treatment options, from general maintenance to the most advanced repair or aesthetic enhancements. Along with a comprehensive understanding of the scientific processes underlying all our treatment options, they stay up to date on the latest dental advancements and techniques. However, our dentists are committed first and foremost to the well-being of their patients, and first determine whether new trends are really the best for our patients. Regardless of your individual needs and goals, you can rest assured that your doctor has thoroughly vetted the procedures, methods, and materials to ensure quality and longevity.
+[![Smile Makeover Case 14](https://d1c40o0u1pbjgy.cloudfront.net/public/assets/images/1686400/large_image_1663696943.png)
 
-> Our practice prioritizes the relationships we build with our patients, so that you know you are getting the best care available.
+## Case 14
 
-Our staff emphasizes the importance of clear communication when going over treatment plans with our patients and making sure you fully understand the status of your oral and dental health. Your doctor will always take the time to explain options, procedures, and considerations to help you make informed decisions about your treatments. Our practice prioritizes the relationships we build with our patients, so that you know you are getting the best care available.
+1 set](/photogallery/smile-makeover-16029/case-14-93975 "Case 14")
 
-## Meet Our Dedicated Team
+[![Smile Makeover Case 15](https://d1c40o0u1pbjgy.cloudfront.net/public/assets/images/1686401/large_image_1663696982.jpeg)
 
-![Dr. Clint Newman]()
+## Case 15
 
-### Dr. Clint Newman
+1 set](/photogallery/smile-makeover-16029/case-15-93976 "Case 15")
 
-Owner/Founder/Dentist
+[![Smile Makeover Case 18](https://d1c40o0u1pbjgy.cloudfront.net/public/assets/images/1686404/large_image_1663697194.jpeg)
 
-[![Dr. Scott Harris]()
+## Case 18
 
-### Dr. Scott Harris
+1 set](/photogallery/smile-makeover-16029/case-18-93979 "Case 18")
 
-Dentist](/doctors/scott-harris-dds)
+[![Smile Makeover Case 19](https://d1c40o0u1pbjgy.cloudfront.net/public/assets/images/1686405/large_image_1663697252.png)
 
-![Erin]()
+## Case 19
 
-### Erin
+1 set](/photogallery/smile-makeover-16029/case-19-93980 "Case 19")
 
-Dental Hygienist
+[![Smile Makeover Case 20](https://d1c40o0u1pbjgy.cloudfront.net/public/assets/images/1686406/large_image_1663697345.png)
 
-![Hannah]()
+## Case 20
 
-### Hannah
+1 set](/photogallery/smile-makeover-16029/case-20-93981 "Case 20")
 
-Assistant
+[![Smile Makeover Case 21](https://d1c40o0u1pbjgy.cloudfront.net/public/assets/images/1686407/large_image_1663697399.png)
 
-![Kristin]()
+## Case 21
 
-### Kristin
+1 set](/photogallery/smile-makeover-16029/case-21-93982 "Case 21")
 
-Practice Administrator
+[![Smile Makeover Case 22](https://d1c40o0u1pbjgy.cloudfront.net/public/assets/images/1686408/large_image_1663697544.PNG)
 
-![Jenna]()
+## Case 22
 
-### Jenna
+1 set](/photogallery/smile-makeover-16029/case-22-93983 "Case 22")
 
-Dental Hygienist
+[![Smile Makeover Case 23](https://d1c40o0u1pbjgy.cloudfront.net/public/assets/images/1686409/large_image_1663697659.PNG)
 
-![Courtney]()
+## Case 23
 
-### Courtney
+1 set](/photogallery/smile-makeover-16029/case-23-93984 "Case 23")
 
-Dental Hygienist
+[![Smile Makeover Case 24]()
 
-![Lara]()
+## Case 24
 
-### Lara
+1 set](/photogallery/smile-makeover-16029/case-24-93985 "Case 24")
 
-Practice Administrator
+[![Smile Makeover Case 25]()
 
-![Angie]()
+## Case 25
 
-### Angie
+1 set](/photogallery/smile-makeover-16029/case-25-93986 "Case 25")
 
-Dental Hygienist
+[![Smile Makeover Case 26]()
 
-![Allie]()
+## Case 26
 
-### Allie
+1 set](/photogallery/smile-makeover-16029/case-26-93987 "Case 26")
 
-Dental Assistant
+[![Smile Makeover Case 27]()
 
-## Dr. Clint Newman
+## Case 27
 
-The founder of [Clint Newman, DDS](http://www.clintnewmandds.com/), located in Green Hills, Dr. Newman is excited to now welcome patients to [Gulch Dental Studio](/). He is an experienced, caring dentist who is dedicated to providing the best dental care possible to residents of Nashville and surrounding communities. Dr. Newman's extensive experience in the dental profession allows him to completely transform patients' smiles, even in the most complex cases. Having received his degrees from The University of Tennessee, he has developed deep roots and connections throughout the state, specifically in the Nashville area.
+1 set](/photogallery/smile-makeover-16029/case-27-93988 "Case 27")
 
-![Dr. Clint Newman]()
+[![Smile Makeover Case 28]()
 
-Dr. Clint Newman Owner/Founder/Dentist
+## Case 28
 
-## Meet Dr. Scott Harris
+1 set](/photogallery/smile-makeover-16029/case-28-93989 "Case 28")
 
-[Dr. Scott Harris](/doctors/scott-harris-dds) is an Arkansas native whose compassion and training make him an integral part of our practice's mission to provide an outstanding dental care experience. He believes the smile is the window to the soul, and takes great care and pride in helping patients achieve healthy, beautiful smiles. Under his care, you can expect to be treated like a family member. He is especially passionate about helping patients achieve confidence and an incredible appearance through [cosmetic dentistry procedures](/services/cosmetic-dentistry) such as [porcelain veneers](/services/veneers).
+[![Smile Makeover Case 29]()
 
-![Dr. Scott Harris]()
+## Case 29
 
-Dr. Scott Harris Dentist
+1 set](/photogallery/smile-makeover-16029/case-29-93990 "Case 29")
 
-## Patient Resources
+[![Smile Makeover Case 30]()
 
-Because we believe that quality dental care should not be dependent on budget or income, our office makes sure to provide options specifically for your budget and lifestyle. Though we have designed our practice with maximum comfort and efficiency in mind, our rates are still comparable to less modernized establishments. We accept applicable insurance policies and our front office staff will communicate with your insurance company to determine what your benefits are and how best to utilize them. We also accept CareCredit® as an alternative method of financing, and our staff will help you through every step in the process.
+## Case 30
 
-## Schedule Your Initial Consultation
+1 set](/photogallery/smile-makeover-16029/case-30-93991 "Case 30")
 
-If you are interested in innovative dental solutions and a welcoming, comfortable experience, we want to help. To learn more about treatments we offer or to schedule an appointment, [contact us online](/contact).
+[![Smile Makeover Case 31]()
+
+## Case 31
+
+1 set](/photogallery/smile-makeover-16029/case-31-93992 "Case 31")
+
+[![Smile Makeover Case 32]()
+
+## Case 32
+
+1 set](/photogallery/smile-makeover-16029/case-32-93993 "Case 32")
+
+[![Smile Makeover Case 33]()
+
+## Case 33
+
+1 set](/photogallery/smile-makeover-16029/case-33-93994 "Case 33")
+
+[![Smile Makeover Case 34]()
+
+## Case 34
+
+1 set](/photogallery/smile-makeover-16029/case-34-93995 "Case 34")
+
+[![Smile Makeover Case 35]()
+
+## Case 35
+
+1 set](/photogallery/smile-makeover-16029/case-35-93996 "Case 35")
+
+[![Smile Makeover Case 36]()
+
+## Case 36
+
+1 set](/photogallery/smile-makeover-16029/case-36-93997 "Case 36")
+
+[![Smile Makeover Case 37]()
+
+## Case 37
+
+1 set](/photogallery/smile-makeover-16029/case-37-93998 "Case 37")
+
+[![Smile Makeover Case 38]()
+
+## Case 38
+
+1 set](/photogallery/smile-makeover-16029/case-38-93999 "Case 38")
+
+[![Smile Makeover Case 39]()
+
+## Case 39
+
+1 set](/photogallery/smile-makeover-16029/case-39-94000 "Case 39")
+
+[![Smile Makeover Case 40]()
+
+## Case 40
+
+1 set](/photogallery/smile-makeover-16029/case-40-94001 "Case 40")
+
+[![Smile Makeover Case 41]()
+
+## Case 41
+
+1 set](/photogallery/smile-makeover-16029/case-41-94002 "Case 41")
+
+[![Smile Makeover Case 42]()
+
+## Case 42
+
+1 set](/photogallery/smile-makeover-16029/case-42-94003 "Case 42")
+
+[![Smile Makeover Case 43]()
+
+## Case 43
+
+1 set](/photogallery/smile-makeover-16029/case-43-94004 "Case 43")
+
+[![Smile Makeover Case 44]()
+
+## Case 44
+
+1 set](/photogallery/smile-makeover-16029/case-44-94005 "Case 44")
+
+[![Smile Makeover Case 45]()
+
+## Case 45
+
+1 set](/photogallery/smile-makeover-16029/case-45-94006 "Case 45")
+
+[![Smile Makeover Case 1]()
+
+## Case 1
+
+1 set](/photogallery/smile-makeover-16029/case-1-81489 "Case 1")
+
+[![Smile Makeover Case 10]()
+
+## Case 10
+
+1 set](/photogallery/smile-makeover-16029/case-10-84049 "Case 10")
+
+[![Smile Makeover Case 11]()
+
+## Case 11
+
+1 set](/photogallery/smile-makeover-16029/case-11-93972 "Case 11")
+
+[![Smile Makeover Case 6]()
+
+## Case 6
+
+1 set](/photogallery/smile-makeover-16029/case-6-80045 "Case 6")
+
+[![Smile Makeover Case 8]()
+
+## Case 8
+
+1 set](/photogallery/smile-makeover-16029/case-8-82339 "Case 8")
+
+[![Smile Makeover Case 4]()
+
+## Case 4
+
+1 set](/photogallery/smile-makeover-16029/case-4-78525 "Case 4")
+
+[![Smile Makeover Case 2]()
+
+## Case 2
+
+1 set](/photogallery/smile-makeover-16029/case-2-71311 "Case 2")
+
+[![Smile Makeover Case 7]()
+
+## Case 7
+
+1 set](/photogallery/smile-makeover-16029/case-7-82337 "Case 7")
+
+[![Smile Makeover Case 3]()
+
+## Case 3
+
+1 set](/photogallery/smile-makeover-16029/case-3-74075 "Case 3")
+
+[![Smile Makeover Case 9]()
+
+## Case 9
+
+1 set](/photogallery/smile-makeover-16029/case-9-84047 "Case 9")
+
+[![Smile Makeover Case 46]()
+
+## Case 46
+
+2 sets](/photogallery/smile-makeover-16029/case-46-94144 "Case 46")
+
+[![Smile Makeover Case 47]()
+
+## Case 47
+
+2 sets](/photogallery/smile-makeover-16029/case-47-94145 "Case 47")
+
+[![Smile Makeover Case 48]()
+
+## Case 48
+
+2 sets](/photogallery/smile-makeover-16029/case-48-94146 "Case 48")
+
+[![Smile Makeover Case 49]()
+
+## Case 49
+
+2 sets](/photogallery/smile-makeover-16029/case-49-94147 "Case 49")
+
+[![Smile Makeover Case 50]()
+
+## Case 50
+
+2 sets](/photogallery/smile-makeover-16029/case-50-94148 "Case 50")
+
+[![Smile Makeover Case 51]()
+
+## Case 51
+
+2 sets](/photogallery/smile-makeover-16029/case-51-94149 "Case 51")
+
+[![Smile Makeover Case 52]()
+
+## Case 52
+
+2 sets](/photogallery/smile-makeover-16029/case-52-94150 "Case 52")
+
+[![Smile Makeover Case 53]()
+
+## Case 53
+
+2 sets](/photogallery/smile-makeover-16029/case-53-94151 "Case 53")
+
+[![Smile Makeover Case 16]()
+
+## Case 16
+
+1 set](/photogallery/smile-makeover-16029/case-16-93977 "Case 16")
+
+[![Smile Makeover Case 54]()
+
+## Case 54
+
+2 sets](/photogallery/smile-makeover-16029/case-54-94152 "Case 54")
+
+[![Smile Makeover Case 55]()
+
+## Case 55
+
+1 set](/photogallery/smile-makeover-16029/case-55-94164 "Case 55")
+
+[![Smile Makeover Case 5]()
+
+## Case 5
+
+1 set](/photogallery/smile-makeover-16029/case-5-79467 "Case 5")
+
+[![Smile Makeover Case 56]()
+
+## Case 56
+
+1 set](/photogallery/smile-makeover-16029/case-56-94165 "Case 56")
+
+[![Smile Makeover Case 12]()
+
+## Case 12
+
+1 set](/photogallery/smile-makeover-16029/case-12-93973 "Case 12")
+
+[![Smile Makeover Case 17]()
+
+## Case 17
+
+1 set](/photogallery/smile-makeover-16029/case-17-93978 "Case 17")
+
+[![Smile Makeover Case 57]()
+
+## Case 57
+
+1 set](/photogallery/smile-makeover-16029/case-57-94166 "Case 57")
+
+[![Smile Makeover Case 58]()
+
+## Case 58
+
+1 set](/photogallery/smile-makeover-16029/case-58-94167 "Case 58")
+
+[![Smile Makeover Case 59]()
+
+## Case 59
+
+1 set](/photogallery/smile-makeover-16029/case-59-94168 "Case 59")
+
+[![Smile Makeover Case 60]()
+
+## Case 60
+
+1 set](/photogallery/smile-makeover-16029/case-60-94170 "Case 60")
 
 ---
 
@@ -708,54 +970,6 @@ Besides the experience gained by improving the look of countless patients' smile
 
 ---
 
-# Repair Your Smile with Restorative Dentistry
-
-**Restorative dentistry** is often recommended to improve the function and form of teeth that have been affected by decay, trauma, or other damage. Our doctors offer a range of procedures at our **Nashville, TN,** dental office, including durable, natural-looking [crowns](/services/dental-crowns), [bridges](/services/dental-bridges), or dentures. Your dentist will always take the time to listen to your goals and concerns, answering all your questions and determining which treatment plan is best for your unique needs. For patients paying out of pocket, we accept CareCredit® financing, because we believe that everyone deserves a healthy, radiant smile.
-
-![Dental x-ray showing severely damaged teeth]()
-
-Damaged or missing teeth can cause a cascade of related issues. Prompt treatment is necessary to protect your dental function and appearance.
-
-## Commonly Performed Procedures
-
-Restorative dentistry is a branch of dental care that focuses on replacing or strengthening damaged teeth while helping patients recover their ability to eat, smile, and speak comfortably. Rather than emphasizing the cosmetic appeal of your smile, restorative treatment aims to improve patients' oral health.
-
-> Your dentist will always take the time to listen to your goals and concerns, answering all your questions and determining which treatment plan is best for your unique needs.
-
-Whether you need a [tooth extraction](/services/tooth-extraction), chipped tooth repair, cavity repair, or a [full mouth reconstruction](/services/full-mouth-reconstruction), these types of procedures can help you get back to your normal routine. Restorative dentistry offers several versatile treatment options and approaches including:
-
-### Dental Implants
-
-[Dental implants](/services/dental-implants) are surgically placed titanium posts inserted into your jaw bone. After several months, a process called osseointegration fuses the titanium with your jawbone, creating a stable and permanent foundation for restorations. By replacing missing dental roots, implants preserve a strong, healthy jaw. We can evaluate your candidacy, coordinate care, and refer you to a trusted doctor for the placement of implants, then provide beautiful-looking restorations.
-
-### Dental Crowns and Bridges
-
-Traditional [dental crowns](/services/dental-crowns) are designed to strengthen and protect weak, damaged teeth. An implant-supported crown can replace a single missing tooth. Our office also offers all-ceramic crowns and [IPS e.max®](/services/ips-emax-crowns) dental crowns. Whether traditional or implant-supported, [dental bridges](/services/dental-bridges) can replace one or more adjacent missing teeth and allow you to eat and chew comfortably again. This is also a good option for preserving the alignment of your remaining teeth and the youthful shape of your cheeks and face.
-
-### Dentures
-
-Implant-supported dentures are similar to implant-supported bridges in that the restorations are attached to permanent implants. This option is better for your jaw bone density and preservation in the long run, because simply wearing dentures on top of your gums allows the jawbone to atrophy underneath.
-
-### Full Mouth Reconstruction
-
-A [full mouth reconstruction](/services/full-mouth-reconstruction) treatment plan often includes extractions, implants, and different restoration options. Patients eligible for this treatment are usually those missing several teeth. They might also be suffering from extensive damage due to decay, which is often coupled with gum disease. In these cases, your doctor may need to perform gum or bone grafts to reinforce your gums or jawbone.
-
-### Tooth-Colored Fillings
-
-[Dental fillings](/services/fillings) are often sufficient for small to medium-sized cavities in one or more teeth. This treatment can strengthen your bite and prevent further problems once your doctor has removed all the damaged or decayed tissue.
-
-### Amalgam Filling Replacement
-
-Our doctors prefer tooth-colored fillings for their numerous benefits. In addition to offering new fillings made of composite, we can also replace older amalgam restorations.
-
-By improving function, restorative dentistry often results in a more aesthetic smile in the process. However, patients who want even more significant cosmetic improvements can benefit from combining restorative treatments with [porcelain veneers](/services/veneers) or [teeth whitening](/services/teeth-whitening).
-
-## Restore Your Health and Appearance
-
-If you are suffering from extensive damage to your teeth or gums, we offer compassionate care and personalized plans for every need. To learn more about our restorative dentistry options or to schedule a consultation, [contact us using our online form](/contact).
-
----
-
 # Enjoy the Benefits of Quality General Dentistry
 
 Our doctors offer a comprehensive scope of **general dentistry** treatments at our practice. Our Nashville, TN, dental office is fully equipped to provide virtually any dental care you need. When your treatment is complete, you will be able to experience the comfort and peace of mind that comes with a healthy, beautiful smile.
@@ -808,6 +1022,132 @@ Whether you need a routine cleaning or more in-depth treatment, our experienced 
 
 ---
 
+# Repair Your Smile with Restorative Dentistry
+
+**Restorative dentistry** is often recommended to improve the function and form of teeth that have been affected by decay, trauma, or other damage. Our doctors offer a range of procedures at our **Nashville, TN,** dental office, including durable, natural-looking [crowns](/services/dental-crowns), [bridges](/services/dental-bridges), or dentures. Your dentist will always take the time to listen to your goals and concerns, answering all your questions and determining which treatment plan is best for your unique needs. For patients paying out of pocket, we accept CareCredit® financing, because we believe that everyone deserves a healthy, radiant smile.
+
+![Dental x-ray showing severely damaged teeth]()
+
+Damaged or missing teeth can cause a cascade of related issues. Prompt treatment is necessary to protect your dental function and appearance.
+
+## Commonly Performed Procedures
+
+Restorative dentistry is a branch of dental care that focuses on replacing or strengthening damaged teeth while helping patients recover their ability to eat, smile, and speak comfortably. Rather than emphasizing the cosmetic appeal of your smile, restorative treatment aims to improve patients' oral health.
+
+> Your dentist will always take the time to listen to your goals and concerns, answering all your questions and determining which treatment plan is best for your unique needs.
+
+Whether you need a [tooth extraction](/services/tooth-extraction), chipped tooth repair, cavity repair, or a [full mouth reconstruction](/services/full-mouth-reconstruction), these types of procedures can help you get back to your normal routine. Restorative dentistry offers several versatile treatment options and approaches including:
+
+### Dental Implants
+
+[Dental implants](/services/dental-implants) are surgically placed titanium posts inserted into your jaw bone. After several months, a process called osseointegration fuses the titanium with your jawbone, creating a stable and permanent foundation for restorations. By replacing missing dental roots, implants preserve a strong, healthy jaw. We can evaluate your candidacy, coordinate care, and refer you to a trusted doctor for the placement of implants, then provide beautiful-looking restorations.
+
+### Dental Crowns and Bridges
+
+Traditional [dental crowns](/services/dental-crowns) are designed to strengthen and protect weak, damaged teeth. An implant-supported crown can replace a single missing tooth. Our office also offers all-ceramic crowns and [IPS e.max®](/services/ips-emax-crowns) dental crowns. Whether traditional or implant-supported, [dental bridges](/services/dental-bridges) can replace one or more adjacent missing teeth and allow you to eat and chew comfortably again. This is also a good option for preserving the alignment of your remaining teeth and the youthful shape of your cheeks and face.
+
+### Dentures
+
+Implant-supported dentures are similar to implant-supported bridges in that the restorations are attached to permanent implants. This option is better for your jaw bone density and preservation in the long run, because simply wearing dentures on top of your gums allows the jawbone to atrophy underneath.
+
+### Full Mouth Reconstruction
+
+A [full mouth reconstruction](/services/full-mouth-reconstruction) treatment plan often includes extractions, implants, and different restoration options. Patients eligible for this treatment are usually those missing several teeth. They might also be suffering from extensive damage due to decay, which is often coupled with gum disease. In these cases, your doctor may need to perform gum or bone grafts to reinforce your gums or jawbone.
+
+### Tooth-Colored Fillings
+
+[Dental fillings](/services/fillings) are often sufficient for small to medium-sized cavities in one or more teeth. This treatment can strengthen your bite and prevent further problems once your doctor has removed all the damaged or decayed tissue.
+
+### Amalgam Filling Replacement
+
+Our doctors prefer tooth-colored fillings for their numerous benefits. In addition to offering new fillings made of composite, we can also replace older amalgam restorations.
+
+By improving function, restorative dentistry often results in a more aesthetic smile in the process. However, patients who want even more significant cosmetic improvements can benefit from combining restorative treatments with [porcelain veneers](/services/veneers) or [teeth whitening](/services/teeth-whitening).
+
+## Restore Your Health and Appearance
+
+If you are suffering from extensive damage to your teeth or gums, we offer compassionate care and personalized plans for every need. To learn more about our restorative dentistry options or to schedule a consultation, [contact us using our online form](/contact).
+
+---
+
+![Dr. Scott Harris]()
+
+# Meet Dr. Scott Harris
+
+For patients seeking first-class dentistry, Dr. Scott Harris provides patients with a winning trifecta for oral health.
+In addition to exemplary dental care, he gives patients uncompromising attention and clear explanations so they can make informed choices.
+***Discover how Dr. Harris at [Gulch Dental Studio](/) is raising the bar for dentistry in Nashville, TN.***
+
+## Dr. Scott Harris Is Dedicated to the Highest Level of Patient Care
+
+Our **Nashville, TN**, dental office provides outstanding dental care performed by highly trained professionals. **Dr. Harris** is dedicated to providing each patient with the same level of care that he would provide to his own family members.
+
+He is a member of several prestigious organizations, including the University of Central Arkansas (UCA) Honors College and the National Dental Association. Our practice is dedicated to providing the best possible dental experience, and Dr. Harris is an integral part of that mission.
+
+As Dr. Harris puts it, the smile is the window to the soul, and he believes in helping every patient experience the many important benefits of excellent oral health and a beautiful smile. He takes advantage of the latest technology to make treatment efficient, comfortable, and effective.
+
+![Dr. Scott Harris]()
+
+Dr. Scott Harris
+
+## "I Was Very Impressed With Dr Harris." Treating You With Consideration and Attentiveness
+
+[![1]()](https://maps.google.com/maps?cid=10303388224527692777)
+
+Shaun Combs
+
+2021
+
+[![Google logo]()](https://maps.google.com/maps?cid=10303388224527692777)
+
+I've been a patient at Gulch Dental Studio for a couple years now, and I've been extremely happy with the service I've received. The staff has always been very friendly and accommodating, and the hygienist that does my cleaning is very thorough yet efficient. My appointments have always run on-time as well, which is important for me since I'm usually taking time away from work. I also recently had an old filling replaced and I was very impressed with Dr Harris. He was incredibly fast and made me feel as comfortable throughout the process. I've been so pleased as a patient here, and I couldn't imagine a reason to go anywhere else.
+
+[View on Google](https://maps.google.com/maps?cid=10303388224527692777)
+
+[![1]()](https://maps.google.com/maps?cid=10303388224527692777)
+
+Cameron Foltz
+
+2021
+
+[![Google logo]()](https://maps.google.com/maps?cid=10303388224527692777)
+
+I visit Dr. Harris and the team at Gulch Dental Studio for my Botox appointments, and I always look forward to coming in. The office is GORGEOUS and so relaxing. The whole team is always kind and accommodating. Dr. Harris always takes time to make sure my concerns and preferences are heard before he gets started, and he never fails to make me laugh! Last but certainly not least, I'm always SO pleased with the results. It's nice to look in the mirror and not have to obsess about wrinkles or lines. And he has a gift for making it look really natural and not overdone. If you're considering trying Botox for the first time, go see Dr. Harris and the team at Gulch Dental Studio. They'll take such great care of you!
+
+[View on Google](https://maps.google.com/maps?cid=10303388224527692777)
+
+## A Patient-First Philosophy of Care
+
+With a lifelong passion for dentistry, Dr. Harris genuinely enjoys treating his patients. He believes that each patient deserves his full attention and should be provided with completely personalized treatment. Your well-being is his priority.
+
+Dr. Harris is especially passionate about [cosmetic dentistry](/services/cosmetic-dentistry), such as transforming smiles with [porcelain veneers](/services/veneers). You can expect that Dr. Harris will take careful note of your goals so he can provide results that help you look and feel your best.
+
+## Professional Affiliations
+
+Actively engaging in professional organizations allows doctors to stay up-to-date with the latest developments in dentistry and best practices. Dr. Harris is a member of several esteemed groups, including groups at the national level and in Nashville:
+
+![National Dental Association Logo]()
+
+![American Dental Association Logo]()
+
+![Nashville Dental Society Logo]()
+
+![American Academy of Cosmetic Dentistry Logo]()
+
+## Educational Background
+
+Dr. Harris is constantly studying the latest developments in dentistry. However, the first steps of his journey to becoming a member of the Gulch Dental Studio team began in his home state of Arkansas.
+
+#### UCA Norbert O. Schedler Honors College
+
+Dr. Harris attended UCA, where he helped found the Pre-Dental Society. While majoring in biology, he also participated in the Norbert O. Schedler Honors College. This prestigious program has a highly competitive admissions process and helps future professionals develop invaluable skills. His time spent as part of the UCA Honors College has heavily influenced Dr. Harris' work ethic.
+
+#### UTHSC College of Dentistry
+
+Dr. Harris attended the University of Tennessee Health Science Center (UTHSC) College of Dentistry, the oldest dental college in the South. While at UTHSC, Dr. Harris broadened his knowledge of dentistry, becoming educated in essential aspects of working as a healthcare professional. This experience played an essential role in refining his procedural skills.
+
+---
+
 # Invisalign
 
 Are you afraid to show your smile due to crooked teeth? Looking for a discrete way to straighten your smile that doesn't involve braces?
@@ -816,7 +1156,7 @@ Are you afraid to show your smile due to crooked teeth? Looking for a discrete w
 
 Our team in **Nashville, TN**, can use Invisalign to straighten your teeth and get you back to smiling with confidence.
 
-[Call (615) 953-3068](tel:+16159533068)
+[Call (615) 502-1274](tel:+16155021274)
 
 [Request a Consultation](/consultation)
 
@@ -870,7 +1210,7 @@ Invisalign is effective for most misalignment cases, but for more severe cases, 
 
 Our [dentist in Nashville, TN](/), takes his time with each patient to get to know them on a personal level, as well as their dental goals, needs, and concerns. We want every patient to leave feeling like they are truly cared for. [Complete our online form](/consultation) or give us a call to request your Invisalign consultation.
 
-### [(615) 953-3068](tel:+16159533068)
+### [(615) 502-1274](tel:+16155021274)
 
 [Questions? Send Us an Email!](/contact)
 
@@ -950,7 +1290,7 @@ Once the aligners are created, you will wear them in stages based on your dentis
 
 Once you reach the end of the series of aligners, no more aligners are needed. However, just like with braces, you will need to wear a retainer to keep your teeth in place.
 
-[Request Your Orthodontic Consultation](tel:+16159533068)
+[Request Your Orthodontic Consultation](tel:+16155021274)
 
 ## How to Care for Your Clear Aligners
 
@@ -974,7 +1314,7 @@ Invisalign is a discreet option for many orthodontic concerns. However, not ever
 
 To get started, [request a consultation online](/contact) or call our practice today.
 
-### [(615) 953-3068](tel:+16159533068)
+### [(615) 502-1274](tel:+16155021274)
 
 [Talk to Our Team About Invisalign](/consultation)
 
@@ -1096,7 +1436,7 @@ Our dentists at Gulch Dental Studio in **Nashville, TN**, can artfully place ven
 
 [Request a Consultation](/consultation)
 
-[Call (615) 953-3068](tel:+16159533068)
+[Call (615) 502-0625](tel:+16155020625)
 
 ## What Are Porcelain Veneers?
 
@@ -1158,7 +1498,7 @@ The team at our Nashville, TN, dental office can give your smile a true makeove
 
 Ready to smile with pride? [Contact us](/contact) in Nashville to request your porcelain veneers consultation.
 
-### [(615) 953-3068](tel:+16159533068)
+### [(615) 502-0625](tel:+16155020625)
 
 [I Want To Learn More About Veneers](/consultation)
 
@@ -1237,7 +1577,7 @@ We provide a variety of advanced procedures, including [Invisalign](/services/in
 
 If you think dental veneers could be right for you, we encourage you to schedule a consultation at our chic, inviting, patient-centered dental boutique today. You can schedule an appointment with a member of our accomplished team by [filling out our online form](/consultation) or calling:
 
-### [(615) 953-3068](tel:+16159533068)
+### [(615) 502-0625](tel:+16155020625)
 
 ![Gulch Dental Studio team]()
 
@@ -1326,7 +1666,7 @@ To find out how we can use porcelain veneers to help you, schedule a consultatio
 
 Experience dentistry that enhances your comfort and well-being. Our boutique-style office is modern and inviting.
 
-### [(615) 953-3068](tel:+16159533068)
+### [(615) 502-0625](tel:+16155020625)
 
 [Contact Us to Experience the Gulch Dental Studio Difference](/contact)
 
@@ -1421,7 +1761,7 @@ Veneers could be the dental treatment you've been waiting for. The stain-resista
 
 To learn more about custom dentistry solutions that put your needs and goals first, [contact us online](/contact). You can also reach our office in Nashville, TN, by phone:
 
-### [(615) 953-3068](tel:+16159533068)
+### [(615) 502-0625](tel:+16155020625)
 
 ![Treatment suite and dentist chair at Gulch Dental Studio]()
 
@@ -1505,7 +1845,7 @@ If you're not a good candidate for veneers or are looking for a more affordable 
 
 To set up an appointment with our team, [contact our dental office in Nashville](/contact). We can't wait to see you and design your new smile.
 
-### [(615) 953-3068](tel:+16159533068)
+### [(615) 502-0625](tel:+16155020625)
 
 [Discuss Your Options with a Cosmetic Dentist](/consultation)
 
@@ -1913,7 +2253,7 @@ Thanks to our chic, modern office and state-of-the-art technology, an appointmen
 
 To find out if sedation dentistry is right for you, schedule a consultation with our Nashville dentists. You can get in touch with us by [contacting us online](/consultation) or by calling:
 
-### [(615) 953-3068](tel:+16159533068)
+### [(615) 212-3397](tel:+16152123397)
 
 [Email Gulch Dental Studio](/contact)
 
@@ -2203,78 +2543,260 @@ Wonderful experience! Clean and timely dentist's office and they were able to co
 
 ---
 
+# Emergency Dentist Nashville Swift Solutions for Dental Emergencies
+
+- Appointments when you need them
+- Calming sedation options
+
+[Book Now](/consultation) [Call Us](tel:+16159533068)
+
+## We're Here When You Need Us
+
+### 500+ 5-Star Reviews
+
+> “The best dentist in Nashville. I called today and was able to get in within 20 minutes. Very kind and helpful!”  
+> — [Hannah Fichten](https://maps.app.goo.gl/x7nNwpgZ3phrCHrx5)
+
+> “Everyone was very friendly and helpful. The doctor did a fabulous job fixing a chipped tooth in a difficult area. Highly recommend.”  
+> — [Kate Schonberger](https://maps.app.goo.gl/bT8FwkvmcCZrf4u69)
+
+> “Had my temporary crown come off on a Tuesday morning and they was able to get me in on a Wednesday morning to get it repaired.”  
+> — [Mrrunner789](https://maps.app.goo.gl/a3yS1DjbJEsY1kwp9)
+
+> “Never ideal needing a dentist on holiday! But they were easy to reach and got me booked first thing the following day. Prompt service, pristine surgery. Back at my hotel in time for breakfast.”  
+> — [Mike Scudamore](https://maps.app.goo.gl/bF2Qju9GNDJBm1B87)
+
+### Availability
+
+When you're experiencing a dental emergency, you want fast relief. Our dentists have flexible schedules so we can fit in emergency appointments when you need them. [Contact us now](/contact) and our patient care coordinator will schedule you an appointment as quickly as possible.
+
+### Quality Services
+
+Whether you've chipped a front tooth, knocked out a tooth, or are experiencing another dental emergency, Gulch Dental Studio offers a range of services to restore your oral health and function.
+
+![The Gulch Dental Studio Team]()
+
+![Gulch Dental Studio]()
+
+## Protect Your Oral Health
+
+A dental injury, sudden pain, or a compromised restoration like a veneer or crown are all considered emergencies. Meeting with our emergency dentists in Nashville, TN, can ultimately save your tooth, prevent further damage, and protect your oral health and function. We’re proud to offer same-day and next-day appointments when our patients need us most.
+
+Nashville patients have grown to trust [Gulch Dental Studio](/) because of our:
+
+- Qualified dentists who prioritize the patient experience
+- Advanced technology that aids in comfortable and effective procedures
+- Modern and spa-like atmosphere that allows patients to relax and feel at home
+
+If you’re ready to take advantage of all this and more, book your emergency exam at our Nashville dental office today:
+
+[Call Us](tel:+16159533068) [Book Now](/consultation)
+
+## Common Dental Emergencies Our Team Can Treat
+
+- Chipped teeth
+- Broken teeth
+- Jaw pain
+- Tooth pain
+- Tooth decay
+- Tooth infection
+- Abscess
+- Lost filling
+- Lost or damaged crown
+- Loose veneer
+- Swollen gums
+- Exposed nerves
+
+## Restoring Your Oral Health With Our Emergency Services
+
+Your emergency dental appointment in Nashville may involve one of the following procedures:
+
+## New Restoration
+
+If your crown has become damaged or your dental filling has fallen out, our Nashville dentists can provide you with a new restoration. We exclusively use the highest quality materials to create [crowns](/services/dental-crowns/) and [fillings](/services/fillings/) that are durable and aesthetic.
+
+## Dental Bonding
+
+Chipped front teeth are unfortunately common. We might recommend [dental bonding](/services/dental-bonding/) to restore the tooth's shape in a quick appointment. If you prefer a more realistic and long-lasting solution, we may recommend a [veneer](/services/veneers/), but the process takes a few weeks.
+
+## Root Canal Therapy
+
+While an infected tooth may need to be extracted, sometimes the tooth can be saved. Our dentists at Gulch Dental Studio will always consider [root canal therapy](/services/root-canal/) to remove an infection from the tooth and preserve the tooth structure before considering extraction.
+
+## Dental Extraction
+
+Sometimes, infected or severely damaged teeth have to be removed during a [tooth extraction](/services/tooth-extraction/) to protect the integrity of your smile. We use gentle extraction techniques and offer sedation. We can then fill the gap in your smile using a [bridge](/services/dental-bridges/) or implant-supported restoration.
+
+## Dental Implants
+
+If you’ve knocked out a tooth, one of our dentists may be able to insert it back into the socket. However, if your tooth can’t be saved, our team may recommend scheduling [dental implant surgery](/services/dental-implants/). Implant-supported restorations can fill the gaps in your smile and prevent jawbone atrophy.
+
+## Paying for Your Care
+
+At [Gulch Dental Studio](/), our rates are comparable to less modernized dental offices in Nashville. This means you can receive affordable dental care without sacrificing quality. We go several steps further in making our care accessible by accepting:
+
+### Dental Insurance
+
+Many insurance plans include at least partial coverage for emergency dental treatment. Our team is happy to determine your coverage and help you maximize your benefits. We accept most insurances and can file your claim with your insurance company.
+
+### Financing Options
+
+If you have out-of-pocket expenses, we accept [financing through CareCredit®](https://www.carecredit.com/go/QWR254). This third-party lender allows patients who qualify to pay for their care in affordable monthly installments.
+
+### Cash and Credit
+
+You can pay for your emergency dentistry procedure with cash or credit cards. We accept American Express, Discover, Mastercard, and Visa, so you can apply cashback or other rewards.
+
+![Gulch Dental Studio waiting area]()
+
+## Sit Back and Relax With Sedation
+
+When you’re stressed about a dental emergency, we don’t want you to be worried about pain, too. Our goal is to make your treatment as painless and easy as possible. We accomplish this through the use of:
+
+![Woman cheerful at the dentist]()
+
+### Local Anesthesia
+
+Our dentists can administer local anesthesia, a pain blocker at the treatment site. This numbs the area so any discomfort you feel is minimal.
+
+![Woman sleeping in dental chair]()
+
+### Nitrous Oxide
+
+Nitrous oxide is a mild form of sedation administered through a nose mask. This sedation keeps you calm, but awake throughout your procedure. Nitrous oxide takes effect quickly and is readily available in our office, making it a great option for same-day emergency appointments. The effects of the gas wear off quickly once the nose mask is removed, so patients who receive this form of sedation can drive themselves home after their appointment.
+
+![Woman taking oral sedation]()
+
+### Oral Conscious Sedation
+
+Oral conscious sedation is a prescribed sedative that you take before your appointment. It will help you relax through your procedure, but you’ll still be awake. The relaxing effects can last for a few hours, so a trusted friend or family member will have to drive you home after your appointment.
+
+![Woman getting IV sedation]()
+
+### IV Sedation
+
+If you need a heavier form of sedation, we can bring in a licensed anesthesiologist to administer IV sedation. This sedative can induce a twilight state (a state in which you are completely relaxed but cooperative) or render you unconscious. Our anesthesiologist monitors you throughout your appointment, making this a safe option for many patients. If you receive IV sedation, someone will have to drive you home after your appointment.
+
+## Emergency Dentist FAQ
+
+### Can’t I just go to the emergency room?
+
+Emergency room providers can give you antibiotics for infections and pain relievers to address pain and swelling. They cannot [extract teeth](/services/tooth-extraction/) or place dental restorations. If you want to address the root of your dental issue and find a lasting solution, visiting our emergency dentists in Nashville is your best bet.
+
+### Do emergency dental procedures hurt?
+
+We do everything we can to keep our Nashville patients comfortable throughout their procedures. With local anesthesia and [every level of sedation available](/services/sedation-dentistry/), our patients can sit back, relax, and enjoy a virtually painless experience—and an effective solution to their dental emergency.
+
+### Have Another Question?
+
+[Message Us](/contact)
+
+## 
+
+> “Absolutely stellar experience at Gulch Dental Studio! From the moment I walked in, I felt welcomed by their friendly staff. The atmosphere is modern and inviting, making my visit comfortable and stress-free. The results exceeded my expectations!”
+>
+> – Samantha Baker
+
+[Read Full Review on Google](https://maps.app.goo.gl/oqDQuT9HX1tPhZfU6)
+
+---
+
+# Discover a Patient-Centered Experience at Our Dental Office
+
+Do you want a brighter, healthier smile? Our highly trained dentists offer [general](/services/general-dentistry), [cosmetic](/services/cosmetic-dentistry), and [restorative dentistry](/services/restorative-dentistry) treatments at their dental office in Nashville, TN, to help you achieve the healthiest and most beautiful smile possible. As a patient here, you can rest assured that the entire staff is committed to providing the highest quality care and affordable treatments. Situated in downtown Nashville's Gulch District, a dynamic area that is experiencing rapid urban development and redevelopment, our office can meet all your needs in one convenient location. If you want to experience a compassionate, patient-oriented practice that is down to earth and equipped with the latest technology, you have come to the right place.
+
+## Tour Our Office
+
+## A Focus on Communication and Comfort
+
+Our doctors are passionate about providing the latest treatment options, from general maintenance to the most advanced repair or aesthetic enhancements. Along with a comprehensive understanding of the scientific processes underlying all our treatment options, they stay up to date on the latest dental advancements and techniques. However, our dentists are committed first and foremost to the well-being of their patients, and first determine whether new trends are really the best for our patients. Regardless of your individual needs and goals, you can rest assured that your doctor has thoroughly vetted the procedures, methods, and materials to ensure quality and longevity.
+
+> Our practice prioritizes the relationships we build with our patients, so that you know you are getting the best care available.
+
+Our staff emphasizes the importance of clear communication when going over treatment plans with our patients and making sure you fully understand the status of your oral and dental health. Your doctor will always take the time to explain options, procedures, and considerations to help you make informed decisions about your treatments. Our practice prioritizes the relationships we build with our patients, so that you know you are getting the best care available.
+
+## Meet Our Dedicated Team
+
+![Dr. Clint Newman]()
+
+### Dr. Clint Newman
+
+Owner/Founder/Dentist
+
+[![Dr. Scott Harris]()
+
+### Dr. Scott Harris
+
+Dentist](/doctors/scott-harris-dds)
+
+![Erin]()
+
+### Erin
+
+Dental Hygienist
+
+![Hannah]()
+
+### Hannah
+
+Assistant
+
+![Kristin]()
+
+### Kristin
+
+Practice Administrator
+
+![Jenna]()
+
+### Jenna
+
+Dental Hygienist
+
+![Courtney]()
+
+### Courtney
+
+Dental Hygienist
+
+![Lara]()
+
+### Lara
+
+Practice Administrator
+
+![Angie]()
+
+### Angie
+
+Dental Hygienist
+
+![Allie]()
+
+### Allie
+
+Dental Assistant
+
+## Dr. Clint Newman
+
+The founder of [Clint Newman, DDS](http://www.clintnewmandds.com/), located in Green Hills, Dr. Newman is excited to now welcome patients to [Gulch Dental Studio](/). He is an experienced, caring dentist who is dedicated to providing the best dental care possible to residents of Nashville and surrounding communities. Dr. Newman's extensive experience in the dental profession allows him to completely transform patients' smiles, even in the most complex cases. Having received his degrees from The University of Tennessee, he has developed deep roots and connections throughout the state, specifically in the Nashville area.
+
+![Dr. Clint Newman]()
+
+Dr. Clint Newman Owner/Founder/Dentist
+
+## Meet Dr. Scott Harris
+
+[Dr. Scott Harris](/doctors/scott-harris-dds) is an Arkansas native whose compassion and training make him an integral part of our practice's mission to provide an outstanding dental care experience. He believes the smile is the window to the soul, and takes great care and pride in helping patients achieve healthy, beautiful smiles. Under his care, you can expect to be treated like a family member. He is especially passionate about helping patients achieve confidence and an incredible appearance through [cosmetic dentistry procedures](/services/cosmetic-dentistry) such as [porcelain veneers](/services/veneers).
+
 ![Dr. Scott Harris]()
 
-# Meet Dr. Scott Harris
+Dr. Scott Harris Dentist
 
-For patients seeking first-class dentistry, Dr. Scott Harris provides patients with a winning trifecta for oral health.
-In addition to exemplary dental care, he gives patients uncompromising attention and clear explanations so they can make informed choices.
-***Discover how Dr. Harris at [Gulch Dental Studio](/) is raising the bar for dentistry in Nashville, TN.***
+## Patient Resources
 
-## Dr. Scott Harris Is Dedicated to the Highest Level of Patient Care
+Because we believe that quality dental care should not be dependent on budget or income, our office makes sure to provide options specifically for your budget and lifestyle. Though we have designed our practice with maximum comfort and efficiency in mind, our rates are still comparable to less modernized establishments. We accept applicable insurance policies and our front office staff will communicate with your insurance company to determine what your benefits are and how best to utilize them. We also accept CareCredit® as an alternative method of financing, and our staff will help you through every step in the process.
 
-Our **Nashville, TN**, dental office provides outstanding dental care performed by highly trained professionals. **Dr. Harris** is dedicated to providing each patient with the same level of care that he would provide to his own family members.
+## Schedule Your Initial Consultation
 
-He is a member of several prestigious organizations, including the University of Central Arkansas (UCA) Honors College and the National Dental Association. Our practice is dedicated to providing the best possible dental experience, and Dr. Harris is an integral part of that mission.
-
-As Dr. Harris puts it, the smile is the window to the soul, and he believes in helping every patient experience the many important benefits of excellent oral health and a beautiful smile. He takes advantage of the latest technology to make treatment efficient, comfortable, and effective.
-
-![Dr. Scott Harris]()
-
-Dr. Scott Harris
-
-## "I Was Very Impressed With Dr Harris." Treating You With Consideration and Attentiveness
-
-[![1]()](https://maps.google.com/maps?cid=10303388224527692777)
-
-Shaun Combs
-
-2021
-
-[![Google logo]()](https://maps.google.com/maps?cid=10303388224527692777)
-
-I've been a patient at Gulch Dental Studio for a couple years now, and I've been extremely happy with the service I've received. The staff has always been very friendly and accommodating, and the hygienist that does my cleaning is very thorough yet efficient. My appointments have always run on-time as well, which is important for me since I'm usually taking time away from work. I also recently had an old filling replaced and I was very impressed with Dr Harris. He was incredibly fast and made me feel as comfortable throughout the process. I've been so pleased as a patient here, and I couldn't imagine a reason to go anywhere else.
-
-[View on Google](https://maps.google.com/maps?cid=10303388224527692777)
-
-[![1]()](https://maps.google.com/maps?cid=10303388224527692777)
-
-Cameron Foltz
-
-2021
-
-[![Google logo]()](https://maps.google.com/maps?cid=10303388224527692777)
-
-I visit Dr. Harris and the team at Gulch Dental Studio for my Botox appointments, and I always look forward to coming in. The office is GORGEOUS and so relaxing. The whole team is always kind and accommodating. Dr. Harris always takes time to make sure my concerns and preferences are heard before he gets started, and he never fails to make me laugh! Last but certainly not least, I'm always SO pleased with the results. It's nice to look in the mirror and not have to obsess about wrinkles or lines. And he has a gift for making it look really natural and not overdone. If you're considering trying Botox for the first time, go see Dr. Harris and the team at Gulch Dental Studio. They'll take such great care of you!
-
-[View on Google](https://maps.google.com/maps?cid=10303388224527692777)
-
-## A Patient-First Philosophy of Care
-
-With a lifelong passion for dentistry, Dr. Harris genuinely enjoys treating his patients. He believes that each patient deserves his full attention and should be provided with completely personalized treatment. Your well-being is his priority.
-
-Dr. Harris is especially passionate about [cosmetic dentistry](/services/cosmetic-dentistry), such as transforming smiles with [porcelain veneers](/services/veneers). You can expect that Dr. Harris will take careful note of your goals so he can provide results that help you look and feel your best.
-
-## Professional Affiliations
-
-Actively engaging in professional organizations allows doctors to stay up-to-date with the latest developments in dentistry and best practices. Dr. Harris is a member of several esteemed groups, including groups at the national level and in Nashville:
-
-![National Dental Association Logo]()
-
-![American Dental Association Logo]()
-
-![Nashville Dental Society Logo]()
-
-![American Academy of Cosmetic Dentistry Logo]()
-
-## Educational Background
-
-Dr. Harris is constantly studying the latest developments in dentistry. However, the first steps of his journey to becoming a member of the Gulch Dental Studio team began in his home state of Arkansas.
-
-#### UCA Norbert O. Schedler Honors College
-
-Dr. Harris attended UCA, where he helped found the Pre-Dental Society. While majoring in biology, he also participated in the Norbert O. Schedler Honors College. This prestigious program has a highly competitive admissions process and helps future professionals develop invaluable skills. His time spent as part of the UCA Honors College has heavily influenced Dr. Harris' work ethic.
-
-#### UTHSC College of Dentistry
-
-Dr. Harris attended the University of Tennessee Health Science Center (UTHSC) College of Dentistry, the oldest dental college in the South. While at UTHSC, Dr. Harris broadened his knowledge of dentistry, becoming educated in essential aspects of working as a healthcare professional. This experience played an essential role in refining his procedural skills.
+If you are interested in innovative dental solutions and a welcoming, comfortable experience, we want to help. To learn more about treatments we offer or to schedule an appointment, [contact us online](/contact).

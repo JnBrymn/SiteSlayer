@@ -505,140 +505,6 @@ checkbox label label
 
 Do Not Sell or Share My Personal Information Confirm My Choices
 
-[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg "Powered by OneTrust Opens in a new Tab")](https://www.onetrust.com/products/cookie-consent/?sc_cid=Direct:O:GP:845:Website:General:na)
-
----
-
-[Supercharge your dental benefits. Schedule today!](/about-us/dentist-appointment/)
-
-# Mt Juliet Dental Group
-
-We are located near the intersection of Lebanon Rd and N Mt Juliet Rd next to F&M Bank, across from the Kroger shopping center
-
-[BOOK APPOINTMENT](/about-us/dentist-appointment/)
-
-> **Your smile is at the heart of everything we do.** From routine check-ups to advanced treatments, we’re here to make sure your smile shines its brightest at every step of your journey with us.
-
-## Your Partner in Oral Health
-
-At Mt Juliet Dental Group, we provide personalized, compassionate dental care using advanced technology services. From preventive checkups to cosmetic treatments, we tailor our services to keep your smile healthy and bright. Your comfort is our priority every step of the way. With every care, we aim to exceed your expectations, providing not just care, but a lasting commitment to your smile’s health and overall well-being. Visit us in Mt Juliet, TN.
-
-![Office Photo of Mt Juliet Dental Group](https://1.smilegeneration.com/uploadedimages/Office/845/interior_big.jpg)
-
-![CEREC® CAD/CAM](https://s7d9.scene7.com/is/image/pacificdentalservices/cerec-tool-in-hand-935x720-v2?fmt=webp-alpha)
-
-## Experience the Difference of Advanced, Proven Technology
-
-**Online Patient Portal**
-
-Empower your healthcare journey with Smile Generation MyChart. With the convenience of the online patient portal, you can schedule and manage appointments, access billing and payments, and communicate directly with your clinician – all at your fingertips. Experience the convenience of managing your healthcare seamlessly and efficiently.
-
-[GET STARTED WITH MYCHART](/patient-portal/)
-
-**Digital X-Rays**
-
-Digital X-rays offer a clear advantage in early detection and preventive care. By utilizing advanced image analysis, your doctor can identify early signs of gum disease through subtle changes in bone levels. This proactive approach, combined with comparisons to past treatments, ensures precise and encouraging dental care tailored to your individual needs.
-
-[LEARN MORE ABOUT X-RAYS](/dental-services/dental-x-rays-and-imaging/)
-
-**Cone Beam Computed Tomography**
-
-Cone Beam Computed Tomography (CBCT) is an advanced, proven technology that provides more precise three-dimensional (3D) imaging for more accurate diagnosis and treatment of oral health conditions. 3D dental X-rays can uncover issues that may not be detectable with 2D X-rays. By making images easier to see, it’s helpful in gaining a better understanding of oral health conditions and suggested treatment.
-
-[LEARN MORE ABOUT CBCT](/dental-services/dental-x-rays-and-imaging/cbct/)
-
-**CEREC® CAD/CAM**
-
-CEREC® CAD/CAM technology revolutionizes dentistry by allowing for the creation of crowns in just two hours. There’s no need for temporaries and a second visit. It’s a precise fit and the process is less invasive for a durable and natural-looking smile.
-
-[DISCOVER CEREC® TECH](/dental-services/dental-crowns/cerec-cadcam/)
-
-**Laser Bacterial Reduction**
-
-Laser bacterial reduction is a specific technique that uses laser technology to target and reduce harmful bacteria in the mouth. By using concentrated light therapy, LBR effectively eliminates bacteria that can lead to gum disease and other oral infections. This allows the gums to reattach to the bone for a healthy, infection-free outcome.
-
-[EXPLORE THE LASER DIFFERENCE](/dental-services/periodontitis/)
-
-**IntraOral Camera**
-
-An intraoral camera is an indispensable diagnostic and educational tool. The tiny video camera moves around inside of your mouth and generates a tooth-by-tooth video exam of your teeth. Using an intraoral camera allows patients to better understand their dental needs by seeing what the dentist sees and then having it explained.
-
-[WHAT TO EXPECT AT YOUR VISIT](/about-us/what-to-expect/)
-
-![Toothbrush]()
-
-Get Started
-
-**Your Smile is Our Priority**
-
-Schedule an appointment with us today to discover the difference of advanced, proven technologies, a full suite of services, and exceptional quality in dental care – all tailored to give you a healthier, happier smile.
-
-[SCHEDULE TODAY](/about-us/dentist-appointment/)
-
-We process your personal information to measure and improve our sites and service, to assist our marketing campaigns and to provide personalized content and advertising. By clicking the button on the right, you can exercise your privacy rights. For more information see our privacy notice.
-
-Accept All
-
-Your Privacy Rights
-
-![Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
-
-## Manage Cookies
-
-Our online services (e.g., this website) are designed to connect you with dental healthcare professionals and provide other relevant information related to oral health. Using cookies and other tracking technologies, we collect information about your interaction with our online services to fulfill your requests. Depending on your interactions, the information we collect may allow us to identify or infer that you are seeking healthcare services and your individual health conditions. Certain tracking technologies are necessary to make sure our website works and is secure. Other tracking technologies are optional (“Optional Cookies”) and may be used to enhance your experience by providing you additional functionality, give us insights into how our online services are used, and to show you content we think you would like. If you choose to enable certain tracking technologies, your data may be shared with the third party providing the function or features described. We won’t collect your data using Optional Cookies unless you Accept All cookies or Select them below (we will use a cookie to save your choice). You can read More information below, change your preferences at any time and edit your cookie preferences through our Cookies Notice.
-
-Allow All
-
-### Manage Consent Preferences
-
-#### Strictly necessary and Functional cookies
-
-Always Active
-
-These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
-
-Cookies Details
-
-#### Analytics Cookies
-
-Analytics Cookies
-
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
-
-Cookies Details
-
-#### Targeting/Advertising Cookies
-
-Targeting/Advertising Cookies
-
-These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
-
-Cookies Details
-
-Back Button
-
-### Cookie List
-
-Search Icon
-
-Filter Icon
-
-Clear
-
-- checkbox label label
-
-Apply Cancel
-
-Consent Leg.Interest
-
-checkbox label label
-
-checkbox label label
-
-checkbox label label
-
-Do Not Sell or Share My Personal Information Confirm My Choices
-
 [![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg "Powered by OneTrust Opens in a new Tab")](https://www.onetrust.com/products/cookie-consent/)
 
 ---
@@ -1005,619 +871,241 @@ Do Not Sell or Share My Personal Information Confirm My Choices
 
 [Supercharge your dental benefits. Schedule today!](/about-us/dentist-appointment/)
 
-# Insurance & Financing
+# Mt Juliet Dental Group
 
-![Woman with smile](https://s7d9.scene7.com/is/image/pacificdentalservices/bigstock-Cropped-Close-Up-Photo-Beautif-285033406-2?fmt=webp-alpha)
+We are located near the intersection of Lebanon Rd and N Mt Juliet Rd next to F&M Bank, across from the Kroger shopping center
 
-1. [INSURANCE & FINANCING](/payment/)
-2. [INSURANCE](/payment/dental-insurance/)
-3. [DENTAL PLAN](/payment/smile-generation-dental-discount-plan/)
-4. [FINANCING](/payment/smile-generation-dental-financing/)
+[BOOK APPOINTMENT](/about-us/dentist-appointment/)
 
-INSURANCE & FINANCING
+> **Your smile is at the heart of everything we do.** From routine check-ups to advanced treatments, we’re here to make sure your smile shines its brightest at every step of your journey with us.
 
-INSURANCE
+## Your Partner in Oral Health
 
-DENTAL PLAN
+At Mt Juliet Dental Group, we provide personalized, compassionate dental care using advanced technology services. From preventive checkups to cosmetic treatments, we tailor our services to keep your smile healthy and bright. Your comfort is our priority every step of the way. With every care, we aim to exceed your expectations, providing not just care, but a lasting commitment to your smile’s health and overall well-being. Visit us in Mt Juliet, TN.
 
-FINANCING
+![Office Photo of Mt Juliet Dental Group](https://1.smilegeneration.com/uploadedimages/Office/845/interior_big.jpg)
 
-> Payments made painless. Whether you’re insured or exploring payment options, we’re dedicated to offering ways to make dental care more affordable for you.
+![CEREC® CAD/CAM](https://s7d9.scene7.com/is/image/pacificdentalservices/cerec-tool-in-hand-935x720-v2?fmt=webp-alpha)
 
-## Get the Most out of Your Insurance
+## Experience the Difference of Advanced, Proven Technology
 
-We proudly accept most insurance plans and file claims on your behalf. Our dedicated team is committed to maximizing your benefits and streamlining the process. We’re committed to transparency by informing you upfront about your insurance plan coverage and offering solutions for any remaining balance.
+**Online Patient Portal**
 
-For more details regarding insurance coverage, please call us at **[615-241-8023](tel:%20615-241-8023)**.
+Empower your healthcare journey with Smile Generation MyChart. With the convenience of the online patient portal, you can schedule and manage appointments, access billing and payments, and communicate directly with your clinician – all at your fingertips. Experience the convenience of managing your healthcare seamlessly and efficiently.
 
-![Woman on iphone](https://s7d9.scene7.com/is/image/pacificdentalservices/AdobeStock_547698188-3?fmt=webp-alpha)
+[GET STARTED WITH MYCHART](/patient-portal/)
 
-## Dental Discounts with Smile Generation Dental Plan
+**Digital X-Rays**
 
-Introducing the Smile Generation Dental Plan – your key to affordable dental care for you and your family. With no deductibles, copays, or annual maximums, our plan is designed to prioritize simplicity and savings. The Smile Generational Dental Plan offers 20%-50% discounts on a wide range of treatments. Better yet, there’s no waiting period – experience same-day discounts on dentistry.
+Digital X-rays offer a clear advantage in early detection and preventive care. By utilizing advanced image analysis, your doctor can identify early signs of gum disease through subtle changes in bone levels. This proactive approach, combined with comparisons to past treatments, ensures precise and encouraging dental care tailored to your individual needs.
 
-[VIEW DENTAL PLANS](/payment/smile-generation-dental-discount-plan/)
+[LEARN MORE ABOUT X-RAYS](/dental-services/dental-x-rays-and-imaging/)
 
-![Piggy bank]()
+**Cone Beam Computed Tomography**
 
-## **We Have Dental Financing Options**
+Cone Beam Computed Tomography (CBCT) is an advanced, proven technology that provides more precise three-dimensional (3D) imaging for more accurate diagnosis and treatment of oral health conditions. 3D dental X-rays can uncover issues that may not be detectable with 2D X-rays. By making images easier to see, it’s helpful in gaining a better understanding of oral health conditions and suggested treatment.
 
-Our office is dedicated to creating a personalized plan designed exclusively for you. Finance up to $75,000 for a duration of up to 144 months*, including 0% interest with low interest plans available on approved credit.
+[LEARN MORE ABOUT CBCT](/dental-services/dental-x-rays-and-imaging/cbct/)
 
-Simply use our secure in-office portal to enter your information, and let’s discuss a variety of personalized financing options based on your preferences. Get the care you deserve from a dentist you trust. It’s that easy – a personalized, trustworthy dental experience is just a call away.
+**CEREC® CAD/CAM**
 
-[CALL 615-241-8023](tel:%20615-241-8023)
+CEREC® CAD/CAM technology revolutionizes dentistry by allowing for the creation of crowns in just two hours. There’s no need for temporaries and a second visit. It’s a precise fit and the process is less invasive for a durable and natural-looking smile.
 
-![Family]()
+[DISCOVER CEREC® TECH](/dental-services/dental-crowns/cerec-cadcam/)
+
+**Laser Bacterial Reduction**
+
+Laser bacterial reduction is a specific technique that uses laser technology to target and reduce harmful bacteria in the mouth. By using concentrated light therapy, LBR effectively eliminates bacteria that can lead to gum disease and other oral infections. This allows the gums to reattach to the bone for a healthy, infection-free outcome.
+
+[EXPLORE THE LASER DIFFERENCE](/dental-services/periodontitis/)
+
+**IntraOral Camera**
+
+An intraoral camera is an indispensable diagnostic and educational tool. The tiny video camera moves around inside of your mouth and generates a tooth-by-tooth video exam of your teeth. Using an intraoral camera allows patients to better understand their dental needs by seeing what the dentist sees and then having it explained.
+
+[WHAT TO EXPECT AT YOUR VISIT](/about-us/what-to-expect/)
 
 ![Toothbrush]()
 
 Get Started
 
-**Smile Without the Stress**
+**Your Smile is Our Priority**
 
-Let’s work together to find the best solution for your dental needs and ensure you receive the care you deserve. Book an appointment today and explore our flexible payment options – your smile is worth it!
-
-[CALL 615-241-8023](tel:%20615-241-8023)
-
-- [CONTACT](/about-us/contact-us/)
-
-  - [Mt Juliet Dental Group](https://www.google.com/maps/dir//Mt Juliet Dental Group%204155 N Mt Juliet Rd,%20((owl_properties.OfficeDetails_Address_AddressLine2)%20Mt Juliet,%20TN%2037122)
-  - [4155 N Mt Juliet Rd,](https://www.google.com/maps/dir//Mt Juliet Dental Group%204155 N Mt Juliet Rd,%20((owl_properties.OfficeDetails_Address_AddressLine2)%20Mt Juliet,%20TN%2037122)
-  - [Mt Juliet, TN 37122](https://www.google.com/maps/dir//Mt Juliet Dental Group%204155 N Mt Juliet Rd,%20((owl_properties.OfficeDetails_Address_AddressLine2)%20Mt Juliet,%20TN%2037122)
-  - [615-241-8023](tel:%20615-241-8023)
-  - [Book an Appointment](/about-us/dentist-appointment/)
-  - [Message Us](/about-us/contact-us/)
-- [INSURANCE & PAYMENT](/payment/)
-
-  - [Insurance](/payment/dental-insurance/)
-  - [Discount Plan](/payment/smile-generation-dental-discount-plan/)
-  - [Financing](/payment/smile-generation-dental-financing/)
-  - [Pay Your Bill](https://www.smilegenerationmychart.com/MyChart/Billing/GuestPay/PayasGuest)
-- [ABOUT US](/about-us/)
-
-  - [Our Team](/meet-our-team/)
-  - [Careers](https://jobs.pdshealth.com/careers-home)
-  - [FAQs](/about-us/faqs/)
-- [PATIENT PORTAL](/patient-portal/)
-
-  - [Log In](/patient-portal/)
-- [LIKE US ON FACEBOOK](https://www.facebook.com/345118825891019)
-
-  [FIND US ON GOOGLE](https://maps.google.com/maps?cid=18142623291530393750)
-
-[Privacy Policy](/privacy-policy/)
-
-[Notice of Privacy Practices](/privacy-policy/notice-of-privacy-practices/)
-
-[Terms of Use](/privacy-policy/terms-of-use/)
-
-[Notice of Non-Discrimination](/privacy-policy/notice-of-non-discrimination/)
-
-[CA Privacy Notice](/privacy-policy/ca-privacy-notice/)
-
-[CO Privacy Notice](/privacy-policy/co-privacy-notice/)
-
-[WA Privacy Notice](/privacy-policy/wa-privacy-notice/)
-
-[Accessibility](/accessibility/)
-
-[Sitemap](/site-map/)
-
-[Your Privacy Rights](javascript:void(0))
-
-© Copyright 2006 - 2025 • Mt Juliet Dental Group• ((owl_properties.OfficeDetails_LegalName))
-
-*Financing offers are subject to credit approval. Minimum payments are required for each Credit Plan. Valid for single transaction only. Smile Generation Financial Credit Card Accounts are issued by Comenity Capital Bank.
-
-We process your personal information to measure and improve our sites and service, to assist our marketing campaigns and to provide personalized content and advertising. By clicking the button on the right, you can exercise your privacy rights. For more information see our privacy notice.
-
-Accept All
-
-Your Privacy Rights
-
-![Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
-
-## Manage Cookies
-
-Our online services (e.g., this website) are designed to connect you with dental healthcare professionals and provide other relevant information related to oral health. Using cookies and other tracking technologies, we collect information about your interaction with our online services to fulfill your requests. Depending on your interactions, the information we collect may allow us to identify or infer that you are seeking healthcare services and your individual health conditions. Certain tracking technologies are necessary to make sure our website works and is secure. Other tracking technologies are optional (“Optional Cookies”) and may be used to enhance your experience by providing you additional functionality, give us insights into how our online services are used, and to show you content we think you would like. If you choose to enable certain tracking technologies, your data may be shared with the third party providing the function or features described. We won’t collect your data using Optional Cookies unless you Accept All cookies or Select them below (we will use a cookie to save your choice). You can read More information below, change your preferences at any time and edit your cookie preferences through our Cookies Notice.
-
-Allow All
-
-### Manage Consent Preferences
-
-#### Strictly necessary and Functional cookies
-
-Always Active
-
-These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
-
-Cookies Details
-
-#### Analytics Cookies
-
-Analytics Cookies
-
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
-
-Cookies Details
-
-#### Targeting/Advertising Cookies
-
-Targeting/Advertising Cookies
-
-These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
-
-Cookies Details
-
-Back Button
-
-### Cookie List
-
-Search Icon
-
-Filter Icon
-
-Clear
-
-- checkbox label label
-
-Apply Cancel
-
-Consent Leg.Interest
-
-checkbox label label
-
-checkbox label label
-
-checkbox label label
-
-Do Not Sell or Share My Personal Information Confirm My Choices
-
-[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg "Powered by OneTrust Opens in a new Tab")](https://www.onetrust.com/products/cookie-consent/)
-
----
-
-[Supercharge your dental benefits. Schedule today!](/about-us/dentist-appointment/)
-
-# Insurance
-
-![Bubbles](https://s7d9.scene7.com/is/image/pacificdentalservices/insurance-hero-simple?fmt=webp-alpha)
-
-1. [INSURANCE & FINANCING](/payment/)
-2. [INSURANCE](/payment/dental-insurance/)
-3. [DENTAL PLAN](/payment/smile-generation-dental-discount-plan/)
-4. [FINANCING](/payment/smile-generation-dental-financing/)
-
-INSURANCE & FINANCING
-
-INSURANCE
-
-DENTAL PLAN
-
-FINANCING
-
-## Insurance Plans We Accept
-
-We proudly accept most insurance plans and file claims on your behalf. Our dedicated team is committed to maximizing your benefits and streamlining the insurance process. Let us handle the insurance details while you focus on achieving your best smile.
-
-We gladly accept most dental insurance plans, including but not limited to:
-
-•   Aetna  
-•   Ameritas  
-•   Anthem Blue Cross  
-•   Cigna  
-•   Delta  
-•   Guardian  
-•   MetLife  
-•   United Health Care  
-•   UCCI
-
-Please call us for more details at [615-241-8023](tel:615-241-8023).
-
-![yellow umbrella](https://s7d9.scene7.com/is/image/pacificdentalservices/umbrella-sun-teaser?fmt=webp-alpha)
-
-## How Dental Insurance Works
-
-## Coverage Verification
-
-Before your dental visit, our team will verify your insurance coverage by checking your plan details.
-
-![Number Icon One]()
-
-## Treatment Planning
-
-Our benefit coordinator works with you to maximize your dental benefits and minimize your out-of-pocket cost.
-
-![Number Icon Two]()
-
-## Claim Submission
-
-After your dental treatment is complete, we submit a claim to your insurance provider on your behalf.
-
-![Number Icon Three]()
-
-## Payment Processing
-
-We will tell you upfront what your insurance plan will pay for and offer options for taking care of any remaining out-of-pocket balance.
-
-![Number Icon Four]()
-
-[CALL 615-241-8023](tel:%20615-241-8023)
-
-## How PPO Dental Plans Work
-
-A Preferred Provider Organization (PPO) is the most common form of dental insurance, offering members a network of participating dentists to choose from. Dentists in this network agree to lower fee schedules, resulting in greater cost savings for patients. PPO plans cover a percentage of treatment costs, typically paying 50% for major treatments like crowns and bridges, 80% for basic care like fillings, and up to 100% for preventative care such as exams and cleanings. These plans often have annual maximums ranging from $1,000 to $2,000 and assist with insurance billing.
-
-![Young beautiful smiling asian woman in casual sweater drawing on digital tablet with stylus while sitting on armchair in cozy living room]()
-
-## Understanding your HMO
-
-Health Maintenance Organization (HMO), also known as capitated or prepaid insurance, is a type of dental insurance plan that requires patients to choose a primary care dentist from a network of providers. This primary care dentist coordinates all aspects of the patient’s dental care and referrals to specialists within the HMO network. HMO plans typically have lower premiums and fixed copayments for covered services, but patients have limited choices in selecting dentists outside the network. Additionally, HMO plans may require patients to obtain pre-authorization for certain treatments, and coverage for out-of-network care is usually not provided except in emergencies.
-
-![Smiling woman using her mobile phone. Female wearing denim jacket reading text message on smart phone.]()
-
-## Dental Insurance FAQs
-
-Got questions? We have answers! Check out our FAQ section to learn everything you need to know about navigating dental insurance coverage.
-
-[SEE All FAQS](/about-us/faqs/)
-
-### What is optional treatment?
-
-Treatment that is either not listed on your fee schedule or more than the minimum to restore the tooth back to its original function.
-
-### What's a covered benefit?
-
-Treatment that is recommended by a dentist, is listed on the fee schedule, and accepted under the terms of your group's plan.
-
-### What's the difference between indemnity, PPO, HMO, & discount insurance plans?
-
-Indemnity or Traditional Insurance reimburses members or dentists at the dentist's UCR (Usual, Customary & Reasonable fee). This allows the subscriber to go to any dental office without being limited to a panel.
-
-![Toothbrush]()
-
-Call Today
-
-**We’re Here for You**
-
-Let’s work together to optimize your dental care while making the most of your insurance coverage. Contact our office today and let us take care of the rest – your smile is in good hands.
-
-[CALL 615-241-8023](tel:%20615-241-8023)
-
-We process your personal information to measure and improve our sites and service, to assist our marketing campaigns and to provide personalized content and advertising. By clicking the button on the right, you can exercise your privacy rights. For more information see our privacy notice.
-
-Accept All
-
-Your Privacy Rights
-
-![Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
-
-## Manage Cookies
-
-Our online services (e.g., this website) are designed to connect you with dental healthcare professionals and provide other relevant information related to oral health. Using cookies and other tracking technologies, we collect information about your interaction with our online services to fulfill your requests. Depending on your interactions, the information we collect may allow us to identify or infer that you are seeking healthcare services and your individual health conditions. Certain tracking technologies are necessary to make sure our website works and is secure. Other tracking technologies are optional (“Optional Cookies”) and may be used to enhance your experience by providing you additional functionality, give us insights into how our online services are used, and to show you content we think you would like. If you choose to enable certain tracking technologies, your data may be shared with the third party providing the function or features described. We won’t collect your data using Optional Cookies unless you Accept All cookies or Select them below (we will use a cookie to save your choice). You can read More information below, change your preferences at any time and edit your cookie preferences through our Cookies Notice.
-
-Allow All
-
-### Manage Consent Preferences
-
-#### Strictly necessary and Functional cookies
-
-Always Active
-
-These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
-
-Cookies Details
-
-#### Analytics Cookies
-
-Analytics Cookies
-
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
-
-Cookies Details
-
-#### Targeting/Advertising Cookies
-
-Targeting/Advertising Cookies
-
-These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
-
-Cookies Details
-
-Back Button
-
-### Cookie List
-
-Search Icon
-
-Filter Icon
-
-Clear
-
-- checkbox label label
-
-Apply Cancel
-
-Consent Leg.Interest
-
-checkbox label label
-
-checkbox label label
-
-checkbox label label
-
-Do Not Sell or Share My Personal Information Confirm My Choices
-
-[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg "Powered by OneTrust Opens in a new Tab")](https://www.onetrust.com/products/cookie-consent/)
-
----
-
-[Supercharge your dental benefits. Schedule today!](/about-us/dentist-appointment/)
-
-# Smile Generation Dental Plan
-
-![Woman with smile](https://s7d9.scene7.com/is/image/pacificdentalservices/AdobeStock_417128009-4?fmt=webp-alpha)
-
-1. [INSURANCE & FINANCING](/payment/)
-2. [INSURANCE](/payment/dental-insurance/)
-3. [DENTAL PLAN](/payment/smile-generation-dental-discount-plan/)
-4. [FINANCING](/payment/smile-generation-dental-financing/)
-
-INSURANCE & FINANCING
-
-INSURANCE
-
-DENTAL PLAN
-
-FINANCING
-
-> No deductibles, copays, or annual maximums. The Smile Generation Dental Plan offers 20%-50% discounts on most treatments. It’s not insurance, just affordable dentistry.
-
-## Start Saving on the Treatment You Need
-
-A dental plan that makes it easy to get treatment for you and your family. The Smile Generation Dental Plan can help you save up to 50% on dental care.
-
-**individual**
-
-$119
-
-for 12 months*
-
-[START SAVING](https://www.smilegenerationdentalplan.com/)
-
-**2 individuals**
-
-$149
-
-for 12 months*
-
-[START SAVING](https://www.smilegenerationdentalplan.com/)
-
-**3+ individuals**
-
-$169
-
-for 12 months*
-
-[START SAVING](https://www.smilegenerationdentalplan.com/)
-
-* Prices shown are an average, may vary by state, and include a one-time, non-refundable $15 administration fee.
-
-## Dental Discounts with Smile Generation Dental Plan®
-
-Introducing the Smile Generation Dental Plan® – your key to affordable dental care for you and your family. With no deductibles, copays, or annual maximums, our plan is designed to prioritize simplicity and savings. The Smile Generational Dental Plan® offers 20%-50% discounts on Mouth-Body Connection® procedures such as oral cancer screenings, salivary lab tests, and full-mouth periodontal treatment. Take advantage of 20% discounts on specialty care like gum treatment, oral surgery orthodontics, root canal treatment, cosmetic services, and more. Better yet, there’s no waiting period – experience same-day discounts on dentistry.
-
-![Woman on iphone]()
-
-## Transparency of Costs and Benefits
-
-Smile Generation Dental Plan® is powered by Wellfit®, providing you with real-time visibility to your treatment savings and costs - all on your phone. Now you can make good decisions about your oral health and be informed every step of the way.
-
-![man with smile kneeling]()
-
-![Toothbrush]()
-
-Call Today
-
-**We’re Here for You**
-
-Let’s work together to optimize your dental care while tailoring a dental plan that suits your needs perfectly. Contact our office today and let’s create a personalized dental plan that puts your smile first.
-
-[CALL 615-241-8023](tel:%20615-241-8023)
-
-We process your personal information to measure and improve our sites and service, to assist our marketing campaigns and to provide personalized content and advertising. By clicking the button on the right, you can exercise your privacy rights. For more information see our privacy notice.
-
-Accept All
-
-Your Privacy Rights
-
-![Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
-
-## Manage Cookies
-
-Our online services (e.g., this website) are designed to connect you with dental healthcare professionals and provide other relevant information related to oral health. Using cookies and other tracking technologies, we collect information about your interaction with our online services to fulfill your requests. Depending on your interactions, the information we collect may allow us to identify or infer that you are seeking healthcare services and your individual health conditions. Certain tracking technologies are necessary to make sure our website works and is secure. Other tracking technologies are optional (“Optional Cookies”) and may be used to enhance your experience by providing you additional functionality, give us insights into how our online services are used, and to show you content we think you would like. If you choose to enable certain tracking technologies, your data may be shared with the third party providing the function or features described. We won’t collect your data using Optional Cookies unless you Accept All cookies or Select them below (we will use a cookie to save your choice). You can read More information below, change your preferences at any time and edit your cookie preferences through our Cookies Notice.
-
-Allow All
-
-### Manage Consent Preferences
-
-#### Strictly necessary and Functional cookies
-
-Always Active
-
-These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
-
-Cookies Details
-
-#### Analytics Cookies
-
-Analytics Cookies
-
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
-
-Cookies Details
-
-#### Targeting/Advertising Cookies
-
-Targeting/Advertising Cookies
-
-These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
-
-Cookies Details
-
-Back Button
-
-### Cookie List
-
-Search Icon
-
-Filter Icon
-
-Clear
-
-- checkbox label label
-
-Apply Cancel
-
-Consent Leg.Interest
-
-checkbox label label
-
-checkbox label label
-
-checkbox label label
-
-Do Not Sell or Share My Personal Information Confirm My Choices
-
-[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg "Powered by OneTrust Opens in a new Tab")](https://www.onetrust.com/products/cookie-consent/)
-
----
-
-[Supercharge your dental benefits. Schedule today!](/about-us/dentist-appointment/)
-
-# Smile Generation Financing Marketplace
-
-![Woman with smile](https://s7d9.scene7.com/is/image/pacificdentalservices/AdobeStock_474152193-3?fmt=webp-alpha)
-
-1. [INSURANCE & FINANCING](/payment/)
-2. [INSURANCE](/payment/dental-insurance/)
-3. [DENTAL PLAN](/payment/smile-generation-dental-discount-plan/)
-4. [FINANCING](/payment/smile-generation-dental-financing/)
-
-INSURANCE & FINANCING
-
-INSURANCE
-
-DENTAL PLAN
-
-FINANCING
-
-> You only have one smile, so we gladly offer multiple ways to make caring for it affordable.
-
-### Smile Generation Financing Marketplace
-
-Introducing Smile Generation Financing Marketplace – your gateway to dental care that fits your budget. With our flexible financing options, you can easily manage your dental expenses and get the treatments you need without breaking the bank.
-
-Our recommendations are tailored to your preferences and treatment needs, ensuring you find the perfect fit. Plus, you can explore all available dental financing options without impacting your credit score. Finance up to $75,000 for up to 144 months*, with 0% interest plans available on approved credit. Say goodbye to worrying about upfront costs and hello to a healthier, happier smile. Explore our financing plans today and take the first step towards optimal dental health.
-
-[BOOK APPOINTMENT](/about-us/dentist-appointment/)
-
-![Man and woman talking](https://s7d9.scene7.com/is/image/pacificdentalservices/AdobeStock_626519883 (1)?fmt=webp-alpha)
-
-## How Smile Generation Financing Marketplace Works
-
-## Get Treatment Plan
-
-Your Smile Generation-trusted dentist will provide a personalized treatment plan for a healthier, happier smile.
-
-![Number Icon One]()
-
-## Enter Your Information
-
-Use our secure in-office portal to enter your information and review recommendations based on your preferences.
-
-![Number Icon Two]()
-
-## Review Financing Options
-
-Explore personalized options from a variety of our lending partners. Say goodbye to one course of action.
-
-![Number Icon Three]()
-
-## Receive Dental Care
-
-Get the care you need from a dentist you can trust. Just like that.
-
-![]()
-
-[GET STARTED](/about-us/dentist-appointment/)
-
-## Easy Approval Process. No Surprises.
-
-Your oral health is too important to put off. With Smile Generation Financing Marketplace, you don’t have to. By tailoring recommendations to your treatment needs and credit profile, we ensure you receive personalized financing options. Our process begins with a soft credit check, guaranteeing no impact on your credit score. From there, explore all available dental financing plans, which include options for financing up to $75,000 over 144 months* with 0% interest plan available on approved credit. Plus, low-interest plans are available based on credit.
-
-![Woman with phone]()
-
-![Toothbrush]()
-
-Call Today
-
-**We’re Here for You**
-
-Let’s work together to optimize your dental care while tailoring a financing solution that suits you needs perfectly. Contact our office today and let’s create a personalized plan that puts your smile first. Your journey to a healthier, happier smile starts with us.
+Schedule an appointment with us today to discover the difference of advanced, proven technologies, a full suite of services, and exceptional quality in dental care – all tailored to give you a healthier, happier smile.
 
 [SCHEDULE TODAY](/about-us/dentist-appointment/)
 
-- [CONTACT](/about-us/contact-us/)
+We process your personal information to measure and improve our sites and service, to assist our marketing campaigns and to provide personalized content and advertising. By clicking the button on the right, you can exercise your privacy rights. For more information see our privacy notice.
 
-  - [Mt Juliet Dental Group](https://www.google.com/maps/dir//Mt Juliet Dental Group%204155 N Mt Juliet Rd,%20((owl_properties.OfficeDetails_Address_AddressLine2)%20Mt Juliet,%20TN%2037122)
-  - [4155 N Mt Juliet Rd,](https://www.google.com/maps/dir//Mt Juliet Dental Group%204155 N Mt Juliet Rd,%20((owl_properties.OfficeDetails_Address_AddressLine2)%20Mt Juliet,%20TN%2037122)
-  - [Mt Juliet, TN 37122](https://www.google.com/maps/dir//Mt Juliet Dental Group%204155 N Mt Juliet Rd,%20((owl_properties.OfficeDetails_Address_AddressLine2)%20Mt Juliet,%20TN%2037122)
-  - [615-241-8023](tel:%20615-241-8023)
-  - [Book an Appointment](/about-us/dentist-appointment/)
-  - [Message Us](/about-us/contact-us/)
-- [INSURANCE & PAYMENT](/payment/)
+Accept All
 
-  - [Insurance](/payment/dental-insurance/)
-  - [Discount Plan](/payment/smile-generation-dental-discount-plan/)
-  - [Financing](/payment/smile-generation-dental-financing/)
-  - [Pay Your Bill](https://www.smilegenerationmychart.com/MyChart/Billing/GuestPay/PayasGuest)
-- [ABOUT US](/about-us/)
+Your Privacy Rights
 
-  - [Our Team](/meet-our-team/)
-  - [Careers](https://jobs.pdshealth.com/careers-home)
-  - [FAQs](/about-us/faqs/)
-- [PATIENT PORTAL](/patient-portal/)
+![Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
 
-  - [Log In](/patient-portal/)
-- [LIKE US ON FACEBOOK](https://www.facebook.com/345118825891019)
+## Manage Cookies
 
-  [FIND US ON GOOGLE](https://maps.google.com/maps?cid=18142623291530393750)
+Our online services (e.g., this website) are designed to connect you with dental healthcare professionals and provide other relevant information related to oral health. Using cookies and other tracking technologies, we collect information about your interaction with our online services to fulfill your requests. Depending on your interactions, the information we collect may allow us to identify or infer that you are seeking healthcare services and your individual health conditions. Certain tracking technologies are necessary to make sure our website works and is secure. Other tracking technologies are optional (“Optional Cookies”) and may be used to enhance your experience by providing you additional functionality, give us insights into how our online services are used, and to show you content we think you would like. If you choose to enable certain tracking technologies, your data may be shared with the third party providing the function or features described. We won’t collect your data using Optional Cookies unless you Accept All cookies or Select them below (we will use a cookie to save your choice). You can read More information below, change your preferences at any time and edit your cookie preferences through our Cookies Notice.
 
-[Privacy Policy](/privacy-policy/)
+Allow All
 
-[Notice of Privacy Practices](/privacy-policy/notice-of-privacy-practices/)
+### Manage Consent Preferences
 
-[Terms of Use](/privacy-policy/terms-of-use/)
+#### Strictly necessary and Functional cookies
 
-[Notice of Non-Discrimination](/privacy-policy/notice-of-non-discrimination/)
+Always Active
 
-[CA Privacy Notice](/privacy-policy/ca-privacy-notice/)
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
 
-[CO Privacy Notice](/privacy-policy/co-privacy-notice/)
+Cookies Details
 
-[WA Privacy Notice](/privacy-policy/wa-privacy-notice/)
+#### Analytics Cookies
 
-[Accessibility](/accessibility/)
+Analytics Cookies
 
-[Sitemap](/site-map/)
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
 
-[Your Privacy Rights](javascript:void(0))
+Cookies Details
 
-© Copyright 2006 - 2025 • Mt Juliet Dental Group• ((owl_properties.OfficeDetails_LegalName))
+#### Targeting/Advertising Cookies
 
-*Financing offers are subject to credit approval. Minimum payments are required for each Credit Plan. Valid for single transaction only. Smile Generation Financial Credit Card Accounts are issued by Comenity Capital Bank.
+Targeting/Advertising Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Cookies Details
+
+Back Button
+
+### Cookie List
+
+Search Icon
+
+Filter Icon
+
+Clear
+
+- checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+checkbox label label
+
+checkbox label label
+
+checkbox label label
+
+Do Not Sell or Share My Personal Information Confirm My Choices
+
+[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg "Powered by OneTrust Opens in a new Tab")](https://www.onetrust.com/products/cookie-consent/)
+
+---
+
+[Supercharge your dental benefits. Schedule today!](/about-us/dentist-appointment/)
+
+![Hispanic woman smile](https://s7d9.scene7.com/is/image/pacificdentalservices/contact-trans-v4?fmt=webp-alpha)
+
+# Contact Us
+
+First Name*
+Last Name*
+Phone Number*
+Preferred Date
+Email Address*
+
+I have an emergency
+
+I have insurance
+
+I am a returning patient
+
+I need multiple appts
+
+How Can We Help?
+
+
+
+We're sorry. There has been an error while trying to submit this form. Please [reload the page](.) and try again.
+
+Send Request
+
+Page error. Please reload the page.
+
+![Google map of Mt Juliet Dental Group](https://maps.googleapis.com/maps/api/staticmap?center=36.229095%2C-86.513859&zoom=14&size=640x640&markers=size%3Amid%7Ccolor%3A0x2D466E%7C36.229095%2C-86.513859&scale=1&key=AIzaSyCyfGqJk657DME1cLzFg-a6n8BYq1NlRSI&signature=8lrrtR-OH99QjxuPrQhcaUbLWFw=)
+
+## ADDRESS
+
+[615-241-8023](tel:615-241-8023)
+
+fax : 615-922-3768
+
+[4155 N Mt Juliet Rd
+
+Mt Juliet, TN
+
+37122](https://www.google.com/maps/dir//Mt%20Juliet%20Dental%20Group+4155%20N%20Mt%20Juliet%20Rd, +Mt%20Juliet,+TN+37122)
+
+[BOOK APPOINTMENT](/about-us/dentist-appointment/)
+
+We are located near the intersection of Lebanon Rd and N Mt Juliet Rd next to F&M Bank, across from the Kroger shopping center
+
+## BUSINESS HOURS
+
+Mon
+
+9:30 AM - 6:00 PM
+
+Tue
+
+8:30 AM - 5:00 PM
+
+Wed
+
+7:30 AM - 4:00 PM
+
+Thu
+
+8:30 AM - 5:00 PM
+
+Fri
+
+8:00 AM - 3:00 PM
+
+Sat
+
+Closed
+
+Sun
+
+Closed
+
+  
+
+We are OPEN for ALL dental care procedures and emergency needs. Protecting the health and safety of our patients, families, and team members remains our number one priority.
+
+## LANGUAGE SPOKEN
+
+- English
+
+## INSURANCE
+
+We take most major insurances, including:
+
+- Aetna
+- Ameritas
+- Anthem Blue Cross
+- Cigna
+- Delta
+
+## Smiles from Start to Finish
+
+Schedule your appointment today and experience the precision, efficiency, and comfort that our advanced, proven technology brings to every aspect of our dental experience. Your journey to a healthier, happier smile begins here.
+
+[BOOK AN APPOINTMENT](/about-us/dentist-appointment/)
+
+![Circle smile]()
 
 We process your personal information to measure and improve our sites and service, to assist our marketing campaigns and to provide personalized content and advertising. By clicking the button on the right, you can exercise your privacy rights. For more information see our privacy notice.
 
@@ -1924,107 +1412,285 @@ Do Not Sell or Share My Personal Information Confirm My Choices
 
 [Supercharge your dental benefits. Schedule today!](/about-us/dentist-appointment/)
 
-![Hispanic woman smile](https://s7d9.scene7.com/is/image/pacificdentalservices/contact-trans-v4?fmt=webp-alpha)
+# Insurance
 
-# Contact Us
+![Bubbles](https://s7d9.scene7.com/is/image/pacificdentalservices/insurance-hero-simple?fmt=webp-alpha)
 
-First Name*
-Last Name*
-Phone Number*
-Preferred Date
-Email Address*
+1. [INSURANCE & FINANCING](/payment/)
+2. [INSURANCE](/payment/dental-insurance/)
+3. [DENTAL PLAN](/payment/smile-generation-dental-discount-plan/)
+4. [FINANCING](/payment/smile-generation-dental-financing/)
 
-I have an emergency
+INSURANCE & FINANCING
 
-I have insurance
+INSURANCE
 
-I am a returning patient
+DENTAL PLAN
 
-I need multiple appts
+FINANCING
 
-How Can We Help?
+## Insurance Plans We Accept
 
+We proudly accept most insurance plans and file claims on your behalf. Our dedicated team is committed to maximizing your benefits and streamlining the insurance process. Let us handle the insurance details while you focus on achieving your best smile.
 
+We gladly accept most dental insurance plans, including but not limited to:
 
-We're sorry. There has been an error while trying to submit this form. Please [reload the page](.) and try again.
+•   Aetna  
+•   Ameritas  
+•   Anthem Blue Cross  
+•   Cigna  
+•   Delta  
+•   Guardian  
+•   MetLife  
+•   United Health Care  
+•   UCCI
 
-Send Request
+Please call us for more details at [615-241-8023](tel:615-241-8023).
 
-Page error. Please reload the page.
+![yellow umbrella](https://s7d9.scene7.com/is/image/pacificdentalservices/umbrella-sun-teaser?fmt=webp-alpha)
 
-![Google map of Mt Juliet Dental Group](https://maps.googleapis.com/maps/api/staticmap?center=36.229095%2C-86.513859&zoom=14&size=640x640&markers=size%3Amid%7Ccolor%3A0x2D466E%7C36.229095%2C-86.513859&scale=1&key=AIzaSyCyfGqJk657DME1cLzFg-a6n8BYq1NlRSI&signature=8lrrtR-OH99QjxuPrQhcaUbLWFw=)
+## How Dental Insurance Works
 
-## ADDRESS
+## Coverage Verification
 
-[615-241-8023](tel:615-241-8023)
+Before your dental visit, our team will verify your insurance coverage by checking your plan details.
 
-fax : 615-922-3768
+![Number Icon One]()
 
-[4155 N Mt Juliet Rd
+## Treatment Planning
 
-Mt Juliet, TN
+Our benefit coordinator works with you to maximize your dental benefits and minimize your out-of-pocket cost.
 
-37122](https://www.google.com/maps/dir//Mt%20Juliet%20Dental%20Group+4155%20N%20Mt%20Juliet%20Rd, +Mt%20Juliet,+TN+37122)
+![Number Icon Two]()
 
-[BOOK APPOINTMENT](/about-us/dentist-appointment/)
+## Claim Submission
 
-We are located near the intersection of Lebanon Rd and N Mt Juliet Rd next to F&M Bank, across from the Kroger shopping center
+After your dental treatment is complete, we submit a claim to your insurance provider on your behalf.
 
-## BUSINESS HOURS
+![Number Icon Three]()
 
-Mon
+## Payment Processing
 
-9:30 AM - 6:00 PM
+We will tell you upfront what your insurance plan will pay for and offer options for taking care of any remaining out-of-pocket balance.
 
-Tue
+![Number Icon Four]()
 
-8:30 AM - 5:00 PM
+[CALL 615-241-8023](tel:%20615-241-8023)
 
-Wed
+## How PPO Dental Plans Work
 
-7:30 AM - 4:00 PM
+A Preferred Provider Organization (PPO) is the most common form of dental insurance, offering members a network of participating dentists to choose from. Dentists in this network agree to lower fee schedules, resulting in greater cost savings for patients. PPO plans cover a percentage of treatment costs, typically paying 50% for major treatments like crowns and bridges, 80% for basic care like fillings, and up to 100% for preventative care such as exams and cleanings. These plans often have annual maximums ranging from $1,000 to $2,000 and assist with insurance billing.
 
-Thu
+![Young beautiful smiling asian woman in casual sweater drawing on digital tablet with stylus while sitting on armchair in cozy living room]()
 
-8:30 AM - 5:00 PM
+## Understanding your HMO
 
-Fri
+Health Maintenance Organization (HMO), also known as capitated or prepaid insurance, is a type of dental insurance plan that requires patients to choose a primary care dentist from a network of providers. This primary care dentist coordinates all aspects of the patient’s dental care and referrals to specialists within the HMO network. HMO plans typically have lower premiums and fixed copayments for covered services, but patients have limited choices in selecting dentists outside the network. Additionally, HMO plans may require patients to obtain pre-authorization for certain treatments, and coverage for out-of-network care is usually not provided except in emergencies.
 
-8:00 AM - 3:00 PM
+![Smiling woman using her mobile phone. Female wearing denim jacket reading text message on smart phone.]()
 
-Sat
+## Dental Insurance FAQs
 
-Closed
+Got questions? We have answers! Check out our FAQ section to learn everything you need to know about navigating dental insurance coverage.
 
-Sun
+[SEE All FAQS](/about-us/faqs/)
 
-Closed
+### What is optional treatment?
 
-  
+Treatment that is either not listed on your fee schedule or more than the minimum to restore the tooth back to its original function.
 
-We are OPEN for ALL dental care procedures and emergency needs. Protecting the health and safety of our patients, families, and team members remains our number one priority.
+### What's a covered benefit?
 
-## LANGUAGE SPOKEN
+Treatment that is recommended by a dentist, is listed on the fee schedule, and accepted under the terms of your group's plan.
 
-- English
+### What's the difference between indemnity, PPO, HMO, & discount insurance plans?
 
-## INSURANCE
+Indemnity or Traditional Insurance reimburses members or dentists at the dentist's UCR (Usual, Customary & Reasonable fee). This allows the subscriber to go to any dental office without being limited to a panel.
 
-We take most major insurances, including:
+![Toothbrush]()
 
-- Aetna
-- Ameritas
-- Anthem Blue Cross
-- Cigna
-- Delta
+Call Today
 
-## Smiles from Start to Finish
+**We’re Here for You**
 
-Schedule your appointment today and experience the precision, efficiency, and comfort that our advanced, proven technology brings to every aspect of our dental experience. Your journey to a healthier, happier smile begins here.
+Let’s work together to optimize your dental care while making the most of your insurance coverage. Contact our office today and let us take care of the rest – your smile is in good hands.
 
-[BOOK AN APPOINTMENT](/about-us/dentist-appointment/)
+[CALL 615-241-8023](tel:%20615-241-8023)
 
-![Circle smile]()
+We process your personal information to measure and improve our sites and service, to assist our marketing campaigns and to provide personalized content and advertising. By clicking the button on the right, you can exercise your privacy rights. For more information see our privacy notice.
+
+Accept All
+
+Your Privacy Rights
+
+![Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
+
+## Manage Cookies
+
+Our online services (e.g., this website) are designed to connect you with dental healthcare professionals and provide other relevant information related to oral health. Using cookies and other tracking technologies, we collect information about your interaction with our online services to fulfill your requests. Depending on your interactions, the information we collect may allow us to identify or infer that you are seeking healthcare services and your individual health conditions. Certain tracking technologies are necessary to make sure our website works and is secure. Other tracking technologies are optional (“Optional Cookies”) and may be used to enhance your experience by providing you additional functionality, give us insights into how our online services are used, and to show you content we think you would like. If you choose to enable certain tracking technologies, your data may be shared with the third party providing the function or features described. We won’t collect your data using Optional Cookies unless you Accept All cookies or Select them below (we will use a cookie to save your choice). You can read More information below, change your preferences at any time and edit your cookie preferences through our Cookies Notice.
+
+Allow All
+
+### Manage Consent Preferences
+
+#### Strictly necessary and Functional cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+
+Cookies Details
+
+#### Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Cookies Details
+
+#### Targeting/Advertising Cookies
+
+Targeting/Advertising Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Cookies Details
+
+Back Button
+
+### Cookie List
+
+Search Icon
+
+Filter Icon
+
+Clear
+
+- checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+checkbox label label
+
+checkbox label label
+
+checkbox label label
+
+Do Not Sell or Share My Personal Information Confirm My Choices
+
+[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg "Powered by OneTrust Opens in a new Tab")](https://www.onetrust.com/products/cookie-consent/)
+
+---
+
+[Supercharge your dental benefits. Schedule today!](/about-us/dentist-appointment/)
+
+# Insurance & Financing
+
+![Woman with smile](https://s7d9.scene7.com/is/image/pacificdentalservices/bigstock-Cropped-Close-Up-Photo-Beautif-285033406-2?fmt=webp-alpha)
+
+1. [INSURANCE & FINANCING](/payment/)
+2. [INSURANCE](/payment/dental-insurance/)
+3. [DENTAL PLAN](/payment/smile-generation-dental-discount-plan/)
+4. [FINANCING](/payment/smile-generation-dental-financing/)
+
+INSURANCE & FINANCING
+
+INSURANCE
+
+DENTAL PLAN
+
+FINANCING
+
+> Payments made painless. Whether you’re insured or exploring payment options, we’re dedicated to offering ways to make dental care more affordable for you.
+
+## Get the Most out of Your Insurance
+
+We proudly accept most insurance plans and file claims on your behalf. Our dedicated team is committed to maximizing your benefits and streamlining the process. We’re committed to transparency by informing you upfront about your insurance plan coverage and offering solutions for any remaining balance.
+
+For more details regarding insurance coverage, please call us at **[615-241-8023](tel:%20615-241-8023)**.
+
+![Woman on iphone](https://s7d9.scene7.com/is/image/pacificdentalservices/AdobeStock_547698188-3?fmt=webp-alpha)
+
+## Dental Discounts with Smile Generation Dental Plan
+
+Introducing the Smile Generation Dental Plan – your key to affordable dental care for you and your family. With no deductibles, copays, or annual maximums, our plan is designed to prioritize simplicity and savings. The Smile Generational Dental Plan offers 20%-50% discounts on a wide range of treatments. Better yet, there’s no waiting period – experience same-day discounts on dentistry.
+
+[VIEW DENTAL PLANS](/payment/smile-generation-dental-discount-plan/)
+
+![Piggy bank]()
+
+## **We Have Dental Financing Options**
+
+Our office is dedicated to creating a personalized plan designed exclusively for you. Finance up to $75,000 for a duration of up to 144 months*, including 0% interest with low interest plans available on approved credit.
+
+Simply use our secure in-office portal to enter your information, and let’s discuss a variety of personalized financing options based on your preferences. Get the care you deserve from a dentist you trust. It’s that easy – a personalized, trustworthy dental experience is just a call away.
+
+[CALL 615-241-8023](tel:%20615-241-8023)
+
+![Family]()
+
+![Toothbrush]()
+
+Get Started
+
+**Smile Without the Stress**
+
+Let’s work together to find the best solution for your dental needs and ensure you receive the care you deserve. Book an appointment today and explore our flexible payment options – your smile is worth it!
+
+[CALL 615-241-8023](tel:%20615-241-8023)
+
+- [CONTACT](/about-us/contact-us/)
+
+  - [Mt Juliet Dental Group](https://www.google.com/maps/dir//Mt Juliet Dental Group%204155 N Mt Juliet Rd,%20((owl_properties.OfficeDetails_Address_AddressLine2)%20Mt Juliet,%20TN%2037122)
+  - [4155 N Mt Juliet Rd,](https://www.google.com/maps/dir//Mt Juliet Dental Group%204155 N Mt Juliet Rd,%20((owl_properties.OfficeDetails_Address_AddressLine2)%20Mt Juliet,%20TN%2037122)
+  - [Mt Juliet, TN 37122](https://www.google.com/maps/dir//Mt Juliet Dental Group%204155 N Mt Juliet Rd,%20((owl_properties.OfficeDetails_Address_AddressLine2)%20Mt Juliet,%20TN%2037122)
+  - [615-241-8023](tel:%20615-241-8023)
+  - [Book an Appointment](/about-us/dentist-appointment/)
+  - [Message Us](/about-us/contact-us/)
+- [INSURANCE & PAYMENT](/payment/)
+
+  - [Insurance](/payment/dental-insurance/)
+  - [Discount Plan](/payment/smile-generation-dental-discount-plan/)
+  - [Financing](/payment/smile-generation-dental-financing/)
+  - [Pay Your Bill](https://www.smilegenerationmychart.com/MyChart/Billing/GuestPay/PayasGuest)
+- [ABOUT US](/about-us/)
+
+  - [Our Team](/meet-our-team/)
+  - [Careers](https://jobs.pdshealth.com/careers-home)
+  - [FAQs](/about-us/faqs/)
+- [PATIENT PORTAL](/patient-portal/)
+
+  - [Log In](/patient-portal/)
+- [LIKE US ON FACEBOOK](https://www.facebook.com/345118825891019)
+
+  [FIND US ON GOOGLE](https://maps.google.com/maps?cid=18142623291530393750)
+
+[Privacy Policy](/privacy-policy/)
+
+[Notice of Privacy Practices](/privacy-policy/notice-of-privacy-practices/)
+
+[Terms of Use](/privacy-policy/terms-of-use/)
+
+[Notice of Non-Discrimination](/privacy-policy/notice-of-non-discrimination/)
+
+[CA Privacy Notice](/privacy-policy/ca-privacy-notice/)
+
+[CO Privacy Notice](/privacy-policy/co-privacy-notice/)
+
+[WA Privacy Notice](/privacy-policy/wa-privacy-notice/)
+
+[Accessibility](/accessibility/)
+
+[Sitemap](/site-map/)
+
+[Your Privacy Rights](javascript:void(0))
+
+© Copyright 2006 - 2025 • Mt Juliet Dental Group• ((owl_properties.OfficeDetails_LegalName))
+
+*Financing offers are subject to credit approval. Minimum payments are required for each Credit Plan. Valid for single transaction only. Smile Generation Financial Credit Card Accounts are issued by Comenity Capital Bank.
 
 We process your personal information to measure and improve our sites and service, to assist our marketing campaigns and to provide personalized content and advertising. By clicking the button on the right, you can exercise your privacy rights. For more information see our privacy notice.
 
@@ -2175,6 +1841,252 @@ Call Today
 **We’re Here for You**
 
 Contact us today and let us support you every step of the way on your journey to healthier, happier smile and overall well-being.
+
+[CALL 615-241-8023](tel:%20615-241-8023)
+
+We process your personal information to measure and improve our sites and service, to assist our marketing campaigns and to provide personalized content and advertising. By clicking the button on the right, you can exercise your privacy rights. For more information see our privacy notice.
+
+Accept All
+
+Your Privacy Rights
+
+![Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
+
+## Manage Cookies
+
+Our online services (e.g., this website) are designed to connect you with dental healthcare professionals and provide other relevant information related to oral health. Using cookies and other tracking technologies, we collect information about your interaction with our online services to fulfill your requests. Depending on your interactions, the information we collect may allow us to identify or infer that you are seeking healthcare services and your individual health conditions. Certain tracking technologies are necessary to make sure our website works and is secure. Other tracking technologies are optional (“Optional Cookies”) and may be used to enhance your experience by providing you additional functionality, give us insights into how our online services are used, and to show you content we think you would like. If you choose to enable certain tracking technologies, your data may be shared with the third party providing the function or features described. We won’t collect your data using Optional Cookies unless you Accept All cookies or Select them below (we will use a cookie to save your choice). You can read More information below, change your preferences at any time and edit your cookie preferences through our Cookies Notice.
+
+Allow All
+
+### Manage Consent Preferences
+
+#### Strictly necessary and Functional cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+
+Cookies Details
+
+#### Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Cookies Details
+
+#### Targeting/Advertising Cookies
+
+Targeting/Advertising Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Cookies Details
+
+Back Button
+
+### Cookie List
+
+Search Icon
+
+Filter Icon
+
+Clear
+
+- checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+checkbox label label
+
+checkbox label label
+
+checkbox label label
+
+Do Not Sell or Share My Personal Information Confirm My Choices
+
+[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg "Powered by OneTrust Opens in a new Tab")](https://www.onetrust.com/products/cookie-consent/)
+
+---
+
+[Supercharge your dental benefits. Schedule today!](/about-us/dentist-appointment/)
+
+# frequently asked questions
+
+![Happy emotions concept. Positive dark skinned beautiful young woman laughs poisitively looks aside with carefree face expression wears casual orange sweater isolated over blue studio background.](https://s7d9.scene7.com/is/image/pacificdentalservices/AdobeStock_417128009-1-1?fmt=webp-alpha)
+
+## **All FAQ Categories**
+
+If you have more questions, call us at [615-241-8023](tel:615-241-8023).
+
+[CONTACT US](/about-us/contact-us/)
+
+### I have a dental emergency! Can you fit me in today?
+
+We understand that dental emergencies are urgent and can be very stressful, so we will try our hardest to fit you in. Please give us a call at [615-241-8023](tel:615-241-8023) and we would be happy to help you.
+
+### Do you have options to pay for treatment if I don't have insurance?
+
+No dental insurance? No problem! We offer flexible financing options and a dental plan customized for your needs. The Smile Generation Dental Plan is a discount dental plan that can help you save 20-50% on most treatments. [Click here](/payment/smile-generation-dental-discount-plan/) to learn more about the financing plans we have.
+
+### How do I know how much I owe on my bill?
+
+We have made it easy and convenient for you to see how much is owed on your bill through our patient portal [Smile Generation MyChart.](https://www.smilegenerationmychart.com/MyChart/Authentication/Login?) To learn more, visit our [patient portal](/patient-portal/ "Patient Portal").
+
+If you are ready to pay your bill, you can also visit [https://www.smilegenerationmychart.com/MyChart/Billing/GuestPay/PayasGuest](https://www.smilegenerationmychart.com/MyChart/Billing/GuestPay/PayasGuest?sc_cid=Direct:O:GP:613:Website:General:na)
+
+### How does Smile Generation Financial Work?
+
+Smile Generation Financial is a great [dental financing option](/payment/smile-generation-dental-financing/) that can be used with or without your dental insurance to help you take care of your oral health. Enjoy 18 months of special financing on purchases of $500 or more made with your Smile Generation Financial Credit Card. Visit the "Payment" page to learn more and apply today.
+
+### How much is my insurance going to cover for my treatment?
+
+The amount that your dental insurance will cover on your treatment depends on your insurance policy. We recommend call your insurance provider to learn more.
+
+### Do you have financing options to pay for treatment?
+
+We offer flexible financing options and a dental plan customized for your needs. We gladly accept major credit cards, debit cards, mobile pay, and most insurance.
+
+### What are the different options for paying for my treatment?
+
+We understand that dental care can be expensive and an unplanned expense.  It is important to us to help make sure your dental care fits into your budget and life.  We offer many financial options such as the Smile Generation Dental Plan, in-office financing, and third-party financing such as Smile Generation Financial, CareCredit, and more.
+
+### Do you accept CareCredit?
+
+Yes, we do accept CareCredit! Please visit the "Payment" page to learn more about your options.
+
+### Do you have a payment/billing portal?
+
+Yes, we do have a payment and billing portal! You can view your account and pay your bill online at [https://pay.wellfit.com/](https://pay.wellfit.com/?sc_cid=GP_Refer:about-us:faqs:)
+
+### What should I bring to my first appointment?
+
+We're excited to meet you! For your first appointment with us, please bring a photo ID and your dental insurance card (if available). If you are under 18, please come with a parent or legal guardian. We look forward to seeing you soon!
+
+### Are you open on Sunday/Weekends/Late?
+
+Please check out the Home Page of our website to see our most updated hours to see if we're open late and or on weekends.
+
+### Do you have same-day appointments available?
+
+We might have same-day appointments! Feel free to check our online scheduler to book your dental appointment online, or give our office a call to see if we can get you in on the same day.
+
+### Do you take Walk-Ins?
+
+We might take walk-ins! Feel free to check our online scheduler to book your dental appointment online, or give our office a call to see if we can get you in on the same day.
+
+### Can I transfer my files to your office?
+
+We would be happy to help you to transfer your files from another office. Please call our office at [615-241-8023](tel:615-241-8023) and we would be glad to assist you.
+
+### Do you take new patients?
+
+Absolutely! We are always welcoming new patients. Our dentists and office team are excited to meet you and address your dental needs.
+
+### Do you have online reviews?
+
+We strive to deliver a perfect patient experience each and every day. Please check out our Google and Yelp pages to read our patients' online reviews.
+
+### Can I cancel or reschedule my appointment online?
+
+We understand things come up and plans might change.  If you need to reschedule or cancel your appointment, please call our office at [615-241-8023](tel:615-241-8023), and we will be happy to help you.
+
+### Can I fill out my patient paperwork ahead of time?
+
+Using our secure patient portal Smile Generation MyChart, you can update personal and insurance information, complete your health history, and sign any needed consents from the convenience of your own home prior to your appointment.  
+  
+If you are new to Smile Generation MyChart, it’s a 3-step process to set up your account using the activation email from Smile Generation, log in to Smile Generation MyChart, and click on eCheck-in to complete the needed items before we see you.  
+  
+If you already have a Smile Generation MyChart account, simply log in from the Patient Portal page or SmileGenerationMyChart.com within 30 days of your next appointment and select eCheck-in.
+
+### Can I schedule my appointment online?
+
+Absolutely! Click here to [schedule your appointment](/about-us/dentist-appointment/) online today.
+
+### Do you have any New Patient specials?
+
+Yes, we do have a New Patient Special! We have a $59 New Patient Special that includes a comprehensive oral exam, x-rays, and a cleaning in absence of periodontal (gum) disease.
+
+### What is the best web browser for MyChart?
+
+Currently, Internet Explorer does not support MyChart so any other web browser can be utilized.
+
+### I completed my sign-up with no errors, but it will not allow me to log in. Can you help?
+
+If you are having errors logging into your MyChart, click on "My Patient Portal" on the navigation and input your credential from that screen.
+
+### How will my personal information be utilized and stored?
+
+Please refer to our [Privacy Policy](/privacy-policy/) page.
+
+### How do I complete my health history information?
+
+The health history (eCheck-in) is available 30 days before your appointment. Click on the link to watch a tutorial video on [completing your Health History information](https://www.youtube.com/watch?v=9VSx9GLa08A&sc_cid=GP_Refer:about-us:faqs:).
+
+### I am trying to access my child's MyChart. How do I log in?
+
+To access your child's MyChart account, make sure that you are using your name and date of birth and not your child's. Once you're in you should be able to access your child's MyChart.
+
+### I am not a patient at your office. How do I gain proxy access to my child's account?
+
+To gain access to your child's MyChart account if you are not a patient, call our office so that we can give you access.
+
+### How do I link my medical MyChart account with my Smile Generation MyChart account?
+
+To [link your medical Mychart account with Smile Generation MyChart](https://www.youtube.com/watch?v=jpoZBCwcRxI&sc_cid=GP_Refer:about-us:faqs:) account click on the link and watch our tutorial video.
+
+### Can I view my dental records, and if so, where?
+
+We are happy to provide you with your dental records upon your request. Please call our office at [615-241-8023](tel:615-241-8023), and we would be glad to help.
+
+### Can I message my dentist? Can I email my dentist?
+
+Yes, you can absolutely message your dentist! You can message your dentist directly through your MyChart patient account.
+
+### How can I update my health history form?
+
+We would be happy to assist you with updating your health history at your next appointment with us. We look forward to seeing you then!
+
+### I forgot my Smile Generation MyChart password. Can you help me?
+
+Resetting your password with Smile Generation MyChart is easy. Simply select Forgot Password? from the Patient Portal page or smilegenerationmychart.com.  
+  
+You will be asked to enter your MyChart username, date of birth, zip code, email address, and then an activation code will be sent to you via email.  
+  
+Follow the prompts to enter your activation code and create your new password.
+
+### Can you resend me my activation code for Smile Generation MyChart?
+
+To request a new activation code for Smile Generation MyChart, give us a call at [615-241-8023](tel:615-241-8023) and we’ll be happy to resend your activation code via email or text.  
+  
+If you haven’t received a MyChart activation code yet, please visit [https://www.smilegenerationmychart.com/](https://www.smilegenerationmychart.com/MyChart/Signup/) to request one.
+
+### How do I get a Smile Generation MyChart account?
+
+The simplest way to create a Smile Generation MyChart account is to start by scheduling an appointment. Along with your appointment confirmation email, you'll receive an invitation email with instructions for activating your Smile Generation MyChart account.  
+  
+If you're not quite ready for your next appointment, but would like like to activate your account, visit [https://www.smilegenerationmychart.com/MyChart/Signup](https://www.smilegenerationmychart.com/MyChart/Signup/) to request an invitation email.
+
+### How to download the Smile Generation MyChart app?/ Do you have an app?
+
+The Smile Generation MyChart app is available in the app store.  
+  
+Download at: [App Store](https://apps.apple.com/app/smilegeneration-mychart/id1497017310?sc_cid=GP_Refer:patient-portal:) | [Google Play](https://play.google.com/store/apps/details?id=com.smilegeneration.mychart&hl=en_US&sc_cid=GP_Refer:patient-portal:)
+
+### Where can I learn more about my concerns about my oral health?
+
+Visit our expansive FAQ page on our SmileGeneration website to get all your [dental questions answered](https://www.smilegeneration.com/education/faqs/?sc_cid=GP_Refer:about-us:faqs:). From what to do in an emergency to why are your gums bleeding, and more. Click on the link to learn more.
+
+![Toothbrush]()
+
+Need Answers? Call Today
+
+**We're Here for You**
+
+Call us for personalized assistance and answers to your care questions. Your comfort is our priority, and we’re just a phone call away. Let’s make sure you have all the information you need for an easygoing and enjoyable dental visit.
 
 [CALL 615-241-8023](tel:%20615-241-8023)
 

@@ -4,22 +4,22 @@ SUBJECT: Helping New Patients Get Answers Faster at Richland Creek Family Dentis
 -----------------------------------------
 Hi Dr. McNutt,
 
-I appreciate how welcoming and informative Richland Creek Family Dentistry is—especially for new patients who are looking for both trust and clarity.
+I’ve been browsing Richland Creek Family Dentistry’s site, and it’s clear how much you prioritize a welcoming, informative experience for both new and returning patients in Nashville.
 
-I’m Zac from SlayDigital.ai. We build simple, custom AI chat agents for websites like yours, making it easier for people to get quick answers from your own site content, day or night. The idea is to help your team spend less time fielding repetitive questions, while giving patients instant guidance whenever they need it.
+I’m Zac, founder of SlayDigital.ai. We build simple, custom AI chat agents that live right on your website—letting visitors get quick, clear answers using the info you already provide. No technical hurdles for you or your staff, just less time spent on repetitive questions and a smoother path for new patients to schedule or understand their options.
 
-I set up a mock version of your site you can try here: https://slaydigital.fly.dev/site/richlandcreekdentistry_com
+I set up a quick demo for you:  
+https://slaydigital.fly.dev/site/richlandcreekdentistry_com  
+There’s a chat icon in the bottom-right—click it to open the chat box and try asking questions. The agent responds using your own website’s details.
 
-Just click the chat icon in the bottom-right corner, type a question, and see how the agent responds using your existing site info.
+You might try:
+- What insurance plans do you accept, and do you offer an in-office savings plan?
+- What should I expect on my first visit as a new patient?
+- How do I request an emergency dental appointment?
+- What pediatric dentistry services do you provide?
+- What are your payment options and business hours?
 
-You can try asking things like:
-- What does the in-office savings plan cover?
-- Do you accept my dental insurance?
-- How do I book an emergency appointment?
-- What sedation options are available if I have dental anxiety?
-- When are your earliest available appointments?
-
-Would you be interested in a quick chat about how this could help streamline common questions for you and your team? No pressure—just wanted to show you what’s possible.
+If you think this could help free up your team and make things even easier for patients, let me know—I’d be happy to chat about a custom setup for your practice.
 
 Best,  
 Zac

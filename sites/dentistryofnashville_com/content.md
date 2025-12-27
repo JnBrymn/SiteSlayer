@@ -134,6 +134,29 @@ At our practice, we go to great lengths to provide comfortable and effective den
 
 ---
 
+# Request an Appointment
+
+1. [Home](https://dentistryofnashville.com/)
+3. [Contact Us](https://dentistryofnashville.com/contact-us/)
+5. [Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/)
+
+### Location
+
+[2125 Blakemore Ave  
+ Nashville, TN 37212](https://www.google.com/maps/place/Dentistry+of+Nashville+%7C+Elam,+Vaughan,+Fleming/@36.1393822,-86.8087917,14.52z/data=!4m5!3m4!1s0x0:0x7250f245391794d6!8m2!3d36.137544!4d-86.803203)
+
+[615-383-3690](tel:6153833690)
+
+**Mon**: 7:30 a.m. to 5:00 p.m.  
+ **Tue**: 7:30 a.m. to 5:00 p.m.  
+ **Wed**: 7:30 a.m. to 5:00 p.m.  
+ **Thu**: 7:30 a.m. to 5:00 p.m.  
+ **Fri**: Closed  
+ **Sat**: Closed  
+ **Sun**: Closed
+
+---
+
 # Meet the Team
 
 1. [Home](https://dentistryofnashville.com/)
@@ -246,6 +269,155 @@ We don’t treat a person, we treat generations of patients in our community in 
 [Our Services](https://dentistryofnashville.com/our-services/ "Our Services")
 
 [Tour Our Office](https://dentistryofnashville.com/about-us/our-office/ "Our Office")
+
+### Related Pages
+
+- [Services](https://dentistryofnashville.com/our-services/)
+- [Patient Resources](https://dentistryofnashville.com/patient-resources/)
+- [About Us](https://dentistryofnashville.com/about-us/)
+
+#### Questions?
+
+Click below to send us a message, and we’ll get back to you in no time!
+
+[Message Us](mailto:lori@dentistryofnashville.com)
+
+### Follow Us!
+
+Facebook
+
+YouTube
+
+---
+
+# Our Technology
+
+1. [Home](https://dentistryofnashville.com/)
+3. [About Us](https://dentistryofnashville.com/about-us/)
+5. [Our Technology](https://dentistryofnashville.com/about-us/technology/)
+
+## Advanced Technology for Better Dentistry
+
+At our practice, we go to great lengths to provide comfortable and effective dental care. To help achieve this, our team is equipped with some of the most innovative technology available in dentistry. Read on to learn about some of the technology we feature at Dentistry of Nashville.
+
+![LANAP](https://dentistryofnashville.com/wp-content/uploads/2019/04/lanap-laser-surgery.jpg)
+
+### LANAP Laser Treatment
+
+For patients suffering from periodontal disease, we offer LANAP laser treatment as an alternative to conventional surgery. This treatment is accomplished using a variable pulsed laser, eliminating the need for incisions. Between its minimally invasive procedure and proven results, it’s no wonder that more and more patients with periodontal disease are choosing LANAP for treatment.
+
+[Learn More](https://dentistryofnashville.com/our-services/periodontal-services#LANAP "Periodontal Services")
+
+![Close-up of CEREC Milling Machine](https://dentistryofnashville.com/wp-content/uploads/2019/04/CEREC-Milling-Machine-768x432.jpg)
+
+### CEREC Same-Day Technology
+
+The CEREC® system creates porcelain crowns and onlays that are customized to match the color and size of each patient’s teeth. This technology allows us to condense a process that used to take weeks or even months into just one simple office visit. With CEREC® same-day crowns, you won’t have to wait to show off your new smile.
+
+[Learn More](https://dentistryofnashville.com/our-services/crown-bridge-same-day-dentistry/ "Periodontal Services")
+
+![Dr. Fleming using Intraoral Camera with patient](https://dentistryofnashville.com/wp-content/uploads/2019/04/1-188_Dr.-Fleming-using-CEREC-3D-Scanner-to-patient_Dentistry-of-Nashville-_-Elam-Vaughan-Fleming-768x432.jpg)
+
+### Intraoral Camera
+
+Our intraoral cameras produce high-quality scans of your mouth, allowing you to see the results of your treatment in real time. With the use of these cameras, we can identify diseases such as oral cancer in their earliest stages, greatly reducing your risk of serious health problems.
+
+![Dr. Elam examining Digital radiograph](https://dentistryofnashville.com/wp-content/uploads/2019/04/HI-RES-Dentistry-of-Nashville-7-7-17-58-768x432.jpg)
+
+### Digital X-Rays
+
+Digital x-rays have become an essential tool in dentistry because they allow us to identify potentially serious threats to your health while we still have time to treat them. Some of these threats that are virtually invisible without x-rays include cysts, tumors, and decay between your teeth. In addition to providing high-quality images in a short span of time, our digital x-rays expose patients to 90% less radiation than traditional ones.
+
+![Example of 3D imaging](https://dentistryofnashville.com/wp-content/uploads/2019/04/3d-imaging-768x430.png)
+
+### 3D Imaging
+
+Our advanced 3D imaging makes certain procedures easier than ever before, especially when it comes to the dental implant process. With this technology, we can identify the location of your nerves, assess the density of your jawbone, and find the optimal spots for placing your implants.
+
+[View Services](https://dentistryofnashville.com/our-services/ "Services")
+
+[Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
+
+### Related Pages
+
+- [Services](https://dentistryofnashville.com/our-services/)
+- [Patient Resources](https://dentistryofnashville.com/patient-resources/)
+- [About Us](https://dentistryofnashville.com/about-us/)
+
+#### Questions?
+
+Click below to send us a message, and we’ll get back to you in no time!
+
+[Message Us](mailto:lori@dentistryofnashville.com)
+
+### Follow Us!
+
+Facebook
+
+YouTube
+
+---
+
+# Services
+
+1. [Home](https://dentistryofnashville.com/)
+3. [Services](https://dentistryofnashville.com/our-services/)
+
+[![Dental Implants Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_implant-dentistry.svg)](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")
+
+## Dental Implants
+
+Implants are a solution for missing teeth. When a space is created by a missing tooth, it allows surrounding teeth to move, which may lead to further tooth loss. Click the learn more button below to see how we can restore your smile!
+
+[Learn More](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")
+
+[![Same-Day Crowns Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_same-day-crowns.svg)](https://dentistryofnashville.com/our-services/crown-bridge-same-day-dentistry/ "Dental Implants")
+
+## Crown & Bridge + Same-Day Dentistry
+
+Unlike veneers, crowns cover the entire tooth and is a required step after any root canal procedure. At Dentistry of Nashville, you could get it all done in one day with our CEREC® technology!
+
+[Learn More](https://dentistryofnashville.com/our-services/crown-bridge-same-day-dentistry/ "Dental Implants")
+
+[![General Dentistry Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_general-dentistry.svg)](https://dentistryofnashville.com/our-services/general-dentistry/ "Dental Implants")
+
+## General Dentistry
+
+We recognize that routine dental hygiene is absolutely vital for a happy and healthy mouth. Find out why hygiene appointments are so important and make sure to visit us at least two times per year!
+
+[Learn More](https://dentistryofnashville.com/our-services/general-dentistry/ "Dental Implants")
+
+[![Periodontal Services Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_periodontal-care.svg)](https://dentistryofnashville.com/our-services/periodontal-services/ "Dental Implants")
+
+## Periodontal Services
+
+Gum disease is a very serious issue that can easily be prevented through home hygiene habits and routine professional cleanings. Periodontal treatment is the thorough process of cleaning out the bacteria below the gum line and may sometimes also include suturing the gum pockets to prevent future infection.
+
+[Learn More](https://dentistryofnashville.com/our-services/periodontal-services/ "Dental Implants")
+
+[![Restorative Dentistry Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_restorative-dentistry.svg)](https://dentistryofnashville.com/our-services/restorative-dentistry/ "Dental Implants")
+
+## Restorative Dentistry
+
+Allow us to restore your smile to full function and beauty! We offer restorative services including implants, bridges, and more!
+
+[Learn More](https://dentistryofnashville.com/our-services/restorative-dentistry/ "Dental Implants")
+
+[![Cosmetic Dentistry Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_cosmetic-dentistry.svg)](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Dental Implants")
+
+## Cosmetic Dentistry
+
+A beautiful smile isn’t as far away as you think. We offer cosmetic services including implants, whitening, and more!
+
+[Learn More](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Dental Implants")
+
+[![Periodontal Services Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_periodontal-care.svg)](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Dental Implants")
+
+## TMD Treatment
+
+TMD is shorthand for temporomandibular jaw disorder and is characterized by pain in the face and jaw. While there are several reasons the condition may have started, including misaligned teeth and an overly strong bite, to name but a couple, TMD may affect one’s quality of life. If you suffer from this kind of pain, we will be happy to make a diagnosis and discuss available treatments.
+
+[Learn More](https://dentistryofnashville.com/our-services/tmd-treatment/ "TMD Treatment")
 
 ### Related Pages
 
@@ -426,53 +598,18 @@ YouTube
 
 ---
 
-# Our Technology
+# Reviews
 
 1. [Home](https://dentistryofnashville.com/)
-3. [About Us](https://dentistryofnashville.com/about-us/)
-5. [Our Technology](https://dentistryofnashville.com/about-us/technology/)
+3. [Reviews](https://dentistryofnashville.com/reviews/)
 
-## Advanced Technology for Better Dentistry
+![patient meeting team member at front desk](https://dentistryofnashville.com/wp-content/uploads/2019/04/1-127_patient-meeting-team-member-at-front-desk_Dentistry-of-Nashville-_-Elam-Vaughan-Fleming-768x432.jpg)
 
-At our practice, we go to great lengths to provide comfortable and effective dental care. To help achieve this, our team is equipped with some of the most innovative technology available in dentistry. Read on to learn about some of the technology we feature at Dentistry of Nashville.
+![5 stars Icon](https://dentistryofnashville.com/wp-content/uploads/2017/08/5_stars.svg)
 
-![LANAP](https://dentistryofnashville.com/wp-content/uploads/2019/04/lanap-laser-surgery.jpg)
+[Write a Review!](https://search.google.com/local/writereview?placeid=ChIJZQyQ3aFmZIgR1pQXOUXyUHI)
 
-### LANAP Laser Treatment
-
-For patients suffering from periodontal disease, we offer LANAP laser treatment as an alternative to conventional surgery. This treatment is accomplished using a variable pulsed laser, eliminating the need for incisions. Between its minimally invasive procedure and proven results, it’s no wonder that more and more patients with periodontal disease are choosing LANAP for treatment.
-
-[Learn More](https://dentistryofnashville.com/our-services/periodontal-services#LANAP "Periodontal Services")
-
-![Close-up of CEREC Milling Machine](https://dentistryofnashville.com/wp-content/uploads/2019/04/CEREC-Milling-Machine-768x432.jpg)
-
-### CEREC Same-Day Technology
-
-The CEREC® system creates porcelain crowns and onlays that are customized to match the color and size of each patient’s teeth. This technology allows us to condense a process that used to take weeks or even months into just one simple office visit. With CEREC® same-day crowns, you won’t have to wait to show off your new smile.
-
-[Learn More](https://dentistryofnashville.com/our-services/crown-bridge-same-day-dentistry/ "Periodontal Services")
-
-![Dr. Fleming using Intraoral Camera with patient](https://dentistryofnashville.com/wp-content/uploads/2019/04/1-188_Dr.-Fleming-using-CEREC-3D-Scanner-to-patient_Dentistry-of-Nashville-_-Elam-Vaughan-Fleming-768x432.jpg)
-
-### Intraoral Camera
-
-Our intraoral cameras produce high-quality scans of your mouth, allowing you to see the results of your treatment in real time. With the use of these cameras, we can identify diseases such as oral cancer in their earliest stages, greatly reducing your risk of serious health problems.
-
-![Dr. Elam examining Digital radiograph](https://dentistryofnashville.com/wp-content/uploads/2019/04/HI-RES-Dentistry-of-Nashville-7-7-17-58-768x432.jpg)
-
-### Digital X-Rays
-
-Digital x-rays have become an essential tool in dentistry because they allow us to identify potentially serious threats to your health while we still have time to treat them. Some of these threats that are virtually invisible without x-rays include cysts, tumors, and decay between your teeth. In addition to providing high-quality images in a short span of time, our digital x-rays expose patients to 90% less radiation than traditional ones.
-
-![Example of 3D imaging](https://dentistryofnashville.com/wp-content/uploads/2019/04/3d-imaging-768x430.png)
-
-### 3D Imaging
-
-Our advanced 3D imaging makes certain procedures easier than ever before, especially when it comes to the dental implant process. With this technology, we can identify the location of your nerves, assess the density of your jawbone, and find the optimal spots for placing your implants.
-
-[View Services](https://dentistryofnashville.com/our-services/ "Services")
-
-[Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
+[More Reviews](https://www.google.com/maps/place/Dentistry+of+Nashville+|+Elam,+Vaughan,+Fleming/@36.137544,-86.8053917,17z/data=!3m1!4b1!4m7!3m6!1s0x0:0x7250f245391794d6!8m2!3d36.137544!4d-86.803203!9m1!1b1)
 
 ### Related Pages
 
@@ -531,62 +668,6 @@ YouTube
 ![](https://dentistryofnashville.com/wp-content/uploads/2024/05/office_Dentistry-of-Nashville2-1024x682.jpg)
 
 [Patient Resources](https://dentistryofnashville.com/patient-resources/ "Patient Resources")
-
-### Related Pages
-
-- [Services](https://dentistryofnashville.com/our-services/)
-- [Patient Resources](https://dentistryofnashville.com/patient-resources/)
-- [About Us](https://dentistryofnashville.com/about-us/)
-
-#### Questions?
-
-Click below to send us a message, and we’ll get back to you in no time!
-
-[Message Us](mailto:lori@dentistryofnashville.com)
-
-### Follow Us!
-
-Facebook
-
-YouTube
-
----
-
-# Request an Appointment
-
-1. [Home](https://dentistryofnashville.com/)
-3. [Contact Us](https://dentistryofnashville.com/contact-us/)
-5. [Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/)
-
-### Location
-
-[2125 Blakemore Ave  
- Nashville, TN 37212](https://www.google.com/maps/place/Dentistry+of+Nashville+%7C+Elam,+Vaughan,+Fleming/@36.1393822,-86.8087917,14.52z/data=!4m5!3m4!1s0x0:0x7250f245391794d6!8m2!3d36.137544!4d-86.803203)
-
-[615-383-3690](tel:6153833690)
-
-**Mon**: 7:30 a.m. to 5:00 p.m.  
- **Tue**: 7:30 a.m. to 5:00 p.m.  
- **Wed**: 7:30 a.m. to 5:00 p.m.  
- **Thu**: 7:30 a.m. to 5:00 p.m.  
- **Fri**: Closed  
- **Sat**: Closed  
- **Sun**: Closed
-
----
-
-# Reviews
-
-1. [Home](https://dentistryofnashville.com/)
-3. [Reviews](https://dentistryofnashville.com/reviews/)
-
-![patient meeting team member at front desk](https://dentistryofnashville.com/wp-content/uploads/2019/04/1-127_patient-meeting-team-member-at-front-desk_Dentistry-of-Nashville-_-Elam-Vaughan-Fleming-768x432.jpg)
-
-![5 stars Icon](https://dentistryofnashville.com/wp-content/uploads/2017/08/5_stars.svg)
-
-[Write a Review!](https://search.google.com/local/writereview?placeid=ChIJZQyQ3aFmZIgR1pQXOUXyUHI)
-
-[More Reviews](https://www.google.com/maps/place/Dentistry+of+Nashville+|+Elam,+Vaughan,+Fleming/@36.137544,-86.8053917,17z/data=!3m1!4b1!4m7!3m6!1s0x0:0x7250f245391794d6!8m2!3d36.137544!4d-86.803203!9m1!1b1)
 
 ### Related Pages
 

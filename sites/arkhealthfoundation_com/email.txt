@@ -1,27 +1,25 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: Brandon Davis <support@thedavisfocusproject.com>
-SUBJECT: Helping Veterans Access Answers Faster on the ARK Health Foundation Site
+SUBJECT: Helping Veterans Explore Your Program—See a Demo for ARK Health Foundation
 
 -----------------------------------------
 
 Hi Brandon,
 
-I’m truly inspired by the ARK Health Foundation’s mission to restore, recover, and rebuild the health of veterans through advanced, stigma-free wellness programming. The clarity and care you put into explaining how your program breaks barriers to recovery comes through on every page.
+I’m genuinely inspired by the mission of ARK Health Foundation—your clear focus on breaking barriers to care and supporting veterans’ total wellness stands out.
 
-I’m Zac, founder of SlayDigital.ai. We build simple, custom AI web agents that turn your website into a direct, 24/7 resource—helping visitors quickly find the info they need by chatting directly with your content (no jargon, just clear answers).
+I lead SlayDigital.ai, where we build simple, custom AI agents that live on your website and instantly answer visitor questions, using only your site’s content. This helps organizations like yours provide quick clarity without adding complexity.
 
-We created a quick demo using your own content: https://slaydigital.fly.dev/site/arkhealthfoundation_com  
-Just click the chat icon in the bottom-right corner to open it, then type any question; the agent replies with clear info drawn from your actual site.
+I’ve set up a quick demo based on your own site: https://slaydigital.fly.dev/site/arkhealthfoundation_com. There’s a chat icon in the lower-right corner—just click to open it and ask anything you’d normally get via email or contact forms.
 
 You can try asking things like:
-- What makes ARK’s trauma recovery program different from traditional approaches?
-- Who is eligible to join your program, and how do they get started?
-- What types of therapies and diagnostics are available for veterans?
-- How can someone support or donate to your mission?
-- Where can I find the science behind your methodology?
+- How does the ARK program help with PTSD or TBI?
+- What advanced diagnostics and therapies do you offer?
+- How can I get involved or support your mission?
+- Are there real-life success stories from veterans?
+- What steps are involved in joining the program?
 
-If this feels like something that could help answer veterans’ and supporters’ most common questions—or save your team time—I’d love to hear your thoughts.
+Would love your feedback or thoughts—happy to answer any questions, or set this up for you if it’s useful.
 
-Thank you for all you do,
-
+Best,  
 Zac

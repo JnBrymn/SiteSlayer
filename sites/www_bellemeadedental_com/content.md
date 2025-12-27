@@ -100,8 +100,6 @@ Steve W.
 
 “
 
-Slide 2 of 3.
-
 ## Meet the Doctors
 
 [Dr. James R Pace Sr](#w-tabs-0-data-w-pane-0)[Dr. James R Pace Jr, FAGD](#w-tabs-0-data-w-pane-1)[Dr. Cole Reitnauer](#w-tabs-0-data-w-pane-2)
@@ -226,43 +224,9 @@ Dental Veneers are a great way to correct misshapen, stained, or cracked teeth, 
 
 [![](https://cdn.prod.website-files.com/635fb83feadb6eb86c5ff1c0/64299e4cc388ed2e3f79f289_IMG_8268%20(1)%201.webp)](#)
 
-Slide 2 of 5.
-
 ## Want to schedule an appointment?
 
 [Schedule appointment online](https://www.dental4.me/bellemeadefamilydentistry/1)
-
----
-
-# 404 Page not found
-
-[GO TO HOMEPAGE](/)
-
-[Facebook icon](https://www.facebook.com/bellemeadefamilydentistry)[Instagram icon](#)[Twitter icon](https://twitter.com/BMFDentistry)[Google icon](https://goo.gl/maps/jHgyop9kgYHE8TQV7)
-
-![](https://cdn.prod.website-files.com/635fb83feadb6eb86c5ff1c0/635fb83feadb6e228e5ff231__Mask%20Group%206%20(1).jpeg)
-
-## Want to schedule an appointment?
-
-[Schedule appointment online](https://www.dental4.me/bellemeadefamilydentistry/1)
-
-All rights reserved 2025©
-
----
-
-# 404 Page not found
-
-[GO TO HOMEPAGE](/)
-
-[Facebook icon](https://www.facebook.com/bellemeadefamilydentistry)[Instagram icon](#)[Twitter icon](https://twitter.com/BMFDentistry)[Google icon](https://goo.gl/maps/jHgyop9kgYHE8TQV7)
-
-![](https://cdn.prod.website-files.com/635fb83feadb6eb86c5ff1c0/635fb83feadb6e228e5ff231__Mask%20Group%206%20(1).jpeg)
-
-## Want to schedule an appointment?
-
-[Schedule appointment online](https://www.dental4.me/bellemeadefamilydentistry/1)
-
-All rights reserved 2025©
 
 ---
 
@@ -415,6 +379,38 @@ Schedule your dental implant consultation at Belle Meade Family Dentistry today.
 ## Want to schedule an appointment?
 
 [Schedule appointment online](https://www.dental4.me/bellemeadefamilydentistry/1)
+
+---
+
+# 404 Page not found
+
+[GO TO HOMEPAGE](/)
+
+[Facebook icon](https://www.facebook.com/bellemeadefamilydentistry)[Instagram icon](#)[Twitter icon](https://twitter.com/BMFDentistry)[Google icon](https://goo.gl/maps/jHgyop9kgYHE8TQV7)
+
+![](https://cdn.prod.website-files.com/635fb83feadb6eb86c5ff1c0/635fb83feadb6e228e5ff231__Mask%20Group%206%20(1).jpeg)
+
+## Want to schedule an appointment?
+
+[Schedule appointment online](https://www.dental4.me/bellemeadefamilydentistry/1)
+
+All rights reserved 2025©
+
+---
+
+# 404 Page not found
+
+[GO TO HOMEPAGE](/)
+
+[Facebook icon](https://www.facebook.com/bellemeadefamilydentistry)[Instagram icon](#)[Twitter icon](https://twitter.com/BMFDentistry)[Google icon](https://goo.gl/maps/jHgyop9kgYHE8TQV7)
+
+![](https://cdn.prod.website-files.com/635fb83feadb6eb86c5ff1c0/635fb83feadb6e228e5ff231__Mask%20Group%206%20(1).jpeg)
+
+## Want to schedule an appointment?
+
+[Schedule appointment online](https://www.dental4.me/bellemeadefamilydentistry/1)
+
+All rights reserved 2025©
 
 ---
 

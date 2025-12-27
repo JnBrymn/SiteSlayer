@@ -1,27 +1,30 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: Mt Juliet Dental Group <info@mtjulietdentalgroup.com>
-SUBJECT: A simple way to help your patients find answers—see your live demo
+SUBJECT: Make it easier for patients to get the answers they need
 
 -----------------------------------------
-
 Hi Mt Juliet Dental Group team,
 
-Your commitment to making dental visits easy, transparent, and stress-free really stands out. I noticed how many helpful resources you offer—whether it’s insurance info, the Smile Generation plans, or clear guides on what to expect at a first visit.
+Your focus on friendly, individualized care really shines throughout your website. I noticed how many patient questions you answer directly—whether about services, payment options, or what to expect on a first visit.
 
-I’m reaching out from SlayDigital.ai. We build simple, custom AI agents that live right on your website, helping visitors quickly find the answers they need—using your own content, not generic scripts.
+I’m Zac, founder of SlayDigital.ai. We help practices like yours make it even easier for patients to find answers by adding a simple AI web agent—one that lets visitors chat directly with your site and get clear, helpful responses from your own content.
 
-Here’s a mock demo we made just for you:  
-https://slaydigital.fly.dev/site/www_mtjulietdentalgroup_com  
-Click the chat icon in the bottom right, open the box, and type any question—your new virtual assistant will respond instantly using real info from your site.
+To show you how this works, I set up a demo using your website:  
+https://slaydigital.fly.dev/site/www_mtjulietdentalgroup_com
+
+Using the chat icon at the bottom right, anyone can click, open the box, and type a question—no technical know-how needed. The agent responds with information already available on your site.
 
 You can try asking things like:
-- Do you accept Delta Dental insurance?
-- What’s included in the $59 new patient special?
-- How does CEREC same-day crowns work?
-- How do I prepare for my first visit?
-- What payment and financing options are available?
+- What insurance plans do you accept?
+- How do I use Smile Generation MyChart for billing or forms?
+- Do you offer same-day or emergency appointments?
+- What’s included in the $59 New Patient Special?
+- What should I bring to my first visit?
 
-This is a concrete way to cut down on repetitive calls, help new patients feel confident, and make sure everyone finds the right info fast. If you’d like to talk about how this could work for your website, just let me know—I’d be happy to help.
+This tool helps your team cut down on repetitive calls and emails, while giving patients the quick, friendly answers they expect from you.
 
-Best,  
-Zac
+If you’re interested in learning more or have questions, just let me know—I’m happy to chat about how this could fit your process.
+
+Wishing you a great week,
+Zac Slay  
+SlayDigital.ai
