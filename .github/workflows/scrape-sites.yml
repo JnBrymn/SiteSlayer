@@ -35,6 +35,8 @@ jobs:
 
     - name: Run scrape script
       run: uv run python web_scraper/main.py
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
     - name: Check for changes
       id: verify-changed-files
