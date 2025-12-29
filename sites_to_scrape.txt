@@ -1,5 +1,4 @@
 # Note, you can make comments in this file, just place comment text after the # character
-
 https://www.bigthunderevents.com # you can comment after websites too
 https://www.hello.com
 https://www.mtjulietdentalgroup.com
@@ -24,4 +23,3 @@ https://theclaylady.com/
 https://www.northdentalprofessionals.com/
 https://www.downtown-dental.com/
 https://dentalgroupofchicago.com/
-
