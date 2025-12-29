@@ -1,50 +1,36 @@
-[Skip to content](#content) 
+Home Page - Ark Health Foundation (Formerly The Davis Focus Project)
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Logos.png)
+
+[Skip to content](#content)
 
 - [Home](https://arkhealthfoundation.com/)
 - [Our Team](https://arkhealthfoundation.com/our-team/)
 - [Program](https://arkhealthfoundation.com/program/)
-  - [Our Program](https://arkhealthfoundation.com/program/)
-  - [The Science](https://arkhealthfoundation.com/the-science/)
+- [Our Program](https://arkhealthfoundation.com/program/)
+- [The Science](https://arkhealthfoundation.com/the-science/)
 - [Success Stories](https://arkhealthfoundation.com/testimonials/)
 - [Resources](https://arkhealthfoundation.com/resources-2/)
 - [Events](http://givebutter.com/h4h25)
 - [Contact](https://arkhealthfoundation.com/contact/)
 
-[![Logos](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Logos.png "Logos")](https://arkhealthfoundation.com)X
-
+X
 Donate
 
 ## RESTORE + RECOVER + REBUILD
 
 Empowering Veterans to Achieve Total Wellness
 
-## RESTORE + RECOVER + REBUILD
 
-Empowering Veterans to Achieve Total Wellness
-
-## RESTORE + RECOVER + REBUILD
-
-Empowering Veterans to Achieve Total Wellness
-
-## RESTORE + RECOVER + REBUILD
-
-Empowering Veterans to Achieve Total Wellness
-
-###### DONATE TODAY
-
-###### Get Involved With Contribution, make yourself proud!
-
-Donate
+DONATE TODAY
+Get Involved With Contribution, make yourself proud!
 
 ## OUR MISSION
 
-## ARK Health Foundation (Formerly The Davis Focus Project)
+## ARK Health Foundation(Formerly The Davis Focus Project)
 
 Helping veterans heal from trauma and reach their highest potential through advanced human optimization programming, while simultaneously breaking barriers to care.
 
-###### Listen to Veterans Voices
+Listen to Veterans Voices
 
 ## Our Story
 
@@ -52,9 +38,7 @@ Helping veterans heal from trauma and reach their highest potential through adva
 
 ## Breaking Barriers With Science-Backed Programming​
 
-**The ARK Health Foundation is redefining veteran recovery by breaking down the barriers that prevent access to effective care.** Through advanced human optimization programming, we provide veterans, service members, and Gold Star families with science-backed solutions that address the root causes of trauma, chronic stress, and performance deficits. By integrating cutting-edge diagnostics, non-verbal therapies, and personalized recovery strategies, we empower veterans to heal, rebuild resilience, and achieve their highest potential—without the stigma or limitations of traditional approaches.
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/1-1024x1024.png)
+The ARK Health Foundation is redefining veteran recovery by breaking down the barriers that prevent access to effective care. Through advanced human optimization programming, we provide veterans, service members, and Gold Star families with science-backed solutions that address the root causes of trauma, chronic stress, and performance deficits. By integrating cutting-edge diagnostics, non-verbal therapies, and personalized recovery strategies, we empower veterans to heal, rebuild resilience, and achieve their highest potential—without the stigma or limitations of traditional approaches.
 
 ## Barrier 1: Stigma Around Seeking Help
 
@@ -64,39 +48,17 @@ Veterans face undue stigma that keeps them from reaching their full potential. I
 
 Traditional approaches often require veterans to recount painful memories, triggering overwhelming stress responses. Our solution bypasses verbal recounting altogether. We employ nonverbal modalities that target the physiological imbalances created by trauma, allowing the brain and body to recalibrate naturally. This approach enables effective healing without dredging up painful experiences.
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/2-1-1024x1024.png)
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/dfp-img2-1024x1024.png)
-
 ## Barrier 3: Overcoming Self-Blame (Attribution Theory)
 
 Many veterans internalize their challenges as personal failings, but our approach is different. We use advanced diagnostics and lab testing to prove that these issues have a clear physiological basis. By presenting objective evidence that shows the problem is fixable, we shift the focus from self-blame to recovery. This evidence-based strategy empowers veterans to understand that their struggles are not inherent defects but conditions that can be corrected with targeted interventions.
 
-###### eMPOWERING veterans
-
-###### Join Us in Building a Brighter Future for Our Heroes
-
-Donate
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/600x375_q95-3.webp)
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/logos-1024-x-1024-px.png)
+eMPOWERING veterans
+Join Us in Building a Brighter Future for Our Heroes
 
 Empowering Veterans To Achieve Total Wellness
 
 ## Useful Links
 
-- [Home](https://arkhealthfoundation.com/)
-- [Our Team](https://arkhealthfoundation.com/our-team/)
-- [Program](https://arkhealthfoundation.com/program/)
-  - [Our Program](https://arkhealthfoundation.com/program/)
-  - [The Science](https://arkhealthfoundation.com/the-science/)
-- [Success Stories](https://arkhealthfoundation.com/testimonials/)
-- [Resources](https://arkhealthfoundation.com/resources-2/)
-- [Events](http://givebutter.com/h4h25)
-- [Contact](https://arkhealthfoundation.com/contact/)
-
-X
 
 ## Subscribe Now
 
@@ -106,42 +68,20 @@ Don’t miss our future updates! Get Subscribed Today!
 
 [Designed by Konversly](https://konversly.com)
 
-
-
-
 Notifications
 
-[X](javascript: void(0);)
-
-1 : 00 AM
-
-Hour
-
-Minutes
-
-[AM](javascript: void(0);) [PM](javascript: void(0);)
-
-[1](javascript: void(0);) [2](javascript: void(0);) [3](javascript: void(0);) [4](javascript: void(0);) [5](javascript: void(0);) [6](javascript: void(0);) [7](javascript: void(0);) [8](javascript: void(0);) [9](javascript: void(0);) [10](javascript: void(0);) [11](javascript: void(0);) [12](javascript: void(0);)
-
-[00](javascript: void(0);) [05](javascript: void(0);) [10](javascript: void(0);) [15](javascript: void(0);) [20](javascript: void(0);) [25](javascript: void(0);) [30](javascript: void(0);) [35](javascript: void(0);) [40](javascript: void(0);) [45](javascript: void(0);) [50](javascript: void(0);) [55](javascript: void(0);)
-
-[SET](javascript: void(0);)
+[X](javascript: void(0);)  1 : 00 AM Hour Minutes [AM](javascript: void(0);) [PM](javascript: void(0);) [1](javascript: void(0);) [2](javascript: void(0);) [3](javascript: void(0);) [4](javascript: void(0);) [5](javascript: void(0);) [6](javascript: void(0);) [7](javascript: void(0);) [8](javascript: void(0);) [9](javascript: void(0);) [10](javascript: void(0);) [11](javascript: void(0);) [12](javascript: void(0);) [00](javascript: void(0);) [05](javascript: void(0);) [10](javascript: void(0);) [15](javascript: void(0);) [20](javascript: void(0);) [25](javascript: void(0);) [30](javascript: void(0);) [35](javascript: void(0);) [40](javascript: void(0);) [45](javascript: void(0);) [50](javascript: void(0);) [55](javascript: void(0);)  [SET](javascript: void(0);)
 
 ---
 
-[Skip to content](#content) 
+Program - Ark Health Foundation (Formerly The Davis Focus Project)
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Logos.png)
-
-Donate
 
 ## Program
 
 ## our PRogram
 
 ## Advanced Diagnostics
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2024/12/davis-focus-project-1.png)
 
 ## Breath Analysis
 
@@ -151,10 +91,6 @@ We use the PNOE Metabolic Analyzer to assess metabolism, cardiovascular risk, mi
 
 We use several tests to analyze gut health, permeability, inflammation and its impact on mental and systemic health.
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/03/3.png)
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2024/12/davis-focus-project.png)
-
 ## QEEG Brain Mapping
 
 QEEG maps brain activity to identify dysfunctions linked to TBI, PTSD, anxiety, depression, insomnia and general degraded cognitive performance.
@@ -162,8 +98,6 @@ QEEG maps brain activity to identify dysfunctions linked to TBI, PTSD, anxiety, 
 ## Biomarker Panel
 
 Comprehensive blood testing detects inflammation, hormonal imbalances, toxins, and metabolic dysfunction for targeted recovery.
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/03/2.png)
 
 ## Programming
 
@@ -253,57 +187,9 @@ Helping veterans find direction and motivation in recovery.
 
 Techniques to manage stress, improve focus, and build mental endurance.
 
-###### eMPOWERING veterans
 
-###### Join Us in Building a Brighter Future for Our Heroes
+The Science - Ark Health Foundation (Formerly The Davis Focus Project)
 
-Donate
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/600x375_q95-3.webp)
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/logos-1024-x-1024-px.png)
-
-Empowering Veterans To Achieve Total Wellness
-
-## Useful Links
-
-## Subscribe Now
-
-Don’t miss our future updates! Get Subscribed Today!
-
-©2025. ARK Health Foundation. All Rights Reserved.
-
-[Designed by Konversly](https://konversly.com)
-
-
-
-
-
-Notifications
-
-[X](javascript: void(0);)
-
-1 : 00 AM
-
-Hour
-
-Minutes
-
-[AM](javascript: void(0);) [PM](javascript: void(0);)
-
-[1](javascript: void(0);) [2](javascript: void(0);) [3](javascript: void(0);) [4](javascript: void(0);) [5](javascript: void(0);) [6](javascript: void(0);) [7](javascript: void(0);) [8](javascript: void(0);) [9](javascript: void(0);) [10](javascript: void(0);) [11](javascript: void(0);) [12](javascript: void(0);)
-
-[00](javascript: void(0);) [05](javascript: void(0);) [10](javascript: void(0);) [15](javascript: void(0);) [20](javascript: void(0);) [25](javascript: void(0);) [30](javascript: void(0);) [35](javascript: void(0);) [40](javascript: void(0);) [45](javascript: void(0);) [50](javascript: void(0);) [55](javascript: void(0);)
-
-[SET](javascript: void(0);)
-
----
-
-[Skip to content](#content) 
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Logos.png)
-
-Donate
 
 ## The Science
 
@@ -313,51 +199,9 @@ Explore the research, methodology, and guiding principles that power our trauma 
 
 [Download the White Paper](https://thedavisfocusproject.com/wp-content/uploads/2025/04/The-Davis-Focus-Project-White-Paper-v1.4.pdf)
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/logos-1024-x-1024-px.png)
 
-Empowering Veterans To Achieve Total Wellness
+Our Team - Ark Health Foundation (Formerly The Davis Focus Project)
 
-## Useful Links
-
-## Subscribe Now
-
-Don’t miss our future updates! Get Subscribed Today!
-
-©2025. ARK Health Foundation. All Rights Reserved.
-
-[Designed by Konversly](https://konversly.com)
-
-
-
-
-
-
-
-Notifications
-
-[X](javascript: void(0);)
-
-1 : 00 AM
-
-Hour
-
-Minutes
-
-[AM](javascript: void(0);) [PM](javascript: void(0);)
-
-[1](javascript: void(0);) [2](javascript: void(0);) [3](javascript: void(0);) [4](javascript: void(0);) [5](javascript: void(0);) [6](javascript: void(0);) [7](javascript: void(0);) [8](javascript: void(0);) [9](javascript: void(0);) [10](javascript: void(0);) [11](javascript: void(0);) [12](javascript: void(0);)
-
-[00](javascript: void(0);) [05](javascript: void(0);) [10](javascript: void(0);) [15](javascript: void(0);) [20](javascript: void(0);) [25](javascript: void(0);) [30](javascript: void(0);) [35](javascript: void(0);) [40](javascript: void(0);) [45](javascript: void(0);) [50](javascript: void(0);) [55](javascript: void(0);)
-
-[SET](javascript: void(0);)
-
----
-
-[Skip to content](#content) 
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Logos.png)
-
-Donate
 
 ## Our Team
 
@@ -365,13 +209,10 @@ Donate
 
 At the heart of The Davis Focus Project, we are guided by a passionate and diverse group of individuals who bring their unique expertise and unwavering commitment to our mission. Our Board of Directors plays a pivotal role in steering our organization toward its goals and ensuring that we continue to make a positive impact on the community we serve.
 
-  
-
 Comprising leaders from various backgrounds and industries, our board members bring a wealth of experience, knowledge, and a shared vision for a better future. Together, they provide strategic guidance, oversight, and unwavering support to our initiatives.
 
-###### CEO/Founder
-
-###### Brandon Davis
+CEO/Founder
+Brandon Davis
 
 Brandon D. Davis is the founder of The Davis Focus Project, a Non-Profit for Human Performance. While serving in the Army, Brandon was the Distinguished Honor Graduate of his flight school class and went on to become a Black Hawk instructor pilot in the 160th Special Operations Aviation Regiment.
 
@@ -381,15 +222,12 @@ Realizing how powerful these scientifically proven modalities were in aiding his
 
 Brandon is a man of faith and dedicated to serving the community. He prides himself in being direct, honest, efficient and a man of his word. Brandon lives in Nashville, TN with his wife, Chelsea, and his two daughters, Carson and Brittany.
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Brandon-Davis-300px.avif)
-
-### 
+###
 
 BOARD MEMBER​
 
-###### TREASURER
-
-###### Peter Oleksiak
+TREASURER
+Peter Oleksiak
 
 Peter Oleksiak is a financial executive with over thirty years of experience, fifteen of those years at the corporate officer level. Mr. Oleksiak previously held the position of Chief Financial Officer & Senior Vice President of DTE Energy Co, a Fortune 500 diversified energy company based in Michigan involved in the development and management of energy-related businesses and services nationwide.
 
@@ -397,15 +235,9 @@ He currently acts as an independent financial consultant to multiple for-profit 
 
 Mr. Oleksiak received an undergraduate degree from Wayne State University (Michigan) and an MBA from The Wharton School of the University of Pennsylvania.​
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Peter-Oleksiak-300px.avif)
 
-### 
-
-BOARD MEMBER​
-
-###### DIRECTOR OF PUBLIC RELATIONS
-
-###### Scott Mactavish
+DIRECTOR OF PUBLIC RELATIONS
+Scott Mactavish
 
 Scott Mactavish is an American filmmaker, author, and veteran. After serving in the U.S. Navy, he attended film school at New York University and began his career in New York City. Mactavish is best known for directing MURPH: The Protector, a critically acclaimed documentary about Navy SEAL LT Michael Patrick Murphy, a Medal of Honor recipient. The film was a contender for the Academy Award in four categories, including Best Feature Documentary.
 
@@ -413,15 +245,9 @@ In addition to MURPH, Mactavish wrote, produced, and directed Ride for Lance, a 
 
 Scott is also the author of The New Dad's Survival Guide, a bestselling book that has resonated with fathers worldwide. He continues to write and direct, with recent projects including Shattered Lives, a documentary exploring domestic terrorism, and Under the Trestle, a true crime documentary based on a national bestseller.
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/02/56_D-square-bw.jpg)
 
-### 
-
-BOARD MEMBER​
-
-###### SECRETARY
-
-###### Chelsea Davis
+SECRETARY
+Chelsea Davis
 
 Chelsea Davis is a Salesforce Senior Consultant, currently focused on optimizing Salesforce platforms for Government and Public Sector clients. With ten years of management experience, Chelsea is skilled in building high-performance teams, strategic problem solving, and project management. As a technology consultant, she excels at visualizing and communicating relationships between data, business processes, and technology to optimize user and customer experiences and improve overall operating performance.
 
@@ -431,15 +257,9 @@ Chelsea possesses a Masters in Human Resources Management from Georgetown Univer
 
 Chelsea lives in Nashville, TN with her husband, Brandon, two kids, Carson and Brittany, and two dogs, Harley and Groot.
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Chelsea-Davis-300px.avif)
 
-### 
-
-BOARD MEMBER​
-
-###### SPIRITUAL ADVISOR
-
-###### Colonel Emmitt Furner II
+SPIRITUAL ADVISOR
+Colonel Emmitt Furner II
 
 Chaplain (COL) Emmitt Maxwell Furner II, a native of Parkersburg, West Virginia, enlisted in the United States Marine Corps in 1990 and served four years as a Military Policeman. After completing his service obligation, Chaplain Furner attended West Virginia University and graduated as a Distinguished Military Graduate of the U.S. Army ROTC. Chaplain Furner was commissioned Infantry and assigned to 1st Battalion, 504th Parachute Infantry Regiment, 82nd Airborne Division, as a Rifle Platoon Leader, and Rifle Company Executive Officer. After completing his assignment as an Infantry Officer, Chaplain Furner answered his call to military ministry and earned a Masters of Arts in Religion and Master of Divinity from Liberty Theological Seminary in Lynchburg, Virginia and was subsequently assessed into the US Army Chaplain Corps. Chaplain Furner has also earned a Masters of Arts in Education from West Virginia University, a Masters of Military Art and Science from the U.S. Army Command and General Staff College, a Masters of Arts in Professional Counseling from Liberty University, and PhD from the University of Aberdeen in Scotland. Chaplain Furner is endorsed by the North American Mission Board of the Southern Baptist Convention.
 
@@ -451,15 +271,9 @@ Chaplain Furner’s awards and decorations include the Bronze Star Medal, the Me
 
 For God & Country … Living The Call!
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/EMMITT-FURNER-Headshot-black.avif)
 
-### 
-
-BOARD MEMBER​
-
-###### ATTORNEY
-
-###### Jerry Carleton
+ATTORNEY
+Jerry Carleton
 
 Jerry Carleton, founder and principal of Immix Law Group, is a corporate and securities attorney who counsels private emerging and growth-stage companies on corporate, finance, and securities issues. He focuses on pre-formation planning, entity formation, raising capital, securities compliance, corporate governance, mergers and acquisitions, leasing and contractual issues, and general day-to-day business advice. Jerry also has experience with non-profit structuring strategies, estate planning and intellectual property matters.
 
@@ -467,15 +281,9 @@ Jerry represents clients across a wide range of industries, including technology
 
 He adds value as a strategic business partner to entrepreneurs and is able to provide clients not only counseling on legal issues, but also advice from a business perspective. Jerry and his wife Heather have founded or co-founded fourteen companies in different industries to date, spanning durable medical equipment, SaaS, cryptocurrency mining, non-profit, private foundation, revenue capital, legal services and commercial real estate.
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Jerry-Carleton-300px.avif)
 
-### 
-
-BOARD MEMBER​
-
-###### BOARD MEMBER
-
-###### Brandon Shea
+BOARD MEMBER
+Brandon Shea
 
 Brandon Shea grew up in Nashville, TN, and attended Miami University in OH where he received his BA in Political Science in 1998 with minors in Economics and Management Information Systems. Following graduation, he worked with Habitat for Humanity International in GA helping coordinate volunteers with work sites across the country and serving as an international trip leader.
 
@@ -485,15 +293,8 @@ As a Defined Contribution Investment Consultant, Brandon’s worked with thousan
 
 Brandon and his wife (a gifted singer, songwriter, teacher and mom) live just north of Nashville, TN on Old Hickory Lake with their three children and are active volunteers in their community. They enjoy traveling and supporting their kids’ hockey & lacrosse games, jiu-jitsu classes and dance recitals. You can often find Brandon on the golf course, on the lake, out of the country on a mission trip to places like Haiti and Nepal or staying on top of his investment portfolio that includes real estate, private equity ventures and Brazilian Jiu-Jitsu gyms throughout Middle Tennessee.
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Brandon-Shae-300px.avif)
 
-### 
-
-BOARD MEMBER
-
-###### BOARD MEMBER
-
-###### Nick O’Kelly
+Nick O’Kelly
 
 Nick O’Kelly is originally from Western Washington, and now lives in Charlotte, NC. He attended Whitworth University in Spokane, WA prior to enlisting in the Army. Nick is married and has two beautiful children who are a daily blessing in his life. In his free time, he enjoys sports, being outdoors, working out, spending time with friends and family, and traveling.
 
@@ -503,31 +304,21 @@ In his later years of service, Nick O'Kelly confronted personal challenges with 
 
 Empowered by his recovery, Nick is now fervently dedicated to guiding both military and civilian members to recognize the strength in vulnerability. His mission is to foster a culture where reaching out for help is not only accepted but encouraged, illuminating the path of hope in the face of adversity. Nick advocates for the message that no individual should navigate the complexities of life's storms in solitude.
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Nick-Headshot.avif)
 
-### 
+Board of Advisors
 
-BOARD MEMBER
-
-###### Board of Advisors
-
-###### PSYCHOLOGIST
-
-###### David Rudd
+PSYCHOLOGIST
+David Rudd
 
 David Rudd, PH.D., ABPP is Distinguished Professor of Psychology and President Emeritus at the University of Memphis. He has an undergraduate degree from Princeton and an MA and Ph.D. from University of Texas-Austin. He previously served as provost and president at the University of Memphis from 2013-2022. He’s also served in various administrative and faculty roles at the University of Utah, Texas Tech, Texas A&M, and Baylor. He’s received over $30M in funding for his research addressing suicide risk assessment and treatment. He has over 250 publications and his work has been cited more than 18,000 times.
 
 A Gulf War era veteran, his work has focused on the unique aspects of risk in military service members and Veterans. He’s held leadership positions in a range of professional associations, including president of the American Association of Suicidology and the Texas Psychological Association, along with chairing the Texas Board of Examiners of Psychologists. His recent work has focused on digital therapeutics, with his work helping drive the development of a new company, Oui Therapeutics.
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/David-Rudd-300px.avif)
-
-### 
 
 BOARD OF ADVISORS
 
-###### TOXICOLOGIST
-
-###### David L. Black
+TOXICOLOGIST
+David L. Black
 
 David L. Black, Ph.D. – Dr. David L. Black earned his undergraduate degree from Loyola College/University in Baltimore and doctorate degree in Forensic Toxicology from the University of Maryland at Baltimore (1982). He is a retired Fellow of the American Board of Forensic Toxicology (F-ABFT) and American Institute of Chemists (FAIC). He joined Vanderbilt University in 1986 as Assistant Professor in Pathology and Pharmacology and is currently holds appointments in Pharmacology, Pathology, Microbiology and Immunology.
 
@@ -537,15 +328,9 @@ He is author of many peer reviewed published scientific papers. He is also Presi
 
 He lives in Gallatin, TN with his wife former US Congressman Diane Black (TN 6th District) and they have three children and six grandchildren.
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Dr_-Black-BLACK-AND-WHITE.avif)
 
-### 
-
-BOARD OF ADVISORS
-
-###### HUMAN PERFORMANCE PROFESSIONAL
-
-###### Greg Sahene Jr.
+HUMAN PERFORMANCE PROFESSIONAL
+Greg Sahene Jr.
 
 Originally from Pittsburgh, Greg worked at the White House as a Strength and Conditioning Specialist from 2006-2011. He’s worked with United States Secret Service elements, Executive office of the President personnel, White House Military Office, as well as former Presidents. As of 2011, Greg has worked for other government elements as Chief of Human Performance for tactical groups specializing in operator longevity. His work has brought him around the globe to numerous countries.
 
@@ -553,127 +338,35 @@ Greg attended Indiana University of Pennsylvania and graduated with a degree in 
 
 Greg is also an active board member for K9 Hurricanes Heroes, a federally recognized, non-profit organization that provides retired law enforcement and military dogs with subsidized veterinary care so they can live a long and healthy life.
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Greg-Headshot.avif)
 
-### 
+Success Stories - Ark Health Foundation (Formerly The Davis Focus Project)
 
-BOARD OF ADVISORS
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/logos-1024-x-1024-px.png)
-
-Empowering Veterans To Achieve Total Wellness
-
-## Useful Links
-
-## Subscribe Now
-
-Don’t miss our future updates! Get Subscribed Today!
-
-©2025. ARK Health Foundation. All Rights Reserved.
-
-[Designed by Konversly](https://konversly.com)
-
-
-
-
-
-
-Notifications
-
-[X](javascript: void(0);)
-
-1 : 00 AM
-
-Hour
-
-Minutes
-
-[AM](javascript: void(0);) [PM](javascript: void(0);)
-
-[1](javascript: void(0);) [2](javascript: void(0);) [3](javascript: void(0);) [4](javascript: void(0);) [5](javascript: void(0);) [6](javascript: void(0);) [7](javascript: void(0);) [8](javascript: void(0);) [9](javascript: void(0);) [10](javascript: void(0);) [11](javascript: void(0);) [12](javascript: void(0);)
-
-[00](javascript: void(0);) [05](javascript: void(0);) [10](javascript: void(0);) [15](javascript: void(0);) [20](javascript: void(0);) [25](javascript: void(0);) [30](javascript: void(0);) [35](javascript: void(0);) [40](javascript: void(0);) [45](javascript: void(0);) [50](javascript: void(0);) [55](javascript: void(0);)
-
-[SET](javascript: void(0);)
-
----
-
-[Skip to content](#content) 
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Logos.png)
-
-Donate
 
 ## Success stories
 
-###### Voices of Transformation
+Voices of Transformation
 
-Helping veterans heal from trauma and reach their highest potential through advanced human optimization programming, while simultaneously breaking barriers to care.
 
-###### ARMY HELICOPTER CREW CHIEF
+ARMY HELICOPTER CREW CHIEF
 
 ## KEVIN
 
-###### FORMER GREEN BARET
+FORMER GREEN BARET
 
 ## DREW
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/logos-1024-x-1024-px.png)
 
-Empowering Veterans To Achieve Total Wellness
+Resources - Ark Health Foundation (Formerly The Davis Focus Project)
 
-## Useful Links
-
-## Subscribe Now
-
-Don’t miss our future updates! Get Subscribed Today!
-
-©2025. ARK Health Foundation. All Rights Reserved.
-
-[Designed by Konversly](https://konversly.com)
-
-
-
-
-
-
-Notifications
-
-[X](javascript: void(0);)
-
-1 : 00 AM
-
-Hour
-
-Minutes
-
-[AM](javascript: void(0);) [PM](javascript: void(0);)
-
-[1](javascript: void(0);) [2](javascript: void(0);) [3](javascript: void(0);) [4](javascript: void(0);) [5](javascript: void(0);) [6](javascript: void(0);) [7](javascript: void(0);) [8](javascript: void(0);) [9](javascript: void(0);) [10](javascript: void(0);) [11](javascript: void(0);) [12](javascript: void(0);)
-
-[00](javascript: void(0);) [05](javascript: void(0);) [10](javascript: void(0);) [15](javascript: void(0);) [20](javascript: void(0);) [25](javascript: void(0);) [30](javascript: void(0);) [35](javascript: void(0);) [40](javascript: void(0);) [45](javascript: void(0);) [50](javascript: void(0);) [55](javascript: void(0);)
-
-[SET](javascript: void(0);)
-
----
-
-[Skip to content](#content) 
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Logos.png)
-
-Donate
 
 ## Resources
 
-## 
+##
 
 Resources for Human Performance
 
 Discover tools to enhance your well-being, including the Huberman Lab podcast, the Waking Up meditation app, and Non-Sleep Deep Rest (NSDR) protocols for recovery and focus.
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/4-1.png) 
-
-##
 
 ## Human Performance Podcasts
 
@@ -687,13 +380,6 @@ The Waking Up app is a mediation and mindfulness app created by Sam Harris. Sa
 
 - [The Waking Up app](https://wakingup.com/)
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/3-2.png) 
-
-##
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/5-1.png) 
-
-##
 
 ## Non-Sleep Deep Rest
 
@@ -702,53 +388,13 @@ Several Non-Sleep Deep Rest protocols are available on YouTube for free. We su
 - [20 minute NSDR](https://www.youtube.com/watch?v=pL02HRFk2vo)
 - [10 minute NSDR](https://www.youtube.com/watch?v=AKGrmY8OSHM)
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/logos-1024-x-1024-px.png)
 
-Empowering Veterans To Achieve Total Wellness
+Contact - Ark Health Foundation (Formerly The Davis Focus Project)
 
-## Useful Links
-
-## Subscribe Now
-
-Don’t miss our future updates! Get Subscribed Today!
-
-©2025. ARK Health Foundation. All Rights Reserved.
-
-[Designed by Konversly](https://konversly.com)
-
-
-
-
-
-Notifications
-
-[X](javascript: void(0);)
-
-1 : 00 AM
-
-Hour
-
-Minutes
-
-[AM](javascript: void(0);) [PM](javascript: void(0);)
-
-[1](javascript: void(0);) [2](javascript: void(0);) [3](javascript: void(0);) [4](javascript: void(0);) [5](javascript: void(0);) [6](javascript: void(0);) [7](javascript: void(0);) [8](javascript: void(0);) [9](javascript: void(0);) [10](javascript: void(0);) [11](javascript: void(0);) [12](javascript: void(0);)
-
-[00](javascript: void(0);) [05](javascript: void(0);) [10](javascript: void(0);) [15](javascript: void(0);) [20](javascript: void(0);) [25](javascript: void(0);) [30](javascript: void(0);) [35](javascript: void(0);) [40](javascript: void(0);) [45](javascript: void(0);) [50](javascript: void(0);) [55](javascript: void(0);)
-
-[SET](javascript: void(0);)
-
----
-
-[Skip to content](#content) 
-
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/Logos.png)
-
-Donate
 
 ## Contact Us
 
-###### We’re here to help and would love to hear from you! Whether you have questions about our programs, want to support our mission, or are looking to get involved, feel free to reach out. Here’s how you can connect with The Davis Focus Project:
+We’re here to help and would love to hear from you! Whether you have questions about our programs, want to support our mission, or are looking to get involved, feel free to reach out. Here’s how you can connect with The Davis Focus Project:
 
 ### [For partnership opportunities, program details, general inquiries:](mailto:yourmail@email.com)
 
@@ -760,39 +406,263 @@ support@thedavisfocusproject.com
 
 Be part of our mission to support veterans through powerful transformation.
 
-![](https://arkhealthfoundation.com/wp-content/uploads/2025/01/logos-1024-x-1024-px.png)
 
-Empowering Veterans To Achieve Total Wellness
-
-## Useful Links
-
-## Subscribe Now
-
-Don’t miss our future updates! Get Subscribed Today!
-
-©2025. ARK Health Foundation. All Rights Reserved.
-
-[Designed by Konversly](https://konversly.com)
+Horsepower For Heroes 25' | ARK Health Foundation
 
 
+[ARK Health Foundation](https://arkhealthfoundation.com)
+[Overview](https://givebutter.com/c/H4H25)
+[Auction](https://givebutter.com/c/H4H25/auction)
+Menu
+[Get support](https://givebutter.com/contact)
+[Start a campaign](https://givebutter.com/signup)
+[Sign In](https://givebutter.com/login?redirect_back=0)
+
+# Horsepower For Heroes 25'
+
+## By ARK Health Foundation
+
+- Details
+- Supporters
+
+Donate & Tickets
 
 
+Share
 
 
-Notifications
+Organized by [ARK Health Foundation](https://arkhealthfoundation.com)
 
-[X](javascript: void(0);)
 
-1 : 00 AM
+Event
 
-Hour
+NOV
+8
 
-Minutes
+Horsepower for Heroes 2025
 
-[AM](javascript: void(0);) [PM](javascript: void(0);)
+Saturday, November 8 @ 9 AM CST
 
-[1](javascript: void(0);) [2](javascript: void(0);) [3](javascript: void(0);) [4](javascript: void(0);) [5](javascript: void(0);) [6](javascript: void(0);) [7](javascript: void(0);) [8](javascript: void(0);) [9](javascript: void(0);) [10](javascript: void(0);) [11](javascript: void(0);) [12](javascript: void(0);)
+Add to Calendar
+2025-11-08 09:00:35
+2025-11-08 14:00:05
+America/Chicago
+<p>We are delighted to invite you to <em>Horsepower for Heroes</em>, a charity car show presented by the Harpeth Car Club. This event supports <em>ARK Health Foundation</em>, raising essential funds to help veterans overcoming TBI, PTSD, depression, and more. Enjoy exotic cars, live music, live and silent auctions, and more!</p>
+<p><br><br></p>
+5319 Leipers Creek Rd, Franklin, TN 37064, USA
 
-[00](javascript: void(0);) [05](javascript: void(0);) [10](javascript: void(0);) [15](javascript: void(0);) [20](javascript: void(0);) [25](javascript: void(0);) [30](javascript: void(0);) [35](javascript: void(0);) [40](javascript: void(0);) [45](javascript: void(0);) [50](javascript: void(0);) [55](javascript: void(0);)
+In Person
 
-[SET](javascript: void(0);)
+[5319 Leipers Creek Rd, Franklin, TN 37064, USA](https://www.google.com/maps/search/?api=1&query=5319+Leipers+Creek+Rd&query_place_id=ChIJKTx4qn2CZIgRs7H7dqU3vPA)
+
+
+[Website](https://arkhealthfoundation.com)
+
+ARK Health Foundation
+
+A 501(c)(3) Public Charity
+
+EIN 88-0693679
+
+[Support](https://givebutter.com/contact)
+[Privacy](https://givebutter.com/privacy)
+[Terms](https://givebutter.com/terms)
+
+© 2025 Givebutter, Inc. All rights reserved.
+
+[Powered by](https://givebutter.com)
+
+## Donation form
+
+
+- [Home](https://konversly.com/undefined)
+- [Packages](https://app.leadconnectorhq.com/v2/preview/PO5ZskUeP0tW5V4Wx2Wm#section-wljoXvyr0r)
+- [Services](https://app.leadconnectorhq.com/v2/preview/PO5ZskUeP0tW5V4Wx2Wm#section-OSf2GUKlCL)
+- [Testimonial](https://app.leadconnectorhq.com/v2/preview/PO5ZskUeP0tW5V4Wx2Wm#section-L6oQaZV5J-)
+- [Faq](https://app.leadconnectorhq.com/v2/preview/PO5ZskUeP0tW5V4Wx2Wm#section-gLTE0d-2Sz)
+- [Blogs](https://konversly.com/blog-3434)
+- [Contact Us](https://konversly.com/undefined)
+- [Tracking](https://konversly.com/sales-page-page-6572)
+- [Login](https://app.konversly.com)
+
+# Fueling Ecommerce Growth With Performance Marketing That Scales
+
+Your brand does not need more tools. - It needs predictable traffic, higher conversion rates, and systems that turn ad spend into revenue.
+
+[Get Started Now](https://konversly.com/booking-page)[See How It Works](https://konversly.com/booking-page)
+
+We help emegin ecommerce brands and digital creators scale using paid ads, proven funnels, and backend systems that grow sales without guesswork.
+
+## GROWTH
+
+### What Actually Drives Ecommerce Revenue
+
+## Paid Traffic That Converts
+
+We manage Meta, TikTok, and Google Ads with a focus on ROAS, not vanity metrics.
+
+## High-Converting Funnels & Product Pages
+
+From PDP optimization to webinar funnels, we build conversion paths that turn clicks into customers.
+
+## Creative Testing Systems
+
+We continuously test ad creatives, hooks, and offers to unlock scale without burning budget.
+
+## Email & SMS Revenue Systems
+
+Recover abandoned carts, increase repeat purchases, and extend customer lifetime value.
+
+## Analytics & Performance Tracking
+
+Clear reporting focused on orders, revenue, and profitability so you always know what is working.
+
+## Backend Automation
+
+Order flows, follow-ups, and post-purchase systems that remove friction and increase efficiency.
+
+## Solutions
+
+## Built for Brands That Are Ready To Scale
+
+We work with businesses that already have traction and want to scale responsibly.
+
+Who We Work With
+
+- Ecommerce brands selling physical products
+- Shopify, TikTok Shop, and WooCommerce stores
+- Digital creators selling courses, memberships, or webinars
+- Brands ready to invest in growth, not experimentation
+
+
+- Early-stage ideas with no sales
+- SaaS startups looking for product development
+- DIY marketers looking for software tools
+- Our focus is simple: turn paid traffic into predictable revenue.
+
+### A Proven Growth System, Not Guesswork
+
+Launch FastWe audit your existing store or funnel and deploy proven systems quickly.
+
+Optimize ContinuouslyAds, creatives, funnels, and follow-up flows are refined weekly based on performance.
+
+Scale With ConfidenceOnce conversion metrics are solid, we scale spend while protecting margins.
+
+## Pricing Plan
+
+# Choose a Plan That Suits Your Needs
+
+## Growth Audit
+
+## Custom Quote
+
+- Funnel and ad performance review
+- Clear scale roadmap
+- Actionable recommendations
+
+[Get Started](https://konversly.com/booking-page)Growth Partner
+
+## Monthly Engagement
+
+- Paid ads management
+- Funnel and conversion optimization
+- Email and SMS systems
+- Weekly performance reviews
+
+[Get Started](https://konversly.com/booking-page)
+
+## Scale Partner
+
+## Custom Engagement
+
+- Multi-channel ad scaling
+- Creative testing frameworks
+- Advanced backend automation
+- Dedicated strategy support
+
+
+## Services
+
+Performance Marketing for Ecommerce & Digital Products
+
+We don't sell software plans. We partner with brands to drive real growth through performance marketing and proven systems.
+
+Paid Ads Management
+
+Meta, TikTok, and Google Ads built to drive purchases and registrations with measurable ROAS.
+
+Ecommerce Funnel Optimization
+
+Product pages, checkout flows, and upsell systems designed to increase average order value.
+
+Webinar & Digital Product Funnels
+
+Lead generation, pre-selling, and conversion systems for creators and educators.
+
+Email & SMS Revenue Systems
+
+Lifecycle marketing that maximizes every visitor and customer through strategic messaging.
+
+## TESTIMONIALS
+
+# Hear From Brands We've Helped Scale
+
+"Working with Konversly completely changed how we approach paid traffic. We finally have clarity on what's working and confidence when scaling ad spend."
+
+## Sophia Reynolds
+
+"We had sales coming in, but growth was inconsistent. Konversly helped us build systems that made revenue predictable."
+
+## James Carter
+
+"This wasn't just ads management. It was a full growth strategy that connected everything together."
+
+## Emily Harper
+
+## Frequently Asked Questions
+
+# Frequently Asked Questions
+
+Do you work with new brands?
+
+We work best with brands that already have sales and want to scale responsibly.
+
+What platforms do you support?
+
+Meta Ads, TikTok Ads, Google Ads, Shopify, and webinar funnels for comprehensive growth.
+
+Do you offer one-time services?
+
+Most engagements are ongoing so we can optimize and scale properly over time.
+
+Is this a good fit for digital creators?
+
+Yes, especially for courses, memberships, and webinar-based offers that need performance marketing.
+
+How long before we see results?
+
+Most brands see meaningful data within the first 30 days, with scaling following optimization.
+
+Do you replace our internal team?
+
+No. We complement your team or act as your performance arm to drive growth.
+
+# Ready to Scale Your Revenue?
+
+If you're already selling and want predictable growth, let's talk. No fluff. No bloated tech. Just systems that turn traffic into revenue.
+
+
+Empowering businesses with innovative ecommerce solutions, we are committed to providing seamless platform intelligence and fostering growth. Connect with us for a brighter, smarter future!
+
+## Quick Links
+
+HomeAbout UsPackagesTestimonialsFAQContact
+
+
+Konverslyinfo@konversly.com
+
+## Legal
+
+[Privacy Policy](https:///privacy-policy/)[Terms & Conditions](https:///terms-and-conditions/)
+
+© Konversly 2025 All Rights Reserved.

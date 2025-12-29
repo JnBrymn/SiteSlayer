@@ -1,0 +1,32 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Tony & Kacey Atwell <info@bigthunderevents.com>
+SUBJECT: A Simple Way to Help Big Thunder Guests Get Answers Instantly
+
+-----------------------------------------
+
+Hi Tony & Kacey,
+
+I love how Big Thunder Events takes the stress out of parties and delivers so much hands-on support—your site makes it clear you really want every event to go off without a hitch.
+
+I’m Zac from SlayDigital.ai. We build simple, custom AI chat agents that live right on your website, helping visitors instantly get answers using your existing content—no extra “AI lingo” or tech know-how required.
+
+To show what this looks like, I prepared a quick demo using your own site:  
+https://slaydigital.fly.dev/site/www_bigthunderevents_com
+
+Just click the chat icon in the bottom-right corner, and a chat box will open. Type any question and the agent will answer using info already live on your site.
+
+You can try asking things like:
+- How do I book a bounce house for my school’s field day?
+- What areas do you deliver to—and is there a travel fee?
+- What’s included with mechanical ride rentals? Is staffing provided?
+- Do you offer discounts for churches or nonprofits?
+- What’s your rain and cancellation policy?
+
+We keep things straightforward, making it easy for your customers to get clear, up-to-date answers—and for your team to spend less time on those repetitive questions.
+
+If this looks helpful, I’d be glad to chat about making it fit your business.  
+Let me know what you think!
+
+Best,  
+Zac Slay  
+SlayDigital.ai

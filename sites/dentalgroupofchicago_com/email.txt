@@ -1,0 +1,27 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dental Group of Chicago <dentalgroupofchicago@gmail.com>
+SUBJECT: Make Dental Info Easier for Your Patients—Try This Quick Demo
+
+--------------------------------------------------
+
+Hi Dental Group of Chicago team,
+
+I’m always impressed by your patient-focused approach and how clearly you break down your services, from dental implants to emergency care. I noticed that your site covers a lot of ground, which is fantastic—but it can make it tricky for visitors to quickly find answers about treatment options, insurance, or booking.
+
+At SlayDigital.ai, we help practices like yours make website info instantly accessible with custom AI web agents. These simple, friendly chat tools live right on your site and can answer patient questions using your existing content—no software hassle or tech talk involved.
+
+I put together a quick demo using your site’s actual info: https://slaydigital.fly.dev/site/dentalgroupofchicago_com  
+Just click the chat icon at the bottom-right to open it, then type in a question—no setup needed.
+
+You can try asking things like:
+- What dental insurances do you accept?
+- How much does a dental implant cost, and what’s the process?
+- Do you offer Invisalign? Is it covered by insurance?
+- What should I bring for my first visit?
+- How do I book a Saturday appointment or an emergency visit?
+
+If making it easier for patients to get answers with less staff effort sounds helpful, I’d love your thoughts after you try the demo.
+
+Best,  
+Zac  
+Founder, SlayDigital.ai

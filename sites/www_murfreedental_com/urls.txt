@@ -3,12 +3,13 @@ https://www.murfreedental.com/about-us/
 https://www.murfreedental.com/services/
 https://www.murfreedental.com/contact/
 https://www.murfreedental.com/patient-resources/
-https://www.murfreedental.com/patient-forms/
 https://www.murfreedental.com/about-us/meet-our-doctor/
 https://www.murfreedental.com/about-us/meet-our-team/
 https://www.murfreedental.com/services/restorative-dentistry/dental-implants/
-https://www.murfreedental.com/services/cosmetic-dentistry/
-https://www.murfreedental.com/services/dental-technology/
-https://www.murfreedental.com/services/sedation-dentistry/
+https://www.murfreedental.com/services/cosmetic-dentistry/invisalign/
+https://www.murfreedental.com/services/dental-technology/laser-dentistry/
+https://www.murfreedental.com/services/restorative-dentistry/dental-crowns/
 https://www.murfreedental.com/patient-resources/reviews/
+https://www.murfreedental.com/patient-resources/gallery/
 https://www.murfreedental.com/patient-resources/financial-options/
+https://www.murfreedental.com/patient-forms/

@@ -1,24 +1,25 @@
 FROM: Zac Slay <zac@slaydigital.ai>
-TO: Lori | Patient Care Coordinator <lori@dentistryofnashville.com>
-SUBJECT: Helping Patients Get Quick Answers at Dentistry of Nashville
+TO: Dentistry of Nashville <lori@dentistryofnashville.com>
+SUBJECT: A Simple Way to Help Your Patients Get Answers Instantly
 
-Hi Lori,
+-----------------------------------------
 
-I’ve been reading through Dentistry of Nashville’s website and really appreciate how you put empathy and clarity first for every patient. It’s clear your team does a great job welcoming new and returning families into the practice.
+Hi Dentistry of Nashville Team,
 
-At SlayDigital.ai, we help practices like yours make it even easier for patients to get answers by adding a simple, custom AI chat agent directly to your website. It responds to common questions using only the information that’s already there—no jargon, just straightforward help for your visitors.
+I love how your practice blends tradition with leading-edge technology—making every patient feel at home while offering advanced dental solutions. I’m Zac, founder of SlayDigital.ai, and I build simple, custom AI chat agents that help patients find clear answers on your website, 24/7.
 
-We put together a quick mock of your site with a working agent: https://slaydigital.fly.dev/site/dentistryofnashville_com. Just click the chat icon in the bottom-right corner and type in your question to see how it works.
+I’ve put together a quick demo using your own website content: https://slaydigital.fly.dev/site/dentistryofnashville_com. Just click the chat icon in the bottom-right corner, type any question in the box, and the agent will answer using info directly from your site.
 
 You can try asking things like:
-- What dental services do you offer?
-- How does your same-day crown technology work?
-- Who are your dentists, and what are their backgrounds?
-- What are your office hours and location?
-- How can I book an appointment?
+- What should I do if I have a dental emergency?
+- Do you accept my insurance or offer an in-office savings plan?
+- How does CEREC same-day crown technology work?
+- What cosmetic dentistry options are available?
+- Are clear aligners a good fit for adults?
 
-I’d love to hear if this could help cut down on repetitive emails and make things easier for both your team and your patients. No pressure—just let me know if you’d like to learn more.
+This helps visitors get answers fast—reducing repetitive calls and making it even easier for new and returning patients to understand your offerings.
+
+If this looks useful, I’d be happy to chat about making it live on your site or tailor it further for your team’s needs. No pressure—just let me know if you’re interested!
 
 Warm regards,  
-Zac  
-SlayDigital.ai
+Zac

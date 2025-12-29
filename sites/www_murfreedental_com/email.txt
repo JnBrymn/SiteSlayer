@@ -1,25 +1,25 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: Dr. John Murfree <info@murfreedental.com>
-SUBJECT: Helping Patients Find Answers (and Appointments) Faster at Murfree Dental
+SUBJECT: Helping New Patients Get Answers Fast on Murfree Dental’s Website
+
 -----------------------------------------
 Hi Dr. Murfree,
 
-I was impressed by how Murfree Dental blends advanced technology with a personalized, friendly approach. Your “family-based” focus and thorough explanations set you apart.
+I enjoyed seeing how Murfree Dental combines advanced technology with such a warm, welcoming approach for families in Murfreesboro. Your team’s commitment to clear patient communication really stood out.
 
-I’m Zac from SlayDigital.ai. We help practices like yours make website information even easier for patients with custom AI chat agents—simple, helpful tools that answer questions using your own site’s content, right on your website.
+I’m Zac from SlayDigital.ai. We help practices like yours make it even easier for patients to get answers by adding a simple, friendly AI web agent directly to your site—no jargon, just useful help based on your own content.
 
-I made a quick demo with your content here: https://slaydigital.fly.dev/site/www_murfreedental_com — you’ll see a chat icon in the lower right corner. Clicking it opens a box where you can type any question, and it replies based on details already on your site.
+I put together a quick demo using a mock version of your website: https://slaydigital.fly.dev/site/www_murfreedental_com. Just click the chat icon in the bottom-right corner and type a question; the agent responds instantly using details already on your site.
 
-For example, you can try asking things like:
-- “What insurance plans do you accept or what financial options are available?”
-- “How do I request an appointment or fill out new patient forms?”
-- “What sedation options do you offer for anxious patients?”
-- “Do you offer dental implants or Invisalign, and how do I know if I qualify?”
-- “What are your office hours and which days are you open?”
+You can try asking things like:
+- What dental insurance or payment plans do you accept?
+- How do I schedule a first appointment, and what forms do I need?
+- Do you offer sedation options for patients with dental anxiety?
+- What is your process for dental implants or Invisalign?
+- What should I do if I need emergency dental care outside of office hours?
 
-Our approach is all about clarity—answering the repeat questions fast, helping new and nervous patients feel more at home, and freeing your team to focus on care.
-
-Would you be open to a quick call to see if this could save your team time or improve your patients’ online experience?
+I’d be glad to hear any feedback and answer questions if you’re interested in making website communication even easier for your patients—no pressure at all.
 
 Warm regards,  
-Zac
+Zac  
+SlayDigital.ai

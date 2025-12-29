@@ -1,25 +1,27 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: Brandon Davis <support@thedavisfocusproject.com>
-SUBJECT: Helping Veterans Explore Your Program—See a Demo for ARK Health Foundation
+SUBJECT: Help Veterans Get Answers Faster on the Ark Health Foundation Website
 
 -----------------------------------------
 
 Hi Brandon,
 
-I’m genuinely inspired by the mission of ARK Health Foundation—your clear focus on breaking barriers to care and supporting veterans’ total wellness stands out.
+I’m truly inspired by Ark Health Foundation’s mission and the science-backed programs you offer for veterans. The depth of care and clarity your site provides is impressive—and I’d love to help make it even easier for veterans and families to find the information they need.
 
-I lead SlayDigital.ai, where we build simple, custom AI agents that live on your website and instantly answer visitor questions, using only your site’s content. This helps organizations like yours provide quick clarity without adding complexity.
+I’m Zac, founder of SlayDigital.ai. We build simple, custom AI chat agents that live right on your website, making it easy for visitors to get instant answers based on your existing content. It’s a straightforward way to reduce repetitive questions and help more people take confident next steps—with no extra complexity for your team.
 
-I’ve set up a quick demo based on your own site: https://slaydigital.fly.dev/site/arkhealthfoundation_com. There’s a chat icon in the lower-right corner—just click to open it and ask anything you’d normally get via email or contact forms.
+I put together a demo using your site content: https://slaydigital.fly.dev/site/arkhealthfoundation_com. Just click the chat icon in the bottom-right corner and ask a question; the agent replies instantly using publicly available information from your website.
 
 You can try asking things like:
-- How does the ARK program help with PTSD or TBI?
-- What advanced diagnostics and therapies do you offer?
-- How can I get involved or support your mission?
-- Are there real-life success stories from veterans?
-- What steps are involved in joining the program?
+- What types of therapies and diagnostics are used in your program?
+- How can veterans or Gold Star families get started?
+- When and where is the next Horsepower for Heroes event?
+- Are there any costs involved for participants?
+- How does your approach differ from traditional trauma recovery programs?
 
-Would love your feedback or thoughts—happy to answer any questions, or set this up for you if it’s useful.
+If this would help you serve more veterans—or simply make life easier for your team—I’d be happy to connect or answer any questions. No pressure at all.
 
-Best,  
+Thank you for what you do,
 Zac
+
+SlayDigital.ai

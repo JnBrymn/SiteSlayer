@@ -1,26 +1,28 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: Dr. Steven Hernandez <info@lifetimedentistrytn.com>
-SUBJECT: Helping Patients Find the Right Info—A Simple Chat Agent for Lifetime Dentistry
+SUBJECT: Helping Patients Get Fast Answers On Your Site—See Our Live Demo
 
 -----------------------------------------
 
 Hi Dr. Hernandez,
 
-I love how Lifetime Dentistry focuses on restoring confidence and comfort for patients—your commitment to personalized, advanced dental care really comes through.
+I’m continually impressed by Lifetime Dentistry’s focus on personal, patient-centered care and your commitment to advanced technology. I wanted to share a simple way to make it even easier for your current and future patients to get answers right on your website—without any extra work for your team.
 
-I’m Zac, founder of SlayDigital.ai. We build simple web chat agents that let your site visitors ask questions and get instant answers—using only the information already on your own website. It’s a helpful way to handle common questions, reduce calls, and help patients quickly understand your offerings.
+At SlayDigital.ai, we build custom AI web agents that let visitors chat directly with your website’s information (no jargon or complex setup). I created a quick demo using your site here: https://slaydigital.fly.dev/site/lifetimedentistrytn_com
 
-I’ve created a quick demo using a mock version of your site: https://slaydigital.fly.dev/site/lifetimedentistrytn_com  
-Just click the chat icon in the bottom-right to open the chat box, then try typing your questions. The agent pulls answers from your actual site content.
+Just look for the chat icon in the lower-right corner, click it, and type your questions to see instant, site-based responses.
 
-Here are some questions your own patients might try:
-- What dental insurance plans do you accept?
-- How soon can I schedule a new patient appointment?
-- What’s the difference between implants and dentures?
-- Do you offer same-day crowns with CEREC?
-- What should I expect at my first visit?
+You can try asking things like:
+- Are you accepting new patients, and what can I expect at my first visit?
+- What insurance plans do you accept, and do you offer payment options?
+- How do dental implants compare to bridges or dentures?
+- What is the process and cost for clear aligner treatment?
+- Can I schedule a same-day cleaning or emergency appointment?
 
-If you’d like to see how a tool like this could make your patient experience even smoother, just reply—I’d be happy to chat further or set up a custom version for Lifetime Dentistry.
+This kind of tool can reduce repetitive questions and help more visitors understand their options—while keeping your warm approach front and center.
 
-Warm regards,  
+If you’re curious how this could work for Lifetime Dentistry or want to customize answers further, just reply—I’m happy to help and there’s zero pressure.
+
+Wishing you and your team continued success,
+
 Zac

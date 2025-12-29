@@ -9,6 +9,7 @@ from playwright.async_api import TimeoutError as PlaywrightTimeoutError
 from playwright._impl._errors import Error as PlaywrightError
 from utils.logger import setup_logger
 from utils.fetch import get_browser_instance
+from utils.markdown_utils import clean_soup
 from config import USER_AGENT, sanitize_domain
 
 logger = setup_logger(__name__)
@@ -72,15 +73,32 @@ async def harvest_html(url, config):
             # Don't re-raise - we'll try to get whatever content is available
         
         # Get the rendered HTML (even if timeout occurred)
-        try:
-            html_content = await page.content()
-            if timeout_occurred:
-                logger.warning(f"Retrieved partial HTML content: {len(html_content)} characters (timeout occurred)")
-            else:
-                logger.debug(f"Retrieved HTML content: {len(html_content)} characters")
-        except Exception as e:
-            logger.error(f"Failed to retrieve HTML content even after timeout: {str(e)}", exc_info=True)
-            raise  # If we can't even get the content, that's a real failure
+        # Retry logic to handle pages that are still navigating
+        html_content = None
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                # Wait a bit for page to settle (especially important for dynamic pages like Google Maps)
+                if attempt > 0:
+                    await page.wait_for_timeout(500)  # Wait 500ms between retries
+                html_content = await page.content()
+                if timeout_occurred:
+                    logger.warning(f"Retrieved partial HTML content: {len(html_content)} characters (timeout occurred)")
+                else:
+                    logger.debug(f"Retrieved HTML content: {len(html_content)} characters")
+                break  # Success, exit retry loop
+            except Exception as e:
+                error_msg = str(e)
+                if "Unable to retrieve content because the page is navigating" in error_msg:
+                    if attempt < max_retries - 1:
+                        logger.debug(f"Page still navigating, retrying ({attempt + 1}/{max_retries})...")
+                        continue
+                    else:
+                        logger.error(f"Failed to retrieve HTML content after {max_retries} attempts: {error_msg}")
+                        raise
+                else:
+                    logger.error(f"Failed to retrieve HTML content: {error_msg}", exc_info=True)
+                    raise  # If we can't even get the content, that's a real failure
         
     except PlaywrightError as e:
         error_msg = str(e)
@@ -111,6 +129,7 @@ async def harvest_html(url, config):
     
     # Parse and rewrite URLs
     soup = BeautifulSoup(html_content, 'lxml')
+    clean_soup(soup)
     rewritten_html = rewrite_urls(soup, url)
     
     # Save to file

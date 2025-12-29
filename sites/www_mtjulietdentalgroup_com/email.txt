@@ -1,30 +1,28 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: Mt Juliet Dental Group <info@mtjulietdentalgroup.com>
-SUBJECT: Make it easier for patients to get the answers they need
+SUBJECT: Helping Your Patients Find Quick Answers on Your Website
 
 -----------------------------------------
+
 Hi Mt Juliet Dental Group team,
 
-Your focus on friendly, individualized care really shines throughout your website. I noticed how many patient questions you answer directly—whether about services, payment options, or what to expect on a first visit.
+I’m reaching out because I love how clearly you explain your services and prioritize patient wellness—from the $59 new patient special to your focus on the Mouth-Body Connection®. As someone who’s spent time on dental sites, I know patients often have repeat questions, even when the info is right there.
 
-I’m Zac, founder of SlayDigital.ai. We help practices like yours make it even easier for patients to find answers by adding a simple AI web agent—one that lets visitors chat directly with your site and get clear, helpful responses from your own content.
+At SlayDigital.ai, we build simple, custom AI chat agents that embed on your website and help visitors instantly find answers—using the details you’ve already shared online. No jargon, just clear and direct help for your patients.
 
-To show you how this works, I set up a demo using your website:  
-https://slaydigital.fly.dev/site/www_mtjulietdentalgroup_com
-
-Using the chat icon at the bottom right, anyone can click, open the box, and type a question—no technical know-how needed. The agent responds with information already available on your site.
+I’ve put together a quick mock of your site with a working agent you can try:  
+https://slaydigital.fly.dev/site/www_mtjulietdentalgroup_com  
+Click the chat icon in the bottom-right to open the box and ask a question; the agent will reply using your site’s content.
 
 You can try asking things like:
-- What insurance plans do you accept?
-- How do I use Smile Generation MyChart for billing or forms?
-- Do you offer same-day or emergency appointments?
-- What’s included in the $59 New Patient Special?
-- What should I bring to my first visit?
+- What does the $59 new patient special include?
+- Do you accept Delta Dental insurance?
+- How do I pay my bill or access the patient portal?
+- What is the OralFitnessCheck and how do I schedule it?
+- What are your emergency dental hours?
 
-This tool helps your team cut down on repetitive calls and emails, while giving patients the quick, friendly answers they expect from you.
+If you’d like to see how this could help reduce calls and make the patient experience even smoother, just reply to this note—no pressure! Happy to chat if you have questions or want to see more.
 
-If you’re interested in learning more or have questions, just let me know—I’m happy to chat about how this could fit your process.
-
-Wishing you a great week,
-Zac Slay  
-SlayDigital.ai
+Best,
+Zac  
+Founder, SlayDigital.ai

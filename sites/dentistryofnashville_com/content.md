@@ -1,32 +1,53 @@
+Best Dentist In Nashville | Dentistry Of Nashville
+
+- [About Us](https://dentistryofnashville.com/about-us/)
+- [Meet the Team](https://dentistryofnashville.com/about-us/meet-the-team/)
+- [Our Office](https://dentistryofnashville.com/about-us/our-office/)
+- [Our Technology](https://dentistryofnashville.com/about-us/technology/)
+- [Before & After](https://dentistryofnashville.com/about-us/before-after/)
+- [Services](https://dentistryofnashville.com/our-services/)
+- [Dental Implants](https://dentistryofnashville.com/our-services/dental-implants/)
+- [Crown & Bridge + Same Day Dentistry](https://dentistryofnashville.com/our-services/crown-bridge-same-day-dentistry/)
+- [General Dentistry](https://dentistryofnashville.com/our-services/general-dentistry/)
+- [Periodontal Services](https://dentistryofnashville.com/our-services/periodontal-services/)
+- [Restorative Dentistry](https://dentistryofnashville.com/our-services/restorative-dentistry/)
+- [Cosmetic Dentistry](https://dentistryofnashville.com/our-services/cosmetic-dentistry/)
+- [TMD Treatment](https://dentistryofnashville.com/our-services/tmd-treatment/)
+- [Clear Aligners](https://dentistryofnashville.com/clear-aligners/)
+- [Reviews](https://dentistryofnashville.com/reviews/)
+- [Patient Resources](https://dentistryofnashville.com/patient-resources/)
+- [Payment & Insurance](https://dentistryofnashville.com/patient-resources/payment-insurance/)
+- [FAQs](https://dentistryofnashville.com/patient-resources/faqs/)
+- [Accessibility](https://dentistryofnashville.com/patient-resources/accessibility-statement/)
+- [Privacy](https://dentistryofnashville.com/patient-resources/privacy/)
+- [Refer a Friend](https://dentistryofnashville.com/patient-resources/refer-a-friend/)
+- [Contact Us](https://dentistryofnashville.com/contact-us/)
+- [Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/)
+- [Blog](https://dentistryofnashville.com/blog/)
+615-383-3690[person_addRefer Friends](https://dentistryofnashville.com/patient-resources/refer-a-friend/)[Request Appointment](https://dentistryofnashville.com/contact-us/appointment-request/)
+
+CallRequest Appointmentperson_addRefer Friends
+
 #
 
-[](https://dentistryofnashville.com/wp-content/uploads/2025/02/Hero-Video_Dentistry-of-Nashville_2020_1-4.webm)
-
 # A Nashville Tradition of Excellence Since 1919
 
 A family-oriented practice guided by empathy and integrity
 
 [Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
 
-# A Nashville Tradition of Excellence Since 1919
 
-A family-oriented practice guided by empathy and integrity
-
-[Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
-
-## 
+##
 
 ## A Nashville Tradition of Excellence Since 1919
 
-A family-oriented practice guided by empathy and integrity
 
 Watch Video
 
-[Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
 
 ## What Makes Us Different
 
-### 1
+###
 
 ### Family-Friendly Experience
 
@@ -34,7 +55,6 @@ You’ll never feel like a stranger here. That’s because our team has served g
 
 [Learn More](https://dentistryofnashville.com/about-us/meet-the-team#meet-family "About Us")
 
-### 2
 
 ### Committed to Excellence
 
@@ -42,7 +62,6 @@ We are committed to excellence in every aspect of your visit. Whether it’s you
 
 [Learn More](https://dentistryofnashville.com/about-us/ "Meet the Team")
 
-### 3
 
 ### Advanced Technology
 
@@ -56,71 +75,37 @@ In 1919, Dr. Bob Elam’s grandfather established the practice with the high sta
 
 [Meet Our Doctors](https://dentistryofnashville.com/about-us/meet-the-team/ "Meet the Team")
 
-![2-01_Office_Dentistry of Nashville_Dr. Elam, Dr. Vaughan, Dr. Fleming](https://dentistryofnashville.com/wp-content/uploads/2021/01/2-01_Office_Dentistry-of-Nashville_Dr.-Elam-Dr.-Vaughan-Dr.-Fleming-768x480.jpg)
-
-## Keeping Nashville Smiling Since 1919
 
 In 1919 Dr. Bob Elam’s grandfather established the practice with the high standards and patient-focused approach that continues to this day. Dr. James Fleming, Dr. Michael Vaughan, and Dr. Megan Chavana were entrusted with the dental practice of Dr. Roy Elam, Bob’s father. The ideals of genuine concern for people and quality dental care established by the previous generation, which we share and maintain today, are the foundation for our approach to the practice of dentistry. We’re proud to hold the torch as the oldest dental practice in Nashville, Tennessee.
 
-[Meet Our Doctors](https://dentistryofnashville.com/about-us/meet-the-team/ "Meet the Team")
 
 ## What We’re Known For
 
-[![Cosmetic Dentistry Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_cosmetic-dentistry.svg)](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Cosmetic Dentistry")
-
-[### Cosmetic Dentistry](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Cosmetic Dentistry")
-
-[Learn More](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Cosmetic Dentistry")
-
-[![Dental Implants Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_implant-dentistry.svg)](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")
-
-[### Dental Implants](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")
-
-[Learn More](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")
-
-[![Periodontal Services Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_periodontal-care.svg)](https://dentistryofnashville.com/our-services/periodontal-services/ "Periodontal Services")
-
-[### Periodontal Services](https://dentistryofnashville.com/our-services/periodontal-services/ "Periodontal Services")
-
-[Learn More](https://dentistryofnashville.com/our-services/periodontal-services/ "Periodontal Services")
-
-[Explore Services](https://dentistryofnashville.com/our-services/ "Services")
+[### Cosmetic Dentistry](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Cosmetic Dentistry")[Learn More](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Cosmetic Dentistry")[### Dental Implants](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")[Learn More](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")[### Periodontal Services](https://dentistryofnashville.com/our-services/periodontal-services/ "Periodontal Services")[Learn More](https://dentistryofnashville.com/our-services/periodontal-services/ "Periodontal Services")[Explore Services](https://dentistryofnashville.com/our-services/ "Services")
 
 ## What Our Patients Are Saying
 
-First time at Dentristy of Nashville and it was wonderful. They were so educational and they taught me more than any other my other dentist. Dr. Elam really cares about his patients.
+Love Dr. Vaughan. I no longer live in Nashville and Dentistry of Nashville is one of the things I miss the most. Great location, great dentists, great staff and super fun atmosphere. Not too many people can say that about there dentist office now can they.
 
-[![Google Logo](https://dentistryofnashville.com/wp-content/plugins/wp-google-places-review-slider/public/partials/imgs/google_small_icon.png)](https://maps.google.com/?cid=8237350097585149142)
+Misty Bader
 
-![Emily Sandhaus Avatar](https://lh5.googleusercontent.com/-wwvoZmxicBU/AAAAAAAAAAI/AAAAAAAAAI0/DvLp2n9OYtw/s128-c0x00000000-cc-rp-mo/photo.jpg?sz=100) Emily Sandhaus
+Always receive prompt, friendly, Professional care from Bob and Jevona. I have been going Bob for 30 years. The new on-lay technology (kind of a crown) got me in and out with-in an hour. No temporary step and double visit necessary.
+Over-all, This company offers great value, in a comfortable atmosphere.
 
-I love this office. I've never had a dental office and staff including my hygienist and dentist to treat me as well as I am treated. I feel kind of special when I come to the office. Thanks to everyone.
+Rick Stoll
 
-[![Google Logo](https://dentistryofnashville.com/wp-content/plugins/wp-google-places-review-slider/public/partials/imgs/google_small_icon.png)](https://maps.google.com/?cid=8237350097585149142)
+Dentistry of Nashville is the BEST! I have been with Dr. Fleming and their Hygienist, Jevonna, for nearly 15 years and really trust their skill and their guidance. The atmosphere is friendly and welcoming. They definitely go out of their way to make visiting the dentist as pleasant and painless as possible.
 
-![Stephenia Gooch Avatar](https://lh6.googleusercontent.com/-ErhmZCt2lfA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rexgAt1oJ6Go0WbJ4s2oxUx0rbjCQ/s128-c0x00000000-cc-rp-mo/photo.jpg?sz=100) Stephenia Gooch
-
-Dr. Fleming did my veneers and my husbands bridge before our wedding and they looked amazing for our pictures. Not to mention I'm his assistant and I feel he has the best chair side manner by far. You too should see my favorite dentist and he is very entertaining as a bonus. See ya soon.
-
-[![Google Logo](https://dentistryofnashville.com/wp-content/plugins/wp-google-places-review-slider/public/partials/imgs/google_small_icon.png)](https://maps.google.com/?cid=8237350097585149142)
-
-![Missi Davis Avatar](https://lh6.googleusercontent.com/-9z0aOhwSt8k/AAAAAAAAAAI/AAAAAAAAAgo/oYu5yFcoG7k/s128-c0x00000000-cc-rp-mo/photo.jpg?sz=100) Missi Davis
-
-[More Reviews](https://dentistryofnashville.com/reviews/ "Meet the Team")
-
-![2020_TopDentists_Dr. Michael Vaughan, Dr. James Fleming, Dr. Megan Chavana](https://dentistryofnashville.com/wp-content/uploads/2020/09/2020_TopDentists_JamesFleming_DBarnhart-3-768x512.jpg)
+Elaine Roberts [More Reviews](https://dentistryofnashville.com/reviews/ "Meet the Team")
 
 ## Meet Your Dental Family
 
 [Get to Know Us](https://dentistryofnashville.com/about-us/meet-the-team/ "Meet the Team")
 
-![](https://dentistryofnashville.com/wp-content/uploads/2024/05/better-tech-768x512.jpg)
-
 ## Better Technology, Better Results
 
 At our practice, we go to great lengths to provide comfortable and effective dental care. To help achieve this, our team is equipped with some of the most innovative technology available in dentistry.
 
-[Learn More](https://dentistryofnashville.com/about-us/technology/ "Technology")
 
 ### Tour Our Office Before You Visit
 
@@ -132,40 +117,65 @@ At our practice, we go to great lengths to provide comfortable and effective den
 
 [Get Directions](https://www.google.com/maps/place/Dentistry+of+Nashville+|+Elam,+Vaughan,+Fleming/@36.137544,-86.803203,15z/data=!4m5!3m4!1s0x0:0x7250f245391794d6!8m2!3d36.137544!4d-86.803203)
 
----
+### Ready to start smiling?
 
-# Request an Appointment
 
-1. [Home](https://dentistryofnashville.com/)
-3. [Contact Us](https://dentistryofnashville.com/contact-us/)
-5. [Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/)
-
-### Location
-
-[2125 Blakemore Ave  
- Nashville, TN 37212](https://www.google.com/maps/place/Dentistry+of+Nashville+%7C+Elam,+Vaughan,+Fleming/@36.1393822,-86.8087917,14.52z/data=!4m5!3m4!1s0x0:0x7250f245391794d6!8m2!3d36.137544!4d-86.803203)
+FacebookYouTubeCall
 
 [615-383-3690](tel:6153833690)
 
-**Mon**: 7:30 a.m. to 5:00 p.m.  
- **Tue**: 7:30 a.m. to 5:00 p.m.  
- **Wed**: 7:30 a.m. to 5:00 p.m.  
- **Thu**: 7:30 a.m. to 5:00 p.m.  
- **Fri**: Closed  
- **Sat**: Closed  
- **Sun**: Closed
+Get Directions
+
+[2125 Blakemore Ave](https://www.google.com/maps/place/Dentistry+of+Nashville+%7C+Elam,+Vaughan,+Fleming/@36.137544,-86.803203,15z/data=!4m5!3m4!1s0x0:0x7250f245391794d6!8m2!3d36.137544!4d-86.803203) [Nashville, TN 37212](https://www.google.com/maps/place/Dentistry+of+Nashville+%7C+Elam,+Vaughan,+Fleming/@36.137544,-86.803203,15z/data=!4m5!3m4!1s0x0:0x7250f245391794d6!8m2!3d36.137544!4d-86.803203)
+
+Hours
+
+Mon: 7:30am–5:00pm Tue: 7:30am–5:00pm Wed: 7:30am–5:00pm Thu: 7:30am–5:00pm Fri: Closed Sat: Closed Sun: Closed
+
+© 2025 Dentistry of Nashville. All Rights Reserved. Maintained by [Digital Resource](https://yourdigitalresource.com)
+
+[Accessibility](https://dentistryofnashville.com/patient-resources/accessibility-statement/)  |  [Privacy](https://dentistryofnashville.com/patient-resources/privacy/)
+
+Menu   [Call Now Button](tel:6153833690)
 
 ---
 
-# Meet the Team
+About Us | Dentistry of Nashville
+
+
+# About Us
 
 1. [Home](https://dentistryofnashville.com/)
 3. [About Us](https://dentistryofnashville.com/about-us/)
+
+## Our Practice
+
+We don’t treat a person, we treat generations of patients in our community in Nashville, Tennessee. We are a family-oriented practice whose [dental care](https://dentistryofnashville.com/) is guided by empathy and integrity.
+
+[Our Services](https://dentistryofnashville.com/our-services/ "Our Services")[Tour Our Office](https://dentistryofnashville.com/about-us/our-office/ "Our Office")
+
+### Related Pages
+
+
+Questions?
+
+Click below to send us a message, and we’ll get back to you in no time!
+
+[Message Us](mailto:lori@dentistryofnashville.com)
+
+### Follow Us!
+
+FacebookYouTube
+
+
+Meet our Team | Dentistry of Nashville
+
+
+# Meet the Team
+
 5. [Meet the Team](https://dentistryofnashville.com/about-us/meet-the-team/)
 
-![](https://dentistryofnashville.com/wp-content/uploads/2024/04/James-Fleming-DDS.jpg)
-
-#### Meet James Fleming, DDS Dentist
+Meet James Fleming, DDS Dentist
 
 Dr. James Fleming was raised in Columbia, Tennessee and attended Hampden-Sydney College in Virginia where he received his Bachelor of Arts degree in Economics. He continued his education at The University of Tennessee, College of Dentistry where he was awarded his Doctor of Dental Surgery.
 
@@ -173,134 +183,38 @@ Dr. Fleming regularly attends continuing education courses in Cosmetic & Aesthet
 
 Together with his lovely wife Cheryl, Dr. Fleming enjoys spending time with his two sons, Mac and Swope. They enjoy activities such as boating, hunting fishing, and spending time on his family’s farm.
 
-![Dr. Fleming and Mrs. Fleming](https://dentistryofnashville.com/wp-content/uploads/2020/02/Fleming-CB3-e1582525811191-350x350.jpg)
-
-![Dr. Fleming's Sons with fishing gear](https://dentistryofnashville.com/wp-content/uploads/2020/02/Fleming-CB2-e1582525839164-350x350.jpg)
-
-![Dr. and Mrs. Fleming](https://dentistryofnashville.com/wp-content/uploads/2020/02/Fleming-CB-e1582525857713-350x350.jpg)
-
-![](https://dentistryofnashville.com/wp-content/uploads/2024/04/Mark-Lambrick-DDS.jpg)
-
-#### Meet Mark Lambrick, DDS Dentist
+Meet Mark Lambrick, DDS Dentist
 
 Dr. Mark Lambrick is a dentist with over 30 years of experience who is passionate about restoring and maintaining the oral and general health of his patients. Dr. Lambrick earned his Bachelor of Science from the University of California, San Diego in 1987 and later completed his Doctor of Dental Surgery degree at The Ohio State University College of Dentistry in 1992.
 
 Since moving to Tennessee in 2005, Dr. Lambrick has enjoyed the state’s beautiful outdoors. He also has a love for restoring classic muscle cars and cherishes memories made with his very first car, a 1970 Pontiac Firebird.
 
-## Meet Your Dental Family
 
-![](https://dentistryofnashville.com/wp-content/uploads/2024/04/Emily-Office-Manager.jpg)
+Emily | Office ManagerAs a Dental Office Manager, Emily is deeply committed to enhancing the patient experience and is passionate about promoting oral healthcare. Her journey in dental practice management has allowed her to blend her enthusiasm for helping patients with the intricacies of running a smooth and patient-centric office. In her spare time, she enjoys reading, spending time with her friends and family, and watching football.Lori | Patient Care CoordinatorLori is one of the first faces you’ll see here at Dentistry of Nashville! She’s been with the practice since 2006. She’ll make sure you understand every aspect of your appointment. In her free time, Lori loves spending time with her two daughters.Carol | Registered Dental HygienistWith over 24 years of experience, Carol recently moved to Nashville from Chicago with her husband and their dog, Bentley. She grew up in Central Illinois and attended Illinois Central College in Peoria. Carol’s also an active American Dental Hygienists’ Association (ADHA) member. She enjoys painting, reading, bike riding, and seeing live shows or music festivals when she’s not at the office.Tristen | Registered Dental HygienistTristen moved to Nashville from Northwest TN near Reelfoot Lake in 2020 to pursue her career in dental hygiene. Through building rapport and assessing each patient’s wants and needs, she is able to create a treatment plan unique for each patient. Her passion comes from allowing her patients to lead healthier lives by improving their oral health as well as overall health. Outside of work, she enjoys comedy shows, crafting, cooking, and fishing!Chris | Registered Dental HygienistJaclyn | Registered Dental HygienistLisa | Registered Dental AssistantLisa started at Dentistry of Nashville in 2019. She enjoys making your appointment all about you! Whether that’s brightening your smile, giving you a compliment, or just helping you out in some small way, you’ll leave a bit brighter. A fun fact about Lisa, she is one of 9 children and belongs to a motorcycle club!Sissy | Registered Dental Assistant[View Services](https://dentistryofnashville.com/our-services/ "Periodontal Services")[Read Reviews](https://dentistryofnashville.com/reviews/ "Periodontal Services")
 
-#### Emily | Office Manager
 
-As a Dental Office Manager, Emily is deeply committed to enhancing the patient experience and is passionate about promoting oral healthcare. Her journey in dental practice management has allowed her to blend her enthusiasm for helping patients with the intricacies of running a smooth and patient-centric office. In her spare time, she enjoys reading, spending time with her friends and family, and watching football.
+Our Office - Dentistry of Nashville
 
-![](https://dentistryofnashville.com/wp-content/uploads/2024/04/Lori-Patient-Care-Coordinator.jpg)
 
-#### Lori | Patient Care Coordinator
+# Our Office
 
-Lori is one of the first faces you’ll see here at Dentistry of Nashville! She’s been with the practice since 2006. She’ll make sure you understand every aspect of your appointment. In her free time, Lori loves spending time with her two daughters.
+5. [Our Office](https://dentistryofnashville.com/about-us/our-office/)
 
-![](https://dentistryofnashville.com/wp-content/uploads/2024/04/Carol-Registered-Dental-Hygienist.jpg)
+## Office Gallery
 
-#### Carol | Registered Dental Hygienist
+[Our Services](https://dentistryofnashville.com/our-services/ "Services")[Patient Resources](https://dentistryofnashville.com/patient-resources/ "Patient Resources")
 
-With over 24 years of experience, Carol recently moved to Nashville from Chicago with her husband and their dog, Bentley. She grew up in Central Illinois and attended Illinois Central College in Peoria. Carol’s also an active American Dental Hygienists’ Association (ADHA) member. She enjoys painting, reading, bike riding, and seeing live shows or music festivals when she’s not at the office.
 
-![](https://dentistryofnashville.com/wp-content/uploads/2024/04/Tristen-Registered-Dental-Hygienist.jpg)
+Our Technology - Dentistry of Nashville
 
-#### Tristen | Registered Dental Hygienist
-
-Tristen moved to Nashville from Northwest TN near Reelfoot Lake in 2020 to pursue her career in dental hygiene. Through building rapport and assessing each patient’s wants and needs, she is able to create a treatment plan unique for each patient. Her passion comes from allowing her patients to lead healthier lives by improving their oral health as well as overall health. Outside of work, she enjoys comedy shows, crafting, cooking, and fishing!
-
-![](https://dentistryofnashville.com/wp-content/uploads/2025/08/Chris.jpg)
-
-#### Chris | Registered Dental Hygienist
-
-![](https://dentistryofnashville.com/wp-content/uploads/2025/08/Jaclyn.jpg)
-
-#### Jaclyn | Registered Dental Hygienist
-
-![](https://dentistryofnashville.com/wp-content/uploads/2024/04/Lisa-Registered-Dental-Assistant.jpg)
-
-#### Lisa | Registered Dental Assistant
-
-Lisa started at Dentistry of Nashville in 2019. She enjoys making your appointment all about you! Whether that’s brightening your smile, giving you a compliment, or just helping you out in some small way, you’ll leave a bit brighter. A fun fact about Lisa, she is one of 9 children and belongs to a motorcycle club!
-
-![](https://dentistryofnashville.com/wp-content/uploads/2025/08/Sissy.jpg)
-
-#### Sissy | Registered Dental Assistant
-
-[View Services](https://dentistryofnashville.com/our-services/ "Periodontal Services")
-
-[Read Reviews](https://dentistryofnashville.com/reviews/ "Periodontal Services")
-
-### Related Pages
-
-- [Services](https://dentistryofnashville.com/our-services/)
-- [Patient Resources](https://dentistryofnashville.com/patient-resources/)
-- [About Us](https://dentistryofnashville.com/about-us/)
-
-#### Questions?
-
-Click below to send us a message, and we’ll get back to you in no time!
-
-[Message Us](mailto:lori@dentistryofnashville.com)
-
-### Follow Us!
-
-Facebook
-
-YouTube
-
----
-
-# About Us
-
-1. [Home](https://dentistryofnashville.com/)
-3. [About Us](https://dentistryofnashville.com/about-us/)
-
-![](https://dentistryofnashville.com/wp-content/uploads/2025/02/DON_2024-1024x819.webp)
-
-## Our Practice
-
-We don’t treat a person, we treat generations of patients in our community in Nashville, Tennessee. We are a family-oriented practice whose [dental care](https://dentistryofnashville.com/) is guided by empathy and integrity.
-
-[Our Services](https://dentistryofnashville.com/our-services/ "Our Services")
-
-[Tour Our Office](https://dentistryofnashville.com/about-us/our-office/ "Our Office")
-
-### Related Pages
-
-- [Services](https://dentistryofnashville.com/our-services/)
-- [Patient Resources](https://dentistryofnashville.com/patient-resources/)
-- [About Us](https://dentistryofnashville.com/about-us/)
-
-#### Questions?
-
-Click below to send us a message, and we’ll get back to you in no time!
-
-[Message Us](mailto:lori@dentistryofnashville.com)
-
-### Follow Us!
-
-Facebook
-
-YouTube
-
----
 
 # Our Technology
 
-1. [Home](https://dentistryofnashville.com/)
-3. [About Us](https://dentistryofnashville.com/about-us/)
 5. [Our Technology](https://dentistryofnashville.com/about-us/technology/)
 
 ## Advanced Technology for Better Dentistry
 
 At our practice, we go to great lengths to provide comfortable and effective dental care. To help achieve this, our team is equipped with some of the most innovative technology available in dentistry. Read on to learn about some of the technology we feature at Dentistry of Nashville.
-
-![LANAP](https://dentistryofnashville.com/wp-content/uploads/2019/04/lanap-laser-surgery.jpg)
 
 ### LANAP Laser Treatment
 
@@ -308,62 +222,33 @@ For patients suffering from periodontal disease, we offer LANAP laser treatment 
 
 [Learn More](https://dentistryofnashville.com/our-services/periodontal-services#LANAP "Periodontal Services")
 
-![Close-up of CEREC Milling Machine](https://dentistryofnashville.com/wp-content/uploads/2019/04/CEREC-Milling-Machine-768x432.jpg)
-
 ### CEREC Same-Day Technology
 
 The CEREC® system creates porcelain crowns and onlays that are customized to match the color and size of each patient’s teeth. This technology allows us to condense a process that used to take weeks or even months into just one simple office visit. With CEREC® same-day crowns, you won’t have to wait to show off your new smile.
 
 [Learn More](https://dentistryofnashville.com/our-services/crown-bridge-same-day-dentistry/ "Periodontal Services")
 
-![Dr. Fleming using Intraoral Camera with patient](https://dentistryofnashville.com/wp-content/uploads/2019/04/1-188_Dr.-Fleming-using-CEREC-3D-Scanner-to-patient_Dentistry-of-Nashville-_-Elam-Vaughan-Fleming-768x432.jpg)
-
 ### Intraoral Camera
 
 Our intraoral cameras produce high-quality scans of your mouth, allowing you to see the results of your treatment in real time. With the use of these cameras, we can identify diseases such as oral cancer in their earliest stages, greatly reducing your risk of serious health problems.
-
-![Dr. Elam examining Digital radiograph](https://dentistryofnashville.com/wp-content/uploads/2019/04/HI-RES-Dentistry-of-Nashville-7-7-17-58-768x432.jpg)
 
 ### Digital X-Rays
 
 Digital x-rays have become an essential tool in dentistry because they allow us to identify potentially serious threats to your health while we still have time to treat them. Some of these threats that are virtually invisible without x-rays include cysts, tumors, and decay between your teeth. In addition to providing high-quality images in a short span of time, our digital x-rays expose patients to 90% less radiation than traditional ones.
 
-![Example of 3D imaging](https://dentistryofnashville.com/wp-content/uploads/2019/04/3d-imaging-768x430.png)
-
 ### 3D Imaging
 
 Our advanced 3D imaging makes certain procedures easier than ever before, especially when it comes to the dental implant process. With this technology, we can identify the location of your nerves, assess the density of your jawbone, and find the optimal spots for placing your implants.
 
-[View Services](https://dentistryofnashville.com/our-services/ "Services")
+[View Services](https://dentistryofnashville.com/our-services/ "Services")[Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
 
-[Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
 
-### Related Pages
+Services - Dentistry of Nashville
 
-- [Services](https://dentistryofnashville.com/our-services/)
-- [Patient Resources](https://dentistryofnashville.com/patient-resources/)
-- [About Us](https://dentistryofnashville.com/about-us/)
-
-#### Questions?
-
-Click below to send us a message, and we’ll get back to you in no time!
-
-[Message Us](mailto:lori@dentistryofnashville.com)
-
-### Follow Us!
-
-Facebook
-
-YouTube
-
----
 
 # Services
 
-1. [Home](https://dentistryofnashville.com/)
 3. [Services](https://dentistryofnashville.com/our-services/)
-
-[![Dental Implants Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_implant-dentistry.svg)](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")
 
 ## Dental Implants
 
@@ -371,15 +256,11 @@ Implants are a solution for missing teeth. When a space is created by a missing 
 
 [Learn More](https://dentistryofnashville.com/our-services/dental-implants/ "Dental Implants")
 
-[![Same-Day Crowns Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_same-day-crowns.svg)](https://dentistryofnashville.com/our-services/crown-bridge-same-day-dentistry/ "Dental Implants")
-
 ## Crown & Bridge + Same-Day Dentistry
 
 Unlike veneers, crowns cover the entire tooth and is a required step after any root canal procedure. At Dentistry of Nashville, you could get it all done in one day with our CEREC® technology!
 
 [Learn More](https://dentistryofnashville.com/our-services/crown-bridge-same-day-dentistry/ "Dental Implants")
-
-[![General Dentistry Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_general-dentistry.svg)](https://dentistryofnashville.com/our-services/general-dentistry/ "Dental Implants")
 
 ## General Dentistry
 
@@ -387,15 +268,11 @@ We recognize that routine dental hygiene is absolutely vital for a happy and hea
 
 [Learn More](https://dentistryofnashville.com/our-services/general-dentistry/ "Dental Implants")
 
-[![Periodontal Services Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_periodontal-care.svg)](https://dentistryofnashville.com/our-services/periodontal-services/ "Dental Implants")
-
 ## Periodontal Services
 
 Gum disease is a very serious issue that can easily be prevented through home hygiene habits and routine professional cleanings. Periodontal treatment is the thorough process of cleaning out the bacteria below the gum line and may sometimes also include suturing the gum pockets to prevent future infection.
 
 [Learn More](https://dentistryofnashville.com/our-services/periodontal-services/ "Dental Implants")
-
-[![Restorative Dentistry Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_restorative-dentistry.svg)](https://dentistryofnashville.com/our-services/restorative-dentistry/ "Dental Implants")
 
 ## Restorative Dentistry
 
@@ -403,15 +280,11 @@ Allow us to restore your smile to full function and beauty! We offer restorative
 
 [Learn More](https://dentistryofnashville.com/our-services/restorative-dentistry/ "Dental Implants")
 
-[![Cosmetic Dentistry Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_cosmetic-dentistry.svg)](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Dental Implants")
-
 ## Cosmetic Dentistry
 
 A beautiful smile isn’t as far away as you think. We offer cosmetic services including implants, whitening, and more!
 
 [Learn More](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Dental Implants")
-
-[![Periodontal Services Icon](https://dentistryofnashville.com/wp-content/uploads/2019/04/DentistryofNashville_periodontal-care.svg)](https://dentistryofnashville.com/our-services/cosmetic-dentistry/ "Dental Implants")
 
 ## TMD Treatment
 
@@ -419,30 +292,52 @@ TMD is shorthand for temporomandibular jaw disorder and is characterized by pain
 
 [Learn More](https://dentistryofnashville.com/our-services/tmd-treatment/ "TMD Treatment")
 
-### Related Pages
 
-- [Services](https://dentistryofnashville.com/our-services/)
-- [Patient Resources](https://dentistryofnashville.com/patient-resources/)
-- [About Us](https://dentistryofnashville.com/about-us/)
+Dental Implants - Dentistry of Nashville
 
-#### Questions?
 
-Click below to send us a message, and we’ll get back to you in no time!
+# Dental Implants
 
-[Message Us](mailto:lori@dentistryofnashville.com)
+5. [Dental Implants](https://dentistryofnashville.com/our-services/dental-implants/)
 
-### Follow Us!
+## What is a dental implant?
 
-Facebook
+Implants are a solution for missing teeth. When space is created by a missing tooth, it allows surrounding teeth to move, which may lead to further tooth loss. An implant is affixed to the jaw bone to mimic a tooth and tooth root, keeping the surrounding teeth in line, and restoring function.
 
-YouTube
+## Ready for the best solution to missing teeth?
 
----
+[Schedule Consultation](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")[Call Now](tel:6153833690 "Request an Appointment")
+
+## The Dental Implant Process
+
+At our practice in Nashville, we’ll perform every step of the implant process in one convenient location. In some cases, Dr. Fleming will recommend one or more supplemental procedures to prepare the patient for the dental implant process.
+
+### In most cases, the dental implant process will look like this:
+
+Initial Consultation:
+
+The first step towards your new smile is scheduling your initial consultation. One of our highly-qualified implant dentists, Dr. Fleming, or Dr. Lambrick, will perform a comprehensive oral health evaluation, checking your jawbone density and the state of your gum tissue to determine if you’re ready for dental implants. In some cases, supplemental procedures such as bone grafting or gum augmentation will be necessary to prepare the patient for implant surgery.
+
+Dental Implant Placement:
+
+The next step is for our dentist to place your dental implants. The procedure involves creating a small hole to insert the titanium implant fixture into the jawbone. We do everything we can to make the procedure as painless as possible, but sedation is available if you request it.
+
+Adjustment Period
+
+Following your surgery, it will require between 3 and 6 months for the implant to become integrated with your jawbone. This is a very important period in the dental implant process, so it’s vital for patients to keep the surgical site clean and free of irritation
+
+Crown placement:
+
+Once the implant fixture is fully acclimated to your smile, our implant dentist will place the abutment (a connecting piece that goes in the middle) and your attractive new prosthetic crown. Now you’ll be ready to face the world with confidence in your new smile.
+
+[Our Services](https://dentistryofnashville.com/our-services/ "Services")[Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
+
+
+Best Cosmetic Dentist In Nashville | Dentistry Of Nashville
+
 
 # Cosmetic Dentistry
 
-1. [Home](https://dentistryofnashville.com/)
-3. [Services](https://dentistryofnashville.com/our-services/)
 5. [Cosmetic Dentistry](https://dentistryofnashville.com/our-services/cosmetic-dentistry/)
 
 The way your smile looks influences how often you smile and how confident you feel during social situations. At Dentistry of Nashville, our cosmetic dentist and team  help patients achieve a smile that they are proud to share. Our cosmetic dental services are tailored to help you feel good and smile easier. Whether your smile has become damaged or stained and you want to restore its aesthetic, or you just want to enhance your smile’s natural beauty, we have a cosmetic dentistry service that can help.
@@ -459,96 +354,12 @@ Teeth whitening is one of the simplest ways to quickly improve the way your smil
 
 Our fillings are made with a special composite that matches your natural teeth. With a tooth-colored filling, you can feel confident in the beauty of your smile, even after your tooth has become damaged. Tooth-colored fillings are one of the many ways we help you maintain a beautiful, healthy smile.
 
-[Our Services](https://dentistryofnashville.com/our-services/ "Services")
 
-[Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
+Periodontal Services - Dentistry of Nashville
 
-### Related Pages
-
-- [Services](https://dentistryofnashville.com/our-services/)
-- [Patient Resources](https://dentistryofnashville.com/patient-resources/)
-- [About Us](https://dentistryofnashville.com/about-us/)
-
-#### Questions?
-
-Click below to send us a message, and we’ll get back to you in no time!
-
-[Message Us](mailto:lori@dentistryofnashville.com)
-
-### Follow Us!
-
-Facebook
-
-YouTube
-
----
-
-# Dental Implants
-
-1. [Home](https://dentistryofnashville.com/)
-3. [Services](https://dentistryofnashville.com/our-services/)
-5. [Dental Implants](https://dentistryofnashville.com/our-services/dental-implants/)
-
-## What is a dental implant?
-
-Implants are a solution for missing teeth. When space is created by a missing tooth, it allows surrounding teeth to move, which may lead to further tooth loss. An implant is affixed to the jaw bone to mimic a tooth and tooth root, keeping the surrounding teeth in line, and restoring function.
-
-## Ready for the best solution to missing teeth?
-
-[Schedule Consultation](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
-
-[Call Now](tel:6153833690 "Request an Appointment")
-
-## The Dental Implant Process
-
-At our practice in Nashville, we’ll perform every step of the implant process in one convenient location. In some cases, Dr. Fleming will recommend one or more supplemental procedures to prepare the patient for the dental implant process.
-
-### In most cases, the dental implant process will look like this:
-
-#### Initial Consultation:
-
-The first step towards your new smile is scheduling your initial consultation. One of our highly-qualified implant dentists, Dr. Fleming, or Dr. Lambrick, will perform a comprehensive oral health evaluation, checking your jawbone density and the state of your gum tissue to determine if you’re ready for dental implants. In some cases, supplemental procedures such as bone grafting or gum augmentation will be necessary to prepare the patient for implant surgery.
-
-#### Dental Implant Placement:
-
-The next step is for our dentist to place your dental implants. The procedure involves creating a small hole to insert the titanium implant fixture into the jawbone. We do everything we can to make the procedure as painless as possible, but sedation is available if you request it.
-
-#### Adjustment Period
-
-Following your surgery, it will require between 3 and 6 months for the implant to become integrated with your jawbone. This is a very important period in the dental implant process, so it’s vital for patients to keep the surgical site clean and free of irritation
-
-#### Crown placement:
-
-Once the implant fixture is fully acclimated to your smile, our implant dentist will place the abutment (a connecting piece that goes in the middle) and your attractive new prosthetic crown. Now you’ll be ready to face the world with confidence in your new smile.
-
-[Our Services](https://dentistryofnashville.com/our-services/ "Services")
-
-[Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
-
-### Related Pages
-
-- [Services](https://dentistryofnashville.com/our-services/)
-- [Patient Resources](https://dentistryofnashville.com/patient-resources/)
-- [About Us](https://dentistryofnashville.com/about-us/)
-
-#### Questions?
-
-Click below to send us a message, and we’ll get back to you in no time!
-
-[Message Us](mailto:lori@dentistryofnashville.com)
-
-### Follow Us!
-
-Facebook
-
-YouTube
-
----
 
 # Periodontal Services
 
-1. [Home](https://dentistryofnashville.com/)
-3. [Services](https://dentistryofnashville.com/our-services/)
 5. [Periodontal Services](https://dentistryofnashville.com/our-services/periodontal-services/)
 
 ## What is Periodontal Disease?
@@ -561,10 +372,9 @@ It is caused by bacterial plaque, which creates toxins that damage the gums. In 
 
 Laser periodontal therapy is different from traditional gum surgery that involves removing gum tissue with a scalpel and placing stitches. Instead, diseased tissue is removed with a special laser using an FDA cleared and patented procedure called LANAP, which stands for Laser Assisted New Attachment Procedure.
 
-Dr. James Fleming is fully trained and licensed to perform Laser Periodontal Therapy using the LANAP procedure. The specific wavelength of the laser allows it to remove diseased tissue and leave the healthy gum tissue. The LANAP protocol is the only laser patented protocol to treat periodontal disease. LANAP is a regenerative procedure, which means that the patient does not lose tissue volume or attachment, and bone is regenerated. Furthermore, there is very little post-op sensitivity to LANAP compared to traditional periodontal surgery utilizing a scalpel.  
- LANAP itself consists of four simple steps that are much less traumatic to the teeth and gum line than traditional dental surgery, which helps the mouth heal much more quickly.
+Dr. James Fleming is fully trained and licensed to perform Laser Periodontal Therapy using the LANAP procedure. The specific wavelength of the laser allows it to remove diseased tissue and leave the healthy gum tissue. The LANAP protocol is the only laser patented protocol to treat periodontal disease. LANAP is a regenerative procedure, which means that the patient does not lose tissue volume or attachment, and bone is regenerated. Furthermore, there is very little post-op sensitivity to LANAP compared to traditional periodontal surgery utilizing a scalpel. LANAP itself consists of four simple steps that are much less traumatic to the teeth and gum line than traditional dental surgery, which helps the mouth heal much more quickly.
 
-#### How does this benefit you?
+How does this benefit you?
 
 There are many benefits of LANAP treatment compared to traditional methods. These include:
 
@@ -574,115 +384,137 @@ There are many benefits of LANAP treatment compared to traditional methods. Thes
 - Feels almost no discomfort during or after the procedure
 - Minor pain that can be managed by over-the-counter medication
 
-[More Services](https://dentistryofnashville.com/our-services/ "Services")
+[More Services](https://dentistryofnashville.com/our-services/ "Services")[Schedule an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
 
-[Schedule an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/ "Request an Appointment")
 
-### Related Pages
+Clear Aligners | Dentistry of Nashville
 
-- [Services](https://dentistryofnashville.com/our-services/)
-- [Patient Resources](https://dentistryofnashville.com/patient-resources/)
-- [About Us](https://dentistryofnashville.com/about-us/)
 
-#### Questions?
+# Clear Aligners
 
-Click below to send us a message, and we’ll get back to you in no time!
+3. [Clear Aligners](https://dentistryofnashville.com/clear-aligners/)
 
-[Message Us](mailto:lori@dentistryofnashville.com)
+Straightening your teeth has now become more convenient and discreet than ever, thanks to clear aligners. After taking scans or molds of your current teeth alignment, a series of clear aligners will be created to quickly and effectively move your teeth for a straighter smile. These aligners should be worn at all times but can be removed for eating and brushing.
 
-### Follow Us!
+## Are Clear Aligners Right for You?
 
-Facebook
+If you don’t want to sacrifice eating your favorite foods, stay active in all your favorite sports and activities, and brush and floss like you normally do without wires or brackets in the way, then clear aligners are right for you!
 
-YouTube
+You’ll be ready for any occasion, our clear aligners are virtually invisible, so no one will even know you are wearing them!
 
----
+If you want to learn more about how to get a straighter smile without the hassle of metal braces, call our office today to schedule a consultation!
+
+[Schedule a Consultation](https://dentistryofnashville.com/contact-us/appointment-request/)
+
+
+Contact Us - Dentistry of Nashville
+
+
+# Contact Us
+
+3. [Contact Us](https://dentistryofnashville.com/contact-us/)
+
+### Have questions?
+
+Click the button below to send us a message, and we’ll get back to you in no time!
+
+
+### Location
+
+[2125 Blakemore Ave Nashville, TN 37212](https://www.google.com/maps/place/Dentistry+of+Nashville+%7C+Elam,+Vaughan,+Fleming/@36.1393822,-86.8087917,14.52z/data=!4m5!3m4!1s0x0:0x7250f245391794d6!8m2!3d36.137544!4d-86.803203)
+
+
+Mon: 7:30 a.m. to 5:00 p.m. Tue: 7:30 a.m. to 5:00 p.m. Wed: 7:30 a.m. to 5:00 p.m. Thu: 7:30 a.m. to 5:00 p.m. Fri: Closed Sat: Closed Sun: Closed
+
+
+Request an Appointment - Dentistry of Nashville
+
+
+# Request an Appointment
+
+5. [Request an Appointment](https://dentistryofnashville.com/contact-us/appointment-request/)
+
+
+Reviews - Dentistry of Nashville
+
 
 # Reviews
 
-1. [Home](https://dentistryofnashville.com/)
 3. [Reviews](https://dentistryofnashville.com/reviews/)
 
-![patient meeting team member at front desk](https://dentistryofnashville.com/wp-content/uploads/2019/04/1-127_patient-meeting-team-member-at-front-desk_Dentistry-of-Nashville-_-Elam-Vaughan-Fleming-768x432.jpg)
+[Write a Review!](https://search.google.com/local/writereview?placeid=ChIJZQyQ3aFmZIgR1pQXOUXyUHI)[More Reviews](https://www.google.com/maps/place/Dentistry+of+Nashville+|+Elam,+Vaughan,+Fleming/@36.137544,-86.8053917,17z/data=!3m1!4b1!4m7!3m6!1s0x0:0x7250f245391794d6!8m2!3d36.137544!4d-86.803203!9m1!1b1)
 
-![5 stars Icon](https://dentistryofnashville.com/wp-content/uploads/2017/08/5_stars.svg)
 
-[Write a Review!](https://search.google.com/local/writereview?placeid=ChIJZQyQ3aFmZIgR1pQXOUXyUHI)
+Patient Resources - Dentistry of Nashville
 
-[More Reviews](https://www.google.com/maps/place/Dentistry+of+Nashville+|+Elam,+Vaughan,+Fleming/@36.137544,-86.8053917,17z/data=!3m1!4b1!4m7!3m6!1s0x0:0x7250f245391794d6!8m2!3d36.137544!4d-86.803203!9m1!1b1)
 
-### Related Pages
+# Patient Resources
 
-- [Services](https://dentistryofnashville.com/our-services/)
-- [Patient Resources](https://dentistryofnashville.com/patient-resources/)
-- [About Us](https://dentistryofnashville.com/about-us/)
+3. [Patient Resources](https://dentistryofnashville.com/patient-resources/)
 
-#### Questions?
+## Payment & Insurance
 
-Click below to send us a message, and we’ll get back to you in no time!
+We believe quality dental care should be affordable and accessible to everyone. That’s why we are happy to accept and file most major insurance plans and offer flexible financing options to help our patients get the care they deserve.
 
-[Message Us](mailto:lori@dentistryofnashville.com)
+[Payment & Insurance Info](https://dentistryofnashville.com/patient-resources/payment-insurance/ "Payment & Insurance")
 
-### Follow Us!
+## FAQs
 
-Facebook
+You have questions, and you’re not alone! Check out our answers to the most frequently asked questions about our practice and services.
 
-YouTube
+[Read More](https://dentistryofnashville.com/patient-resources/faqs/ "Payment & Insurance")
 
----
 
-# Our Office
+FAQs - Dentistry of Nashville
 
-1. [Home](https://dentistryofnashville.com/)
-3. [About Us](https://dentistryofnashville.com/about-us/)
-5. [Our Office](https://dentistryofnashville.com/about-us/our-office/)
 
-## Office Gallery
+# FAQs
 
-[Our Services](https://dentistryofnashville.com/our-services/ "Services")
+5. [FAQs](https://dentistryofnashville.com/patient-resources/faqs/)
 
-![](https://dentistryofnashville.com/wp-content/uploads/2024/05/office_Dentistry-of-Nashville-1024x682.jpg)
+If you have questions, most likely others have had them too! Browse our list of frequently asked questions, and feel free to contact us directly if you don’t find the answers you need. We’re here to help!
 
-![](https://dentistryofnashville.com/wp-content/uploads/2024/05/office-gallery-4-1024x682.jpg)
+## What if I have a dental emergency?
 
-![](https://dentistryofnashville.com/wp-content/uploads/2024/05/office-gallery-2-1024x682.jpg)
+Our goal is to be available for you when you have a dental emergency. Dental emergencies can include facial trauma that damages the structure of the teeth or jaw, loss of a permanent tooth, severe tooth pain, or signs of infection. If you believe you have a dental emergency, please give us a call right away at [615-383-3690.](tel:6153833690)
 
-![Office Photo](https://dentistryofnashville.com/wp-content/uploads/2019/04/2-0002_Office-Photo__Dentistry-of-Nashville_Elam-Vaughan-Fleming-1024x576.jpg)
+[CALL NOW](tel:6153833690)
 
-![](https://dentistryofnashville.com/wp-content/uploads/2024/05/office-gallery-5-1024x819.jpg)
+## Do you see patients of all ages?
 
-![Dentistry of Nashville office](https://dentistryofnashville.com/wp-content/uploads/2019/04/2-194929_Office-Photo__Dentistry-of-Nashville_Elam-Vaughan-Fleming-1024x576.jpg)
+Our patients range in age from 3 to 103! We gladly see patients of all ages at Dentistry of Nashville!
 
-![Out Latest Tech tools](https://dentistryofnashville.com/wp-content/uploads/2019/04/2-194814_Office-Photo__Dentistry-of-Nashville_Elam-Vaughan-Fleming-1024x576.jpg)
+## What forms of payment are accepted?
 
-![](https://dentistryofnashville.com/wp-content/uploads/2024/05/office-gallery-3-1024x682.jpg)
+We accept cash, check, Visa, MasterCard, Discover, and HSA Cards. We also accept most major insurance plans and offer an In-Office Savings Program to patients without insurance.
 
-![](https://dentistryofnashville.com/wp-content/uploads/2024/05/office-gallery-1024x682.jpg)
+To learn more about our payment and insurance policies, check out our [Payment & Insurance page](https://dentistryofnashville.com/patient-resources/payment-insurance/).
 
-![Our Operating office](https://dentistryofnashville.com/wp-content/uploads/2019/04/2-195207_Office-Photo__Dentistry-of-Nashville_Elam-Vaughan-Fleming-1024x576.jpg)
+## How do I know if I qualify for your In-Office Savings Plan?
 
-![Place where we put smile](https://dentistryofnashville.com/wp-content/uploads/2019/04/2-194331_Office-Photo__Dentistry-of-Nashville_Elam-Vaughan-Fleming-1024x576.jpg)
+There are no pre-existing clauses and no age requirements to enroll. You can enroll your entire family! Simply call our office at [615-383-3690](tel:6153833690) or come by our office to enroll by filling out a quick form!
 
-![Our Dental Office](https://dentistryofnashville.com/wp-content/uploads/2019/04/2-195411_Office-Photo__Dentistry-of-Nashville_Elam-Vaughan-Fleming-1024x576.jpg)
+## How soon can I receive discounts from your In-Office Savings Plan?
 
-![](https://dentistryofnashville.com/wp-content/uploads/2024/05/office_Dentistry-of-Nashville2-1024x682.jpg)
+As soon as you enroll!
 
-[Patient Resources](https://dentistryofnashville.com/patient-resources/ "Patient Resources")
+## When is payment due if enrolled in your In-Office Savings Plan?
 
-### Related Pages
+Payment is due at the time of service with your discount of 15%.
 
-- [Services](https://dentistryofnashville.com/our-services/)
-- [Patient Resources](https://dentistryofnashville.com/patient-resources/)
-- [About Us](https://dentistryofnashville.com/about-us/)
+## Can I use CareCredit to make payments in your In-Office Savings Plan?
 
-#### Questions?
+Yes, you sure can!
 
-Click below to send us a message, and we’ll get back to you in no time!
+## Can I use my FSA or HSA to make payments in your In-Office Savings Plan?
 
-[Message Us](mailto:lori@dentistryofnashville.com)
+Yes, you sure can! You’ll be provided with a receipt for your cleanings, exams, and bitewings to file with your FSA. All other expenses can be covered using your FSA or HSA accounts according to your agreed upon terms and conditions.
 
-### Follow Us!
+## Do you take my insurance?
 
-Facebook
+We accept most major insurances and do our best to accommodate each patient. We also offer CareCredit for our patients to try to help them get the dental treatment they need. Give us a call to learn more at [615-383-3690](tel:6153833690)!
 
-YouTube
+## How does your practice accommodate people with disabilities?
+
+Our practice offers handicap accessible amenities including convenient ramps from the parking lot, wide walkways, and entrance ways that measure 32” or greater. We also have staff on hand available to read aloud documents for the illiterate or blind. Our website is also ADA compliant. To learn more, visit our [Accessibility Page](https://dentistryofnashville.com/patient-resources/accessibility-statement/).
+

@@ -1,28 +1,26 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: Dr. Terry Spurlin-Moore <info@musiccitydental.com>
-SUBJECT: Helping New Patients Get Answers Faster at Music City Dental
+SUBJECT: A simple way to answer patient questions on your website
 
 -----------------------------------------
 Hi Dr. Spurlin-Moore,
 
-I’m impressed by the welcoming, modern experience you create at Music City Dental—and how much care your team puts into making every visit stress-free. I noticed that your site covers a wide range of services and amenities, but with so much helpful info, it can be tough for patients to quickly find what matters most to them.
+I’ve been browsing Music City Dental’s site and was struck by the warmth, clarity, and care you bring to patient experiences—especially your focus on comfort for folks with dental anxiety.
 
-At SlayDigital.ai, we build easy-to-use, custom AI web agents that live right on your website. They let visitors chat with your site’s existing content to get clear, instant answers—no tech background or complicated setup needed.
+I run SlayDigital.ai, where we build simple, custom AI chat agents that help website visitors get quick, accurate answers—from details about dental services to new patient logistics—based only on the information you already share online.
 
-I made a short demo for you here: https://slaydigital.fly.dev/site/musiccitydental_com  
-Just click the chat icon in the bottom-right corner to open the chat box, then type any question. The agent will respond using details already on your website.
+As a quick example, I’ve set up a mock demo of your website with an embedded chat agent:  
+https://slaydigital.fly.dev/site/musiccitydental_com  
+Just click the chat icon in the bottom-right corner to open the chat, then type any question you’d expect from a patient. The agent replies instantly with answers drawn from your existing site content.
 
 You can try asking things like:
-- What does the Priority Care Membership Club include, and how much does it cost?
-- Do you offer Invisalign and how does the process work?
-- What should I expect at my first visit?
-- How do I book an appointment and what forms do I need?
-- Are you accepting new patients without insurance?
+- What’s included in the Priority Care Membership Club?
+- How do I schedule an appointment or access the new patient forms?
+- What dental technologies do you use?
+- When are you open, and do you have any Friday appointments?
+- Do you accept patients without insurance?
 
-If a simple, helpful chat agent like this could save you time and convert more website visitors to happy patients, I’d love to hear your thoughts—no rush or commitment.
+Would you be interested in seeing how something like this could make your team’s day a little easier and help patients get the info they need right away?
 
-Thank you for all you do for Nashville smiles!
-
-Best,  
-Zac  
-Founder, SlayDigital.ai
+Warm regards,  
+Zac

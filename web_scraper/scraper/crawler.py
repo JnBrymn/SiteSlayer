@@ -10,7 +10,7 @@ from playwright.async_api import TimeoutError as PlaywrightTimeoutError
 from playwright._impl._errors import Error as PlaywrightError
 from utils.fetch import get_browser_instance
 from utils.logger import setup_logger
-from utils.markdown_utils import html_to_markdown
+from utils.markdown_utils import html_to_markdown, clean_soup
 from config import USER_AGENT
 
 logger = setup_logger(__name__)
@@ -122,29 +122,13 @@ async def _process_single_url(url, index, total, visited_urls, visited_lock, con
         
         # Parse and extract content
         soup = BeautifulSoup(html_content, 'lxml')
+        clean_soup(soup)
         
         # Extract title
         title = soup.title.string if soup.title else "No title"
         
-        # Remove unwanted elements
-        for element in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'noscript']):
-            element.decompose()
-        
-        # Find main content
-        main_content = (
-            soup.find('main') or
-            soup.find('article') or
-            soup.find('div', {'id': 'content'}) or
-            soup.find('div', {'class': ['content', 'main-content', 'post-content']}) or
-            soup.find('body')
-        )
-        
-        if not main_content:
-            logger.warning(f"No main content found for: {url}")
-            return None
-        
         # Convert to markdown
-        markdown_content = html_to_markdown(str(main_content), url)
+        markdown_content = html_to_markdown(str(soup))
         
         # Check minimum content length
         if len(markdown_content) < config.min_content_length:

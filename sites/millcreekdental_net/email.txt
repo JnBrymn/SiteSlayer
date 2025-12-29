@@ -1,28 +1,30 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: Dr. Jared Anway <info@millcreekdental.net>
-SUBJECT: Helping New Patients Get Answers Instantly at Mill Creek Dental
+SUBJECT: Helping Patients Get Answers Faster at Mill Creek Dental
 
 -----------------------------------------
+
 Hi Dr. Anway,
 
-I appreciate how Mill Creek Dental makes newcomers feel at home and emphasizes trust and clarity in patient care. I’d love to help you make it even easier for patients to get detailed answers—directly from your own website.
+I’ve been reviewing Mill Creek Dental’s website, and it’s clear you and your team put a lot of care into making patients feel comfortable and informed—whether it’s a first visit or in-depth procedures like crowns and root canals.
 
-I’m Zac, founder of SlayDigital.ai. We create custom AI website agents that let visitors chat with your site’s existing content—helping them find info quickly without waiting for a call-back or digging through pages.
+I’m Zac, founder of SlayDigital.ai, where we build simple, custom AI web agents that let site visitors chat directly with your existing website content for fast answers—no bots or canned scripts, just helpful support.
 
-Here’s a quick demo, using a mock version of your website:  
+I put together a quick example using a mock version of your website:  
 https://slaydigital.fly.dev/site/millcreekdental_net  
-Just click the chat icon in the bottom-right, and type a question to see answers pulled right from your site.
+There’s a chat icon in the bottom-right; click it to open the box and start typing. The agent responds with accurate information pulled from your own site.
 
-You can try asking things like:
-- Do you accept Metlife or Cigna dental insurance?
-- What kind of crowns do you offer, and how long do they take?
-- How does your teeth whitening process work?
-- What should I do if my gums are bleeding or painful?
-- Are you accepting new patients, and how do I book an appointment?
+You can try asking it questions like:
+- What insurances do you accept?
+- How do I schedule a new patient exam?
+- What should I expect during a teeth whitening appointment?
+- Are dental crowns or veneers right for me?
+- How does the billing and cancellation policy work?
 
-I think this could help your team save time, reduce repeat calls, and help new patients feel confident in choosing Mill Creek Dental.
+This could help reduce repetitive calls and make it easier for both new and returning patients to get key answers—any time, without digging or waiting.
 
-Let me know if you’d like to chat or see more—happy to customize for your practice’s needs.
+If you’d like to see how this could work on your actual site, just let me know. No pressure—happy to answer any questions you might have!
 
-Warm wishes,  
-Zac
+Best,  
+Zac Slay  
+SlayDigital.ai

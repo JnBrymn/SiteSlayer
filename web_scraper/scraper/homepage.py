@@ -9,7 +9,7 @@ from playwright._impl._errors import Error as PlaywrightError
 from utils.fetch import get_browser_instance
 from utils.logger import setup_logger
 from scraper.link_rewriter import clean_and_filter_links
-from utils.markdown_utils import html_to_markdown
+from utils.markdown_utils import html_to_markdown, clean_soup
 from config import USER_AGENT
 
 logger = setup_logger(__name__)
@@ -95,6 +95,7 @@ async def scrape_homepage(url, config):
         
         # Parse HTML
         soup = BeautifulSoup(html_content, 'lxml')
+        clean_soup(soup)
         
         # Extract title
         title = soup.title.string if soup.title else urlparse(url).netloc
@@ -103,10 +104,9 @@ async def scrape_homepage(url, config):
         # Extract and clean links
         all_links = extract_links(soup, url)
         filtered_links = clean_and_filter_links(all_links, url, config)
-        content = extract_main_content(soup)
         
         # Convert to markdown
-        markdown_content = html_to_markdown(str(content), url)
+        markdown_content = html_to_markdown(str(soup))
         
         logger.info(f"Found {len(all_links)} total links, {len(filtered_links)} after filtering")
         

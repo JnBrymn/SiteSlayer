@@ -1,15 +1,15 @@
 ERROR REPORT
 ==================================================
-Timestamp: 2025-12-26 17:45:28
+Timestamp: 2025-12-29 17:35:19
 
 Error Message:
-Content file is too small (616 characters) - likely incomplete or blocked
+Content file is too small (889 characters) - likely incomplete or blocked
 
 
 Stack Trace:
-  File "/Users/johnberryman/projects/github/ApexFutz/SiteSlayer/web_scraper/main.py", line 391, in <module>
+  File "/Users/johnberryman/projects/github/JnBrymn/SiteSlayer/web_scraper/main.py", line 397, in <module>
     main()
-  File "/Users/johnberryman/projects/github/ApexFutz/SiteSlayer/web_scraper/main.py", line 384, in main
+  File "/Users/johnberryman/projects/github/JnBrymn/SiteSlayer/web_scraper/main.py", line 390, in main
     asyncio.run(run_all())
   File "/Users/johnberryman/.local/share/uv/python/cpython-3.11.9-macos-aarch64-none/lib/python3.11/asyncio/runners.py", line 190, in run
     return runner.run(main)
@@ -23,9 +23,9 @@ Stack Trace:
     handle._run()
   File "/Users/johnberryman/.local/share/uv/python/cpython-3.11.9-macos-aarch64-none/lib/python3.11/asyncio/events.py", line 84, in _run
     self._context.run(self._callback, *self._args)
-  File "/Users/johnberryman/projects/github/ApexFutz/SiteSlayer/web_scraper/main.py", line 286, in execute_with_semaphore
+  File "/Users/johnberryman/projects/github/JnBrymn/SiteSlayer/web_scraper/main.py", line 274, in execute_with_semaphore
     await execute(url)
-  File "/Users/johnberryman/projects/github/ApexFutz/SiteSlayer/web_scraper/main.py", line 132, in execute
+  File "/Users/johnberryman/projects/github/JnBrymn/SiteSlayer/web_scraper/main.py", line 133, in execute
     write_error_to_file(site_dir, error_msg)
-  File "/Users/johnberryman/projects/github/ApexFutz/SiteSlayer/web_scraper/main.py", line 59, in write_error_to_file
+  File "/Users/johnberryman/projects/github/JnBrymn/SiteSlayer/web_scraper/main.py", line 60, in write_error_to_file
     f.write(''.join(traceback.format_stack()))

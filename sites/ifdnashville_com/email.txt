@@ -1,0 +1,25 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. K.B. Parkes <info@ifdnashville.com>
+SUBJECT: Quick Way to Answer Patient Questions Instantly on Your Site
+
+-----------------------------------------
+Hi Dr. Parkes,
+
+Iroquois Dentistry’s focus on patient comfort, technology, and longstanding care for Nashville families is impressive. I noticed how thorough your site is—but it can be a lot for new patients (or nervous ones) to sort through when they just want quick answers.
+
+At SlayDigital.ai, we build simple AI web agents that live right on your website, making it easy for visitors to ask questions and get immediate, clear answers using the content you’ve already provided—no tech jargon or confusing interfaces. 
+
+I mocked up a demo of your site with one of our agents here: https://slaydigital.fly.dev/site/ifdnashville_com  
+Just click the chat icon at the bottom right to open a chat box; you and your visitors can type in any question and get a summary based on your existing site info.
+
+You can try asking things like:
+- “How much do same-day crowns cost?”
+- “What’s included in your new patient specials?”
+- “What should I do if I have a dental emergency after hours?”
+- “Do you offer payment plans or work with insurance?”
+- “How do I book a cosmetic consultation?”
+
+Would love your thoughts, or if you’d like to try something tailored for your practice.
+
+Warm regards,  
+Zac

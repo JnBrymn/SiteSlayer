@@ -1,25 +1,28 @@
 FROM: Zac Slay <zac@slaydigital.ai>
-TO: Wikipedia Foundation <info@wikimedia.org>
-SUBJECT: Helping Wikipedia readers find answers instantly—see a quick demo
+TO: Wikimedia Foundation <info@wikimedia.org>
+SUBJECT: Exploring a Simpler Way to Help Users Find Wikimedia Privacy and Policy Answers
 
 -----------------------------------------
 
-Hi team,
+Hi Wikimedia Foundation team,
 
-With Wikipedia connecting millions to free knowledge in so many languages, I noticed your homepage is packed with links, language options, and donation prompts—all important, but possibly overwhelming for some visitors.
+Your commitment to open knowledge (and transparency about how it’s governed) truly sets a global standard. Navigating the comprehensive Terms of Use and Privacy Policy pages, though, I can see how even seasoned contributors or readers might get lost looking for a clear answer!
 
-At SlayDigital.ai, we build simple AI web agents that help site visitors get instant answers by chatting directly with your site’s content—no jargon or complexity. I’ve put together a quick demo based on your homepage: https://slaydigital.fly.dev/site/www_wikipedia_org
+At SlayDigital.ai, we build simple, custom website chat agents that help visitors quickly get what they need—using only the information you already provide. I put together a live demo tailored to your site: https://slaydigital.fly.dev/site/www_wikipedia_org
 
-Just click the chat icon in the bottom-right, and type a question—our agent responds using info already on the page.
+There’s a chat icon in the bottom right; clicking it opens a box where you can ask questions and the agent responds with answers based on existing site content.
 
 You can try asking things like:
-- How many articles are in English Wikipedia?
-- Where can I donate to support Wikipedia?
-- How do I change the language on this page?
-- What is the average donation amount?
-- Which languages have over 1 million articles?
+- “How do I request my personal data or ask for it to be deleted?” 
+- “Who should I contact about a privacy concern or data access request?” 
+- “What information is public when I edit Wikimedia projects?”
+- “How are user contributions governed under the Terms of Use?”
+- “How does Wikimedia respond to ‘Do Not Track’ browser signals?”
 
-Would love to hear your thoughts or set up a 10-minute call if you’re curious to see how this could help more visitors find what they need, faster.
+If you think an interactive, always-on policy guide could reduce support emails and clarify these vital topics, I’d be glad to show you how this could fit seamlessly into your sites.
 
-Best,  
-Zac
+Let me know if you’d like to discuss or try a custom agent for your team.
+
+Best regards,  
+Zac Slay  
+SlayDigital.ai

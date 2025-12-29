@@ -1,27 +1,26 @@
 FROM: Zac Slay <zac@slaydigital.ai>
 TO: East Nashville Family Dentistry <info@enfdentistry.com>
-SUBJECT: Helping Patients Find Answers—See a New Way to Engage on Your Website
+SUBJECT: Helping Patients Find Answers Faster on Your Website
 
 -----------------------------------------
+
 Hi East Nashville Family Dentistry team,
 
-I came across your website and was impressed by the range of services you offer for patients in the Nashville community, from preventive care to same-day emergency appointments. Your focus on comfort and clear communication really stands out.
+I’m Zac from SlayDigital.ai, and I’ve been looking at how welcoming and informative your website is—it’s clear you care about guiding patients every step of the way, whether it’s for routine care or emergencies.
 
-I'm Zac from SlayDigital.ai. We build simple AI chat agents that can be embedded on your website, allowing visitors to ask questions and get instant answers directly from your existing content—no extra setup or technical jargon needed.
+We build simple, custom AI chat agents that let visitors get quick, accurate answers using your existing site content—not AI jargon or fluff, just clear help when people need it. I set up a quick demo based on your own site, so you can see how it fits in: https://slaydigital.fly.dev/site/enfdentistry_com
 
-For a quick example, I’ve set up a demo using a replica of your site:  
-https://slaydigital.fly.dev/site/enfdentistry_com  
-Just click the chat icon in the bottom-right corner to open the chat and try asking questions—your AI agent will answer using real information from your pages.
+Just click the chat icon in the bottom-right corner to try it out. Type a question, and the agent will reply using the information already on your website.
 
 You can try asking things like:
-- Do you accept my insurance plan?
-- What’s the difference between dentures and dental implants?
+- What dental insurance plans do you accept?
 - How soon can I get a same-day emergency appointment?
-- What’s included in a general dentistry visit?
-- How much does teeth whitening cost?
+- What’s included in a general checkup and cleaning?
+- Do you offer Invisalign or other clear aligners?
+- How much do dental implants cost per tooth?
 
-If you think this could help your patients get answers faster or free up your front desk, I’d be happy to chat or get your feedback.
+If you’d like to see how this could help your practice reduce repetitive calls and help patients feel supported 24/7, just let me know—I’d be happy to talk through it with you.
 
-Warm regards,  
-Zac Slay  
-Founder, SlayDigital.ai
+Best,  
+Zac  
+SlayDigital.ai

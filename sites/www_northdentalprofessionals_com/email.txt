@@ -1,0 +1,28 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Paul Chaiken <info@northdentalprofessionals.com>
+SUBJECT: Helping Patients Find Answers Faster at North Dental Professionals
+
+-----------------------------------------
+Hi Dr. Chaiken,
+
+I’ve been browsing North Dental Professionals’ site, and I’m impressed by your commitment to patient comfort and personalized dental care in both Chicago and Skokie. You offer a truly comprehensive range of services—cosmetic, restorative, emergency, family dentistry, and more—all balanced with genuine warmth.
+
+I’m Zac, founder of SlayDigital.ai. We help practices like yours save time and improve patient experience by building custom, easy-to-use AI web agents. These agents let your visitors ask questions via a simple chat box, and receive instant answers based on the information already on your site.
+
+I’ve set up a brief demo using a mock version of your website here: https://slaydigital.fly.dev/site/www_northdentalprofessionals_com  
+Just click the chat icon in the bottom-right corner and type a question—your site’s “virtual dental team” will answer right away.
+
+You can try asking things like:
+- What dental insurance do you accept at your Chicago and Skokie offices?
+- How do I book an emergency appointment?
+- Am I a good candidate for porcelain veneers or Invisalign?
+- What’s the difference between a dental crown and a dental implant?
+- What should I expect during my first visit as a new patient?
+
+This approach makes it easier for prospective and current patients to get quick, reliable answers—freeing your team to focus on what they do best.
+
+If this seems helpful, I’d be happy to show you how it could fit directly on your site—no technical effort required.  
+Let me know if you’d like to chat further, and thanks again for raising the bar for patient care in Chicago and Skokie.
+
+Warm regards,  
+Zac

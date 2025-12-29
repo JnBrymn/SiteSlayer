@@ -1,0 +1,26 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. James R. Pace Jr. <office@bellemeadedental.com>
+SUBJECT: Helping New Patients Get Answers Instantly on Your Website
+
+-----------------------------------------
+Hi Dr. Pace,
+
+I’m Zac from SlayDigital.ai. I came across Belle Meade Family Dentistry’s site and was impressed by your focus on patient comfort, advanced care, and clear communication. It’s easy to see why so many patients trust your team for everything from cosmetic upgrades to dental emergencies.
+
+We help practices like yours save time and improve the patient experience by adding a custom AI chat agent that answers visitor questions—directly from your website’s own content. I put together a quick mock version for you to try at: https://slaydigital.fly.dev/site/www_bellemeadedental_com
+
+Just click the chat icon in the bottom-right corner to open the box—then you or your staff can type in any questions a patient might have and see instant answers, using only your site’s information.
+
+You can try asking things like:
+- What should I expect at my first visit as a new patient?
+- How do your dental implants compare to traditional bridges or dentures?
+- Do you offer financing or accept my insurance?
+- What are the benefits of porcelain veneers?
+- How do I schedule an emergency dental appointment?
+
+I think this could be a helpful way to let patients get quick, accurate info, while freeing up your front desk from answering the same questions over and over. No tech jargon—just simple, helpful answers.
+
+Would you be open to a quick chat about how this could work for your team? No pressure, just wanted to share a practical example.
+
+Best regards,  
+Zac

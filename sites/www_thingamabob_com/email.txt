@@ -1,0 +1,23 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Eve L. & Graham N. <info@thingamabob.com>
+SUBJECT: Make Thingamabob even more interactive—see how
+
+Hey Eve, Graham, and team,
+
+I’ve been enjoying Thingamabob’s quirky updates (loved the MJ “Thriller” throwback and all the big, bold visuals). I wanted to share a quick, practical way to make your Tumblr site more interactive for visitors and fans—without adding extra work for you.
+
+At SlayDigital.ai, we build simple, custom AI chat agents that live right on your site. They help answer questions for visitors and make it easier to explore your posts and stories.
+
+I put together a live demo using a copy of your homepage: https://slaydigital.fly.dev/site/www_thingamabob_com. To try it, just click the chat icon in the bottom-right and type a question—the agent will answer based on your own content.
+
+You can try asking things like:
+- Who created Thingamabob?
+- Is there a way to contact the illustrator?
+- What’s the story behind the NYE 1982 post?
+- How can I find the archive or random post?
+- What’s the Quite Big theme?
+
+If you think this would make Thingamabob even more welcoming for your community, I’d be happy to chat about how it can work on your real site. No obligations—just wanted to share an idea that matches your fun and creative vibe!
+
+All the best,  
+Zac
