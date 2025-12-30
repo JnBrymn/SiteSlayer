@@ -16,7 +16,7 @@ git stash push -m "deploy_server.sh stash"
 
 # Pull remote main
 echo "Pulling remote main..."
-git pull origin main
+git pull --no-edit origin main
 
 # Reapply stashed changes
 echo "Reapplying stashed changes..."
