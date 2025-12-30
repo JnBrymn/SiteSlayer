@@ -1,11 +1,5 @@
 # Note, you can make comments in this file, just place comment text after the # character
 www.bigthunderevents.com # you can comment after websites too
-www.mtjulietdentalgroup.com
-www.thingamabob.com
-www.wikipedia.org
-www.bellemeadedental.com/
-www.gulchdentalstudio.com/
-nashvillesmilesup.com/
 enfdentistry.com/
 ifdnashville.com/
 musiccitydental.com/
