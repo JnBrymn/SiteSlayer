@@ -113,7 +113,6 @@ async def harvest_html(url, config):
     
     # Parse and rewrite URLs
     soup = BeautifulSoup(html_content, 'lxml')
-    clean_soup(soup)
     rewritten_html = rewrite_urls(soup, url)
     
     # Save to file
