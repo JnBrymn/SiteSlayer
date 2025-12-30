@@ -1,0 +1,28 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Clinica Dental La Paz <info@clinicadentallapaz.com>
+SUBJECT: Una forma sencilla de responder preguntas de sus pacientes en su sitio web
+
+-----------------------------------------
+
+Hola equipo de Clinica Dental La Paz,
+
+Es admirable el enfoque que tienen en brindar atención cercana y profesional a la comunidad hispana de Nashville, especialmente con su variedad de servicios para toda la familia y sus modernas tecnologías como el escáner intraoral 3D.
+
+En SlayDigital.ai, nos dedicamos a crear agentes web personalizados con IA que se integran fácilmente a su página, ayudando a responder las dudas más comunes de los visitantes usando solo la información de su propio sitio. Esto ahorra tiempo a su equipo y facilita que los pacientes encuentren lo que buscan.
+
+Preparé una demo de cómo podría funcionar esto en su sitio:  
+https://slaydigital.fly.dev/site/www_clinicadentallapaz_com  
+Solo haga clic en el ícono de chat en la esquina inferior derecha y escriba su pregunta. El agente responde usando los contenidos de su web.
+
+Puede probarlo haciendo preguntas como:
+- ¿Qué promociones tienen para pacientes nuevos?
+- ¿Cuánto cuesta el tratamiento de frenos para adultos?
+- ¿Atienden emergencias dentales los fines de semana?
+- ¿Qué ventajas tiene el escáner intraoral 3D?
+- ¿Ofrecen ortodoncia invisible (Invisalign)?
+
+Si le gustaría que el chat ayude aún más a orientar a sus pacientes, me encantaría mostrarle cómo se podría personalizar a sus necesidades. ¿Le gustaría hablarlo breve por teléfono o correo? ¡Quedo atento!
+
+Saludos cordiales,  
+Zac Slay  
+SlayDigital.ai
