@@ -1,26 +1,26 @@
 # Note, you can make comments in this file, just place comment text after the # character
-https://www.bigthunderevents.com # you can comment after websites too
-https://www.mtjulietdentalgroup.com
-https://www.thingamabob.com
-https://www.wikipedia.org
-https://www.bellemeadedental.com/
-https://www.gulchdentalstudio.com/
-https://nashvillesmilesup.com/
-https://enfdentistry.com/
-https://ifdnashville.com/
-https://musiccitydental.com/
-https://dentistryofnashville.com/
-https://richlandcreekdentistry.com/
-https://lifetimedentistrytn.com/
-https://arkhealthfoundation.com/ # test one
-https://nolensvillefamilydentistry.com/
-https://millcreekdental.net/
-https://www.gatewayfamilydentist.com/
-https://www.murfreedental.com/
-https://katherinehalldds.com/
-https://theclaylady.com/
-https://www.northdentalprofessionals.com/
-https://www.downtown-dental.com/
-https://tnfamilydental.com/
-
+www.bigthunderevents.com # you can comment after websites too
+www.mtjulietdentalgroup.com
+www.thingamabob.com
+www.wikipedia.org
+www.bellemeadedental.com/
+www.gulchdentalstudio.com/
+nashvillesmilesup.com/
+enfdentistry.com/
+ifdnashville.com/
+musiccitydental.com/
+dentistryofnashville.com/
+richlandcreekdentistry.com/
+lifetimedentistrytn.com/
+arkhealthfoundation.com/ # test one
+nolensvillefamilydentistry.com/
+millcreekdental.net/
+www.gatewayfamilydentist.com/
+www.murfreedental.com/
+katherinehalldds.com/
+theclaylady.com/
+www.northdentalprofessionals.com/
+www.downtown-dental.com/
+tnfamilydental.com/
+www.beautifulsmiles.org
 www.clinicadentallapaz.com
