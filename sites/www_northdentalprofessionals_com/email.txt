@@ -1,0 +1,28 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Paul Chaiken <info@northdentalprofessionals.com>
+SUBJECT: A Simple Way to Help Patients Get Answers Instantly on Your Website
+
+-----------------------------------------
+
+Hi Dr. Chaiken,
+
+I’m always impressed by your commitment to patient comfort and clear communication—values that show throughout North Dental Professionals’ site.
+
+I’m Zac, founder of SlayDigital.ai, and we build simple custom AI agents that let your website visitors get instant, accurate answers to their questions—without having to search through multiple pages or wait for a call back. The goal is to help your patients (and team) save time, especially with new patient inquiries and common questions.
+
+To show what this could look like for your practice, I put together a demo using your website:  
+https://slaydigital.fly.dev/site/www_northdentalprofessionals_com  
+There’s a chat icon in the bottom-right corner—just click it, and you or your team can ask questions as if you’re a patient. The AI agent answers using only information from your existing website.
+
+You can try asking things like:
+- Do you offer emergency dental care, and how do I get a same-day appointment?
+- What insurance plans do you accept, and how does payment work?
+- How is dental anxiety managed at your office?
+- What is the process and timeline for Invisalign?
+- How do I request an appointment at the Skokie office?
+
+If you’d like to talk further or try a custom version, just let me know. There’s no pressure—just hoping to help your patients feel even more welcome (and lighten your staff’s load).
+
+Warm regards,  
+Zac Slay  
+SlayDigital.ai

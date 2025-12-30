@@ -1,0 +1,28 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Tim McNutt <frontdesk@richlandcreekdentistry.com>
+SUBJECT: Helping New & Returning Patients Get Answers—See a Quick Website Demo
+
+-----------------------------------------
+
+Hi Dr. McNutt,
+
+I’m always impressed by the care and clarity Richland Creek Family Dentistry brings to patients in Nashville—especially your welcoming experience for new patients and broad service offerings.
+
+I wanted to share a quick way you can make it even easier for visitors to get clear, reliable answers about your office. At SlayDigital.ai, we build simple AI chat agents that sit quietly on your website and help answer common questions—using only the information already on your site.
+
+We put together a mock version of your website with one of these agents here: https://slaydigital.fly.dev/site/richlandcreekdentistry_com. If you click the chat icon in the bottom-right corner, a box will open—just type a question, and the agent will answer based on your site’s information.
+
+You can try asking things like:
+- What insurance plans do you accept?
+- How much does your in-office savings plan cost and what does it cover?
+- What should I expect as a new patient?
+- What dental services do you offer for children?
+- How do I schedule an emergency dental appointment?
+
+If you’d like to discuss how this could help free up your staff and improve patient satisfaction, just let me know—no pressure at all.
+
+Wishing you and your team continued success!
+
+Best,
+Zac Slay  
+SlayDigital.ai

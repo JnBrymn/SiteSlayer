@@ -1,0 +1,25 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Terry Spurlin-Moore <info@musiccitydental.com>
+SUBJECT: Helping New Patients Get Answers Faster at Music City Dental
+
+-----------------------------------------
+
+Hi Dr. Spurlin-Moore,
+
+I’ve been impressed by your focus on comfort, transparency, and education at Music City Dental—especially for patients who might be anxious or new to your office. Making people feel cared for is clearly at the heart of your work.
+
+I’m Zac from SlayDigital.ai. We build simple, custom AI web agents that sit right on your website and let visitors chat with your existing content—helping them get clear answers right when they need them, without extra work for your team.
+
+I put together a quick demo using a mock version of your site: https://slaydigital.fly.dev/site/musiccitydental_com. You’ll see a chat icon in the bottom-right corner; just click it to open the chat box and type a question. The agent will answer using only information already on your site.
+
+You can try asking things like:
+- What’s included in the Priority Care Membership, and how much does it cost?
+- Do you offer Invisalign consultations, and what does the process look like?
+- Are you accepting new patients, and how do I fill out the forms online?
+- What sedation or comfort options are available for anxious patients?
+- What are your business hours and how do I book an appointment?
+
+If you think this kind of tool could help your patients (and lighten your front desk’s load), I’d be happy to chat about what a custom version might look like for Music City Dental. No pressure—just let me know if you’d like more info or a quick call.
+
+Best,
+Zac

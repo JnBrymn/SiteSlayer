@@ -1,0 +1,26 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Ryan O’Neill <info@tnfamilydental.com>
+SUBJECT: Helping Patients Get Answers Faster at Tennessee Family Dental
+
+-----------------------------------------
+Hi Dr. O’Neill,
+
+I’m reaching out because I’m genuinely impressed by your “patient-first” focus and all the ways Tennessee Family Dental goes above and beyond for your community. With four locations and a wide variety of services, it’s easy to see why patients feel truly cared for.
+
+I run SlayDigital.ai, where we build simple AI chat agents that let website visitors get fast, accurate answers from your own site content—helping teams like yours reduce routine calls and making online visits as friendly as an in-person one.
+
+I made a quick demo using your website so you can see what this could look like: https://slaydigital.fly.dev/site/tnfamilydental_com  
+Just click the chat icon in the bottom-right to open the chat box—then type a question and the agent will respond using info from your site.
+
+You can try asking things like:
+- What insurances do you accept, and do you take TennCare?
+- What’s included in the In-Office Benefits Plan?
+- How do I schedule an emergency or same-day appointment?
+- Which sedation options are available and what do they cost?
+- What locations offer same-day crowns?
+
+If you’re interested in a no-fuss way to help more patients get clear answers, I’d love to hear your thoughts or show you more.
+
+Warm regards,  
+Zac Slay  
+SlayDigital.ai

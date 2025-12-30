@@ -1,0 +1,31 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Danielle McDaniel <danielle@theclaylady.com>
+SUBJECT: Helping Visitors Find the Perfect Class or Workshop at The Clay Lady’s Campus
+
+-----------------------------------------
+
+Hi Danielle,
+
+Hope your week is off to a creative start! I’m Zac, founder of SlayDigital.ai, and I’ve spent some time exploring The Clay Lady’s Campus online. Your dedication to building community and making clay accessible shines through every corner—from classes and workshops to the unique spirit of your resident artist studios.
+
+I wanted to share a simple way we’re helping studios like yours improve visitor experience and reduce repetitive questions: custom, easy-to-use AI chat agents that answer common questions directly from the information already on your website.
+
+Here’s a quick working demo featuring your own content: https://slaydigital.fly.dev/site/theclaylady_com  
+To try it, just click the chat icon in the bottom-right corner and type in any question—a friendly agent will reply with answers drawn from your site.
+
+You can try asking things like:
+- How do I join a pottery or handbuilding class, and what’s the registration process?
+- Are private group workshops available, and what do they include?
+- What are the gallery hours, and is the artwork for sale?
+- How do I join the waitlist for a resident artist studio?
+- When are upcoming community events or sales?
+
+This tool helps potential students and visitors find what they need quickly, freeing up your team for more hands-on work in the studio.
+
+Would you like to see how something like this could serve your Campus, your artists, or even your shop customers? Happy to answer any questions or show more if you’re interested.
+
+Wishing you a great week!
+
+Warm regards,  
+Zac  
+SlayDigital.ai

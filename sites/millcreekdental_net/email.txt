@@ -1,0 +1,24 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Jared Anway <info@millcreekdental.net>
+SUBJECT: Helping New Patients Get Answers Faster at Mill Creek Dental
+
+-----------------------------------------
+Hi Dr. Anway,
+
+I’m reaching out after seeing how much Mill Creek Dental emphasizes a welcoming, personalized experience for families in Nolensville. Your focus on honest treatment plans and clear guidance really stands out.
+
+At SlayDigital.ai, we build custom, simple AI chat agents for dental websites—making it easy for your visitors to get clear answers, 24/7, based on the information already on your site. This helps reduce repetitive questions and gives new and existing patients faster clarity.
+
+I’ve set up a mock version of your site with a sample “ask us anything” agent here: https://slaydigital.fly.dev/site/millcreekdental_net. Just click the chat icon at the bottom-right and type a question. The agent replies instantly using your current web content.
+
+You can try asking things like:
+- Are you accepting new patients, and what’s the first visit like?
+- Which insurance plans does Mill Creek Dental accept?
+- What options do you offer for teeth whitening or veneers?
+- How soon can I schedule a root canal or emergency visit?
+- Do you provide dental care for children and families?
+
+If making it easier for patients to get trusted info sounds helpful, I’d be glad to show you how this could work for your team. No pressure—just let me know if you’d like to see more.
+
+Best regards,  
+Zac
