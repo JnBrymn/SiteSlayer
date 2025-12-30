@@ -246,12 +246,11 @@ async def crawl_site(target_url, domain, config):
         
         # Add other pages' content
         for result in crawl_results:
-            if result and 'content' in result:
-                aggregated_content.append(result['content'])
+            if result:
+                aggregated_content.append(f"\n---\n({result['url']})\n\n{result['content']}")
 
         logger.info(f"Aggregated {len(aggregated_content)} pages (1 homepage + {len(crawl_results)} other pages)")
-        aggregated_content = '\n\n---\n\n'.join(aggregated_content)
-
+        aggregated_content = '\n'.join(aggregated_content)
         aggregated_content = remove_duplicate_lines(aggregated_content)
 
         # Write to content.md

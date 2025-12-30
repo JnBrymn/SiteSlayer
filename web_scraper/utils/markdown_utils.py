@@ -91,8 +91,8 @@ def remove_duplicate_lines(content):
     for line in lines:
         line = line.strip()
         # Empty lines (line returns only) are always kept
-        if line == '':
-            deduplicated_lines.append('')
+        if line == '' or line == '---':
+            deduplicated_lines.append(line)
         else:
             # For non-empty lines, only keep if not seen before
             if line not in seen_lines:

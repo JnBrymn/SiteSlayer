@@ -1,26 +1,26 @@
 FROM: Zac Slay <zac@slaydigital.ai>
-TO: Dr. K.B. Parkes & Team <info@ifdnashville.com>
-SUBJECT: Helping Iroquois Dentistry Patients Get Answers—24/7 with a Simple Website Agent
+TO: Dr. K.B. Parkes <info@ifdnashville.com>
+SUBJECT: Helping Iroquois Dentistry Patients Find Fast, Clear Answers Online
 
 -----------------------------------------
-Hi Dr. Parkes and the Iroquois Dentistry team,
 
-Your commitment to family-focused, technology-driven dental care really stands out, and it’s clear you go the extra mile to help patients feel at ease. I wanted to share a new way to help your website visitors quickly find clear information about your services—especially after hours or when your staff is busy with patients.
+Hi Dr. Parkes,
 
-At SlayDigital.ai, we build custom AI web agents that can answer common, high-value questions directly from your website’s existing content—freeing up your team and helping patients get answers sooner. You can try out a quick demo, made just for you, here: https://slaydigital.fly.dev/site/ifdnashville_com
+I’m continually impressed by Iroquois Dentistry’s commitment to making dental care comfortable, clear, and accessible for the Nashville community. Your focus on patient relationships and technology stands out.
 
-Just look for the chat icon in the bottom-right corner, click to open the box, and type a question—your virtual agent responds with answers based entirely on what you already share with patients online.
+I’m Zac, founder of SlayDigital.ai. We help practices like yours reduce repetitive patient questions and streamline website engagement by building simple, custom AI chat agents that work directly with your existing site content—no jargon or complex integrations required.
+
+I put together a quick demo using a mock version of your website: https://slaydigital.fly.dev/site/ifdnashville_com. If you click the chat icon in the bottom-right corner, a chat box will open—you can then type in questions, and the agent will answer using information already on your site.
 
 You can try asking things like:
-- What should I do if I have a dental emergency after hours?
-- How much do same-day crowns or veneers cost, and are there financing options?
-- What’s the process for becoming a new patient?
-- What sedation options are available for anxious patients?
-- How quickly can I book or reschedule an appointment?
+- “What does a same-day crown appointment look like at Iroquois Dentistry?”
+- “How much do porcelain veneers cost, and are there financing options?”
+- “What should I do if I have a dental emergency after hours?”
+- “Do you offer sedation for anxious patients?”
+- “How do I access patient forms or the portal before my visit?”
 
-There’s no jargon or technical setup—just a small way to help patients feel confident and informed before they ever pick up the phone.
+If you’re curious about making it even easier for patients to understand your services and take the next step, I’d love your thoughts or questions.
 
-Would you be open to a quick chat about how a tool like this could support your mission of exceptional service? I’d be glad to walk you through it, no strings attached.
-
-Warm regards,  
-Zac
+All the best,  
+Zac Slay  
+SlayDigital.ai
