@@ -8,9 +8,9 @@ from bs4 import BeautifulSoup
 from playwright.async_api import TimeoutError as PlaywrightTimeoutError
 from playwright._impl._errors import Error as PlaywrightError
 from utils.logger import setup_logger
-from utils.fetch import get_browser_instance
+from utils.fetch import get_browser_instance, create_browser_context, navigate_with_fallbacks
 from utils.markdown_utils import clean_soup
-from config import USER_AGENT, sanitize_domain
+from config import sanitize_domain
 
 logger = setup_logger(__name__)
 
@@ -42,11 +42,8 @@ async def harvest_html(url, config):
     browser = pool['browser']
     
     try:
-        # Create context with user agent (isolates cookies/cache)
-        context = await browser.new_context(
-            user_agent=USER_AGENT,
-            viewport={'width': 1920, 'height': 1080}
-        )
+        # Create context with user agent and SSL error bypass
+        context = await create_browser_context(browser)
         
         # Create page and navigate
         page = await context.new_page()
@@ -55,22 +52,9 @@ async def harvest_html(url, config):
         effective_timeout = 4 if getattr(config, 'timeout_reduced', False) else getattr(config, 'timeout', 15)
         
         logger.debug("Loading page with Playwright...")
-        try:
-            response = await page.goto(url, wait_until='networkidle', timeout=effective_timeout * 1000)
-            if response and response.status == 403:
-                error_msg = f"Received 403 Forbidden status for {url}"
-                logger.error(error_msg)
-                raise RuntimeError(error_msg)
-            logger.debug("Page loaded successfully")
-        except PlaywrightTimeoutError as e:
-            timeout_occurred = True
-            # Mark config to use reduced timeout for subsequent pages
-            if not getattr(config, 'timeout_reduced', False):
-                config.timeout_reduced = True
-                logger.info(f"Site appears slow - reducing timeout to 4 seconds for remaining pages")
-            logger.warning(f"Timeout waiting for networkidle on {url}: {str(e)}")
-            logger.info("Attempting to capture partial HTML content that has already loaded...")
-            # Don't re-raise - we'll try to get whatever content is available
+        response, url, timeout_occurred = await navigate_with_fallbacks(
+            page, url, effective_timeout, config, raise_on_403=True
+        )
         
         # Get the rendered HTML (even if timeout occurred)
         # Retry logic to handle pages that are still navigating
