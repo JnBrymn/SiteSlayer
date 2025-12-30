@@ -1,0 +1,30 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Lori Adamson <info@nolensvillefamilydentistry.com>
+SUBJECT: A simple way to help your patients find answers faster on your website
+
+-----------------------------------------
+Hi Dr. Adamson,
+
+I’ve been browsing Nolensville Family Dentistry’s site and really admire your focus on compassionate, high-quality care for every patient. Your commitment to making dental visits comfortable comes through in every detail.
+
+I’m reaching out from SlayDigital.ai, where we build simple, custom AI web agents that help visitors get instant answers from your site content—without replacing your personal touch.
+
+To give you a feel, I put together a quick demo based on your website:  
+https://slaydigital.fly.dev/site/nolensvillefamilydentistry_com
+
+If you click the chat icon in the bottom-right corner, a chat box will open. Visitors can type questions and get clear answers straight from your website, any time of day.
+
+You can try asking things like:
+- What should I bring to my first appointment?
+- Do you accept Cigna or Metlife insurance?
+- What cosmetic dental services do you offer?
+- What are your office hours and location?
+- How do I pay my bill online?
+
+This kind of tool can help reduce repetitive calls, make information easier for patients to find, and ensure your warm, welcoming approach shines through digitally, too.
+
+If you’d like to see how something like this could support your team, I’d love to hear your thoughts—no pressure at all.
+
+Warm regards,  
+Zac  
+Founder, SlayDigital.ai

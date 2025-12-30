@@ -1,0 +1,26 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. John Murfree <info@murfreedental.com>
+SUBJECT: Helping Murfree Dental Patients Find Answers Instantly
+
+-----------------------------------------
+Hi Dr. Murfree,
+
+I enjoyed learning how Murfree Dental blends advanced technology with a warm, family-friendly touch—your approach really stands out.
+
+I’m Zac, founder at SlayDigital.ai. We build simple, custom AI agents for websites that help visitors quickly get answers using your own content—reducing calls for common questions and freeing your team to focus on care.
+
+I set up a live demo for you:  
+https://slaydigital.fly.dev/site/www_murfreedental_com  
+Just click the chat icon in the bottom-right corner, type a question, and see the agent respond based on your site’s own info.
+
+You can try asking things like:
+- What dental insurance plans do you accept?
+- How do I book an appointment as a new patient?
+- What is included in your in-house payment plan for patients without insurance?
+- What should I expect after a dental implant procedure?
+- Are you accepting emergency dental patients?
+
+If this looks helpful, I’d be happy to chat about making something similar for your site—no pressure. Thanks for the great care you provide the Murfreesboro community!
+
+Best,  
+Zac

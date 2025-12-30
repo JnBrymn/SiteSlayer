@@ -1,0 +1,21 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dentistry of Nashville <lori@dentistryofnashville.com>
+SUBJECT: Helping Patients Get Answers Faster—See Your Site’s Demo Agent
+
+Hi Dentistry of Nashville team,
+
+I’m reaching out after seeing how you prioritize patient comfort and clear information—from advanced same-day crowns to your family-oriented approach in Nashville. At SlayDigital.ai, we help practices like yours turn patient questions into quick, helpful answers right on your website.
+
+We’ve set up a simple demo of your own site here: https://slaydigital.fly.dev/site/dentistryofnashville_com. Just click the chat icon in the bottom-right corner to open a chat box—visitors can type questions, and the agent replies instantly using your current site’s information.
+
+You can try asking things like:
+- What insurance plans do you accept?
+- How do I schedule a same-day crown appointment?
+- Are you accepting new patients of all ages?
+- What should I do if I have a dental emergency?
+- How does your in-office savings plan work?
+
+I’d be glad to show you how this could help your team reduce repetitive calls and guide patients with less back-and-forth. If you’re interested in a quick walkthrough or have questions, just let me know—no pressure.
+
+Best,
+Zac

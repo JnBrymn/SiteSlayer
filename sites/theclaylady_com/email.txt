@@ -1,0 +1,28 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Danielle McDaniel <danielle@theclaylady.com>
+SUBJECT: Helping Your Artists & Guests Get Answers—A Quick Demo for The Clay Lady’s Campus
+
+-----------------------------------------
+
+Hi Danielle,
+
+I’m truly inspired by how The Clay Lady’s Campus brings community, education, and supplies together for Nashville’s clay artists and enthusiasts. Your mission to nurture creativity—and make clay accessible to all—really stands out.
+
+I wanted to introduce myself: I’m Zac with SlayDigital.ai. We help creative centers like yours save time and welcome more visitors by adding a simple AI agent to your website. This agent can answer common questions instantly, using only info you already share online.
+
+To give you a real example, I’ve put together a quick mock site for The Clay Lady’s Campus here: https://slaydigital.fly.dev/site/theclaylady_com  
+Just click the chat icon in the bottom-right corner—visitors can type questions and get answers based on your actual site content.
+
+You can try asking things like:
+- How do I register for a pottery or sculpture class?  
+- What are the prices and times for private group workshops?  
+- When is the CLC Gallery open for visitors?  
+- What supplies and products are available at Mid-South Ceramics?  
+- How soon can I pick up pieces after a workshop?
+
+Our agents help reduce repetitive emails, guide new learners, and make it easy for people to discover all that’s happening on your campus—without staff needing to reply every time.
+
+If this sounds useful, I’d love to hear your thoughts or answer any questions. No pressure—just let me know if you’d like to explore!
+
+Warm regards,  
+Zac

@@ -1,0 +1,24 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Brandon Davis <support@thedavisfocusproject.com>
+SUBJECT: Helping More Veterans Find Answers—See a Custom Web Chat for Ark Health Foundation
+
+-----------------------------------------
+Hi Brandon,
+
+I’m truly inspired by Ark Health Foundation’s innovative approach to veteran wellness and the commitment to breaking down barriers to recovery. Your science-backed programs and focus on dignity in healing come through loud and clear.
+
+I’m Zac, founder of SlayDigital.ai. We build lightweight, custom AI chat agents that sit on your website and instantly answer visitor questions using your existing content—no tech headaches or long setup. The goal is to help your mission reach more people while saving your team time.
+
+To show you, we’ve set up a simple demo using a mock of Ark Health Foundation’s homepage: https://slaydigital.fly.dev/site/arkhealthfoundation_com. When you visit, just click the chat icon in the bottom-right corner and type a question; the agent responds with information drawn directly from your site.
+
+You can try asking things like:
+- What types of therapies and diagnostics does your program offer veterans?
+- How do you address stigma and fear of reliving trauma?
+- Who is eligible for the programs, and how can I get started?
+- Where and when is the next “Horsepower for Heroes” event?
+- How can donors or partners get involved with your foundation?
+
+If this feels helpful for guiding site visitors, I’d love to hear your feedback or discuss ways we could tailor it even further for Ark Health Foundation’s needs. No pressure—just let me know if you’d like to chat.
+
+Wishing you continued success and impact,
+Zac

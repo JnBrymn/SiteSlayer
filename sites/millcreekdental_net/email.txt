@@ -1,0 +1,28 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Jared Anway <info@millcreekdental.net>
+SUBJECT: Helping Patients Get Answers Faster at Mill Creek Dental
+
+-----------------------------------------
+
+Hi Dr. Anway,
+
+I hope you’re doing well! I came across Mill Creek Dental’s site and was impressed by your focus on patient comfort, honest treatment plans, and community connection. It’s clear you put a lot of care into making sure every patient feels at ease—especially those new to the area or anxious about dental visits.
+
+I’m Zac, founder of SlayDigital.ai. We help practices like yours make their websites more helpful with a simple addition: a custom AI-powered web agent. This tool sits quietly in the corner of your site and instantly answers common patient questions, using your actual site content—no confusing tech talk, just patient-friendly info.
+
+Here’s a live mockup using your website: https://slaydigital.fly.dev/site/millcreekdental_net  
+To try it, just click the chat icon in the bottom-right corner. Type any question, and the agent replies based on details already on your site.
+
+You can try asking things like:
+- “What insurance do you accept?”
+- “How do I schedule my first exam and cleaning?”
+- “What should I expect during a root canal?”
+- “What are your office hours?”
+- “How does teeth whitening work at your practice?”
+
+This could help your team cut back on repetitive calls and let patients get clear, friendly answers anytime—without hunting through multiple pages.
+
+If you think this could be useful for Mill Creek Dental, just let me know. I’d love to hear what you think, or answer any questions you have.
+
+Warm regards,  
+Zac Slay

@@ -1,0 +1,26 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: East Nashville Family Dentistry <info@enfdentistry.com>
+SUBJECT: Helping Patients Get Answers Faster on Your Website
+
+-----------------------------------------
+Hi there,
+
+I’m reaching out after exploring East Nashville Family Dentistry’s site, and I was impressed by the clarity of your service offerings and the warmth of your approach to patient care. Helping families access quality dental solutions shouldn’t be complicated—and that’s where we can help.
+
+At SlayDigital.ai, we create custom AI-powered web chat agents that make it easy for visitors to get instant, accurate answers using your existing website content. This cuts down on repeated questions for your staff and helps patients get the information they need to book sooner.
+
+I put together a quick demo using your website here: https://slaydigital.fly.dev/site/enfdentistry_com  
+Just click the chat icon in the bottom-right corner, type a question, and the agent will answer using your site’s information.
+
+You can try asking things like:
+- What insurance plans do you accept?
+- How do I book a same-day emergency dental appointment?
+- What’s included in a routine cleaning?
+- Do you offer Invisalign consultations?
+- Where is your office located and what are your hours?
+
+If you’re curious about adding this simple tool to your website, just let me know—I’m happy to walk you through next steps, no pressure at all.
+
+Best regards,  
+Zac Slay  
+Founder, SlayDigital.ai

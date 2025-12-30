@@ -1,0 +1,25 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Miles Moore <milesmooredds@gmail.com>
+SUBJECT: Helping Memphis Patients Get Answers Faster on Your Site
+
+-----------------------------------------
+
+Hi Dr. Moore,
+
+I enjoyed seeing how much you and your team at Beautiful Smiles prioritize comfort and clarity for your Memphis patients – it really shows in your approach and testimonials.
+
+I’m Zac, founder of SlayDigital.ai. We build simple, custom AI web agents that help website visitors get instant, accurate answers using the content you’ve already provided—no extra work required. It’s a great way to cut down on repetitive questions and help patients quickly find what they need.
+
+To show what this could look like for your practice, we set up a mock version of your site here: https://slaydigital.fly.dev/site/www_beautifulsmiles_org. There’s a chat icon at the bottom-right—just click it, type a question, and the agent will reply using information from your site.
+
+You can try asking things like:
+- How do I schedule an appointment or a consultation?
+- What’s the process (and timeline) for getting porcelain veneers?
+- Do you offer financial options for dental implants or Invisalign?
+- How do you help patients with dental anxiety?
+- What should I do in case of a dental emergency?
+
+I’d be glad to hear your thoughts or answer any questions—no pressure at all. If you’re interested in a demo tailored to your patients’ needs, just let me know.
+
+Best regards,  
+Zac

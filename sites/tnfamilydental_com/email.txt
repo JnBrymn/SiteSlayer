@@ -1,0 +1,27 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Ryan O’Neill <info@tnfamilydental.com>
+SUBJECT: Helping Patients Get Answers Instantly—See a Demo on Your Site
+
+-----------------------------------------
+
+Hi Dr. O’Neill,
+
+I’m always impressed by how Tennessee Family Dental goes the extra mile for patient comfort and clarity—whether it’s with your in-office benefits, advanced 3D technology, or your team’s warm approach across four locations.
+
+I’m Zac, founder of SlayDigital.ai. We build simple, custom AI chat agents that help visitors get quick, accurate answers from your existing website content—making it easier for your staff and your patients alike.
+
+I’d love to show you what this could look like for your practice. Here’s a mock version of your website with a demo agent: https://slaydigital.fly.dev/site/tnfamilydental_com
+
+Just click the chat icon at the bottom right of the page, type a question, and you’ll get an answer drawn straight from your site’s current info. For example, you can try asking things like:
+- What insurance plans do you accept?
+- How does the In-Office Benefits Plan work?
+- Which locations offer Saturday appointments?
+- What’s the difference between regular and deep cleaning?
+- Do you offer same-day crowns or emergency appointments?
+
+The goal is to give patients instant, helpful answers without adding headache for your front office—and to help you deliver that five-star experience you’re already known for.
+
+Let me know if you’d like a walkthrough or have specific questions. No pressure—just here to help!
+
+Best,
+Zac

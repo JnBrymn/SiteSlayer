@@ -1,0 +1,27 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Steven Hernandez <info@lifetimedentistrytn.com>
+SUBJECT: Helping Lifetime Dentistry Answer Patient Questions Instantly
+
+-----------------------------------------
+
+Hi Dr. Hernandez,
+
+I’m always impressed by how Lifetime Dentistry blends advanced dental care with genuine, patient-centered support—everything from digital CEREC technology to the focus on comfort during new patient visits stands out.
+
+My name is Zac, and I lead SlayDigital.ai. We build simple, custom AI web agents that let site visitors chat directly with your existing website content—helping answer patient questions quickly, day or night.
+
+To show what this could look like for your practice, I set up a demo using your own site:  
+https://slaydigital.fly.dev/site/lifetimedentistrytn_com  
+Just click the chat icon in the bottom-right, type a dental question, and the agent will reply using your site’s information.
+
+You can try asking:
+- “Are you accepting new patients, and how do I schedule my first appointment?”
+- “What’s the difference between dental implants, bridges, and dentures?”
+- “Do you accept my dental insurance, and what payment options are available?”
+- “What should I expect on my first visit?”
+- “Who will my dentist be, and can I choose who I see?”
+
+If you think instant answers could help relieve your team and support even more patient connections, I’d be glad to hear your thoughts—or set up a quick call if you like.
+
+Best regards,  
+Zac

@@ -1,0 +1,29 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Dr. Katherine Hall <DrKatherineHall@gmail.com>
+SUBJECT: Helping New & Existing Patients Get Answers Quickly on Your Website
+
+-----------------------------------------
+
+Hi Dr. Hall,
+
+I’m reaching out after browsing your website and seeing the level of care and patient trust you’ve built at Katherine Hall DDS. It’s clear you and your team go above and beyond to make every patient feel welcomed and informed.
+
+I wanted to show you a simple way to help both new and existing patients get quick answers about your services and office—right from your website. At SlayDigital.ai, we build custom AI chat agents that sit quietly in the corner of your site and help visitors find what they need using your site’s existing information.
+
+To give you a hands-on example, we created a private demo for you here: https://slaydigital.fly.dev/site/katherinehalldds_com  
+Just click the chat icon at the bottom-right and ask any questions—no setup required.
+
+You can try asking things like:
+- What dental insurance plans do you accept?
+- How do I schedule my first appointment?
+- Where is parking available and how is it validated?
+- What is the process for getting dental implants?
+- Do you offer sedation dentistry for anxious patients?
+
+This tool can lighten your team’s load and help patients feel cared for even before they call. If you’re curious to see some options or have questions, I’d be glad to chat further—no pressure.
+
+Thanks for your dedication to patient comfort and clarity!
+
+Best,  
+Zac  
+SlayDigital.ai

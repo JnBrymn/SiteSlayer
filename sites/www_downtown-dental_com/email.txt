@@ -1,0 +1,26 @@
+FROM: Zac Slay <zac@slaydigital.ai>
+TO: Downtown Dental <rivernorth@downtown-dental.com>
+SUBJECT: Helping Downtown Dental Visitors Get Answers—Try Our Simple Site Chat Demo
+
+-----------------------------------------
+
+Hi Downtown Dental team,
+
+I’m Zac from SlayDigital.ai. I was genuinely impressed by your commitment to patient care and all the ways you make dental visits approachable—from your iSmile Direct plan to clear info for new patients and Chicago’s best views!
+
+I wanted to share something practical that could make life easier for your team and website visitors: a simple AI chat agent that lives right on your website, helping answer questions using the info you already provide. We build these custom for each site—focused entirely on clarity, not tech hype.
+
+To see it in action, check out this mock of your site: https://slaydigital.fly.dev/site/www_downtown-dental_com. There’s a chat icon in the bottom-right—just click to open and ask a question; the agent replies with answers pulled from your actual site content.
+
+You can try asking things like:
+- What’s included in the $79 new patient special?
+- Which insurance plans do you accept?
+- How do I schedule at the River North vs Loop location?
+- What are your COVID-19 safety protocols?
+- Do you offer emergency dental care and how does it work?
+
+If you think this could help your team save time or make things simpler for patients, I’d love to hear your thoughts—no pressure.
+
+Best regards,  
+Zac Slay  
+Founder, SlayDigital.ai
